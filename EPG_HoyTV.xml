@@ -4,6 +4,10 @@
     <display-name lang="HK">[iCable] 76 HKIBC 香港國際財經台</display-name>
 	<icon src="" />
   </channel>
+  <channel id="77">
+    <display-name lang="HK">[iCable] 77 HOY</display-name>
+	<icon src="" />
+  </channel>
   <programme channel="76" start="20251009003000 +0800" stop="20251009013000 +0800">
     <title lang="zh">與君歌 Episode 9</title>
     <date>20251009</date>
@@ -2686,6 +2690,3938 @@
   </programme>
   <programme channel="76" start="20251030231500 +0800" stop="20251030234000 +0800">
     <title lang="zh">小空間大活用 3 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  
+  <programme channel="77" start="20251009001500 +0800" stop="20251009004500 +0800">
+    <title lang="zh">健康寧飲食 2025-10-09</title>
+    <desc>EP7  便秘與痘痘息息相關臉上有青春痘，雖然代表年少青春，但其實也是腸道健康警示！中醫認為，脾胃功能失調﹑肺氣不舒﹑腎虛也會導致腸道不適，繼而便秘﹑長出痘痘。解決青春痘問題，要潤腸﹑養肺又護腎？寧姐今集一次幫你解決！今集預備了鬆軟可口的「 四仁英式</desc>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009004500 +0800" stop="20251009010000 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009010000 +0800" stop="20251009030000 +0800">
+    <title lang="zh">HOY 動音樂 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009030000 +0800" stop="20251009060000 +0800">
+    <title lang="zh">魚樂無限 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009060000 +0800" stop="20251009070000 +0800">
+    <title lang="zh">幸福大家姐 Episode 18</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009070000 +0800" stop="20251009080000 +0800">
+    <title lang="zh">凌雲志 Episode 12</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009080000 +0800" stop="20251009085500 +0800">
+    <title lang="zh">會長的愛 Episode 30</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009085500 +0800" stop="20251009090000 +0800">
+    <title lang="zh">防災應急18識 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009090000 +0800" stop="20251009093000 +0800">
+    <title lang="zh">名廚Luke印度之旅 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009093000 +0800" stop="20251009100000 +0800">
+    <title lang="zh">馬田煮場 2025-10-09</title>
+    <desc>雞肉的可塑性可以說是無限大！想要放縱自己可以吃炸雞；要瘦身可以吃烚雞胸；想有家的味道可以吃蒸雞，總有一款合你口味。今集煮場美味秘密將為大家拆解:「雞種該如何選擇?」、「蒸雞營養是最高?」以及「雞胸是健康之選?」另外，主持到訪燒雞達人Eric餐廳，尋找</desc>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009100000 +0800" stop="20251009103000 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009103000 +0800" stop="20251009110000 +0800">
+    <title lang="zh">樂趣遊蹤 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009110000 +0800" stop="20251009113000 +0800">
+    <title lang="zh">日旅大比拼 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009113000 +0800" stop="20251009123000 +0800">
+    <title lang="zh">幸福大家姐 Episode 19</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009123000 +0800" stop="20251009130000 +0800">
+    <title lang="zh">午間新聞 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009130000 +0800" stop="20251009133000 +0800">
+    <title lang="zh">一線搜查 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009133000 +0800" stop="20251009140000 +0800">
+    <title lang="zh">學人去非洲 2 2025-10-09</title>
+    <desc>繼續感受撒哈拉沙漠的奇妙之處，一覺睡醒詳細開箱沙漠營地住宿，導遊教benedict爬樹及認識沙漠水原問題，悉奉當地假期，更顯沙漠的寧靜，主持探訪當地原住民柏柏人家庭，使用駱駝毛製作的帳篷過著游牧生活，簡陋的民房，天真簡單的孩童生活，benedict見</desc>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009140000 +0800" stop="20251009143000 +0800">
+    <title lang="zh">健康關注組 2025-10-09</title>
+    <desc>恆常運動對健康非常重要，因為很多疾病都因肥胖而形成，肥胖是糖尿病的成因之一、之後心血管疾病、腎臟病就會殺埋身，糖尿病同肥胖症可以說是萬病之源，會除了導致心血管與腎臟疾病，原來心與腎之間的問題，是緊緊相扣，傷心又傷腎，除了藥物治療，患者必須自律自救。</desc>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009143000 +0800" stop="20251009150000 +0800">
+    <title lang="zh">詹姆士出走料理 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009150000 +0800" stop="20251009153000 +0800">
+    <title lang="zh">Lolly Lolly寵物拯救隊 2025-10-09</title>
+    <desc>今集由阿Yo同阿蛋，去到元朗亞棍屋嘅寵物庇護中心，拯救兩隻心靈及行為需要調節的狗狗，希望提升狗狗被領養的機會。聽個名都感覺霸氣的洛威那犬「威威」，親人和善，活潑好動，可惜因為同其他狗狗難相處，令牠一度被領養後退回，另一隻唐狗，因為對棍狀物品的恐懼，大</desc>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009153000 +0800" stop="20251009160000 +0800">
+    <title lang="zh">君九齡 Episode 25</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009160000 +0800" stop="20251009163000 +0800">
+    <title lang="zh">認真地不認真的怪俠佐羅利 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009163000 +0800" stop="20251009170000 +0800">
+    <title lang="zh">龍族拼圖X 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009170000 +0800" stop="20251009173000 +0800">
+    <title lang="zh">地底小靈精 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009173000 +0800" stop="20251009180000 +0800">
+    <title lang="zh">汪汪隊立大功 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009180000 +0800" stop="20251009183000 +0800">
+    <title lang="zh">健康寧飲食 2025-10-09</title>
+    <desc>EP 8       腰酸背痛不用愁腰酸背痛是香港常見的都市病，姿勢不良﹑過度疲勞也會導致問題惡化！中醫角度認為「腰為腎之腑」，改善痛症就應以補肝腎﹑益精氣入手，今次寧姐就將兩款傳統菜式「糖醋肉」和「佛跳牆」改造成藥膳，製作出酸甜開胃「巴金杜肉糖醋豬</desc>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009183000 +0800" stop="20251009190000 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009190000 +0800" stop="20251009195000 +0800">
+    <title lang="zh">7點直播室 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009195000 +0800" stop="20251009200000 +0800">
+    <title lang="zh">28Hse特約 : 每日樓市 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009200000 +0800" stop="20251009203000 +0800">
+    <title lang="zh">一線搜查 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009203000 +0800" stop="20251009210000 +0800">
+    <title lang="zh">學人去非洲 2 2025-10-09</title>
+    <desc>benedict走到古化石工場，認識三葉蟲化石及菊石等古生物製品，店員介紹很多地道化石產品，價錢不貴，絕對值得當手信，傳統伊斯蘭教國家下，女性一樣可以工作，有婦女工作坊製作珍貴大馬士革玫瑰煶煉而成的有機玫瑰水，和製造純摩洛哥堅果油，又來到阿特拉斯山脈</desc>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009210000 +0800" stop="20251009210500 +0800">
+    <title lang="zh">郭Sir! 學警A班到齊! Episode 14</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009210500 +0800" stop="20251009213000 +0800">
+    <title lang="zh">健康關注組 2025-10-09</title>
+    <desc>紅斑狼瘡是自身免疫性疾病，患者自身免疫反應異常，對全身不同器官或組織造成損傷，有部分患者，未必有表面徵狀，而是影響內臟，例如係腎臟、肝臟等，其中狼瘡性腎炎更是亞裔患者最常見的併發症！治療方法只能夠控制病情，控制得不好，隨時復發！今集嘉賓會有腎病科專科</desc>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009213000 +0800" stop="20251009220000 +0800">
+    <title lang="zh">詹姆士出走料理 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009220000 +0800" stop="20251009223000 +0800">
+    <title lang="zh">關於．快樂的死亡 2025-10-09</title>
+    <desc>曾文和【關於・快樂的死亡】｜曾文和: 死亡是另一段旅程｜ EP8｜疾病與死亡｜淨緣慈善基金｜生死教育｜ 鄭家成 ｜ HOY TV醫生曾文和談老年與死亡的準備內分泌及糖尿科醫生曾文和在訪談中分享不同的案例，指出面對死亡不僅是病人的課題，也是家屬必須經歷</desc>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009223000 +0800" stop="20251009230000 +0800">
+    <title lang="zh">樂趣遊蹤 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009230000 +0800" stop="20251009233000 +0800">
+    <title lang="zh">有線新聞 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009233000 +0800" stop="20251009234500 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251009234500 +0800" stop="20251010001500 +0800">
+    <title lang="zh">名廚Luke印度之旅 2025-10-09</title>
+    <date>20251009</date>
+  </programme>
+  <programme channel="77" start="20251010001500 +0800" stop="20251010004500 +0800">
+    <title lang="zh">健康寧飲食 2025-10-10</title>
+    <desc>EP 8       腰酸背痛不用愁腰酸背痛是香港常見的都市病，姿勢不良﹑過度疲勞也會導致問題惡化！中醫角度認為「腰為腎之腑」，改善痛症就應以補肝腎﹑益精氣入手，今次寧姐就將兩款傳統菜式「糖醋肉」和「佛跳牆」改造成藥膳，製作出酸甜開胃「巴金杜肉糖醋豬</desc>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010004500 +0800" stop="20251010010000 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010010000 +0800" stop="20251010030000 +0800">
+    <title lang="zh">HOY 動音樂 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010030000 +0800" stop="20251010060000 +0800">
+    <title lang="zh">魚樂無限 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010060000 +0800" stop="20251010070000 +0800">
+    <title lang="zh">幸福大家姐 Episode 19</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010070000 +0800" stop="20251010080000 +0800">
+    <title lang="zh">凌雲志 Episode 13</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010080000 +0800" stop="20251010090000 +0800">
+    <title lang="zh">會長的愛 Episode 31</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010090000 +0800" stop="20251010093000 +0800">
+    <title lang="zh">名廚Luke印度之旅 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010093000 +0800" stop="20251010100000 +0800">
+    <title lang="zh">馬田煮場 2025-10-10</title>
+    <desc>肉餅是香港家庭的常見菜式，可是當中隱藏了不少食物科學的秘密。今集煮場美味秘密將為大家拆解:「肉餅該選肥或瘦?」、「尋找肥肉代替品?」、「加水浸肉有何用？」以及「蒸碟該如何挑選?」今集名廚沈達程師傅為肉餅進行大升級，加上膏蟹，帶來鮮味。而馬田則炮製「四</desc>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010100000 +0800" stop="20251010102500 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010102500 +0800" stop="20251010103000 +0800">
+    <title lang="zh">全運倒數 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010103000 +0800" stop="20251010110000 +0800">
+    <title lang="zh">樂趣遊蹤 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010110000 +0800" stop="20251010112500 +0800">
+    <title lang="zh">日旅大比拼 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010112500 +0800" stop="20251010113000 +0800">
+    <title lang="zh">全運倒數 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010113000 +0800" stop="20251010122500 +0800">
+    <title lang="zh">幸福大家姐 Episode 20</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010122500 +0800" stop="20251010123000 +0800">
+    <title lang="zh">全運倒數 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010123000 +0800" stop="20251010125500 +0800">
+    <title lang="zh">午間新聞 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010125500 +0800" stop="20251010130000 +0800">
+    <title lang="zh">防災應急18識 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010130000 +0800" stop="20251010133000 +0800">
+    <title lang="zh">一線搜查 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010133000 +0800" stop="20251010140000 +0800">
+    <title lang="zh">學人去非洲 2 2025-10-10</title>
+    <desc>benedict走到古化石工場，認識三葉蟲化石及菊石等古生物製品，店員介紹很多地道化石產品，價錢不貴，絕對值得當手信，傳統伊斯蘭教國家下，女性一樣可以工作，有婦女工作坊製作珍貴大馬士革玫瑰煶煉而成的有機玫瑰水，和製造純摩洛哥堅果油，又來到阿特拉斯山脈</desc>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010140000 +0800" stop="20251010143000 +0800">
+    <title lang="zh">健康關注組 2025-10-10</title>
+    <desc>紅斑狼瘡是自身免疫性疾病，患者自身免疫反應異常，對全身不同器官或組織造成損傷，有部分患者，未必有表面徵狀，而是影響內臟，例如係腎臟、肝臟等，其中狼瘡性腎炎更是亞裔患者最常見的併發症！治療方法只能夠控制病情，控制得不好，隨時復發！今集嘉賓會有腎病科專科</desc>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010143000 +0800" stop="20251010150000 +0800">
+    <title lang="zh">詹姆士出走料理 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010150000 +0800" stop="20251010152500 +0800">
+    <title lang="zh">Lolly Lolly寵物拯救隊 2025-10-10</title>
+    <desc>貴婦犬外表可愛，加上容易打理，近年大受歡迎，牠們親人又極需要被關注的性格，變得「痴身」，令唔少主人帶嚟困擾。今集Mei  Mei 同阿Yo，聯同狗隻訓練師阿B 上門調校貴婦狗一些吠叫衰鳴問題，從根本原因去處理，究竟呢理貴婦們受唔受教，佢哋又有冇機會解</desc>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010152500 +0800" stop="20251010153000 +0800">
+    <title lang="zh">全運倒數 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010153000 +0800" stop="20251010155500 +0800">
+    <title lang="zh">君九齡 Episode 26</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010155500 +0800" stop="20251010160000 +0800">
+    <title lang="zh">全運倒數 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010160000 +0800" stop="20251010163000 +0800">
+    <title lang="zh">認真地不認真的怪俠佐羅利 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010163000 +0800" stop="20251010170000 +0800">
+    <title lang="zh">龍族拼圖X 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010170000 +0800" stop="20251010173000 +0800">
+    <title lang="zh">地底小靈精 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010173000 +0800" stop="20251010175500 +0800">
+    <title lang="zh">汪汪隊立大功 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010175500 +0800" stop="20251010180000 +0800">
+    <title lang="zh">全運倒數 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010180000 +0800" stop="20251010183000 +0800">
+    <title lang="zh">健康寧飲食 2025-10-10</title>
+    <desc>EP9 都市人胃何不對香港人經常加班﹑咖啡不離手，生活壓力大又食無定時，容易引致胃部問題。中醫認為「脾胃乃後天之本」，要養好身體就要先養好脾胃！養胃並非一朝一夕，今次寧姐就以家常小菜入手，教大家如何以中藥入膳，炮製香氣四溢的「半夏佛手蒸魚」和口感豐富</desc>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010183000 +0800" stop="20251010190000 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010190000 +0800" stop="20251010195000 +0800">
+    <title lang="zh">7點直播室 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010195000 +0800" stop="20251010200000 +0800">
+    <title lang="zh">28Hse特約 : 每日樓市 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010200000 +0800" stop="20251010202500 +0800">
+    <title lang="zh">一線搜查 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010202500 +0800" stop="20251010203000 +0800">
+    <title lang="zh">全運倒數 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010203000 +0800" stop="20251010210000 +0800">
+    <title lang="zh">學人去非洲 2 2025-10-10</title>
+    <desc>來到摩洛哥西南部「紅城」馬拉喀什，走入最熱鬧但又龍蛇混雜的德吉瑪廣場，這裡很多東西買，被繽紛香料吸引，之後去到被譽為「智慧之宮」的巴伊亞宮，感受宏偉古建築，又去到著名設計師YSL大有關係的馬若雷勒花園，欣賞這個1920年代創建的著名植物園和藝術場所，</desc>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010210000 +0800" stop="20251010210500 +0800">
+    <title lang="zh">郭Sir! 學警A班到齊! Episode 15</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010210500 +0800" stop="20251010213000 +0800">
+    <title lang="zh">健康關注組 2025-10-10</title>
+    <desc>香港今年暫時錄得11宗類鼻疽個案，有文獻記載，類鼻疽個案會在颱風或者暴雨後較常出現，隨著強風或暴雨，令病菌更容易擴散，患者初期病徵與感冒相似，但情況嚴重會引致肺炎、腦膜炎等，治療方面雖然可以醫治，但風季尚未過，都可能又再中招，今集就由感染及傳染病科專</desc>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010213000 +0800" stop="20251010215500 +0800">
+    <title lang="zh">詹姆士出走料理 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010215500 +0800" stop="20251010220000 +0800">
+    <title lang="zh">全運倒數 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010220000 +0800" stop="20251010223000 +0800">
+    <title lang="zh">關於．快樂的死亡 2025-10-10</title>
+    <desc>鄺旨呈【關於・快樂的死亡】｜鄺旨呈: 人生無常 珍惜愛的存在｜ EP9｜音樂療癒傷痛｜淨緣慈善基金｜生死教育｜ 鄭家成 ｜ HOY TV鄺旨呈以音樂進行生死教育鄺旨呈回憶當初受殯儀館邀請參加重陽節音樂會，而啟發舉辦殯儀音樂會以助觀眾懷念故人，學習釋懷</desc>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010223000 +0800" stop="20251010230000 +0800">
+    <title lang="zh">樂趣遊蹤 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010230000 +0800" stop="20251010233000 +0800">
+    <title lang="zh">有線新聞 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010233000 +0800" stop="20251010234500 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251010234500 +0800" stop="20251011001500 +0800">
+    <title lang="zh">名廚Luke印度之旅 2025-10-10</title>
+    <date>20251010</date>
+  </programme>
+  <programme channel="77" start="20251011001500 +0800" stop="20251011004500 +0800">
+    <title lang="zh">健康寧飲食 2025-10-11</title>
+    <desc>EP9 都市人胃何不對香港人經常加班﹑咖啡不離手，生活壓力大又食無定時，容易引致胃部問題。中醫認為「脾胃乃後天之本」，要養好身體就要先養好脾胃！養胃並非一朝一夕，今次寧姐就以家常小菜入手，教大家如何以中藥入膳，炮製香氣四溢的「半夏佛手蒸魚」和口感豐富</desc>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011004500 +0800" stop="20251011010000 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011010000 +0800" stop="20251011030000 +0800">
+    <title lang="zh">HOY 動音樂 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011030000 +0800" stop="20251011060000 +0800">
+    <title lang="zh">魚樂無限 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011060000 +0800" stop="20251011070000 +0800">
+    <title lang="zh">道地蜂蜜綠茶特約 : 健康原因講多D 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011070000 +0800" stop="20251011090000 +0800">
+    <title lang="zh">Running Man 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011090000 +0800" stop="20251011100000 +0800">
+    <title lang="zh">島上的神奇婆婆2 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011100000 +0800" stop="20251011102500 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011102500 +0800" stop="20251011103000 +0800">
+    <title lang="zh">全運倒數 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011103000 +0800" stop="20251011112500 +0800">
+    <title lang="zh">宜居住遊行 2025-10-11</title>
+    <desc>港人May 同Billy 陰差陽錯下住進代官山—東京人眼中的跑馬地，最終都決定不離地，日日踩單地車直踩木村地頭中目黑，找回平靚正的生活味道。木村宮殿的攝人氣場，帶動中目黑近年穩守最宜居前排名次，香港新盤兩房價錢，足以FULL PAID同木村做鄰居..</desc>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011112500 +0800" stop="20251011113000 +0800">
+    <title lang="zh">全運倒數 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011113000 +0800" stop="20251011122500 +0800">
+    <title lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 空間改造王 2025-10-11</title>
+    <desc>關東地區喺二月落咗一場大雪，創咗二十年嚟紀錄，井之頭公園，亦都覆蓋着白茫茫嘅雪景，呢種天氣下，工地依然冇停咁繼續趕工。谷口一家人等待呢一日嘅來臨都耐喇，終於實現咗祖孫三代一齊喺廚房煮飯嘅夢想，啱啱好滿六歲嘅小惠，亦都開始過嚟幫手，婆婆望住孫女都不知不</desc>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011122500 +0800" stop="20251011123000 +0800">
+    <title lang="zh">全運倒數 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011123000 +0800" stop="20251011130500 +0800">
+    <title lang="zh">午間新聞 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011130500 +0800" stop="20251011133000 +0800">
+    <title lang="zh">一線搜查 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011133000 +0800" stop="20251011140000 +0800">
+    <title lang="zh">趣趣動物樂園 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011140000 +0800" stop="20251011150000 +0800">
+    <title lang="zh">智醒健康騷 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011150000 +0800" stop="20251011152500 +0800">
+    <title lang="zh">嘻哈馬場 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011152500 +0800" stop="20251011153000 +0800">
+    <title lang="zh">全運倒數 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011153000 +0800" stop="20251011155500 +0800">
+    <title lang="zh">大國小鎮 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011155500 +0800" stop="20251011160000 +0800">
+    <title lang="zh">全運倒數 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011160000 +0800" stop="20251011163000 +0800">
+    <title lang="zh">美斯的奧奇島 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011163000 +0800" stop="20251011170000 +0800">
+    <title lang="zh">超甲蟲戰記 聖域傳說 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011170000 +0800" stop="20251011175500 +0800">
+    <title lang="zh">韓國工藝大師 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011175500 +0800" stop="20251011180000 +0800">
+    <title lang="zh">全運倒數 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011180000 +0800" stop="20251011183000 +0800">
+    <title lang="zh">發酵魔法 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011183000 +0800" stop="20251011190000 +0800">
+    <title lang="zh">馬時亨．獅子山精神 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011190000 +0800" stop="20251011192500 +0800">
+    <title lang="zh">7點直播室 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011192500 +0800" stop="20251011193000 +0800">
+    <title lang="zh">防災應急18識 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011193000 +0800" stop="20251011200000 +0800">
+    <title lang="zh">新村之後 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011200000 +0800" stop="20251011202500 +0800">
+    <title lang="zh">安居樂業 2025-10-11</title>
+    <desc>今集主持江嘉敏會帶大家睇新樓裝修，設計師如何修飾原則不足，再加入合適屋主需要的傢俬佈局？位於大埔半山的三千多呎的全新單位，設計總監Matthew除了打造日常生活的設備，如何於巨廳及主人房加入藝術原素，去提升大屋的格調？ 另一九龍灣新盤，兩夫婦400多</desc>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011202500 +0800" stop="20251011203000 +0800">
+    <title lang="zh">全運倒數 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011203000 +0800" stop="20251011213000 +0800">
+    <title lang="zh">山旮旯睇樓團 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011213000 +0800" stop="20251011215500 +0800">
+    <title lang="zh">樂遊關西 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011215500 +0800" stop="20251011220000 +0800">
+    <title lang="zh">全運倒數 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011220000 +0800" stop="20251011230000 +0800">
+    <title lang="zh">道地蜂蜜綠茶特約 : 健康原因講多D 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011230000 +0800" stop="20251011233000 +0800">
+    <title lang="zh">第十五屆全國運動會前奏 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251011233000 +0800" stop="20251012000000 +0800">
+    <title lang="zh">有線新聞 2025-10-11</title>
+    <date>20251011</date>
+  </programme>
+  <programme channel="77" start="20251012000000 +0800" stop="20251012003000 +0800">
+    <title lang="zh">HOY娛樂一周 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012003000 +0800" stop="20251012010000 +0800">
+    <title lang="zh">英國邊忽好 2025-10-12</title>
+    <desc>這集詩詠帶大家到南倫敦、西倫敦！南倫敦以往給人粗糙的感覺，詩詠走進被譽為毒品之都的Brixton，探索多元異國文化的Brixton Market，亦帶大家觀摩紳士化後的南倫敦。而在西倫敦，傳統的富人區，當然少不了看豪宅，感受有錢人的品味！</desc>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012010000 +0800" stop="20251012030000 +0800">
+    <title lang="zh">HOY 動音樂 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012030000 +0800" stop="20251012060000 +0800">
+    <title lang="zh">魚樂無限 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012060000 +0800" stop="20251012065500 +0800">
+    <title lang="zh">島上的神奇婆婆2 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012065500 +0800" stop="20251012070000 +0800">
+    <title lang="zh">全運倒數 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012070000 +0800" stop="20251012075500 +0800">
+    <title lang="zh">韓國工藝大師 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012075500 +0800" stop="20251012080000 +0800">
+    <title lang="zh">全運倒數 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012080000 +0800" stop="20251012083000 +0800">
+    <title lang="zh">異鄉人 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012083000 +0800" stop="20251012090000 +0800">
+    <title lang="zh">狗狗看天下 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012090000 +0800" stop="20251012095500 +0800">
+    <title lang="zh">道地蜂蜜綠茶特約 : 健康原因講多D 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012095500 +0800" stop="20251012120000 +0800">
+    <title lang="zh">澳洲冠軍聯賽 - 海德堡聯 對 馬可尼駿馬 2025-10-12</title>
+    <desc>海德堡聯 對 馬可尼駿馬</desc>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012120000 +0800" stop="20251012122500 +0800">
+    <title lang="zh">HOY娛樂一周 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012122500 +0800" stop="20251012123000 +0800">
+    <title lang="zh">全運倒數 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012123000 +0800" stop="20251012125500 +0800">
+    <title lang="zh">午間新聞 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012125500 +0800" stop="20251012130500 +0800">
+    <title lang="zh">東方表行Take Your Time 特約 : 一刻．時光 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012130500 +0800" stop="20251012140000 +0800">
+    <title lang="zh">道地星期日影院 : 臥底 Episode 28</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012140000 +0800" stop="20251012150000 +0800">
+    <title lang="zh">道地星期日影院 : 女王之家 Episode 1</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012150000 +0800" stop="20251012152500 +0800">
+    <title lang="zh">異鄉人 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012152500 +0800" stop="20251012153000 +0800">
+    <title lang="zh">全運倒數 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012153000 +0800" stop="20251012155500 +0800">
+    <title lang="zh">狗狗看天下 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012155500 +0800" stop="20251012160000 +0800">
+    <title lang="zh">全運倒數 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012160000 +0800" stop="20251012163000 +0800">
+    <title lang="zh">美斯的奧奇島 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012163000 +0800" stop="20251012170000 +0800">
+    <title lang="zh">超甲蟲戰記 聖域傳說 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012170000 +0800" stop="20251012175500 +0800">
+    <title lang="zh">工作不停站 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012175500 +0800" stop="20251012180000 +0800">
+    <title lang="zh">全運倒數 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012180000 +0800" stop="20251012183000 +0800">
+    <title lang="zh">發酵魔法 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012183000 +0800" stop="20251012190000 +0800">
+    <title lang="zh">AI 數啟未來 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012190000 +0800" stop="20251012193000 +0800">
+    <title lang="zh">7點直播室 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012193000 +0800" stop="20251012200000 +0800">
+    <title lang="zh">五平方Squarefoot特約 : 樓盤傳真 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012200000 +0800" stop="20251012205500 +0800">
+    <title lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 空間改造王 2025-10-12</title>
+    <desc>今集來到山本家，位於氣候條件嚴苛嘅山梨縣甲府市，屋齡已經有五十三年。爸爸五年前開始獨居生活，今年八十歲既佢期望可以四代同堂生活，同一百零四歲嘅媽媽，同埋個女一家人住。不過，喺呢個屋企要照顧坐輪椅嘅媽媽真係好吃力，而家嘅狀況，連帶媽媽去廁所都有困難。為</desc>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012205500 +0800" stop="20251012210000 +0800">
+    <title lang="zh">全運倒數 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012210000 +0800" stop="20251012215500 +0800">
+    <title lang="zh">畀你飛住賺回贈嘅WeWa卡呈獻 : 臥底旅行團 5.0 2025-10-12</title>
+    <desc>臥底再次潛伏東南亞，今轉係大家熟悉嘅泰國。芭堤雅第一個景點燈光博物館同埋團費包嘅泰式按摩已經令到妹頭非常不滿，最後點收科?臥底分成兩隊進行潑水戰，妹姐人丁單薄頑強應戰，更由內鬥變成共同對付當地內鬼，全身濕透嘅臥底成員有幾狼狽呢？泰國熱氣球公園會唔會貨</desc>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012215500 +0800" stop="20251012220000 +0800">
+    <title lang="zh">全運倒數 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012220000 +0800" stop="20251012223000 +0800">
+    <title lang="zh">機場大揭秘 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012223000 +0800" stop="20251012233000 +0800">
+    <title lang="zh">奇職修補師 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012233000 +0800" stop="20251012235500 +0800">
+    <title lang="zh">有線新聞 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251012235500 +0800" stop="20251013000000 +0800">
+    <title lang="zh">東方表行Take Your Time 特約 : 一刻．時光 2025-10-12</title>
+    <date>20251012</date>
+  </programme>
+  <programme channel="77" start="20251013000000 +0800" stop="20251013003000 +0800">
+    <title lang="zh">嘻哈馬場 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013003000 +0800" stop="20251013010000 +0800">
+    <title lang="zh">五平方Squarefoot特約 : 樓盤傳真 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013010000 +0800" stop="20251013030000 +0800">
+    <title lang="zh">HOY 動音樂 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013030000 +0800" stop="20251013060000 +0800">
+    <title lang="zh">魚樂無限 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013060000 +0800" stop="20251013070000 +0800">
+    <title lang="zh">幸福大家姐 Episode 20</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013070000 +0800" stop="20251013080000 +0800">
+    <title lang="zh">凌雲志 Episode 14</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013080000 +0800" stop="20251013090000 +0800">
+    <title lang="zh">會長的愛 Episode 32</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013090000 +0800" stop="20251013093000 +0800">
+    <title lang="zh">名廚Luke印度之旅 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013093000 +0800" stop="20251013100000 +0800">
+    <title lang="zh">馬田煮場 2025-10-13</title>
+    <desc>蛋，是大家經常見到的食材，不論中式西式、日韓台菜式，生的熟的，鹹的甜的，你一定食過。但是你對蛋的認識到底有多少？今集煮場美味秘密將為大家拆解: 「揀蛋滿分秘技、「蒸蛋完美比例」以及「認識非一般蛋」今集馬田和欣茵除到蛋行深入認識雞蛋之外，更由名廚Bil</desc>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013100000 +0800" stop="20251013102500 +0800">
+    <title lang="zh">機場大揭秘 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013102500 +0800" stop="20251013103000 +0800">
+    <title lang="zh">全運倒數 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013103000 +0800" stop="20251013110000 +0800">
+    <title lang="zh">樂趣遊蹤 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013110000 +0800" stop="20251013112500 +0800">
+    <title lang="zh">日旅大比拼 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013112500 +0800" stop="20251013113000 +0800">
+    <title lang="zh">全運倒數 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013113000 +0800" stop="20251013122500 +0800">
+    <title lang="zh">幸福大家姐 Episode 21</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013122500 +0800" stop="20251013123000 +0800">
+    <title lang="zh">全運倒數 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013123000 +0800" stop="20251013125500 +0800">
+    <title lang="zh">午間新聞 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013125500 +0800" stop="20251013130000 +0800">
+    <title lang="zh">防災應急18識 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013130000 +0800" stop="20251013133000 +0800">
+    <title lang="zh">英國邊忽好 2025-10-13</title>
+    <desc>去英國或多或少總會感受到文化衝擊。詩詠首嘗英國人的「Small Talk」文化，如何跟人搭訕而不失禮儀。她亦挑戰聽各種英式口音，聽到懷疑人生。她亦親身到訪宣布破產的Croydon，一個地方破產到底是甚麼概念？以上種種都是日常旅遊未必會關心，但總會遇到</desc>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013133000 +0800" stop="20251013140000 +0800">
+    <title lang="zh">學人去非洲 2 2025-10-13</title>
+    <desc>來到摩洛哥西南部「紅城」馬拉喀什，走入最熱鬧但又龍蛇混雜的德吉瑪廣場，這裡很多東西買，被繽紛香料吸引，之後去到被譽為「智慧之宮」的巴伊亞宮，感受宏偉古建築，又去到著名設計師YSL大有關係的馬若雷勒花園，欣賞這個1920年代創建的著名植物園和藝術場所，</desc>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013140000 +0800" stop="20251013143000 +0800">
+    <title lang="zh">健康關注組 2025-10-13</title>
+    <desc>香港今年暫時錄得11宗類鼻疽個案，有文獻記載，類鼻疽個案會在颱風或者暴雨後較常出現，隨著強風或暴雨，令病菌更容易擴散，患者初期病徵與感冒相似，但情況嚴重會引致肺炎、腦膜炎等，治療方面雖然可以醫治，但風季尚未過，都可能又再中招，今集就由感染及傳染病科專</desc>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013143000 +0800" stop="20251013152500 +0800">
+    <title lang="zh">畀你飛住賺回贈嘅WeWa卡呈獻 : 臥底旅行團 5.0 2025-10-13</title>
+    <desc>臥底再次潛伏東南亞，今轉係大家熟悉嘅泰國。芭堤雅第一個景點燈光博物館同埋團費包嘅泰式按摩已經令到妹頭非常不滿，最後點收科?臥底分成兩隊進行潑水戰，妹姐人丁單薄頑強應戰，更由內鬥變成共同對付當地內鬼，全身濕透嘅臥底成員有幾狼狽呢？泰國熱氣球公園會唔會貨</desc>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013152500 +0800" stop="20251013153000 +0800">
+    <title lang="zh">全運倒數 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013153000 +0800" stop="20251013155500 +0800">
+    <title lang="zh">君九齡 Episode 27</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013155500 +0800" stop="20251013160000 +0800">
+    <title lang="zh">全運倒數 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013160000 +0800" stop="20251013163000 +0800">
+    <title lang="zh">認真地不認真的怪俠佐羅利 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013163000 +0800" stop="20251013170000 +0800">
+    <title lang="zh">龍族拼圖X 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013170000 +0800" stop="20251013173000 +0800">
+    <title lang="zh">地底小靈精 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013173000 +0800" stop="20251013175500 +0800">
+    <title lang="zh">汪汪隊立大功 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013175500 +0800" stop="20251013180000 +0800">
+    <title lang="zh">全運倒數 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013180000 +0800" stop="20251013183000 +0800">
+    <title lang="zh">健康寧飲食 2025-10-13</title>
+    <desc>EP10 無懼更年期 無論男女也會經歷更年期！女性經期不定，男性缺乏動力，但卻因種種原因而有所避忌不敢求醫！中醫角度認為，隨年歲漸長，[天癸]消耗在所難免，但只要配合藥膳食療調和陰陽，養心養身，更年期問題也會得到緩解！今集寧姐就教大家炮製一道疏肝寧心</desc>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013183000 +0800" stop="20251013190000 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013190000 +0800" stop="20251013195000 +0800">
+    <title lang="zh">7點直播室 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013195000 +0800" stop="20251013200000 +0800">
+    <title lang="zh">28Hse特約 : 每日樓市 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013200000 +0800" stop="20251013202500 +0800">
+    <title lang="zh">一線搜查 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013202500 +0800" stop="20251013203000 +0800">
+    <title lang="zh">全運倒數 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013203000 +0800" stop="20251013210000 +0800">
+    <title lang="zh">學人去非洲 2 2025-10-13</title>
+    <desc>Benedict去摩洛哥睇樓，究竟值唔值得投資？又到訪馬拉喀什一間入選2025年北非50大餐廳，Benedict獲老闆熱情招待入廚房禁地，見證清一式女廚師坐陣，打破當地傳統。再到哈桑二世清真寺，一個被譽為海上清真寺旅遊必到景點，又品嚐北非美食Cous</desc>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013210000 +0800" stop="20251013210500 +0800">
+    <title lang="zh">郭Sir! 學警A班到齊! Episode 16</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013210500 +0800" stop="20251013213000 +0800">
+    <title lang="zh">健康關注組 2025-10-13</title>
+    <desc>南韓疾病管理廳（KDCA）於9月8日正式將「尼帕病毒感染」（Nipah Virus Infection）列為第一級傳染病，與新冠病毒同屬最高級別。這項突如其來的決策背後，隱藏那些致命威脅？尼帕病毒是什麼樣的病毒，能讓一個國家將它與新冠肺炎並列最高警戒</desc>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013213000 +0800" stop="20251013215500 +0800">
+    <title lang="zh">詹姆士出走料理 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013215500 +0800" stop="20251013220000 +0800">
+    <title lang="zh">全運倒數 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013220000 +0800" stop="20251013223000 +0800">
+    <title lang="zh">關於．快樂的死亡 2025-10-13</title>
+    <desc>文潔華【關於・快樂的死亡】｜文潔華: 方生方死 方死方生｜ EP10｜生命的哲學｜淨緣慈善基金｜生死教育｜ 鄭家成 ｜ HOY TV文潔華從哲學角度談生死！哲學博士文潔華探討生死議題，指出香港生死教育明顯不足，並談及中國傳統對死亡的忌諱。她分享了弗洛</desc>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013223000 +0800" stop="20251013230000 +0800">
+    <title lang="zh">樂趣遊蹤 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013230000 +0800" stop="20251013233000 +0800">
+    <title lang="zh">有線新聞 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013233000 +0800" stop="20251013234500 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251013234500 +0800" stop="20251014001500 +0800">
+    <title lang="zh">名廚Luke印度之旅 2025-10-13</title>
+    <date>20251013</date>
+  </programme>
+  <programme channel="77" start="20251014001500 +0800" stop="20251014004500 +0800">
+    <title lang="zh">健康寧飲食 2025-10-14</title>
+    <desc>EP10 無懼更年期 無論男女也會經歷更年期！女性經期不定，男性缺乏動力，但卻因種種原因而有所避忌不敢求醫！中醫角度認為，隨年歲漸長，[天癸]消耗在所難免，但只要配合藥膳食療調和陰陽，養心養身，更年期問題也會得到緩解！今集寧姐就教大家炮製一道疏肝寧心</desc>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014004500 +0800" stop="20251014010000 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014010000 +0800" stop="20251014030000 +0800">
+    <title lang="zh">HOY 動音樂 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014030000 +0800" stop="20251014060000 +0800">
+    <title lang="zh">魚樂無限 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014060000 +0800" stop="20251014070000 +0800">
+    <title lang="zh">幸福大家姐 Episode 21</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014070000 +0800" stop="20251014080000 +0800">
+    <title lang="zh">凌雲志 Episode 15</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014080000 +0800" stop="20251014085500 +0800">
+    <title lang="zh">會長的愛 Episode 33</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014085500 +0800" stop="20251014090000 +0800">
+    <title lang="zh">防災應急18識 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014090000 +0800" stop="20251014093000 +0800">
+    <title lang="zh">名廚Luke印度之旅 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014093000 +0800" stop="20251014100000 +0800">
+    <title lang="zh">馬田煮場 2025-10-14</title>
+    <desc>香港人最愛喝湯，喜歡喝又未必懂得煲。今集煮場美味秘密將為大家拆解: 「湯料如何選最合適?」、「紅湯白湯應揀哪款?」以及「如何煲湯最有營養?」今集馬田拜訪中醫師，除了解各種煲湯材料配搭，亦會推介潤肺、化痰湯水材料。而名廚葉世昌會示範兩款湯水，包括:「蘿</desc>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014100000 +0800" stop="20251014102500 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014102500 +0800" stop="20251014103000 +0800">
+    <title lang="zh">全運倒數 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014103000 +0800" stop="20251014110000 +0800">
+    <title lang="zh">樂趣遊蹤 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014110000 +0800" stop="20251014112500 +0800">
+    <title lang="zh">日旅大比拼 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014112500 +0800" stop="20251014113000 +0800">
+    <title lang="zh">全運倒數 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014113000 +0800" stop="20251014122500 +0800">
+    <title lang="zh">幸福大家姐 Episode 22</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014122500 +0800" stop="20251014123000 +0800">
+    <title lang="zh">全運倒數 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014123000 +0800" stop="20251014130000 +0800">
+    <title lang="zh">午間新聞 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014130000 +0800" stop="20251014133000 +0800">
+    <title lang="zh">一線搜查 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014133000 +0800" stop="20251014140000 +0800">
+    <title lang="zh">學人去非洲 2 2025-10-14</title>
+    <desc>Benedict去摩洛哥睇樓，究竟值唔值得投資？又到訪馬拉喀什一間入選2025年北非50大餐廳，Benedict獲老闆熱情招待入廚房禁地，見證清一式女廚師坐陣，打破當地傳統。再到哈桑二世清真寺，一個被譽為海上清真寺旅遊必到景點，又品嚐北非美食Cous</desc>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014140000 +0800" stop="20251014143000 +0800">
+    <title lang="zh">健康關注組 2025-10-14</title>
+    <desc>南韓疾病管理廳（KDCA）於9月8日正式將「尼帕病毒感染」（Nipah Virus Infection）列為第一級傳染病，與新冠病毒同屬最高級別。這項突如其來的決策背後，隱藏那些致命威脅？尼帕病毒是什麼樣的病毒，能讓一個國家將它與新冠肺炎並列最高警戒</desc>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014143000 +0800" stop="20251014150000 +0800">
+    <title lang="zh">詹姆士出走料理 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014150000 +0800" stop="20251014152500 +0800">
+    <title lang="zh">安居樂業 2025-10-14</title>
+    <desc>今集主持江嘉敏會帶大家睇新樓裝修，設計師如何修飾原則不足，再加入合適屋主需要的傢俬佈局？位於大埔半山的三千多呎的全新單位，設計總監Matthew除了打造日常生活的設備，如何於巨廳及主人房加入藝術原素，去提升大屋的格調？ 另一九龍灣新盤，兩夫婦400多</desc>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014152500 +0800" stop="20251014153000 +0800">
+    <title lang="zh">全運倒數 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014153000 +0800" stop="20251014155500 +0800">
+    <title lang="zh">君九齡 Episode 28</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014155500 +0800" stop="20251014160000 +0800">
+    <title lang="zh">全運倒數 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014160000 +0800" stop="20251014163000 +0800">
+    <title lang="zh">認真地不認真的怪俠佐羅利 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014163000 +0800" stop="20251014170000 +0800">
+    <title lang="zh">龍族拼圖X 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014170000 +0800" stop="20251014173000 +0800">
+    <title lang="zh">地底小靈精 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014173000 +0800" stop="20251014175500 +0800">
+    <title lang="zh">汪汪隊立大功 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014175500 +0800" stop="20251014180000 +0800">
+    <title lang="zh">全運倒數 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014180000 +0800" stop="20251014183000 +0800">
+    <title lang="zh">健康寧飲食 2025-10-14</title>
+    <desc>EP11 骨質疏鬆及早防治 隨著年齡增長，鈣質流失速度漸漸加快，不少婦女與長者也會面臨骨質疏鬆症。中醫認為骨質疏鬆的成因乃「腎虛」 和 「脾虛」，要進補防止骨質疏鬆，除了講究季節食材，陰陽調和亦當相重要！今集寧姐就會教大家「一牛兩味」，炮製香濃美味的</desc>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014183000 +0800" stop="20251014190000 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014190000 +0800" stop="20251014195000 +0800">
+    <title lang="zh">7點直播室 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014195000 +0800" stop="20251014200000 +0800">
+    <title lang="zh">28Hse特約 : 每日樓市 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014200000 +0800" stop="20251014202500 +0800">
+    <title lang="zh">一線搜查 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014202500 +0800" stop="20251014203000 +0800">
+    <title lang="zh">全運倒數 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014203000 +0800" stop="20251014210000 +0800">
+    <title lang="zh">學人去非洲 2 2025-10-14</title>
+    <desc>到摩洛哥首都及第7大城市拉巴特，參觀烏達雅堡，一座12世紀開始建造軍事要塞，欣賞藍白色調的安達盧西亞風格民居，又到岸邊海景餐廳。到最後一站北非國家突尼西亞，呢度保留住好多古羅馬遺跡，benedict去一個公元2至3世紀嘅羅馬浴場遺址，再去伊其果國家公</desc>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014210000 +0800" stop="20251014210500 +0800">
+    <title lang="zh">郭Sir! 學警A班到齊! Episode 17</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014210500 +0800" stop="20251014213000 +0800">
+    <title lang="zh">健康關注組 2025-10-14</title>
+    <desc>香港有超過35,000名腦癇症患者，當中有2至4 成是兒童。雖然香港腦癇症患者為數不少，但是仍然有很多人，因為不了解腦癇症而產生誤解，令患者受到歧視。更有一些兒童因病發的時候，未能及時診斷，錯過及早接受治療的黃金機會。今集就由兒童腦神經科專科醫生，為</desc>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014213000 +0800" stop="20251014215500 +0800">
+    <title lang="zh">詹姆士出走料理 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014215500 +0800" stop="20251014220000 +0800">
+    <title lang="zh">全運倒數 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014220000 +0800" stop="20251014230000 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 1</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014230000 +0800" stop="20251014233000 +0800">
+    <title lang="zh">有線新聞 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014233000 +0800" stop="20251014234500 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251014234500 +0800" stop="20251015001500 +0800">
+    <title lang="zh">名廚Luke印度之旅 2025-10-14</title>
+    <date>20251014</date>
+  </programme>
+  <programme channel="77" start="20251015001500 +0800" stop="20251015004500 +0800">
+    <title lang="zh">健康寧飲食 2025-10-15</title>
+    <desc>EP11 骨質疏鬆及早防治 隨著年齡增長，鈣質流失速度漸漸加快，不少婦女與長者也會面臨骨質疏鬆症。中醫認為骨質疏鬆的成因乃「腎虛」 和 「脾虛」，要進補防止骨質疏鬆，除了講究季節食材，陰陽調和亦當相重要！今集寧姐就會教大家「一牛兩味」，炮製香濃美味的</desc>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015004500 +0800" stop="20251015010000 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015010000 +0800" stop="20251015030000 +0800">
+    <title lang="zh">HOY 動音樂 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015030000 +0800" stop="20251015060000 +0800">
+    <title lang="zh">魚樂無限 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015060000 +0800" stop="20251015070000 +0800">
+    <title lang="zh">幸福大家姐 Episode 22</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015070000 +0800" stop="20251015080000 +0800">
+    <title lang="zh">凌雲志 Episode 16</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015080000 +0800" stop="20251015085500 +0800">
+    <title lang="zh">會長的愛 Episode 34</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015085500 +0800" stop="20251015090000 +0800">
+    <title lang="zh">防災應急18識 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015090000 +0800" stop="20251015093000 +0800">
+    <title lang="zh">女遊和歌山 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015093000 +0800" stop="20251015100000 +0800">
+    <title lang="zh">馬田煮場 2025-10-15</title>
+    <desc>米飯是不少香港人的主要食糧，每天不吃上一碗便渾身使不上勁。但你真的懂得煮出一碗「好」飯嗎？今集煮場美味秘密將為大家拆解：「如何煮出完美煲仔飯」、「快速煲粥秘技」及「洗米最合適方法」。名廚楊國基 Billy會為大家介紹不同米的種類。除了有馬田為大家帶來</desc>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015100000 +0800" stop="20251015102500 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015102500 +0800" stop="20251015103000 +0800">
+    <title lang="zh">全運倒數 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015103000 +0800" stop="20251015112500 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 1</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015112500 +0800" stop="20251015113000 +0800">
+    <title lang="zh">全運倒數 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015113000 +0800" stop="20251015122500 +0800">
+    <title lang="zh">幸福大家姐 Episode 23</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015122500 +0800" stop="20251015123000 +0800">
+    <title lang="zh">全運倒數 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015123000 +0800" stop="20251015130000 +0800">
+    <title lang="zh">午間新聞 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015130000 +0800" stop="20251015133000 +0800">
+    <title lang="zh">一線搜查 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015133000 +0800" stop="20251015140000 +0800">
+    <title lang="zh">學人去非洲 2 2025-10-15</title>
+    <desc>到摩洛哥首都及第7大城市拉巴特，參觀烏達雅堡，一座12世紀開始建造軍事要塞，欣賞藍白色調的安達盧西亞風格民居，又到岸邊海景餐廳。到最後一站北非國家突尼西亞，呢度保留住好多古羅馬遺跡，benedict去一個公元2至3世紀嘅羅馬浴場遺址，再去伊其果國家公</desc>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015140000 +0800" stop="20251015143000 +0800">
+    <title lang="zh">健康關注組 2025-10-15</title>
+    <desc>香港有超過35,000名腦癇症患者，當中有2至4 成是兒童。雖然香港腦癇症患者為數不少，但是仍然有很多人，因為不了解腦癇症而產生誤解，令患者受到歧視。更有一些兒童因病發的時候，未能及時診斷，錯過及早接受治療的黃金機會。今集就由兒童腦神經科專科醫生，為</desc>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015143000 +0800" stop="20251015150000 +0800">
+    <title lang="zh">詹姆士出走料理 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015150000 +0800" stop="20251015152500 +0800">
+    <title lang="zh">黑白大廚滋味行 2025-10-15</title>
+    <desc>第一集兩位主持蔡嘉欣和莊錠欣帶大家爭相想去又很難訂到位的大廚們餐廳。首先熱門餐廳名單裡一定有這位的餐廳，「料理狂人」，在第一集以浮誇熱情的料理方式吸引了其他參賽者的目光。以做日本料理起家的他，後來接觸到了法國料理，所以現在的餐廳主打日法創意料理路線，</desc>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015152500 +0800" stop="20251015153000 +0800">
+    <title lang="zh">全運倒數 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015153000 +0800" stop="20251015155500 +0800">
+    <title lang="zh">君九齡 Episode 29</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015155500 +0800" stop="20251015160000 +0800">
+    <title lang="zh">全運倒數 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015160000 +0800" stop="20251015163000 +0800">
+    <title lang="zh">認真地不認真的怪俠佐羅利 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015163000 +0800" stop="20251015170000 +0800">
+    <title lang="zh">龍族拼圖X 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015170000 +0800" stop="20251015173000 +0800">
+    <title lang="zh">地底小靈精 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015173000 +0800" stop="20251015175500 +0800">
+    <title lang="zh">汪汪隊立大功 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015175500 +0800" stop="20251015180000 +0800">
+    <title lang="zh">全運倒數 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015180000 +0800" stop="20251015183000 +0800">
+    <title lang="zh">健康寧飲食 2025-10-15</title>
+    <desc>EP12 痛風隨時找上門 食得富貴都有病！日常飲食如果經常大魚大肉，會更容易引致尿酸積聚繼而誘發痛風。中醫提倡「治未病」，針對痛風一類慢性疾病，應從改善日常生活習慣入手，以藥入膳亦是不錯選擇！今集寧姐就會教大家炒兩道簡單又可預防痛風的菜式：賣相精美的</desc>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015183000 +0800" stop="20251015190000 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015190000 +0800" stop="20251015194500 +0800">
+    <title lang="zh">7點直播室 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015194500 +0800" stop="20251015195000 +0800">
+    <title lang="zh">28Hse特約 : 每日樓市 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015195000 +0800" stop="20251015200000 +0800">
+    <title lang="zh">防災應急18識 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015200000 +0800" stop="20251015202500 +0800">
+    <title lang="zh">一線搜查 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015202500 +0800" stop="20251015203000 +0800">
+    <title lang="zh">全運倒數 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015203000 +0800" stop="20251015210000 +0800">
+    <title lang="zh">學人去非洲 2 2025-10-15</title>
+    <desc>來到首都突尼斯城東北面，地中海海濱峭壁上嘅藍白小鎮Sidi Bou Said，充滿波希米亞風情，成為情侶浪漫打卡勝地，到網紅餐廳食一餐後入住好有風味的酒店，突尼西亞貴為最大橄欖油出產國之一，benedict到訪當地橄欖製油廠參觀種植農地，當然仲要去欣</desc>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015210000 +0800" stop="20251015210500 +0800">
+    <title lang="zh">郭Sir! 學警A班到齊! Episode 18</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015210500 +0800" stop="20251015213000 +0800">
+    <title lang="zh">健康關注組 2025-10-15</title>
+    <desc>認知障礙症是由於大腦細胞受損而導致，患者的認知功能，包括記憶力、語言能力、視覺空間判斷、執行能力、計算同決策能力會逐漸退化，嚴重影響日常生活、行為同情緒！認知障礙症可以由一種或者多種不同的疾病引起，當中最常見就是阿茲海默症。究竟認知障礙症如何預防、延</desc>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015213000 +0800" stop="20251015215500 +0800">
+    <title lang="zh">詹姆士出走料理 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015215500 +0800" stop="20251015220000 +0800">
+    <title lang="zh">全運倒數 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015220000 +0800" stop="20251015230000 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 2</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015230000 +0800" stop="20251015233000 +0800">
+    <title lang="zh">有線新聞 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015233000 +0800" stop="20251015234500 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251015234500 +0800" stop="20251016001500 +0800">
+    <title lang="zh">女遊和歌山 2025-10-15</title>
+    <date>20251015</date>
+  </programme>
+  <programme channel="77" start="20251016001500 +0800" stop="20251016004500 +0800">
+    <title lang="zh">健康寧飲食 2025-10-16</title>
+    <desc>EP12 痛風隨時找上門 食得富貴都有病！日常飲食如果經常大魚大肉，會更容易引致尿酸積聚繼而誘發痛風。中醫提倡「治未病」，針對痛風一類慢性疾病，應從改善日常生活習慣入手，以藥入膳亦是不錯選擇！今集寧姐就會教大家炒兩道簡單又可預防痛風的菜式：賣相精美的</desc>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016004500 +0800" stop="20251016010000 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016010000 +0800" stop="20251016030000 +0800">
+    <title lang="zh">HOY 動音樂 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016030000 +0800" stop="20251016060000 +0800">
+    <title lang="zh">魚樂無限 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016060000 +0800" stop="20251016070000 +0800">
+    <title lang="zh">幸福大家姐 Episode 23</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016070000 +0800" stop="20251016080000 +0800">
+    <title lang="zh">凌雲志 Episode 17</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016080000 +0800" stop="20251016085500 +0800">
+    <title lang="zh">會長的愛 Episode 35</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016085500 +0800" stop="20251016090000 +0800">
+    <title lang="zh">防災應急18識 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016090000 +0800" stop="20251016093000 +0800">
+    <title lang="zh">女遊和歌山 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016093000 +0800" stop="20251016100000 +0800">
+    <title lang="zh">馬田煮場 2025-10-16</title>
+    <desc>要食得健康？相信大部分人都會想食蔬菜。但係知道如果烹調才最有營養嗎？今集煮場美味秘密將會為大家拆解：「時令菜最佳選擇」、「未煮熟蔬菜最有營養？」、「完美炒菜秘技」及「焯菜蒸菜哪種較有營養？」。生食蔬菜更有益？有沒有人不適合生食蔬菜？馬田將拜訪註冊中醫</desc>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016100000 +0800" stop="20251016102500 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016102500 +0800" stop="20251016103000 +0800">
+    <title lang="zh">全運倒數 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016103000 +0800" stop="20251016112500 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 2</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016112500 +0800" stop="20251016113000 +0800">
+    <title lang="zh">全運倒數 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016113000 +0800" stop="20251016122500 +0800">
+    <title lang="zh">幸福大家姐 Episode 24</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016122500 +0800" stop="20251016123000 +0800">
+    <title lang="zh">全運倒數 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016123000 +0800" stop="20251016130000 +0800">
+    <title lang="zh">午間新聞 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016130000 +0800" stop="20251016133000 +0800">
+    <title lang="zh">一線搜查 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016133000 +0800" stop="20251016140000 +0800">
+    <title lang="zh">學人去非洲 2 2025-10-16</title>
+    <desc>來到首都突尼斯城東北面，地中海海濱峭壁上嘅藍白小鎮Sidi Bou Said，充滿波希米亞風情，成為情侶浪漫打卡勝地，到網紅餐廳食一餐後入住好有風味的酒店，突尼西亞貴為最大橄欖油出產國之一，benedict到訪當地橄欖製油廠參觀種植農地，當然仲要去欣</desc>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016140000 +0800" stop="20251016143000 +0800">
+    <title lang="zh">健康關注組 2025-10-16</title>
+    <desc>認知障礙症是由於大腦細胞受損而導致，患者的認知功能，包括記憶力、語言能力、視覺空間判斷、執行能力、計算同決策能力會逐漸退化，嚴重影響日常生活、行為同情緒！認知障礙症可以由一種或者多種不同的疾病引起，當中最常見就是阿茲海默症。究竟認知障礙症如何預防、延</desc>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016143000 +0800" stop="20251016150000 +0800">
+    <title lang="zh">詹姆士出走料理 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016150000 +0800" stop="20251016152500 +0800">
+    <title lang="zh">Lolly Lolly寵物拯救隊 2025-10-16</title>
+    <desc>聖誕新年將到臨，大家都有好多Party要參與，主人們都想自己狗狗閃亮全場！今集LollyTalk 4位成員，分成兩經，其中阿妹同Tania要為重達 30KG的西摩犬大美容，毛髮污糟打晒結的西摩，變番白雪雪，究竟要個鐘頭的美容做咗咩？另外，阿妹又同El</desc>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016152500 +0800" stop="20251016153000 +0800">
+    <title lang="zh">全運倒數 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016153000 +0800" stop="20251016155500 +0800">
+    <title lang="zh">君九齡 Episode 30</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016155500 +0800" stop="20251016160000 +0800">
+    <title lang="zh">全運倒數 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016160000 +0800" stop="20251016163000 +0800">
+    <title lang="zh">認真地不認真的怪俠佐羅利 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016163000 +0800" stop="20251016170000 +0800">
+    <title lang="zh">龍族拼圖X 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016170000 +0800" stop="20251016173000 +0800">
+    <title lang="zh">地底小靈精 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016173000 +0800" stop="20251016175500 +0800">
+    <title lang="zh">汪汪隊立大功 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016175500 +0800" stop="20251016180000 +0800">
+    <title lang="zh">全運倒數 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016180000 +0800" stop="20251016183000 +0800">
+    <title lang="zh">健康寧飲食 2025-10-16</title>
+    <desc>EP13 糖尿病可大可小 香港十大殺手之一的糖尿病，你又識幾多？「消渴症」又等同糖尿病嗎？今集中醫師會為觀眾講解中醫治療糖尿病的原理和方法，同時分享一則從醫的小故事。寧姐今次則會以幾種常見的中藥藥材為大家炮製一道口感細膩﹑賣相精美的「紅蝦椰菜花飯」！</desc>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016183000 +0800" stop="20251016190000 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016190000 +0800" stop="20251016195000 +0800">
+    <title lang="zh">7點直播室 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016195000 +0800" stop="20251016200000 +0800">
+    <title lang="zh">28Hse特約 : 每日樓市 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016200000 +0800" stop="20251016202500 +0800">
+    <title lang="zh">一線搜查 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016202500 +0800" stop="20251016203000 +0800">
+    <title lang="zh">全運倒數 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016203000 +0800" stop="20251016210000 +0800">
+    <title lang="zh">學人去非洲 2 2025-10-16</title>
+    <desc>benedict弗拉明戈高爾夫球場嘗試同年青人挑機打高球，究竟點解benedict隻手指會受傷？原來因為玩貓累事，要經歷入醫院打針。之後繼續到突尼西亞南部Tamezret一個柏柏爾村莊，參觀柏柏人穴居，感受地道嘅帳篷體驗，沙漠就地取材準備晚餐。</desc>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016210000 +0800" stop="20251016210500 +0800">
+    <title lang="zh">郭Sir! 學警A班到齊! Episode 19</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016210500 +0800" stop="20251016213000 +0800">
+    <title lang="zh">健康關注組 2025-10-16</title>
+    <desc>上班除了勞心勞力，原來職場都可能對健康造成威脅，情況可以說由頭到腳，甚至乎連內臟都受影響，有物理治療師指出，工作環境容易令上班一族產生緊張性頭痛，而有上班一族，更會因壓力岀現肚瀉情況，我們一定要找岀隱形危機，上班族的健康，絕對要關注！</desc>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016213000 +0800" stop="20251016215500 +0800">
+    <title lang="zh">詹姆士出走料理 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016215500 +0800" stop="20251016220000 +0800">
+    <title lang="zh">全運倒數 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016220000 +0800" stop="20251016230000 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 3</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016230000 +0800" stop="20251016233000 +0800">
+    <title lang="zh">有線新聞 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016233000 +0800" stop="20251016234500 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251016234500 +0800" stop="20251017001500 +0800">
+    <title lang="zh">女遊和歌山 2025-10-16</title>
+    <date>20251016</date>
+  </programme>
+  <programme channel="77" start="20251017001500 +0800" stop="20251017004500 +0800">
+    <title lang="zh">健康寧飲食 2025-10-17</title>
+    <desc>EP13 糖尿病可大可小 香港十大殺手之一的糖尿病，你又識幾多？「消渴症」又等同糖尿病嗎？今集中醫師會為觀眾講解中醫治療糖尿病的原理和方法，同時分享一則從醫的小故事。寧姐今次則會以幾種常見的中藥藥材為大家炮製一道口感細膩﹑賣相精美的「紅蝦椰菜花飯」！</desc>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017004500 +0800" stop="20251017010000 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017010000 +0800" stop="20251017030000 +0800">
+    <title lang="zh">HOY 動音樂 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017030000 +0800" stop="20251017060000 +0800">
+    <title lang="zh">魚樂無限 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017060000 +0800" stop="20251017070000 +0800">
+    <title lang="zh">幸福大家姐 Episode 24</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017070000 +0800" stop="20251017080000 +0800">
+    <title lang="zh">凌雲志 Episode 18</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017080000 +0800" stop="20251017090000 +0800">
+    <title lang="zh">會長的愛 Episode 36</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017090000 +0800" stop="20251017093000 +0800">
+    <title lang="zh">女遊和歌山 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017093000 +0800" stop="20251017100000 +0800">
+    <title lang="zh">馬田煮場 2025-10-17</title>
+    <desc>提起家的味道，蒸魚當然不能少！今集煮場美味秘密將為大家拆解：「哪種魚類不宜多吃？」、「為何魚類有腥味？」、「甚麼魚是最佳推介」。馬田將為大家帶來「麻辣烤魚」，名廚沈達程將為大家介紹家常蒸魚，亦會分享蒸魚豉油的美味秘訣！名廚李安生亦為大家帶「輕煎吞拿魚</desc>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017100000 +0800" stop="20251017102500 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017102500 +0800" stop="20251017103000 +0800">
+    <title lang="zh">全運倒數 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017103000 +0800" stop="20251017112500 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 3</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017112500 +0800" stop="20251017113000 +0800">
+    <title lang="zh">全運倒數 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017113000 +0800" stop="20251017122500 +0800">
+    <title lang="zh">幸福大家姐 Episode 25</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017122500 +0800" stop="20251017123000 +0800">
+    <title lang="zh">全運倒數 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017123000 +0800" stop="20251017125500 +0800">
+    <title lang="zh">午間新聞 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017125500 +0800" stop="20251017130000 +0800">
+    <title lang="zh">防災應急18識 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017130000 +0800" stop="20251017133000 +0800">
+    <title lang="zh">一線搜查 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017133000 +0800" stop="20251017140000 +0800">
+    <title lang="zh">學人去非洲 2 2025-10-17</title>
+    <desc>benedict弗拉明戈高爾夫球場嘗試同年青人挑機打高球，究竟點解benedict隻手指會受傷？原來因為玩貓累事，要經歷入醫院打針。之後繼續到突尼西亞南部Tamezret一個柏柏爾村莊，參觀柏柏人穴居，感受地道嘅帳篷體驗，沙漠就地取材準備晚餐。</desc>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017140000 +0800" stop="20251017143000 +0800">
+    <title lang="zh">健康關注組 2025-10-17</title>
+    <desc>上班除了勞心勞力，原來職場都可能對健康造成威脅，情況可以說由頭到腳，甚至乎連內臟都受影響，有物理治療師指出，工作環境容易令上班一族產生緊張性頭痛，而有上班一族，更會因壓力岀現肚瀉情況，我們一定要找岀隱形危機，上班族的健康，絕對要關注！</desc>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017143000 +0800" stop="20251017150000 +0800">
+    <title lang="zh">詹姆士出走料理 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017150000 +0800" stop="20251017152500 +0800">
+    <title lang="zh">Lolly Lolly寵物拯救隊 2025-10-17</title>
+    <desc>保健身體由內到外，再由外到內，狗狗都一樣！今集Mei Mei、Tania將會拯救運動不足兼關節出現問題的哥基犬，除了游水，仲有甚麼水中治療方法？近紅外線治療又是甚麼？另一小隊Yanny與Elka，將會帶同主人與一家三口小法虎，學整簡單、健康又有儀式感</desc>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017152500 +0800" stop="20251017153000 +0800">
+    <title lang="zh">全運倒數 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017153000 +0800" stop="20251017155500 +0800">
+    <title lang="zh">君九齡 Episode 31</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017155500 +0800" stop="20251017160000 +0800">
+    <title lang="zh">全運倒數 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017160000 +0800" stop="20251017163000 +0800">
+    <title lang="zh">認真地不認真的怪俠佐羅利 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017163000 +0800" stop="20251017170000 +0800">
+    <title lang="zh">龍族拼圖X 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017170000 +0800" stop="20251017173000 +0800">
+    <title lang="zh">地底小靈精 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017173000 +0800" stop="20251017175500 +0800">
+    <title lang="zh">汪汪隊立大功 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017175500 +0800" stop="20251017180000 +0800">
+    <title lang="zh">全運倒數 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017180000 +0800" stop="20251017183000 +0800">
+    <title lang="zh">健康寧飲食 2025-10-17</title>
+    <desc>EP14 擊退膽固醇 不知不覺間，膽固醇就已經殺到埋身！原來香港有超過一半人口患有「高膽固醇血症」，屬於最多人患有的慢性疾病，中醫角度則認為「痰濕」是高膽固醇的原因之一，除了注意飲食節制，以袪濕的藥材入膳亦是不錯選擇！今集寧姐就會教大家製作可代餐的「</desc>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017183000 +0800" stop="20251017190000 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017190000 +0800" stop="20251017195000 +0800">
+    <title lang="zh">7點直播室 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017195000 +0800" stop="20251017200000 +0800">
+    <title lang="zh">28Hse特約 : 每日樓市 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017200000 +0800" stop="20251017202500 +0800">
+    <title lang="zh">一線搜查 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017202500 +0800" stop="20251017203000 +0800">
+    <title lang="zh">全運倒數 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017203000 +0800" stop="20251017210000 +0800">
+    <title lang="zh">學人去非洲 2 2025-10-17</title>
+    <desc>來到突尼西亞最大鹽湖吉利特鹽湖，大片雪白色鹽灘，陽光照射下景色壯麗，常被稱為「撒哈拉的鏡子」，入返城區到莊園酒店，奢華布置，融合非洲同歐洲藝術色彩。上返車繼續遊走Hammamet呢個地中海沿岸觀光勝地，作為整個非洲之旅尾聲。</desc>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017210000 +0800" stop="20251017210500 +0800">
+    <title lang="zh">郭Sir! 學警A班到齊! Episode 20</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017210500 +0800" stop="20251017213000 +0800">
+    <title lang="zh">健康關注組 2025-10-17</title>
+    <desc>約有7%的小朋友會有小腸氣的問題，至於成年人，就可能會因為大笑、久咳、便秘、做Gym，而引致小腸氣，有小腸氣問題的人，站起來腹肌溝就有東西左出，躺下就縮回。如果病人無及早求醫，萬一出現腹膜炎，嚴重時可以致命。今集外科專科醫生與註冊營養師會講解小腸氣成</desc>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017213000 +0800" stop="20251017215500 +0800">
+    <title lang="zh">南滋北味 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017215500 +0800" stop="20251017220000 +0800">
+    <title lang="zh">全運倒數 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017220000 +0800" stop="20251017230000 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 4</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017230000 +0800" stop="20251017233000 +0800">
+    <title lang="zh">有線新聞 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017233000 +0800" stop="20251017234500 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251017234500 +0800" stop="20251018001500 +0800">
+    <title lang="zh">女遊和歌山 2025-10-17</title>
+    <date>20251017</date>
+  </programme>
+  <programme channel="77" start="20251018001500 +0800" stop="20251018004500 +0800">
+    <title lang="zh">健康寧飲食 2025-10-18</title>
+    <desc>EP14 擊退膽固醇 不知不覺間，膽固醇就已經殺到埋身！原來香港有超過一半人口患有「高膽固醇血症」，屬於最多人患有的慢性疾病，中醫角度則認為「痰濕」是高膽固醇的原因之一，除了注意飲食節制，以袪濕的藥材入膳亦是不錯選擇！今集寧姐就會教大家製作可代餐的「</desc>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018004500 +0800" stop="20251018010000 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018010000 +0800" stop="20251018030000 +0800">
+    <title lang="zh">HOY 動音樂 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018030000 +0800" stop="20251018060000 +0800">
+    <title lang="zh">魚樂無限 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018060000 +0800" stop="20251018070000 +0800">
+    <title lang="zh">道地蜂蜜綠茶特約 : 健康原因講多D 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018070000 +0800" stop="20251018085500 +0800">
+    <title lang="zh">Running Man 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018085500 +0800" stop="20251018090000 +0800">
+    <title lang="zh">全運倒數 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018090000 +0800" stop="20251018095500 +0800">
+    <title lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 空間改造王 2025-10-18</title>
+    <desc>今集來到山本家，位於氣候條件嚴苛嘅山梨縣甲府市，屋齡已經有五十三年。爸爸五年前開始獨居生活，今年八十歲既佢期望可以四代同堂生活，同一百零四歲嘅媽媽，同埋個女一家人住。不過，喺呢個屋企要照顧坐輪椅嘅媽媽真係好吃力，而家嘅狀況，連帶媽媽去廁所都有困難。為</desc>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018095500 +0800" stop="20251018120000 +0800">
+    <title lang="zh">澳洲冠軍聯賽 - 馬可尼駿馬 對 南霍巴特 2025-10-18</title>
+    <desc>馬可尼駿馬 對 南霍巴特</desc>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018120000 +0800" stop="20251018122500 +0800">
+    <title lang="zh">南滋北味 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018122500 +0800" stop="20251018123000 +0800">
+    <title lang="zh">全運倒數 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018123000 +0800" stop="20251018130500 +0800">
+    <title lang="zh">午間新聞 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018130500 +0800" stop="20251018133000 +0800">
+    <title lang="zh">一線搜查 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018133000 +0800" stop="20251018135500 +0800">
+    <title lang="zh">趣趣動物樂園 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018135500 +0800" stop="20251018140000 +0800">
+    <title lang="zh">全運倒數 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018140000 +0800" stop="20251018150000 +0800">
+    <title lang="zh">天空達人 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018150000 +0800" stop="20251018152500 +0800">
+    <title lang="zh">嘻哈馬場 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018152500 +0800" stop="20251018153000 +0800">
+    <title lang="zh">全運倒數 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018153000 +0800" stop="20251018155500 +0800">
+    <title lang="zh">活出真我 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018155500 +0800" stop="20251018160000 +0800">
+    <title lang="zh">全運倒數 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018160000 +0800" stop="20251018163000 +0800">
+    <title lang="zh">美斯的奧奇島 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018163000 +0800" stop="20251018170000 +0800">
+    <title lang="zh">超甲蟲戰記 聖域傳說 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018170000 +0800" stop="20251018175500 +0800">
+    <title lang="zh">韓國工藝大師 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018175500 +0800" stop="20251018180000 +0800">
+    <title lang="zh">全運倒數 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018180000 +0800" stop="20251018183000 +0800">
+    <title lang="zh">發酵魔法 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018183000 +0800" stop="20251018190000 +0800">
+    <title lang="zh">馬時亨．獅子山精神 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018190000 +0800" stop="20251018192500 +0800">
+    <title lang="zh">7點直播室 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018192500 +0800" stop="20251018193000 +0800">
+    <title lang="zh">防災應急18識 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018193000 +0800" stop="20251018200000 +0800">
+    <title lang="zh">新村之後 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018200000 +0800" stop="20251018202500 +0800">
+    <title lang="zh">安居樂業 2025-10-18</title>
+    <desc>九龍塘大宅，每間各有特色，最新的豪宅裝修會係點？今集就帶大家，走入一間超過三千呎豪宅，三代同堂的大屋，設計師Dianna 決定將空間一分為二，父子兩代各自有自己的生活空間，各自有自己喜好的風格！另外，設計的小心思在於單位內暗藏的機關，令兩間大屋需要時</desc>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018202500 +0800" stop="20251018203000 +0800">
+    <title lang="zh">全運倒數 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018203000 +0800" stop="20251018213000 +0800">
+    <title lang="zh">山旮旯睇樓團 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018213000 +0800" stop="20251018215500 +0800">
+    <title lang="zh">一人店長 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018215500 +0800" stop="20251018220000 +0800">
+    <title lang="zh">全運倒數 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018220000 +0800" stop="20251018230000 +0800">
+    <title lang="zh">道地蜂蜜綠茶特約 : 健康原因講多D 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018230000 +0800" stop="20251018233000 +0800">
+    <title lang="zh">第十五屆全國運動會前奏 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251018233000 +0800" stop="20251019000000 +0800">
+    <title lang="zh">有線新聞 2025-10-18</title>
+    <date>20251018</date>
+  </programme>
+  <programme channel="77" start="20251019000000 +0800" stop="20251019003000 +0800">
+    <title lang="zh">HOY娛樂一周 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019003000 +0800" stop="20251019010000 +0800">
+    <title lang="zh">英國邊忽好 2025-10-19</title>
+    <desc>去英國或多或少總會感受到文化衝擊。詩詠首嘗英國人的「Small Talk」文化，如何跟人搭訕而不失禮儀。她亦挑戰聽各種英式口音，聽到懷疑人生。她亦親身到訪宣布破產的Croydon，一個地方破產到底是甚麼概念？以上種種都是日常旅遊未必會關心，但總會遇到</desc>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019010000 +0800" stop="20251019030000 +0800">
+    <title lang="zh">HOY 動音樂 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019030000 +0800" stop="20251019060000 +0800">
+    <title lang="zh">魚樂無限 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019060000 +0800" stop="20251019065500 +0800">
+    <title lang="zh">島上的神奇婆婆2 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019065500 +0800" stop="20251019070000 +0800">
+    <title lang="zh">全運倒數 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019070000 +0800" stop="20251019075500 +0800">
+    <title lang="zh">韓國工藝大師 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019075500 +0800" stop="20251019080000 +0800">
+    <title lang="zh">全運倒數 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019080000 +0800" stop="20251019083000 +0800">
+    <title lang="zh">異鄉人 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019083000 +0800" stop="20251019090000 +0800">
+    <title lang="zh">寵物生意經 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019090000 +0800" stop="20251019095500 +0800">
+    <title lang="zh">道地蜂蜜綠茶特約 : 健康原因講多D 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019095500 +0800" stop="20251019120000 +0800">
+    <title lang="zh">澳洲冠軍聯賽 - 坎培拉克羅地亞 對 普雷斯頓雄獅 2025-10-19</title>
+    <desc>坎培拉克羅地亞 對 普雷斯頓雄獅</desc>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019120000 +0800" stop="20251019122500 +0800">
+    <title lang="zh">HOY娛樂一周 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019122500 +0800" stop="20251019123000 +0800">
+    <title lang="zh">全運倒數 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019123000 +0800" stop="20251019125500 +0800">
+    <title lang="zh">午間新聞 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019125500 +0800" stop="20251019130500 +0800">
+    <title lang="zh">東方表行Take Your Time 特約 : 一刻．時光 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019130500 +0800" stop="20251019140000 +0800">
+    <title lang="zh">道地星期日影院 : 女王之家 Episode 2</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019140000 +0800" stop="20251019150000 +0800">
+    <title lang="zh">道地星期日影院 : 女王之家 Episode 3</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019150000 +0800" stop="20251019152500 +0800">
+    <title lang="zh">異鄉人 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019152500 +0800" stop="20251019153000 +0800">
+    <title lang="zh">全運倒數 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019153000 +0800" stop="20251019155500 +0800">
+    <title lang="zh">寵物生意經 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019155500 +0800" stop="20251019160000 +0800">
+    <title lang="zh">全運倒數 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019160000 +0800" stop="20251019163000 +0800">
+    <title lang="zh">美斯的奧奇島 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019163000 +0800" stop="20251019170000 +0800">
+    <title lang="zh">超甲蟲戰記 聖域傳說 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019170000 +0800" stop="20251019175500 +0800">
+    <title lang="zh">再見森林 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019175500 +0800" stop="20251019180000 +0800">
+    <title lang="zh">全運倒數 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019180000 +0800" stop="20251019183000 +0800">
+    <title lang="zh">發酵魔法 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019183000 +0800" stop="20251019190000 +0800">
+    <title lang="zh">AI 數啟未來 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019190000 +0800" stop="20251019193000 +0800">
+    <title lang="zh">7點直播室 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019193000 +0800" stop="20251019200000 +0800">
+    <title lang="zh">五平方Squarefoot特約 : 樓盤傳真 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019200000 +0800" stop="20251019205500 +0800">
+    <title lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 空間改造王 2025-10-19</title>
+    <desc>今集繼續山本家改造工程。甲府落左場大雪，呢場雪愈落愈大，引發咗意料之外嘅狀況。道路同車輛俾積雪淹沒，所有交通完全癱瘓， 擺喺庭院度嘅建材，而家完全俾啲雪掩埋咗嘞，山本家既改造工程，亦都因為咁而中斷左！到底改造工程能唔能夠繼續呢？</desc>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019205500 +0800" stop="20251019210000 +0800">
+    <title lang="zh">全運倒數 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019210000 +0800" stop="20251019215500 +0800">
+    <title lang="zh">畀你飛住賺回贈嘅WeWa卡呈獻 : 臥底旅行團 5.0 2025-10-19</title>
+    <desc>臥底完成泰國芭堤雅行程之後繼續向曼谷進發，去到購物點乳膠廠無職員招待，去到寶石城被要求收機，到處被破陣，最後點收科？泰國榴槤放題，臥底亨可唔可以全情投入變成榴槤亨？去到曼谷Big C，總部突派重任要眾臥底完成，大家不惜一切想討好交差，奈何錯漏百出，最</desc>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019215500 +0800" stop="20251019220000 +0800">
+    <title lang="zh">全運倒數 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019220000 +0800" stop="20251019223000 +0800">
+    <title lang="zh">機場大揭秘 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019223000 +0800" stop="20251019233000 +0800">
+    <title lang="zh">奇職修補師 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019233000 +0800" stop="20251019235500 +0800">
+    <title lang="zh">有線新聞 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251019235500 +0800" stop="20251020000000 +0800">
+    <title lang="zh">東方表行Take Your Time 特約 : 一刻．時光 2025-10-19</title>
+    <date>20251019</date>
+  </programme>
+  <programme channel="77" start="20251020000000 +0800" stop="20251020003000 +0800">
+    <title lang="zh">嘻哈馬場 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020003000 +0800" stop="20251020010000 +0800">
+    <title lang="zh">五平方Squarefoot特約 : 樓盤傳真 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020010000 +0800" stop="20251020030000 +0800">
+    <title lang="zh">HOY 動音樂 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020030000 +0800" stop="20251020060000 +0800">
+    <title lang="zh">魚樂無限 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020060000 +0800" stop="20251020070000 +0800">
+    <title lang="zh">幸福大家姐 Episode 25</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020070000 +0800" stop="20251020080000 +0800">
+    <title lang="zh">凌雲志 Episode 19</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020080000 +0800" stop="20251020090000 +0800">
+    <title lang="zh">會長的愛 Episode 37</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020090000 +0800" stop="20251020093000 +0800">
+    <title lang="zh">女遊和歌山 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020093000 +0800" stop="20251020100000 +0800">
+    <title lang="zh">馬田煮場 2025-10-20</title>
+    <desc>雲吞配上鮮味十足的湯底、彈牙的竹昇麵，有誰可以抗拒？今集煮場美味秘密將為大家拆解「雲吞完美菜肉比例」及「煮急凍餃子的水溫秘密」。馬田走訪雲吞麵店，學層竹昇麵彈牙的秘技。除了有馬田分享「尼泊爾餃」，更有名廚楊國基分享「意大利雲吞」的做法。想學懂不同國家</desc>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020100000 +0800" stop="20251020102500 +0800">
+    <title lang="zh">機場大揭秘 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020102500 +0800" stop="20251020103000 +0800">
+    <title lang="zh">全運倒數 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020103000 +0800" stop="20251020112500 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 4</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020112500 +0800" stop="20251020113000 +0800">
+    <title lang="zh">全運倒數 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020113000 +0800" stop="20251020122500 +0800">
+    <title lang="zh">幸福大家姐 Episode 26</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020122500 +0800" stop="20251020123000 +0800">
+    <title lang="zh">全運倒數 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020123000 +0800" stop="20251020125500 +0800">
+    <title lang="zh">午間新聞 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020125500 +0800" stop="20251020130000 +0800">
+    <title lang="zh">防災應急18識 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020130000 +0800" stop="20251020133000 +0800">
+    <title lang="zh">英國邊忽好 2025-10-20</title>
+    <desc>詩詠探討家長們最關心的英國教育，她到訪了兩間不同的英國寄宿學校。一間是傳統英式氣派、極具儀式感，午飯前需要全體學生配以軍樂隊步操進飯堂！另一間是較現代多元化，學生可以選擇上電競課，真正做到打機是為了學習！</desc>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020133000 +0800" stop="20251020140000 +0800">
+    <title lang="zh">學人去非洲 2 2025-10-20</title>
+    <desc>來到突尼西亞最大鹽湖吉利特鹽湖，大片雪白色鹽灘，陽光照射下景色壯麗，常被稱為「撒哈拉的鏡子」，入返城區到莊園酒店，奢華布置，融合非洲同歐洲藝術色彩。上返車繼續遊走Hammamet呢個地中海沿岸觀光勝地，作為整個非洲之旅尾聲。</desc>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020140000 +0800" stop="20251020143000 +0800">
+    <title lang="zh">健康關注組 2025-10-20</title>
+    <desc>約有7%的小朋友會有小腸氣的問題，至於成年人，就可能會因為大笑、久咳、便秘、做Gym，而引致小腸氣，有小腸氣問題的人，站起來腹肌溝就有東西左出，躺下就縮回。如果病人無及早求醫，萬一出現腹膜炎，嚴重時可以致命。今集外科專科醫生與註冊營養師會講解小腸氣成</desc>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020143000 +0800" stop="20251020152500 +0800">
+    <title lang="zh">畀你飛住賺回贈嘅WeWa卡呈獻 : 臥底旅行團 5.0 2025-10-20</title>
+    <desc>臥底完成泰國芭堤雅行程之後繼續向曼谷進發，去到購物點乳膠廠無職員招待，去到寶石城被要求收機，到處被破陣，最後點收科？泰國榴槤放題，臥底亨可唔可以全情投入變成榴槤亨？去到曼谷Big C，總部突派重任要眾臥底完成，大家不惜一切想討好交差，奈何錯漏百出，最</desc>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020152500 +0800" stop="20251020153000 +0800">
+    <title lang="zh">全運倒數 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020153000 +0800" stop="20251020155500 +0800">
+    <title lang="zh">君九齡 Episode 32</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020155500 +0800" stop="20251020160000 +0800">
+    <title lang="zh">全運倒數 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020160000 +0800" stop="20251020163000 +0800">
+    <title lang="zh">認真地不認真的怪俠佐羅利 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020163000 +0800" stop="20251020170000 +0800">
+    <title lang="zh">龍族拼圖X 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020170000 +0800" stop="20251020173000 +0800">
+    <title lang="zh">地底小靈精 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020173000 +0800" stop="20251020175500 +0800">
+    <title lang="zh">汪汪隊立大功 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020175500 +0800" stop="20251020180000 +0800">
+    <title lang="zh">全運倒數 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020180000 +0800" stop="20251020183000 +0800">
+    <title lang="zh">健康寧飲食 2025-10-20</title>
+    <desc>EP15 貧血隨時令你送命除了先天因素，消化道出血﹑缺少維他命﹑身體有其他慢性疾病，都有可能觸發貧血症，繼而導致長期疲累﹑呼吸困難﹑甚至意識不清！中醫角度認為貧血屬於「血氣不足」﹑「氣虛血弱」，所以所謂補氣血，其實也是治貧血的方法！寧姐今集就以中式小</desc>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020183000 +0800" stop="20251020190000 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020190000 +0800" stop="20251020195000 +0800">
+    <title lang="zh">7點直播室 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020195000 +0800" stop="20251020200000 +0800">
+    <title lang="zh">28Hse特約 : 每日樓市 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020200000 +0800" stop="20251020202500 +0800">
+    <title lang="zh">一線搜查 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020202500 +0800" stop="20251020203000 +0800">
+    <title lang="zh">全運倒數 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020203000 +0800" stop="20251020210000 +0800">
+    <title lang="zh">東方表行 Take Your Time 特約 : 一個人鐵道行 4 2025-10-20</title>
+    <desc>從廣州出發，阿倫搭能「上船的火車」粵海鐵路南下，見證列車登船越過瓊州海峽。落地海南，陽光與椰林一路展開，旅程節奏升溫。到三亞，先潛進清澈海水與小魚對眼；夜裡住進五星飯店，讓海風與泳池抹去疲憊隔天換上溯溪裝，沿近郊峽谷逆流而上、攀岩跳潭，貼身感受雨林脈</desc>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020210000 +0800" stop="20251020210500 +0800">
+    <title lang="zh">郭Sir! 學警A班到齊! Episode 21</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020210500 +0800" stop="20251020213000 +0800">
+    <title lang="zh">健康關注組 2025-10-20</title>
+    <desc>手腫腳腫、肢體沉重、傷口反覆感染，以上都是淋巴水腫嘅症狀，雖然患者可以進行淋巴切除手術，但是手術之後，他們仍然要面對復發，以及手術後帶來的外觀問題，嚴重影響心理健康。有機構指出，不少患有淋巴水腫的病人，一知道要進行切除手術，第一時間就會聯想身體會有缺</desc>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020213000 +0800" stop="20251020215500 +0800">
+    <title lang="zh">南滋北味 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020215500 +0800" stop="20251020220000 +0800">
+    <title lang="zh">全運倒數 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020220000 +0800" stop="20251020230000 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 5</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020230000 +0800" stop="20251020233000 +0800">
+    <title lang="zh">有線新聞 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020233000 +0800" stop="20251020234500 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251020234500 +0800" stop="20251021001500 +0800">
+    <title lang="zh">女遊和歌山 2025-10-20</title>
+    <date>20251020</date>
+  </programme>
+  <programme channel="77" start="20251021001500 +0800" stop="20251021004500 +0800">
+    <title lang="zh">健康寧飲食 2025-10-21</title>
+    <desc>EP15 貧血隨時令你送命除了先天因素，消化道出血﹑缺少維他命﹑身體有其他慢性疾病，都有可能觸發貧血症，繼而導致長期疲累﹑呼吸困難﹑甚至意識不清！中醫角度認為貧血屬於「血氣不足」﹑「氣虛血弱」，所以所謂補氣血，其實也是治貧血的方法！寧姐今集就以中式小</desc>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021004500 +0800" stop="20251021010000 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021010000 +0800" stop="20251021030000 +0800">
+    <title lang="zh">HOY 動音樂 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021030000 +0800" stop="20251021060000 +0800">
+    <title lang="zh">魚樂無限 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021060000 +0800" stop="20251021070000 +0800">
+    <title lang="zh">幸福大家姐 Episode 26</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021070000 +0800" stop="20251021080000 +0800">
+    <title lang="zh">凌雲志 Episode 20</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021080000 +0800" stop="20251021085500 +0800">
+    <title lang="zh">會長的愛 Episode 38</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021085500 +0800" stop="20251021090000 +0800">
+    <title lang="zh">防災應急18識 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021090000 +0800" stop="20251021093000 +0800">
+    <title lang="zh">女遊和歌山 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021093000 +0800" stop="20251021100000 +0800">
+    <title lang="zh">馬田煮場 2025-10-21</title>
+    <desc>最後一集，馬田將和大家一起研究手工麵的秘密。今集煮場美味秘密，將為大家研究「瀨粉」、「意粉及白米哪種較健康」及「怎樣挑選意粉醬汁」。馬田和欣茵拜訪瀨粉店，學會瀨粉的製作方法。馬田將為大家分享「番茄蛋拉麵」及「砂鍋老鼠粉」烹調方法。名廚李偉強亦為懶人們</desc>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021100000 +0800" stop="20251021102500 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021102500 +0800" stop="20251021103000 +0800">
+    <title lang="zh">全運倒數 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021103000 +0800" stop="20251021112500 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 5</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021112500 +0800" stop="20251021113000 +0800">
+    <title lang="zh">全運倒數 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021113000 +0800" stop="20251021122500 +0800">
+    <title lang="zh">幸福大家姐 Episode 27</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021122500 +0800" stop="20251021123000 +0800">
+    <title lang="zh">全運倒數 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021123000 +0800" stop="20251021130000 +0800">
+    <title lang="zh">午間新聞 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021130000 +0800" stop="20251021133000 +0800">
+    <title lang="zh">一線搜查 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021133000 +0800" stop="20251021140000 +0800">
+    <title lang="zh">東方表行 Take Your Time 特約 : 一個人鐵道行 4 2025-10-21</title>
+    <desc>從廣州出發，阿倫搭能「上船的火車」粵海鐵路南下，見證列車登船越過瓊州海峽。落地海南，陽光與椰林一路展開，旅程節奏升溫。到三亞，先潛進清澈海水與小魚對眼；夜裡住進五星飯店，讓海風與泳池抹去疲憊隔天換上溯溪裝，沿近郊峽谷逆流而上、攀岩跳潭，貼身感受雨林脈</desc>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021140000 +0800" stop="20251021143000 +0800">
+    <title lang="zh">健康關注組 2025-10-21</title>
+    <desc>手腫腳腫、肢體沉重、傷口反覆感染，以上都是淋巴水腫嘅症狀，雖然患者可以進行淋巴切除手術，但是手術之後，他們仍然要面對復發，以及手術後帶來的外觀問題，嚴重影響心理健康。有機構指出，不少患有淋巴水腫的病人，一知道要進行切除手術，第一時間就會聯想身體會有缺</desc>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021143000 +0800" stop="20251021150000 +0800">
+    <title lang="zh">南滋北味 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021150000 +0800" stop="20251021152500 +0800">
+    <title lang="zh">安居樂業 2025-10-21</title>
+    <desc>九龍塘大宅，每間各有特色，最新的豪宅裝修會係點？今集就帶大家，走入一間超過三千呎豪宅，三代同堂的大屋，設計師Dianna 決定將空間一分為二，父子兩代各自有自己的生活空間，各自有自己喜好的風格！另外，設計的小心思在於單位內暗藏的機關，令兩間大屋需要時</desc>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021152500 +0800" stop="20251021153000 +0800">
+    <title lang="zh">全運倒數 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021153000 +0800" stop="20251021155500 +0800">
+    <title lang="zh">君九齡 Episode 33</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021155500 +0800" stop="20251021160000 +0800">
+    <title lang="zh">全運倒數 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021160000 +0800" stop="20251021163000 +0800">
+    <title lang="zh">柚木家的四兄弟 2025-10-21</title>
+    <desc>柚木一家由長男隼，沉著冷靜的次子尊，活力滿滿、凡事為兄弟著想卻有點笨拙的三子湊，以及因為可靠懂事又有遠見而被稱呼為「仙人」的四子岳所組成。自兩年前雙親突然過世後，他們四兄弟便開始相依為命的生活。即便偶爾會發生爭吵，他們還是熱鬧地度過每一天。本作品描繪</desc>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021163000 +0800" stop="20251021170000 +0800">
+    <title lang="zh">龍族拼圖X 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021170000 +0800" stop="20251021173000 +0800">
+    <title lang="zh">地底小靈精 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021173000 +0800" stop="20251021175500 +0800">
+    <title lang="zh">汪汪隊立大功 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021175500 +0800" stop="20251021180000 +0800">
+    <title lang="zh">全運倒數 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021180000 +0800" stop="20251021183000 +0800">
+    <title lang="zh">追素解決師 2025-10-21</title>
+    <desc>Elvis 雖然係一個廚師，但係佢出世到而家都未食過肉㗎，咁用素煮唔煮到同樣嘅味道呢？做開健身嘅人都好擔心食素夠唔夠蛋白質，唔知Elvis 整呢兩味餸菜對呢對運動情侶李綺雯同佢男朋友Ocean，改變對素食嘅睇法呢？</desc>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021183000 +0800" stop="20251021190000 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021190000 +0800" stop="20251021195000 +0800">
+    <title lang="zh">7點直播室 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021195000 +0800" stop="20251021200000 +0800">
+    <title lang="zh">28Hse特約 : 每日樓市 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021200000 +0800" stop="20251021202500 +0800">
+    <title lang="zh">一線搜查 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021202500 +0800" stop="20251021203000 +0800">
+    <title lang="zh">全運倒數 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021203000 +0800" stop="20251021210000 +0800">
+    <title lang="zh">東方表行 Take Your Time 特約 : 一個人鐵道行 4 2025-10-21</title>
+    <desc>三亞不只看海，還有越開越chill的觀光小火車。這天阿倫搭上「三樂旅遊鐵路」先到南山北站朝聖海上觀音，替整趟旅程加點運氣，再去天涯海角和那幾塊象徵愛情的地標石打卡。沿路經過度假感滿分的天涯小鎮，先在摩洛哥風格咖啡店坐一會兒晚點到海邊來一鍋酸爽的糟粕醋</desc>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021210000 +0800" stop="20251021210500 +0800">
+    <title lang="zh">郭Sir! 學警A班到齊! Episode 22</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021210500 +0800" stop="20251021213000 +0800">
+    <title lang="zh">健康關注組 2025-10-21</title>
+    <desc>腦癇症不是精神病、只要配合治療，患者一樣可以上學，工作、甚至可以痊癒，一般小兒腦癎症患者都可以服用抗腦癎藥物 （ASM）以控制病情，但有部份病童即使服藥，仍然會經常發病；當中更有少數個案屬罕見的小兒腦癎症，今集就由香港腦癎基金會代表與物理治療師，講解</desc>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021213000 +0800" stop="20251021215500 +0800">
+    <title lang="zh">南滋北味 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021215500 +0800" stop="20251021220000 +0800">
+    <title lang="zh">全運倒數 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021220000 +0800" stop="20251021230000 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 6</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021230000 +0800" stop="20251021233000 +0800">
+    <title lang="zh">有線新聞 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021233000 +0800" stop="20251021234500 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251021234500 +0800" stop="20251022001500 +0800">
+    <title lang="zh">女遊和歌山 2025-10-21</title>
+    <date>20251021</date>
+  </programme>
+  <programme channel="77" start="20251022001500 +0800" stop="20251022004500 +0800">
+    <title lang="zh">追素解決師 2025-10-22</title>
+    <desc>Elvis 雖然係一個廚師，但係佢出世到而家都未食過肉㗎，咁用素煮唔煮到同樣嘅味道呢？做開健身嘅人都好擔心食素夠唔夠蛋白質，唔知Elvis 整呢兩味餸菜對呢對運動情侶李綺雯同佢男朋友Ocean，改變對素食嘅睇法呢？</desc>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022004500 +0800" stop="20251022010000 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022010000 +0800" stop="20251022030000 +0800">
+    <title lang="zh">HOY 動音樂 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022030000 +0800" stop="20251022060000 +0800">
+    <title lang="zh">魚樂無限 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022060000 +0800" stop="20251022070000 +0800">
+    <title lang="zh">幸福大家姐 Episode 27</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022070000 +0800" stop="20251022080000 +0800">
+    <title lang="zh">凌雲志 Episode 21</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022080000 +0800" stop="20251022085500 +0800">
+    <title lang="zh">會長的愛 Episode 39</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022085500 +0800" stop="20251022090000 +0800">
+    <title lang="zh">防災應急18識 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022090000 +0800" stop="20251022093000 +0800">
+    <title lang="zh">開飯啦 2025-10-22</title>
+    <desc>「開飯啦」不止是每餐的開場白，它代表著大家可以暫時放下手頭的工作，生活的煩瑣，以美味補充動力，元氣滿滿繼續迎接挑戰。同時一頓暖暖的美食，亦是每天辛勞過後，好好獎勵自己及家人的小確幸。全新煮食節目《開飯啦》，將邀請城中名廚教大家炮製開飯新煮意，不論是簡</desc>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022093000 +0800" stop="20251022100000 +0800">
+    <title lang="zh">馬田點食記 台灣篇 2025-10-22</title>
+    <desc>馬田和錠欣第一站就去試米芝蓮指南推薦的紅燒牛肉麵，隱身在西門大樓的老店坐無虛席，紅燒湯頭搭配大塊牛肉，馬上擄獲錠欣的心，原來錠欣之前就有聽聞這間米芝蓮牛肉麵店，但經過總是大排長龍，這次終於一償所願。兩人從最普及的紅燒口味開始吃起，接著吃熬煮七十二小時</desc>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022100000 +0800" stop="20251022102500 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022102500 +0800" stop="20251022103000 +0800">
+    <title lang="zh">全運倒數 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022103000 +0800" stop="20251022112500 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 6</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022112500 +0800" stop="20251022113000 +0800">
+    <title lang="zh">全運倒數 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022113000 +0800" stop="20251022122500 +0800">
+    <title lang="zh">幸福大家姐 Episode 28</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022122500 +0800" stop="20251022123000 +0800">
+    <title lang="zh">全運倒數 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022123000 +0800" stop="20251022130000 +0800">
+    <title lang="zh">午間新聞 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022130000 +0800" stop="20251022133000 +0800">
+    <title lang="zh">一線搜查 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022133000 +0800" stop="20251022140000 +0800">
+    <title lang="zh">東方表行 Take Your Time 特約 : 一個人鐵道行 4 2025-10-22</title>
+    <desc>三亞不只看海，還有越開越chill的觀光小火車。這天阿倫搭上「三樂旅遊鐵路」先到南山北站朝聖海上觀音，替整趟旅程加點運氣，再去天涯海角和那幾塊象徵愛情的地標石打卡。沿路經過度假感滿分的天涯小鎮，先在摩洛哥風格咖啡店坐一會兒晚點到海邊來一鍋酸爽的糟粕醋</desc>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022140000 +0800" stop="20251022143000 +0800">
+    <title lang="zh">健康關注組 2025-10-22</title>
+    <desc>腦癇症不是精神病、只要配合治療，患者一樣可以上學，工作、甚至可以痊癒，一般小兒腦癎症患者都可以服用抗腦癎藥物 （ASM）以控制病情，但有部份病童即使服藥，仍然會經常發病；當中更有少數個案屬罕見的小兒腦癎症，今集就由香港腦癎基金會代表與物理治療師，講解</desc>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022143000 +0800" stop="20251022150000 +0800">
+    <title lang="zh">南滋北味 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022150000 +0800" stop="20251022152500 +0800">
+    <title lang="zh">黑白大廚滋味行 2025-10-22</title>
+    <desc>黑隊的型男師傅代表「123」, 有著大廚等級好手藝以及如韓劇歐巴的高顏值，即使在20強止步卻依然是大家關注的焦點。在參賽的黑湯匙裡是少數幾位在米芝蓮餐廳做過事，「123」更是曾與評審米芝蓮三星主廚安成宰共事過，在首輪比賽便以奉化鴨胸佐覆盆子和煙燻草莓</desc>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022152500 +0800" stop="20251022153000 +0800">
+    <title lang="zh">全運倒數 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022153000 +0800" stop="20251022155500 +0800">
+    <title lang="zh">君九齡 Episode 34</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022155500 +0800" stop="20251022160000 +0800">
+    <title lang="zh">全運倒數 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022160000 +0800" stop="20251022163000 +0800">
+    <title lang="zh">柚木家的四兄弟 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022163000 +0800" stop="20251022170000 +0800">
+    <title lang="zh">龍族拼圖X 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022170000 +0800" stop="20251022173000 +0800">
+    <title lang="zh">地底小靈精 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022173000 +0800" stop="20251022175500 +0800">
+    <title lang="zh">汪汪隊立大功 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022175500 +0800" stop="20251022180000 +0800">
+    <title lang="zh">全運倒數 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022180000 +0800" stop="20251022183000 +0800">
+    <title lang="zh">追素解決師 2025-10-22</title>
+    <desc>原來選擇進食什麼同環保都可以扯上關係，以食肉為例，選擇食肉其實會增加碳排放，為什麼呢？今日邀請了兩位環保界的表表者分享多些環保信息，還有廚師Elvis教大家煮輕便的便當，上班一族可以食得健康，又環保。</desc>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022183000 +0800" stop="20251022190000 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022190000 +0800" stop="20251022194500 +0800">
+    <title lang="zh">7點直播室 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022194500 +0800" stop="20251022195000 +0800">
+    <title lang="zh">28Hse特約 : 每日樓市 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022195000 +0800" stop="20251022200000 +0800">
+    <title lang="zh">防災應急18識 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022200000 +0800" stop="20251022202500 +0800">
+    <title lang="zh">一線搜查 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022202500 +0800" stop="20251022203000 +0800">
+    <title lang="zh">全運倒數 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022203000 +0800" stop="20251022210000 +0800">
+    <title lang="zh">東方表行 Take Your Time 特約 : 一個人鐵道行 4 2025-10-22</title>
+    <desc>海南不只三亞，最近超夯的還有陵水。靠著漂亮的海灣跟多元玩法這裡正悄悄變成旅遊新寵，而且價位比三亞更親民。這集阿倫換條路線，走進不一樣的海邊日常：先搭小船去拜訪疍家人在海上漁排坐下來吃一桌道地疍家菜，海風當背景、筷子停不下來。之後體驗海南最chill的</desc>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022210000 +0800" stop="20251022210500 +0800">
+    <title lang="zh">郭Sir! 學警A班到齊! Episode 23</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022210500 +0800" stop="20251022213000 +0800">
+    <title lang="zh">健康關注組 2025-10-22</title>
+    <desc>咳嗽是不少病的其中一個症狀，大家可能會對咳嗽掉以輕心，事實上，引致咳嗽的原因可大可小，有可能是傷風感冒，亦有可能是氣管發炎、氣管敏感或者由肺炎引發，而最恐怖的原因，就是肺癌！究竟是甚麼病引起咳嗽，一定要弄清楚，所以今集會邀請臨床腫瘤科醫生，為大家逐一</desc>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022213000 +0800" stop="20251022215500 +0800">
+    <title lang="zh">南滋北味 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022215500 +0800" stop="20251022220000 +0800">
+    <title lang="zh">全運倒數 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022220000 +0800" stop="20251022230000 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 7</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022230000 +0800" stop="20251022233000 +0800">
+    <title lang="zh">有線新聞 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022233000 +0800" stop="20251022234500 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-22</title>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251022234500 +0800" stop="20251023001500 +0800">
+    <title lang="zh">開飯啦 2025-10-22</title>
+    <desc>「開飯啦」不止是每餐的開場白，它代表著大家可以暫時放下手頭的工作，生活的煩瑣，以美味補充動力，元氣滿滿繼續迎接挑戰。同時一頓暖暖的美食，亦是每天辛勞過後，好好獎勵自己及家人的小確幸。全新煮食節目《開飯啦》，將邀請城中名廚教大家炮製開飯新煮意，不論是簡</desc>
+    <date>20251022</date>
+  </programme>
+  <programme channel="77" start="20251023001500 +0800" stop="20251023004500 +0800">
+    <title lang="zh">追素解決師 2025-10-23</title>
+    <desc>原來選擇進食什麼同環保都可以扯上關係，以食肉為例，選擇食肉其實會增加碳排放，為什麼呢？今日邀請了兩位環保界的表表者分享多些環保信息，還有廚師Elvis教大家煮輕便的便當，上班一族可以食得健康，又環保。</desc>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023004500 +0800" stop="20251023010000 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023010000 +0800" stop="20251023030000 +0800">
+    <title lang="zh">HOY 動音樂 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023030000 +0800" stop="20251023060000 +0800">
+    <title lang="zh">魚樂無限 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023060000 +0800" stop="20251023070000 +0800">
+    <title lang="zh">幸福大家姐 Episode 28</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023070000 +0800" stop="20251023080000 +0800">
+    <title lang="zh">凌雲志 Episode 22</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023080000 +0800" stop="20251023085500 +0800">
+    <title lang="zh">會長的愛 Episode 40</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023085500 +0800" stop="20251023090000 +0800">
+    <title lang="zh">防災應急18識 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023090000 +0800" stop="20251023093000 +0800">
+    <title lang="zh">開飯啦 2025-10-23</title>
+    <desc>海鮮之中，橫行霸道的蟹可以講最得人歡心! 香濃惹味的「泰式咖喱炒蟹」，要炒得好食，到底有甚麼獨門秘方?家常小食「春卷」一家大細都鐘意! 一甜一鹹的鴛鴦口味，做法簡單，包你一試即食不停口! 李偉強 泰式咖喱炒蟹材料:肉蟹 2隻紅咖喱膏 1湯匙雞蛋 3隻</desc>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023093000 +0800" stop="20251023100000 +0800">
+    <title lang="zh">馬田點食記 台灣篇 2025-10-23</title>
+    <desc>講到台灣的飲食文化，怎能不提各種特色早餐?! 特別是中餐更是南北大不同，好比蛋餅可以分餅皮和古早味的粉漿作法，粉漿蛋餅外酥內軟的口感讓馬田和錠欣大為驚奇，原來這就是南台灣喜愛的古早味。接著兩人去到被日本媒體推崇的四神湯店，滿滿中藥材熬煮的湯頭搭一顆肉</desc>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023100000 +0800" stop="20251023102500 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023102500 +0800" stop="20251023103000 +0800">
+    <title lang="zh">全運倒數 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023103000 +0800" stop="20251023112500 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 7</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023112500 +0800" stop="20251023113000 +0800">
+    <title lang="zh">全運倒數 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023113000 +0800" stop="20251023122500 +0800">
+    <title lang="zh">幸福大家姐 Episode 29</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023122500 +0800" stop="20251023123000 +0800">
+    <title lang="zh">全運倒數 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023123000 +0800" stop="20251023130000 +0800">
+    <title lang="zh">午間新聞 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023130000 +0800" stop="20251023133000 +0800">
+    <title lang="zh">一線搜查 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023133000 +0800" stop="20251023140000 +0800">
+    <title lang="zh">東方表行 Take Your Time 特約 : 一個人鐵道行 4 2025-10-23</title>
+    <desc>海南不只三亞，最近超夯的還有陵水。靠著漂亮的海灣跟多元玩法這裡正悄悄變成旅遊新寵，而且價位比三亞更親民。這集阿倫換條路線，走進不一樣的海邊日常：先搭小船去拜訪疍家人在海上漁排坐下來吃一桌道地疍家菜，海風當背景、筷子停不下來。之後體驗海南最chill的</desc>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023140000 +0800" stop="20251023143000 +0800">
+    <title lang="zh">健康關注組 2025-10-23</title>
+    <desc>咳嗽是不少病的其中一個症狀，大家可能會對咳嗽掉以輕心，事實上，引致咳嗽的原因可大可小，有可能是傷風感冒，亦有可能是氣管發炎、氣管敏感或者由肺炎引發，而最恐怖的原因，就是肺癌！究竟是甚麼病引起咳嗽，一定要弄清楚，所以今集會邀請臨床腫瘤科醫生，為大家逐一</desc>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023143000 +0800" stop="20251023150000 +0800">
+    <title lang="zh">南滋北味 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023150000 +0800" stop="20251023152500 +0800">
+    <title lang="zh">Lolly Lolly寵物拯救隊 2025-10-23</title>
+    <desc>離別總會突然其來，若然可以為寵物的離別及早準備，就不會手足無措。今集Sinnie將分別與阿蛋及Tania，為貓貓主人尋找不同的紀念寵物方式；火化以外，又有甚麼方式讓離去的小寵物回歸自然？另外，希望寵物陪伴一生一世，又有甚麼方式？經歷寵物離別的陶瓷製作</desc>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023152500 +0800" stop="20251023153000 +0800">
+    <title lang="zh">全運倒數 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023153000 +0800" stop="20251023155500 +0800">
+    <title lang="zh">君九齡 Episode 35</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023155500 +0800" stop="20251023160000 +0800">
+    <title lang="zh">全運倒數 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023160000 +0800" stop="20251023163000 +0800">
+    <title lang="zh">柚木家的四兄弟 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023163000 +0800" stop="20251023170000 +0800">
+    <title lang="zh">龍族拼圖X 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023170000 +0800" stop="20251023173000 +0800">
+    <title lang="zh">地底小靈精 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023173000 +0800" stop="20251023175500 +0800">
+    <title lang="zh">汪汪隊立大功 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023175500 +0800" stop="20251023180000 +0800">
+    <title lang="zh">全運倒數 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023180000 +0800" stop="20251023183000 +0800">
+    <title lang="zh">追素解決師 2025-10-23</title>
+    <desc>素食也分很多種類的，有五辛，Gluten free，Plant base，又有蛋奶素，不知道觀眾能不能夠分辨呢？倒不如問一下今集嘉賓朱慧敏吧，聽說她對很多食物都有敏感，身為佛教徒的她又怎樣處理自己每一天的餐單呢？</desc>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023183000 +0800" stop="20251023190000 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023190000 +0800" stop="20251023195000 +0800">
+    <title lang="zh">7點直播室 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023195000 +0800" stop="20251023200000 +0800">
+    <title lang="zh">28Hse特約 : 每日樓市 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023200000 +0800" stop="20251023202500 +0800">
+    <title lang="zh">一線搜查 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023202500 +0800" stop="20251023203000 +0800">
+    <title lang="zh">全運倒數 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023203000 +0800" stop="20251023210000 +0800">
+    <title lang="zh">東方表行 Take Your Time 特約 : 一個人鐵道行 4 2025-10-23</title>
+    <desc>萬寧看似普通，卻藏著讓人意想不到的「異國小鎮」。不少華僑的故鄉都在這裡，讓整座小鎮混搭著南洋文化與本地熱情。阿倫順著海岸線一路走，先去情侶最愛的打卡地標拍幾張甜到膩的照再扛著衝浪板到有「衝浪勝地」之稱的日月灣，跟海浪正面剛。結果...板子剛立起來就被</desc>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023210000 +0800" stop="20251023210500 +0800">
+    <title lang="zh">郭Sir! 學警A班到齊! Episode 24</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023210500 +0800" stop="20251023213000 +0800">
+    <title lang="zh">健康關注組 2025-10-23</title>
+    <desc>年齡增長、患上慢性病，或者家族遺傳，脂肪同膽固醇就容易積聚在血管壁，形成「動脈粥狀硬化」。當堆積物阻塞腿部血管，走路時腳部突然很痛，甚至痛到走不動，就有可能引發「腳中風」，如果沒有及時處理，會造成壞死、截肢，甚至危及性命！今集就由心臟專科醫生與中醫師</desc>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023213000 +0800" stop="20251023215500 +0800">
+    <title lang="zh">南滋北味 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023215500 +0800" stop="20251023220000 +0800">
+    <title lang="zh">全運倒數 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023220000 +0800" stop="20251023230000 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 8</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023230000 +0800" stop="20251023233000 +0800">
+    <title lang="zh">有線新聞 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023233000 +0800" stop="20251023234500 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-23</title>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251023234500 +0800" stop="20251024001500 +0800">
+    <title lang="zh">開飯啦 2025-10-23</title>
+    <desc>海鮮之中，橫行霸道的蟹可以講最得人歡心! 香濃惹味的「泰式咖喱炒蟹」，要炒得好食，到底有甚麼獨門秘方?家常小食「春卷」一家大細都鐘意! 一甜一鹹的鴛鴦口味，做法簡單，包你一試即食不停口! 李偉強 泰式咖喱炒蟹材料:肉蟹 2隻紅咖喱膏 1湯匙雞蛋 3隻</desc>
+    <date>20251023</date>
+  </programme>
+  <programme channel="77" start="20251024001500 +0800" stop="20251024004500 +0800">
+    <title lang="zh">追素解決師 2025-10-24</title>
+    <desc>素食也分很多種類的，有五辛，Gluten free，Plant base，又有蛋奶素，不知道觀眾能不能夠分辨呢？倒不如問一下今集嘉賓朱慧敏吧，聽說她對很多食物都有敏感，身為佛教徒的她又怎樣處理自己每一天的餐單呢？</desc>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024004500 +0800" stop="20251024010000 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024010000 +0800" stop="20251024030000 +0800">
+    <title lang="zh">HOY 動音樂 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024030000 +0800" stop="20251024060000 +0800">
+    <title lang="zh">魚樂無限 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024060000 +0800" stop="20251024070000 +0800">
+    <title lang="zh">幸福大家姐 Episode 29</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024070000 +0800" stop="20251024080000 +0800">
+    <title lang="zh">凌雲志 Episode 23</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024080000 +0800" stop="20251024090000 +0800">
+    <title lang="zh">會長的愛 Episode 41</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024090000 +0800" stop="20251024093000 +0800">
+    <title lang="zh">開飯啦 2025-10-24</title>
+    <desc>講起腐乳，真係有唔少FANS! 有人淨係用佢撈飯，都已經覺得超滿足! 用佢嚟煮雞，一定令人回味無窮! 軟綿綿嘅魚肚，加埋手拍蝦膠，簡簡單單，已經可以配搭成頂級美味，絕對值得一試! 陳志偉 乳香回味雞材料：雞 半隻 雲耳 80克辣腐乳 30克薑米 10</desc>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024093000 +0800" stop="20251024100000 +0800">
+    <title lang="zh">馬田點食記 台灣篇 2025-10-24</title>
+    <desc>在 台灣，粥的口味各有千秋。有傳統的鹹粥，因其濃郁的口味和營養豐富的特性而聞名，常常成為人們清晨的第一餐，甚至是宵夜。兩位主持先去吃一間粥品專賣店，芋頭鹹粥用料超級有誠意 ，老闆根據季節挑選芋頭，不加人工調味，每口粥都是長時間熬煮出來的精華。他們再去</desc>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024100000 +0800" stop="20251024102500 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024102500 +0800" stop="20251024103000 +0800">
+    <title lang="zh">全運倒數 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024103000 +0800" stop="20251024112500 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 8</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024112500 +0800" stop="20251024113000 +0800">
+    <title lang="zh">全運倒數 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024113000 +0800" stop="20251024122500 +0800">
+    <title lang="zh">幸福大家姐 Episode 30</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024122500 +0800" stop="20251024123000 +0800">
+    <title lang="zh">全運倒數 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024123000 +0800" stop="20251024125500 +0800">
+    <title lang="zh">午間新聞 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024125500 +0800" stop="20251024130000 +0800">
+    <title lang="zh">防災應急18識 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024130000 +0800" stop="20251024133000 +0800">
+    <title lang="zh">一線搜查 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024133000 +0800" stop="20251024140000 +0800">
+    <title lang="zh">東方表行 Take Your Time 特約 : 一個人鐵道行 4 2025-10-24</title>
+    <desc>萬寧看似普通，卻藏著讓人意想不到的「異國小鎮」。不少華僑的故鄉都在這裡，讓整座小鎮混搭著南洋文化與本地熱情。阿倫順著海岸線一路走，先去情侶最愛的打卡地標拍幾張甜到膩的照再扛著衝浪板到有「衝浪勝地」之稱的日月灣，跟海浪正面剛。結果...板子剛立起來就被</desc>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024140000 +0800" stop="20251024143000 +0800">
+    <title lang="zh">健康關注組 2025-10-24</title>
+    <desc>年齡增長、患上慢性病，或者家族遺傳，脂肪同膽固醇就容易積聚在血管壁，形成「動脈粥狀硬化」。當堆積物阻塞腿部血管，走路時腳部突然很痛，甚至痛到走不動，就有可能引發「腳中風」，如果沒有及時處理，會造成壞死、截肢，甚至危及性命！今集就由心臟專科醫生與中醫師</desc>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024143000 +0800" stop="20251024150000 +0800">
+    <title lang="zh">南滋北味 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024150000 +0800" stop="20251024152500 +0800">
+    <title lang="zh">Lolly Lolly寵物拯救隊 2025-10-24</title>
+    <desc>異寵有幾精彩，除了貓貓狗狗，香港人飼養另類寵物也成小熱潮；最受香港人歡迎的異寵首選鳥類及爬蟲類，今集，Yanny 與Elka會與養雀達人Kelvin，一齊帶雀仔外出曬太陽，當中最出眾的大嘴鳥，究竟有甚麼生活習性？不同鸚鵡的性格如何？ 另一小隊包括Si</desc>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024152500 +0800" stop="20251024153000 +0800">
+    <title lang="zh">全運倒數 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024153000 +0800" stop="20251024155500 +0800">
+    <title lang="zh">君九齡 Episode 36</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024155500 +0800" stop="20251024160000 +0800">
+    <title lang="zh">全運倒數 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024160000 +0800" stop="20251024163000 +0800">
+    <title lang="zh">柚木家的四兄弟 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024163000 +0800" stop="20251024170000 +0800">
+    <title lang="zh">龍族拼圖X 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024170000 +0800" stop="20251024173000 +0800">
+    <title lang="zh">新乞嗤大魔王 2025-10-24</title>
+    <desc>跨越50年的時光，乞嗤大魔王和小呵欠回來了！這次他們回來的目的是為了要讓小呵欠成為女王，而且居然還要在小甘的孫子身邊修行！為了找尋現代小學生的夢想，小呵欠努力得不得了！可是，小呵欠超愛惡作劇的的弟弟普太也一起登場，搞得人類世界一團混亂！他們究竟能不能</desc>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024173000 +0800" stop="20251024175500 +0800">
+    <title lang="zh">汪汪隊立大功 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024175500 +0800" stop="20251024180000 +0800">
+    <title lang="zh">全運倒數 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024180000 +0800" stop="20251024183000 +0800">
+    <title lang="zh">追素解決師 2025-10-24</title>
+    <desc>有流傳說食素的人是不會得到心臟病，有沒有那麼誇張呢！是否內有乾坤呢？只是食素和採用橄欖油及低鈉鹽，是否這樣就足夠了？不如問一下今集的嘉賓心臟科專科醫生陳良貴。</desc>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024183000 +0800" stop="20251024190000 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024190000 +0800" stop="20251024195000 +0800">
+    <title lang="zh">7點直播室 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024195000 +0800" stop="20251024200000 +0800">
+    <title lang="zh">28Hse特約 : 每日樓市 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024200000 +0800" stop="20251024202500 +0800">
+    <title lang="zh">一線搜查 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024202500 +0800" stop="20251024203000 +0800">
+    <title lang="zh">全運倒數 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024203000 +0800" stop="20251024210000 +0800">
+    <title lang="zh">東方表行 Take Your Time 特約 : 一個人鐵道行 4 2025-10-24</title>
+    <desc>說到真正走進海南人心裡的味道，一定是「文昌雞」。這集阿倫直奔文昌雞的老家潭牛鎮，捲起袖子親自下場抓雞看看傳說中的海南第一名菜，到底有多會跑！而文昌，擁有長達200公里的海岸線，木蘭灣就藏在其中沿著環島旅遊公路一路開，風車、燈塔輪流出現，海風把心情直接</desc>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024210000 +0800" stop="20251024210500 +0800">
+    <title lang="zh">郭Sir! 學警A班到齊! Episode 25</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024210500 +0800" stop="20251024213000 +0800">
+    <title lang="zh">健康關注組 2025-10-24</title>
+    <desc>腎臟功能是過濾體內的水分與多餘液體，形成尿液；但當患上慢性腎病，腎功能下降，體內體液、電解質與代謝廢棄物含量達到致命程度，就會威脅生命，而有很多疾病早期都毫無先兆，就好像如果個腎出問題，腎臟不會有痛的感覺，有數據指平均等候6年，先可以換腎，所以今集就</desc>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024213000 +0800" stop="20251024215500 +0800">
+    <title lang="zh">南滋北味 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024215500 +0800" stop="20251024220000 +0800">
+    <title lang="zh">全運倒數 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024220000 +0800" stop="20251024230000 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 9</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024230000 +0800" stop="20251024233000 +0800">
+    <title lang="zh">有線新聞 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024233000 +0800" stop="20251024234500 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-24</title>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251024234500 +0800" stop="20251025001500 +0800">
+    <title lang="zh">開飯啦 2025-10-24</title>
+    <desc>講起腐乳，真係有唔少FANS! 有人淨係用佢撈飯，都已經覺得超滿足! 用佢嚟煮雞，一定令人回味無窮! 軟綿綿嘅魚肚，加埋手拍蝦膠，簡簡單單，已經可以配搭成頂級美味，絕對值得一試! 陳志偉 乳香回味雞材料：雞 半隻 雲耳 80克辣腐乳 30克薑米 10</desc>
+    <date>20251024</date>
+  </programme>
+  <programme channel="77" start="20251025001500 +0800" stop="20251025004500 +0800">
+    <title lang="zh">追素解決師 2025-10-25</title>
+    <desc>有流傳說食素的人是不會得到心臟病，有沒有那麼誇張呢！是否內有乾坤呢？只是食素和採用橄欖油及低鈉鹽，是否這樣就足夠了？不如問一下今集的嘉賓心臟科專科醫生陳良貴。</desc>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025004500 +0800" stop="20251025010000 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025010000 +0800" stop="20251025030000 +0800">
+    <title lang="zh">HOY 動音樂 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025030000 +0800" stop="20251025060000 +0800">
+    <title lang="zh">魚樂無限 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025060000 +0800" stop="20251025070000 +0800">
+    <title lang="zh">道地蜂蜜綠茶特約 : 健康原因講多D 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025070000 +0800" stop="20251025090000 +0800">
+    <title lang="zh">Running Man 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025090000 +0800" stop="20251025100000 +0800">
+    <title lang="zh">島上的神奇婆婆2 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025100000 +0800" stop="20251025102500 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025102500 +0800" stop="20251025103000 +0800">
+    <title lang="zh">全運倒數 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025103000 +0800" stop="20251025112500 +0800">
+    <title lang="zh">宜居住遊行 2025-10-25</title>
+    <desc>港幣200百萬，可以在連續十年入選最宜居排行榜十大的吉祥寺做地主兼業主，山系Simon在吉祥寺興建了自己的whisky house 。港人最愛酒店地段—池袋地頭KOL、兼港區OL惠衣子， 找來中國超市，在日本他鄉仍然可以食大閘蟹、買丸打邊爐無難度。</desc>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025112500 +0800" stop="20251025113000 +0800">
+    <title lang="zh">全運倒數 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025113000 +0800" stop="20251025122500 +0800">
+    <title lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 空間改造王 2025-10-25</title>
+    <desc>今集繼續山本家改造工程。甲府落左場大雪，呢場雪愈落愈大，引發咗意料之外嘅狀況。道路同車輛俾積雪淹沒，所有交通完全癱瘓， 擺喺庭院度嘅建材，而家完全俾啲雪掩埋咗嘞，山本家既改造工程，亦都因為咁而中斷左！到底改造工程能唔能夠繼續呢？</desc>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025122500 +0800" stop="20251025123000 +0800">
+    <title lang="zh">全運倒數 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025123000 +0800" stop="20251025130500 +0800">
+    <title lang="zh">午間新聞 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025130500 +0800" stop="20251025133000 +0800">
+    <title lang="zh">一線搜查 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025133000 +0800" stop="20251025140000 +0800">
+    <title lang="zh">趣趣動物樂園 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025140000 +0800" stop="20251025150000 +0800">
+    <title lang="zh">天空達人 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025150000 +0800" stop="20251025152500 +0800">
+    <title lang="zh">嘻哈馬場 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025152500 +0800" stop="20251025153000 +0800">
+    <title lang="zh">全運倒數 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025153000 +0800" stop="20251025155500 +0800">
+    <title lang="zh">活出真我 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025155500 +0800" stop="20251025160000 +0800">
+    <title lang="zh">全運倒數 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025160000 +0800" stop="20251025163000 +0800">
+    <title lang="zh">美斯的奧奇島 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025163000 +0800" stop="20251025170000 +0800">
+    <title lang="zh">超甲蟲戰記 聖域傳說 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025170000 +0800" stop="20251025175500 +0800">
+    <title lang="zh">韓國工藝大師 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025175500 +0800" stop="20251025180000 +0800">
+    <title lang="zh">全運倒數 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025180000 +0800" stop="20251025183000 +0800">
+    <title lang="zh">上海工匠 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025183000 +0800" stop="20251025190000 +0800">
+    <title lang="zh">馬時亨．獅子山精神 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025190000 +0800" stop="20251025192500 +0800">
+    <title lang="zh">7點直播室 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025192500 +0800" stop="20251025193000 +0800">
+    <title lang="zh">防災應急18識 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025193000 +0800" stop="20251025200000 +0800">
+    <title lang="zh">新村之後 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025200000 +0800" stop="20251025202500 +0800">
+    <title lang="zh">安居樂業 2025-10-25</title>
+    <desc>安居樂業過去半年同大家分享過不少裝修個案及小知識，想有一個合適自己的家，安居是第一步，今集主持江嘉將首次帶大家睇樓盤，一個位於何文田豪宅頂層特色單位，月租20萬的賣點是甚麼？另外，會繼續睇裝修個案，要極緻地將家變成心中所想，新樓業主將全屋地板廚房大翻</desc>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025202500 +0800" stop="20251025203000 +0800">
+    <title lang="zh">全運倒數 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025203000 +0800" stop="20251025213000 +0800">
+    <title lang="zh">山旮旯睇樓團 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025213000 +0800" stop="20251025215500 +0800">
+    <title lang="zh">一人店長 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025215500 +0800" stop="20251025220000 +0800">
+    <title lang="zh">全運倒數 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025220000 +0800" stop="20251025230000 +0800">
+    <title lang="zh">道地蜂蜜綠茶特約 : 健康原因講多D 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025230000 +0800" stop="20251025233000 +0800">
+    <title lang="zh">第十五屆全國運動會前奏 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251025233000 +0800" stop="20251026000000 +0800">
+    <title lang="zh">有線新聞 2025-10-25</title>
+    <date>20251025</date>
+  </programme>
+  <programme channel="77" start="20251026000000 +0800" stop="20251026003000 +0800">
+    <title lang="zh">HOY娛樂一周 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026003000 +0800" stop="20251026010000 +0800">
+    <title lang="zh">英國邊忽好 2025-10-26</title>
+    <desc>詩詠探討家長們最關心的英國教育，她到訪了兩間不同的英國寄宿學校。一間是傳統英式氣派、極具儀式感，午飯前需要全體學生配以軍樂隊步操進飯堂！另一間是較現代多元化，學生可以選擇上電競課，真正做到打機是為了學習！</desc>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026010000 +0800" stop="20251026030000 +0800">
+    <title lang="zh">HOY 動音樂 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026030000 +0800" stop="20251026060000 +0800">
+    <title lang="zh">魚樂無限 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026060000 +0800" stop="20251026065500 +0800">
+    <title lang="zh">島上的神奇婆婆2 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026065500 +0800" stop="20251026070000 +0800">
+    <title lang="zh">全運倒數 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026070000 +0800" stop="20251026075500 +0800">
+    <title lang="zh">韓國工藝大師 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026075500 +0800" stop="20251026080000 +0800">
+    <title lang="zh">全運倒數 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026080000 +0800" stop="20251026083000 +0800">
+    <title lang="zh">異鄉人 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026083000 +0800" stop="20251026090000 +0800">
+    <title lang="zh">寵物生意經 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026090000 +0800" stop="20251026095500 +0800">
+    <title lang="zh">道地蜂蜜綠茶特約 : 健康原因講多D 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026095500 +0800" stop="20251026120000 +0800">
+    <title lang="zh">澳洲冠軍聯賽 - 摩頓城精英隊 對 悉尼奧林匹克 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026120000 +0800" stop="20251026122500 +0800">
+    <title lang="zh">HOY娛樂一周 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026122500 +0800" stop="20251026123000 +0800">
+    <title lang="zh">全運倒數 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026123000 +0800" stop="20251026125500 +0800">
+    <title lang="zh">午間新聞 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026125500 +0800" stop="20251026130500 +0800">
+    <title lang="zh">東方表行Take Your Time 特約 : 一刻．時光 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026130500 +0800" stop="20251026140000 +0800">
+    <title lang="zh">道地星期日影院 : 女王之家 Episode 4</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026140000 +0800" stop="20251026150000 +0800">
+    <title lang="zh">道地星期日影院 : 女王之家 Episode 5</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026150000 +0800" stop="20251026152500 +0800">
+    <title lang="zh">異鄉人 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026152500 +0800" stop="20251026153000 +0800">
+    <title lang="zh">全運倒數 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026153000 +0800" stop="20251026155500 +0800">
+    <title lang="zh">寵物生意經 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026155500 +0800" stop="20251026160000 +0800">
+    <title lang="zh">全運倒數 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026160000 +0800" stop="20251026163000 +0800">
+    <title lang="zh">美斯的奧奇島 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026163000 +0800" stop="20251026170000 +0800">
+    <title lang="zh">超甲蟲戰記 聖域傳說 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026170000 +0800" stop="20251026175500 +0800">
+    <title lang="zh">野花 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026175500 +0800" stop="20251026180000 +0800">
+    <title lang="zh">全運倒數 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026180000 +0800" stop="20251026183000 +0800">
+    <title lang="zh">上海工匠 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026183000 +0800" stop="20251026190000 +0800">
+    <title lang="zh">臉龐・故土 - 新鄉村故事 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026190000 +0800" stop="20251026193000 +0800">
+    <title lang="zh">7點直播室 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026193000 +0800" stop="20251026200000 +0800">
+    <title lang="zh">五平方Squarefoot特約 : 樓盤傳真 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026200000 +0800" stop="20251026205500 +0800">
+    <title lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 空間改造王 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026205500 +0800" stop="20251026210000 +0800">
+    <title lang="zh">全運倒數 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026210000 +0800" stop="20251026215500 +0800">
+    <title lang="zh">畀你飛住賺回贈嘅WeWa卡呈獻 : 臥底旅行團 5.0 2025-10-26</title>
+    <desc>臥底5.0最後任務潛伏「不一樣的越南」。去到機場先至知無團友，跟團變包團，係無團友掩護下危機升級，臥底行動會唔會受制肘？當地導遊不停係車上sell嘢，當中包括難為正邪定分界嘅越式按摩，臥底會否中邪呢？大隊攀山涉水去到自稱大自然鬼斧神工嘅“仙女溪”，簡</desc>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026215500 +0800" stop="20251026220000 +0800">
+    <title lang="zh">全運倒數 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026220000 +0800" stop="20251026223000 +0800">
+    <title lang="zh">機場大揭秘 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026223000 +0800" stop="20251026233000 +0800">
+    <title lang="zh">奇職修補師 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026233000 +0800" stop="20251026235500 +0800">
+    <title lang="zh">有線新聞 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251026235500 +0800" stop="20251027000000 +0800">
+    <title lang="zh">東方表行Take Your Time 特約 : 一刻．時光 2025-10-26</title>
+    <date>20251026</date>
+  </programme>
+  <programme channel="77" start="20251027000000 +0800" stop="20251027003000 +0800">
+    <title lang="zh">嘻哈馬場 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027003000 +0800" stop="20251027010000 +0800">
+    <title lang="zh">五平方Squarefoot特約 : 樓盤傳真 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027010000 +0800" stop="20251027030000 +0800">
+    <title lang="zh">HOY 動音樂 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027030000 +0800" stop="20251027060000 +0800">
+    <title lang="zh">魚樂無限 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027060000 +0800" stop="20251027070000 +0800">
+    <title lang="zh">幸福大家姐 Episode 30</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027070000 +0800" stop="20251027080000 +0800">
+    <title lang="zh">凌雲志 Episode 24</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027080000 +0800" stop="20251027090000 +0800">
+    <title lang="zh">會長的愛 Episode 42</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027090000 +0800" stop="20251027093000 +0800">
+    <title lang="zh">開飯啦 2025-10-27</title>
+    <desc>大廚教你煮「鮮磨豆漿海蜆魚頭煲」，用豆漿帶出材料原味道，鮮味十足! 再加一個「醬油水香煎魚唇」，一定愈食愈滋味! 陳超平 鮮磨豆漿海蜆魚頭煲大魚頭 1個鮮蜆 200克無糖豆漿 500毫升紹菜 1棵雞湯 500毫升做法：大魚頭清洗乾淨，瀝乾備用蜆浸淡鹽</desc>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027093000 +0800" stop="20251027100000 +0800">
+    <title lang="zh">馬田點食記 台灣篇 2025-10-27</title>
+    <desc>要吃地道台灣味料理就一定要去老台的萬華區   兩人先到已經紅到韓國開分店的生魚片專賣店，份量超大又新鮮的鮭魚生魚片根本不是「片」，而是厚切鮭魚，熱愛生魚片的錠欣馬上放進口袋名單，還一直說怎麼都沒人帶她來這吃，太晚知道了。萬華區也有古早味甜品，阿嬤時代</desc>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027100000 +0800" stop="20251027102500 +0800">
+    <title lang="zh">機場大揭秘 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027102500 +0800" stop="20251027103000 +0800">
+    <title lang="zh">全運倒數 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027103000 +0800" stop="20251027112500 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 9</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027112500 +0800" stop="20251027113000 +0800">
+    <title lang="zh">全運倒數 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027113000 +0800" stop="20251027122500 +0800">
+    <title lang="zh">幸福大家姐 Episode 31</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027122500 +0800" stop="20251027123000 +0800">
+    <title lang="zh">全運倒數 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027123000 +0800" stop="20251027125500 +0800">
+    <title lang="zh">午間新聞 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027125500 +0800" stop="20251027130000 +0800">
+    <title lang="zh">防災應急18識 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027130000 +0800" stop="20251027133000 +0800">
+    <title lang="zh">英國邊忽好 2025-10-27</title>
+    <desc>想子女考進牛津、劍橋等名牌大學的家長，必看！詩詠到訪英國有「A工廠」之稱的Sixth Form College, 老師、同學分享要考入名校事前要準備事項。詩詠更帶香港DSE試卷讓當地學生挑戰。看過學校，詩詠上學癮起，學習英式餐桌禮儀，發現很多日常以為</desc>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027133000 +0800" stop="20251027140000 +0800">
+    <title lang="zh">東方表行 Take Your Time 特約 : 一個人鐵道行 4 2025-10-27</title>
+    <desc>說到真正走進海南人心裡的味道，一定是「文昌雞」。這集阿倫直奔文昌雞的老家潭牛鎮，捲起袖子親自下場抓雞看看傳說中的海南第一名菜，到底有多會跑！而文昌，擁有長達200公里的海岸線，木蘭灣就藏在其中沿著環島旅遊公路一路開，風車、燈塔輪流出現，海風把心情直接</desc>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027140000 +0800" stop="20251027143000 +0800">
+    <title lang="zh">健康關注組 2025-10-27</title>
+    <desc>腎臟功能是過濾體內的水分與多餘液體，形成尿液；但當患上慢性腎病，腎功能下降，體內體液、電解質與代謝廢棄物含量達到致命程度，就會威脅生命，而有很多疾病早期都毫無先兆，就好像如果個腎出問題，腎臟不會有痛的感覺，有數據指平均等候6年，先可以換腎，所以今集就</desc>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027143000 +0800" stop="20251027152500 +0800">
+    <title lang="zh">畀你飛住賺回贈嘅WeWa卡呈獻 : 臥底旅行團 5.0 2025-10-27</title>
+    <desc>臥底5.0最後任務潛伏「不一樣的越南」。去到機場先至知無團友，跟團變包團，係無團友掩護下危機升級，臥底行動會唔會受制肘？當地導遊不停係車上sell嘢，當中包括難為正邪定分界嘅越式按摩，臥底會否中邪呢？大隊攀山涉水去到自稱大自然鬼斧神工嘅“仙女溪”，簡</desc>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027152500 +0800" stop="20251027153000 +0800">
+    <title lang="zh">全運倒數 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027153000 +0800" stop="20251027155500 +0800">
+    <title lang="zh">君九齡 Episode 37</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027155500 +0800" stop="20251027160000 +0800">
+    <title lang="zh">全運倒數 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027160000 +0800" stop="20251027163000 +0800">
+    <title lang="zh">柚木家的四兄弟 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027163000 +0800" stop="20251027170000 +0800">
+    <title lang="zh">龍族拼圖X 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027170000 +0800" stop="20251027173000 +0800">
+    <title lang="zh">新乞嗤大魔王 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027173000 +0800" stop="20251027175500 +0800">
+    <title lang="zh">汪汪隊立大功 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027175500 +0800" stop="20251027180000 +0800">
+    <title lang="zh">全運倒數 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027180000 +0800" stop="20251027183000 +0800">
+    <title lang="zh">追素解決師 2025-10-27</title>
+    <desc>香港地方那麼小，想種植物是否一定要遠離市區找地方？今集嘉賓善用空間，市區也可以種植物？你們沒有發現嗎？在空中的田園當然沒有那麼容易被發現呢。</desc>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027183000 +0800" stop="20251027190000 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027190000 +0800" stop="20251027195000 +0800">
+    <title lang="zh">7點直播室 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027195000 +0800" stop="20251027200000 +0800">
+    <title lang="zh">28Hse特約 : 每日樓市 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027200000 +0800" stop="20251027202500 +0800">
+    <title lang="zh">一線搜查 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027202500 +0800" stop="20251027203000 +0800">
+    <title lang="zh">全運倒數 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027203000 +0800" stop="20251027210000 +0800">
+    <title lang="zh">東方表行 Take Your Time 特約 : 一個人鐵道行 4 2025-10-27</title>
+    <desc>到海口博物館，沿著展廳的時間線倒帶：海民怎麼看風向、追潮汐，把日子過成一門本事。走出來轉進騎樓老街，小茶館坐一下，端杯老爸茶、配兩樣點心，把歷史先喝進肚。天黑了，換去村口戲棚「追劇」：最接地氣的 Live House——瓊劇這麼愛湊熱鬧的阿倫，怎樣都</desc>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027210000 +0800" stop="20251027213000 +0800">
+    <title lang="zh">健康關注組 2025-10-27</title>
+    <desc>缺乏運動，可以說是萬病之源，尤其是文職人士，經常坐少活動，不單止會助長肥胖問題，同時亦提高各種慢性病的發生機率，尤其是心臟病！而有心臟病的人，可能會擔心運動時會猝死，究竟甚麼是「隱性心臟病」？做運動會否有危險？今集就由醫生與運動醫學專家，講解不同年齡</desc>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027213000 +0800" stop="20251027215500 +0800">
+    <title lang="zh">來頓燒烤 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027215500 +0800" stop="20251027220000 +0800">
+    <title lang="zh">全運倒數 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027220000 +0800" stop="20251027230000 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 10</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027230000 +0800" stop="20251027233000 +0800">
+    <title lang="zh">有線新聞 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027233000 +0800" stop="20251027234500 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-27</title>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251027234500 +0800" stop="20251028001500 +0800">
+    <title lang="zh">開飯啦 2025-10-27</title>
+    <desc>大廚教你煮「鮮磨豆漿海蜆魚頭煲」，用豆漿帶出材料原味道，鮮味十足! 再加一個「醬油水香煎魚唇」，一定愈食愈滋味! 陳超平 鮮磨豆漿海蜆魚頭煲大魚頭 1個鮮蜆 200克無糖豆漿 500毫升紹菜 1棵雞湯 500毫升做法：大魚頭清洗乾淨，瀝乾備用蜆浸淡鹽</desc>
+    <date>20251027</date>
+  </programme>
+  <programme channel="77" start="20251028001500 +0800" stop="20251028004500 +0800">
+    <title lang="zh">追素解決師 2025-10-28</title>
+    <desc>香港地方那麼小，想種植物是否一定要遠離市區找地方？今集嘉賓善用空間，市區也可以種植物？你們沒有發現嗎？在空中的田園當然沒有那麼容易被發現呢。</desc>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028004500 +0800" stop="20251028010000 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028010000 +0800" stop="20251028030000 +0800">
+    <title lang="zh">HOY 動音樂 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028030000 +0800" stop="20251028060000 +0800">
+    <title lang="zh">魚樂無限 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028060000 +0800" stop="20251028070000 +0800">
+    <title lang="zh">幸福大家姐 Episode 31</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028070000 +0800" stop="20251028080000 +0800">
+    <title lang="zh">凌雲志 Episode 25</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028080000 +0800" stop="20251028085500 +0800">
+    <title lang="zh">會長的愛 Episode 43</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028085500 +0800" stop="20251028090000 +0800">
+    <title lang="zh">防災應急18識 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028090000 +0800" stop="20251028093000 +0800">
+    <title lang="zh">開飯啦 2025-10-28</title>
+    <desc>家家戶戶都有屬於自己的蒸肉餅配方! 有人喜歡加梅菜，有人就鐘意加鹹魚!至於「鹹蛋蒸肉餅」，相信一定是最多人煮的家常菜式!「煎釀豆腐」，就是肉碎加豆腐，看似平平無奇，但只要煮得出色，包你白飯都可以添多兩碗! 葉世昌 鹹蛋蒸肉餅材料:豬肉碎(6分瘦4分肥</desc>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028093000 +0800" stop="20251028100000 +0800">
+    <title lang="zh">馬田點食記 台灣篇 2025-10-28</title>
+    <desc>華西街夜市或許不是最熱門、最多遊客選擇的夜市，但它卻是米芝蓮指南推薦最密集的夜市。短短一條街上就連續有好幾間必吃美食，有從路邊攤做到店面的黑金滷肉飯、未開店就大排長龍、肥瘦各半的刈包，還有滿到像座小山、被客人笑稱吃完會痛風的蚵仔滷肉飯。最後是傳承三代</desc>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028100000 +0800" stop="20251028102500 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028102500 +0800" stop="20251028103000 +0800">
+    <title lang="zh">全運倒數 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028103000 +0800" stop="20251028112500 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 10</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028112500 +0800" stop="20251028113000 +0800">
+    <title lang="zh">全運倒數 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028113000 +0800" stop="20251028122500 +0800">
+    <title lang="zh">幸福大家姐 Episode 32</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028122500 +0800" stop="20251028123000 +0800">
+    <title lang="zh">全運倒數 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028123000 +0800" stop="20251028130000 +0800">
+    <title lang="zh">午間新聞 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028130000 +0800" stop="20251028133000 +0800">
+    <title lang="zh">一線搜查 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028133000 +0800" stop="20251028140000 +0800">
+    <title lang="zh">東方表行 Take Your Time 特約 : 一個人鐵道行 4 2025-10-28</title>
+    <desc>到海口博物館，沿著展廳的時間線倒帶：海民怎麼看風向、追潮汐，把日子過成一門本事。走出來轉進騎樓老街，小茶館坐一下，端杯老爸茶、配兩樣點心，把歷史先喝進肚。天黑了，換去村口戲棚「追劇」：最接地氣的 Live House——瓊劇這麼愛湊熱鬧的阿倫，怎樣都</desc>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028140000 +0800" stop="20251028143000 +0800">
+    <title lang="zh">健康關注組 2025-10-28</title>
+    <desc>缺乏運動，可以說是萬病之源，尤其是文職人士，經常坐少活動，不單止會助長肥胖問題，同時亦提高各種慢性病的發生機率，尤其是心臟病！而有心臟病的人，可能會擔心運動時會猝死，究竟甚麼是「隱性心臟病」？做運動會否有危險？今集就由醫生與運動醫學專家，講解不同年齡</desc>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028143000 +0800" stop="20251028150000 +0800">
+    <title lang="zh">來頓燒烤 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028150000 +0800" stop="20251028152500 +0800">
+    <title lang="zh">安居樂業 2025-10-28</title>
+    <desc>安居樂業過去半年同大家分享過不少裝修個案及小知識，想有一個合適自己的家，安居是第一步，今集主持江嘉將首次帶大家睇樓盤，一個位於何文田豪宅頂層特色單位，月租20萬的賣點是甚麼？另外，會繼續睇裝修個案，要極緻地將家變成心中所想，新樓業主將全屋地板廚房大翻</desc>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028152500 +0800" stop="20251028153000 +0800">
+    <title lang="zh">全運倒數 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028153000 +0800" stop="20251028155500 +0800">
+    <title lang="zh">君九齡 Episode 38</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028155500 +0800" stop="20251028160000 +0800">
+    <title lang="zh">全運倒數 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028160000 +0800" stop="20251028163000 +0800">
+    <title lang="zh">柚木家的四兄弟 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028163000 +0800" stop="20251028170000 +0800">
+    <title lang="zh">龍族拼圖X 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028170000 +0800" stop="20251028173000 +0800">
+    <title lang="zh">新乞嗤大魔王 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028173000 +0800" stop="20251028175500 +0800">
+    <title lang="zh">汪汪隊立大功 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028175500 +0800" stop="20251028180000 +0800">
+    <title lang="zh">全運倒數 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028180000 +0800" stop="20251028183000 +0800">
+    <title lang="zh">追素解決師 2025-10-28</title>
+    <desc>山草藥大家聽得多，大家覺得中藥算是素嗎？如果不是素的話，食素的人可以食中藥嗎？今集邀請了兩位中醫界的型男為大家解答這些疑團吧。</desc>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028183000 +0800" stop="20251028190000 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028190000 +0800" stop="20251028195000 +0800">
+    <title lang="zh">7點直播室 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028195000 +0800" stop="20251028200000 +0800">
+    <title lang="zh">28Hse特約 : 每日樓市 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028200000 +0800" stop="20251028202500 +0800">
+    <title lang="zh">一線搜查 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028202500 +0800" stop="20251028203000 +0800">
+    <title lang="zh">全運倒數 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028203000 +0800" stop="20251028210000 +0800">
+    <title lang="zh">東方表行 Take Your Time 特約 : 一個人鐵道行 4 2025-10-28</title>
+    <desc>很多人來昆明，不是為了旅行，而是把它當作轉機去大理、轉車往西雙版納的中繼站。久而久之，這座城市就被默默標在地圖上：‘過一下就走’。這一次，阿倫決定不轉站，好好停下來，重新認識這座常被忽略的城市。從滇池與翠湖的湖光開始，接著鑽進一家小咖啡館，點了一杯神</desc>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028210000 +0800" stop="20251028213000 +0800">
+    <title lang="zh">健康關注組 2025-10-28</title>
+    <desc>皮膚癌是香港常見癌症之一，根據香港癌症資料統計中心數字，2022年就有1097宗皮膚癌新症，當中大約有100宗是「黑色素瘤」，而「黑色素瘤」的死亡率是皮膚癌當中最高，原來在美國，當地白人一生中，患黑色素瘤的風險大約有2.6%，而黑人就低很多，大約是0</desc>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028213000 +0800" stop="20251028215500 +0800">
+    <title lang="zh">來頓燒烤 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028215500 +0800" stop="20251028220000 +0800">
+    <title lang="zh">全運倒數 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028220000 +0800" stop="20251028230000 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 11</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028230000 +0800" stop="20251028233000 +0800">
+    <title lang="zh">有線新聞 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028233000 +0800" stop="20251028234500 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-28</title>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251028234500 +0800" stop="20251029001500 +0800">
+    <title lang="zh">開飯啦 2025-10-28</title>
+    <desc>家家戶戶都有屬於自己的蒸肉餅配方! 有人喜歡加梅菜，有人就鐘意加鹹魚!至於「鹹蛋蒸肉餅」，相信一定是最多人煮的家常菜式!「煎釀豆腐」，就是肉碎加豆腐，看似平平無奇，但只要煮得出色，包你白飯都可以添多兩碗! 葉世昌 鹹蛋蒸肉餅材料:豬肉碎(6分瘦4分肥</desc>
+    <date>20251028</date>
+  </programme>
+  <programme channel="77" start="20251029001500 +0800" stop="20251029004500 +0800">
+    <title lang="zh">追素解決師 2025-10-29</title>
+    <desc>山草藥大家聽得多，大家覺得中藥算是素嗎？如果不是素的話，食素的人可以食中藥嗎？今集邀請了兩位中醫界的型男為大家解答這些疑團吧。</desc>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029004500 +0800" stop="20251029010000 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029010000 +0800" stop="20251029030000 +0800">
+    <title lang="zh">HOY 動音樂 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029030000 +0800" stop="20251029060000 +0800">
+    <title lang="zh">魚樂無限 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029060000 +0800" stop="20251029070000 +0800">
+    <title lang="zh">幸福大家姐 Episode 32</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029070000 +0800" stop="20251029080000 +0800">
+    <title lang="zh">凌雲志 Episode 26</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029080000 +0800" stop="20251029085500 +0800">
+    <title lang="zh">會長的愛 Episode 44</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029085500 +0800" stop="20251029090000 +0800">
+    <title lang="zh">防災應急18識 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029090000 +0800" stop="20251029093000 +0800">
+    <title lang="zh">開飯啦 2025-10-29</title>
+    <desc>想煮經典菜式，只要學識箇中技巧，人人都可成為家中大廚! 「紅燒獅子頭」一出場，絕對可以為你贏盡掌聲! 要煮得美味，只要依照足步驟，新手都同樣可煮得似模似樣! 「金薯甜酸雞球」集合酸、甜於一身，惹味十足，定能讓你一試難忘!陳超平  紅燒獅子頭材料:豬肉</desc>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029093000 +0800" stop="20251029102500 +0800">
+    <title lang="zh">百元商品 2 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029102500 +0800" stop="20251029103000 +0800">
+    <title lang="zh">全運倒數 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029103000 +0800" stop="20251029110000 +0800">
+    <title lang="zh">飛機巨無霸 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029110000 +0800" stop="20251029112500 +0800">
+    <title lang="zh">江湖菜館 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029112500 +0800" stop="20251029113000 +0800">
+    <title lang="zh">全運倒數 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029113000 +0800" stop="20251029122500 +0800">
+    <title lang="zh">日本廚師大對決 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029122500 +0800" stop="20251029123000 +0800">
+    <title lang="zh">全運倒數 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029123000 +0800" stop="20251029130000 +0800">
+    <title lang="zh">午間新聞 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029130000 +0800" stop="20251029133000 +0800">
+    <title lang="zh">一線搜查 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029133000 +0800" stop="20251029140000 +0800">
+    <title lang="zh">東方表行 Take Your Time 特約 : 一個人鐵道行 4 2025-10-29</title>
+    <desc>很多人來昆明，不是為了旅行，而是把它當作轉機去大理、轉車往西雙版納的中繼站。久而久之，這座城市就被默默標在地圖上：‘過一下就走’。這一次，阿倫決定不轉站，好好停下來，重新認識這座常被忽略的城市。從滇池與翠湖的湖光開始，接著鑽進一家小咖啡館，點了一杯神</desc>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029140000 +0800" stop="20251029143000 +0800">
+    <title lang="zh">健康關注組 2025-10-29</title>
+    <desc>皮膚癌是香港常見癌症之一，根據香港癌症資料統計中心數字，2022年就有1097宗皮膚癌新症，當中大約有100宗是「黑色素瘤」，而「黑色素瘤」的死亡率是皮膚癌當中最高，原來在美國，當地白人一生中，患黑色素瘤的風險大約有2.6%，而黑人就低很多，大約是0</desc>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029143000 +0800" stop="20251029150000 +0800">
+    <title lang="zh">來頓燒烤 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029150000 +0800" stop="20251029152500 +0800">
+    <title lang="zh">黑白大廚滋味行 2025-10-29</title>
+    <desc>從綽號便可看出擅長的領域是肉類，「肉類黑幫」在第一輪比賽便以他豪邁卻細心處理肉品的模樣引起大家注意。面對「最強的一道料理」這個題目，他選擇端出外表西式、口味韓式的紅酒燉排骨，致敬法式家常菜紅酒燉牛肉，毫無違和的結合了兩國元素。擁有16年料理經驗的「肉</desc>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029152500 +0800" stop="20251029153000 +0800">
+    <title lang="zh">全運倒數 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029153000 +0800" stop="20251029155500 +0800">
+    <title lang="zh">君九齡 Episode 39</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029155500 +0800" stop="20251029160000 +0800">
+    <title lang="zh">全運倒數 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029160000 +0800" stop="20251029163000 +0800">
+    <title lang="zh">柚木家的四兄弟 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029163000 +0800" stop="20251029170000 +0800">
+    <title lang="zh">龍族拼圖X 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029170000 +0800" stop="20251029173000 +0800">
+    <title lang="zh">新乞嗤大魔王 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029173000 +0800" stop="20251029175500 +0800">
+    <title lang="zh">汪汪隊立大功 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029175500 +0800" stop="20251029180000 +0800">
+    <title lang="zh">全運倒數 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029180000 +0800" stop="20251029183000 +0800">
+    <title lang="zh">追素解決師 2025-10-29</title>
+    <desc>今集邀請的嘉賓，除了玩花劍了得之外，揸鑊鏟也難不倒他，下廚是他第二個興趣，讓香港劍擊代表張小倫及他師妹連翊希分享劍擊生涯的趣事。</desc>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029183000 +0800" stop="20251029190000 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029190000 +0800" stop="20251029193000 +0800">
+    <title lang="zh">7點直播室 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029193000 +0800" stop="20251029195000 +0800">
+    <title lang="zh">江湖菜館 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029195000 +0800" stop="20251029200000 +0800">
+    <title lang="zh">防災應急18識 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029200000 +0800" stop="20251029202500 +0800">
+    <title lang="zh">一線搜查 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029202500 +0800" stop="20251029203000 +0800">
+    <title lang="zh">全運倒數 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029203000 +0800" stop="20251029210000 +0800">
+    <title lang="zh">東方表行 Take Your Time 特約 : 一個人鐵道行 4 2025-10-29</title>
+    <desc>用一碗地道的豆花米線打開味蕾——在雲南，連花都能上桌，連冰也有自己的風味。接著轉進雲南花卉的集散大本營，夜越深越熱鬧，花車進場，拍賣槌聲此起彼落，整座城市像被花香喚醒。阿倫鑽進昆明最神祕的角落——「鬼市」：古董、文玩、玉石、舊書、銅器攤位一路鋪開，真</desc>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029210000 +0800" stop="20251029213000 +0800">
+    <title lang="zh">健康關注組 2025-10-29</title>
+    <desc>年紀大、肥胖、糖尿病或者高血壓人士，都容易出現心房顫動，據估計，心房顫動在香港成年人人口中佔百分之一，最嚴重的併發症就是中風！而心房顫動引起的中風機率，更是一般人的五倍！而10月29日是世界中風關注日，大家一定要關注心房顫動與中風，所以今集主題就是心</desc>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029213000 +0800" stop="20251029215500 +0800">
+    <title lang="zh">來頓燒烤 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029215500 +0800" stop="20251029220000 +0800">
+    <title lang="zh">全運倒數 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029220000 +0800" stop="20251029230000 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 12</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029230000 +0800" stop="20251029233000 +0800">
+    <title lang="zh">有線新聞 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029233000 +0800" stop="20251029234500 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-29</title>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251029234500 +0800" stop="20251030001500 +0800">
+    <title lang="zh">開飯啦 2025-10-29</title>
+    <desc>想煮經典菜式，只要學識箇中技巧，人人都可成為家中大廚! 「紅燒獅子頭」一出場，絕對可以為你贏盡掌聲! 要煮得美味，只要依照足步驟，新手都同樣可煮得似模似樣! 「金薯甜酸雞球」集合酸、甜於一身，惹味十足，定能讓你一試難忘!陳超平  紅燒獅子頭材料:豬肉</desc>
+    <date>20251029</date>
+  </programme>
+  <programme channel="77" start="20251030001500 +0800" stop="20251030004500 +0800">
+    <title lang="zh">追素解決師 2025-10-30</title>
+    <desc>今集邀請的嘉賓，除了玩花劍了得之外，揸鑊鏟也難不倒他，下廚是他第二個興趣，讓香港劍擊代表張小倫及他師妹連翊希分享劍擊生涯的趣事。</desc>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030004500 +0800" stop="20251030010000 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030010000 +0800" stop="20251030030000 +0800">
+    <title lang="zh">HOY 動音樂 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030030000 +0800" stop="20251030060000 +0800">
+    <title lang="zh">魚樂無限 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030060000 +0800" stop="20251030070000 +0800">
+    <title lang="zh">百元商品 2 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030070000 +0800" stop="20251030080000 +0800">
+    <title lang="zh">凌雲志 Episode 27</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030080000 +0800" stop="20251030085500 +0800">
+    <title lang="zh">會長的愛 Episode 45</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030085500 +0800" stop="20251030090000 +0800">
+    <title lang="zh">防災應急18識 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030090000 +0800" stop="20251030093000 +0800">
+    <title lang="zh">開飯啦 2025-10-30</title>
+    <desc>酸酸甜甜的菜式一向大受歡迎! 用意大利黑醋配搭肉厚的西班牙豬肋條，絕對滋味開胃! 咕嚕肉大家食得多，今日轉轉口味，加入新煮意，煮一道「咕嚕金球」，相信大家看見已流口水! 李偉強 咕嚕金球材料：免治豬肉 300克豆腐卜 15粒乾蔥碎 3粒生粉(撲粉用)</desc>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030093000 +0800" stop="20251030100000 +0800">
+    <title lang="zh">馬田點食記 台灣篇 2025-10-30</title>
+    <desc>講到平民美食怎能錯過炒飯？台灣的炒飯融合了中國內地及本地各種口味，但客家的茶油大蝦炒飯倒真的是第一次見，茶油炒飯粒粒分明,米飯包覆茶油香氣而不油膩，讓兩人超級驚訝。還有充滿鮭魚卵的豪華炒飯，好吃到讓錠欣喊著要打包回家繼續吃。但是要講最多元化的絕對是位</desc>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030100000 +0800" stop="20251030102500 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030102500 +0800" stop="20251030103000 +0800">
+    <title lang="zh">全運倒數 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030103000 +0800" stop="20251030112500 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 12</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030112500 +0800" stop="20251030113000 +0800">
+    <title lang="zh">全運倒數 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030113000 +0800" stop="20251030122500 +0800">
+    <title lang="zh">幸福大家姐 Episode 33</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030122500 +0800" stop="20251030123000 +0800">
+    <title lang="zh">全運倒數 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030123000 +0800" stop="20251030130000 +0800">
+    <title lang="zh">午間新聞 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030130000 +0800" stop="20251030133000 +0800">
+    <title lang="zh">一線搜查 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030133000 +0800" stop="20251030140000 +0800">
+    <title lang="zh">東方表行 Take Your Time 特約 : 一個人鐵道行 4 2025-10-30</title>
+    <desc>用一碗地道的豆花米線打開味蕾——在雲南，連花都能上桌，連冰也有自己的風味。接著轉進雲南花卉的集散大本營，夜越深越熱鬧，花車進場，拍賣槌聲此起彼落，整座城市像被花香喚醒。阿倫鑽進昆明最神祕的角落——「鬼市」：古董、文玩、玉石、舊書、銅器攤位一路鋪開，真</desc>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030140000 +0800" stop="20251030143000 +0800">
+    <title lang="zh">健康關注組 2025-10-30</title>
+    <desc>年紀大、肥胖、糖尿病或者高血壓人士，都容易出現心房顫動，據估計，心房顫動在香港成年人人口中佔百分之一，最嚴重的併發症就是中風！而心房顫動引起的中風機率，更是一般人的五倍！而10月29日是世界中風關注日，大家一定要關注心房顫動與中風，所以今集主題就是心</desc>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030143000 +0800" stop="20251030150000 +0800">
+    <title lang="zh">來頓燒烤 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030150000 +0800" stop="20251030152500 +0800">
+    <title lang="zh">Lolly Lolly寵物拯救隊 2025-10-30</title>
+    <desc>今集會延續異寵的主題，拯救隊會為主人們，了解照顧異寵們的小貼士及方式；Yanny與Tania 會去搵刺蝟協會創辦人，了解刺蝟呢種寵物的特性，外表可愛的刺蝟性格係點？要好好照顧佢哋又有咩要留意？另一小隊Sinnie 及阿蛋，就會去認識兩隻雪貂，究竟呢種</desc>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030152500 +0800" stop="20251030153000 +0800">
+    <title lang="zh">全運倒數 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030153000 +0800" stop="20251030155500 +0800">
+    <title lang="zh">君九齡 Episode 40</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030155500 +0800" stop="20251030160000 +0800">
+    <title lang="zh">全運倒數 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030160000 +0800" stop="20251030163000 +0800">
+    <title lang="zh">柚木家的四兄弟 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030163000 +0800" stop="20251030170000 +0800">
+    <title lang="zh">龍族拼圖X 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030170000 +0800" stop="20251030173000 +0800">
+    <title lang="zh">新乞嗤大魔王 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030173000 +0800" stop="20251030175500 +0800">
+    <title lang="zh">汪汪隊立大功 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030175500 +0800" stop="20251030180000 +0800">
+    <title lang="zh">全運倒數 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030180000 +0800" stop="20251030183000 +0800">
+    <title lang="zh">追素解決師 2025-10-30</title>
+    <desc>有瑜伽經驗的觀眾也未必聽過，在瑜伽的領域裡，食物劃分為「悅性、變性、惰性」三大類。單人匹馬去印度修練瑜伽，放棄高薪厚職，追夢做瑜伽導師，你又有沒有膽量？今集讓兩位瑜伽導師分享他們的經歷吧。</desc>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030183000 +0800" stop="20251030190000 +0800">
+    <title lang="zh">地膽帶路日本遊 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030190000 +0800" stop="20251030195000 +0800">
+    <title lang="zh">7點直播室 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030195000 +0800" stop="20251030200000 +0800">
+    <title lang="zh">28Hse特約 : 每日樓市 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030200000 +0800" stop="20251030202500 +0800">
+    <title lang="zh">一線搜查 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030202500 +0800" stop="20251030203000 +0800">
+    <title lang="zh">全運倒數 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030203000 +0800" stop="20251030210000 +0800">
+    <title lang="zh">東方表行 Take Your Time 特約 : 一個人鐵道行 4 2025-10-30</title>
+    <desc>一下到版納，下火車就被熱帶味包住，像瞬間飛到東南亞；空氣裡是太陽＋香料的味道。先轉去勐泐大佛寺，繞塔求個好彩頭、爬高看整座城；園區還有機甲大象巡遊，走一圈像把佛寺拍成流動的畫。吃一頓有儀式感的『孔雀宴手抓飯』，傣味瞬間拉滿。夜裡就去星光夜市晃一圈，烤</desc>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030210000 +0800" stop="20251030213000 +0800">
+    <title lang="zh">健康關注組 2025-10-30</title>
+    <desc>本港大約有40萬人患上哮喘，當中18歲以下患者接近10萬人，老中青都有機會患上哮喘，隨著醫療科技的發展，哮喘是可以康復，但亦都有不少患者，在治療中經常復發，嚴重影響日常生活，而轉天氣會令哮喘發作，就連雷暴都與哮喘有關，今集就由呼吸系統科專科醫生與中醫</desc>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030213000 +0800" stop="20251030215500 +0800">
+    <title lang="zh">來頓燒烤 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030215500 +0800" stop="20251030220000 +0800">
+    <title lang="zh">全運倒數 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030220000 +0800" stop="20251030230000 +0800">
+    <title lang="zh">灰姑娘遊戲 Episode 13</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030230000 +0800" stop="20251030233000 +0800">
+    <title lang="zh">有線新聞 2025-10-30</title>
+    <date>20251030</date>
+  </programme>
+  <programme channel="77" start="20251030233000 +0800" stop="20251030234500 +0800">
+    <title lang="zh">娛樂頭條 E-news Headline 2025-10-30</title>
     <date>20251030</date>
   </programme>
 </tv>
