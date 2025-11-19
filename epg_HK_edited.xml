@@ -636,42 +636,52 @@
   </channel>
   <channel id="1004076">
     <display-name lang="en">[iCable] 76 HKIBC 香港國際財經台</display-name>
+    <icon src="https://storage.hoy.tv/v1/image/channel/1.jpg" />
     <url>http://www.hoy.tv</url>
   </channel>
   <channel id="1004077">
     <display-name lang="en">[iCable] 77 HOY</display-name>
+    <icon src="https://storage.hoy.tv/v1/image/channel/2.jpg" />
     <url>http://www.hoy.tv</url>
   </channel>
   <channel id="1004078">
     <display-name lang="en">[iCable] 78 HOY 資訊台</display-name>
+    <icon src="https://storage.hoy.tv/v1/image/channel/3.jpg" />
     <url>http://www.hoy.tv</url>
   </channel>
   <channel id="1004091">
     <display-name lang="en">[iCable] 91 HOY Lifestyle</display-name>
+    <icon src="https://storage.hoy.tv/v1/image/channel/8.jpg" />
     <url>http://www.hoy.tv</url>
   </channel>
   <channel id="1004092">
     <display-name lang="en">[iCable] 92 HOY Drama</display-name>
+    <icon src="https://storage.hoy.tv/v1/image/channel/9.jpg" />
     <url>http://www.hoy.tv</url>
   </channel>
   <channel id="1004093">
     <display-name lang="en">[iCable] 93 HOY Paranormal</display-name>
+    <icon src="https://storage.hoy.tv/v1/image/channel/10.jpg" />
     <url>http://www.hoy.tv</url>
   </channel>
   <channel id="1004094">
     <display-name lang="en">[iCable] 94 HOY體育台</display-name>
+    <icon src="https://storage.hoy.tv/v1/image/channel/11.jpg" />
     <url>http://www.hoy.tv</url>
   </channel>
   <channel id="1004096">
     <display-name lang="en">[iCable] 96 HOY SportsPlus</display-name>
+    <icon src="https://storage.hoy.tv/v1/image/channel/12.jpg" />
     <url>http://www.hoy.tv</url>
   </channel>
   <channel id="1004097">
     <display-name lang="en">[iCable] 97 HOY Travel &amp; Food TV</display-name>
+    <icon src="https://storage.hoy.tv/v1/image/channel/14.jpg" />
     <url>http://www.hoy.tv</url>
   </channel>
   <channel id="1004098">
     <display-name lang="en">[iCable] 98 HOY Spot on news</display-name>
+    <icon src="https://storage.hoy.tv/v1/image/channel/15.jpg" />
     <url>http://www.hoy.tv</url>
   </channel>
   <channel id="1003031">
