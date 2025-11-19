@@ -221,12 +221,12 @@
   </channel>
   <channel id="1002096">
     <display-name lang="en">[NowTV] 96 ViuTVsix</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch096_170_122" />
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch099_170_122" />
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_170_122" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002099">
     <display-name lang="en">[NowTV] 99 ViuTV</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch99_170_122" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002102">
@@ -462,7 +462,6 @@
   <channel id="1002611">
     <display-name lang="en">[NowTV] 611 Sports 4K-1</display-name>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_170_122" />
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_170_122" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002612">
@@ -537,6 +536,7 @@
   </channel>
   <channel id="1002634">
     <display-name lang="en">[NowTV] 634 Sports 4</display-name>
+	<icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_170_122" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002635">
