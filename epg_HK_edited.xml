@@ -221,12 +221,12 @@
   </channel>
   <channel id="1002096">
     <display-name lang="en">[NowTV] 96 ViuTVsix</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_170_122" />
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch096_170_122" />
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch099_170_122" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002099">
     <display-name lang="en">[NowTV] 99 ViuTV</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch99_170_122" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002102">
@@ -247,7 +247,6 @@
   <channel id="1002111">
     <display-name lang="en">[NowTV] 111 HBO Hits</display-name>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122" />
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002112">
@@ -267,6 +266,7 @@
   </channel>
   <channel id="1002115">
     <display-name lang="en">[NowTV] 115 HBO</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002116">
@@ -277,7 +277,6 @@
   <channel id="1002119">
     <display-name lang="en">[NowTV] 119 HITS MOVIES</display-name>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch119_170_122" />
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch513_170_122" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002133">
@@ -397,6 +396,7 @@
   </channel>
   <channel id="1002513">
     <display-name lang="en">[NowTV] 513 HITS</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch513_170_122" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002517">
@@ -536,7 +536,7 @@
   </channel>
   <channel id="1002634">
     <display-name lang="en">[NowTV] 634 Sports 4</display-name>
-	<icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_170_122" />
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_170_122" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002635">
@@ -675,7 +675,7 @@
     <url>http://www.hoy.tv</url>
   </channel>
   <channel id="1004097">
-    <display-name lang="en">[iCable] 97 HOY Travel &amp; Food TV</display-name>
+    <display-name lang="en">[iCable] 97 HOY Travel & Food TV</display-name>
     <icon src="https://storage.hoy.tv/v1/image/channel/14.jpg" />
     <url>http://www.hoy.tv</url>
   </channel>
