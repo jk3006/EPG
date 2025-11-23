@@ -386,7 +386,7 @@
     <url>http://www.astro.com.my</url>
   </channel>
   <channel id="60619">
-  <display-name lang="zh">[astro] 619 Blippi & Friends</display-name>
+  <display-name lang="zh">[astro] 619 Blippi &amp; Friends</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/566_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
@@ -426,7 +426,7 @@
     <url>http://www.astro.com.my</url>
   </channel>
   <channel id="60714">
-  <display-name lang="zh">[astro] 714 Crime & Investigation</display-name>
+  <display-name lang="zh">[astro] 714 Crime &amp; Investigation</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
