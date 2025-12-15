@@ -635,18 +635,23 @@
     <icon src="https://storage.hoy.tv/v1/image/channel/10.jpg" />
     <url>http://www.hoy.tv</url>
   </channel>
+  <channel id="1004072">
+  <display-name lang="zh">[iCable] 705台|HOY怪談台</display-name>
+    <icon src="https://storage.hoy.tv/v1/image/channel/10.jpg" />
+    <url>http://www.hoy.tv</url>
+  </channel>
   <channel id="1004073">
-  <display-name lang="zh">[iCable] 73台|HOY劇集台</display-name>
+  <display-name lang="zh">[iCable] 707台|HOY劇集台</display-name>
     <icon src="https://storage.hoy.tv/v1/image/channel/9.jpg" />
     <url>http://www.hoy.tv</url>
   </channel>
   <channel id="1004074">
-  <display-name lang="zh">[iCable] 74台|HOY生活台</display-name>
+  <display-name lang="zh">[iCable] 706台|HOY生活台</display-name>
     <icon src="https://storage.hoy.tv/v1/image/channel/8.jpg" />
     <url>http://www.hoy.tv</url>
   </channel>
   <channel id="1004075">
-  <display-name lang="zh">[iCable] 75台|HOY體育台</display-name>
+  <display-name lang="zh">[iCable] 700台|HOY體育台</display-name>
     <icon src="https://storage.hoy.tv/v1/image/channel/11.jpg" />
     <url>http://www.hoy.tv</url>
   </channel>
@@ -666,22 +671,22 @@
     <url>http://www.hoy.tv</url>
   </channel>
   <channel id="1004710">
-  <display-name lang="zh">[iCable] 710台|MotorVision</display-name>
+  <display-name lang="zh">[iCable] 720台|MotorVision</display-name>
     <icon src="https://storage.hoy.tv/v1/image/channel/13.jpg" />
     <url>http://www.hoy.tv</url>
   </channel>
   <channel id="1004711">
-  <display-name lang="zh">[iCable] 711台|SportsPlus</display-name>
+  <display-name lang="zh">[iCable] 721台|SportsPlus</display-name>
     <icon src="https://storage.hoy.tv/v1/image/channel/12.jpg" />
     <url>http://www.hoy.tv</url>
   </channel>
   <channel id="1004720">
-  <display-name lang="zh">[iCable] 720台|Travel and Food TV</display-name>
+  <display-name lang="zh">[iCable] 740台|Travel and Food TV</display-name>
     <icon src="https://storage.hoy.tv/v1/image/channel/14.jpg" />
     <url>http://www.hoy.tv</url>
   </channel>
   <channel id="1004740">
-  <display-name lang="zh">[iCable] 740台|spot on news</display-name>
+  <display-name lang="zh">[iCable] 730台|spot on news</display-name>
     <icon src="https://storage.hoy.tv/v1/image/channel/15.jpg" />
     <url>http://www.hoy.tv</url>
   </channel>
