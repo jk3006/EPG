@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv date="20251218080003 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_GB.xml">
+<tv generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_GB.xml">
   <channel id="9124">
     <display-name lang="GB">[UK-I] 90 Skycinemadrama</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4016.png" />
@@ -50,7 +50,7 @@
   </channel>
   <channel id="9277">
     <display-name lang="GB">[UK-I] 30 Skycrime</display-name>
-    <icon src="" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1212.png" />
   </channel>
   <channel id="9293">
     <display-name lang="GB">[Sports-UK] 5 Sky Sports Cricket</display-name>
@@ -74,11 +74,11 @@
   </channel>
   <channel id="9409">
     <display-name lang="GB">[Sports-UK] 7 Sky Sports F1</display-name>
-    <icon src="" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" />
   </channel>
   <channel id="9415">
     <display-name lang="GB">[UK-I] 2 Sky Sports Main Event</display-name>
-    <icon src="" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png" />
   </channel>
   <channel id="9432">
     <display-name lang="GB">[UK-I] 85 Skycinemafamily</display-name>
@@ -162,11 +162,11 @@
   </channel>
   <channel id="212145">
     <display-name lang="GB">[UK-I] 12 Sky Sports Tennis</display-name>
-    <icon src="" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
   </channel>
   <channel id="222007">
     <display-name lang="GB">[Sports-UK] 12 Sky Sports Tennis</display-name>
-    <icon src="" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
   </channel>
   <channel id="400477">
     <display-name lang="GB">[Sports-UK] 13 TNT Sport1</display-name>
