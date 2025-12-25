@@ -222,12 +222,12 @@
   </channel>
   <channel id="1002096">
   <display-name lang="zh">[NowTV] 96 ViuTVsix</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch096_160_115" />
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002099">
   <display-name lang="zh">[NowTV] 99 ViuTV</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch099_160_115" />
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch99_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002102">
