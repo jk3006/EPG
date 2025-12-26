@@ -54,18 +54,27 @@
   </channel>
   <channel id="1001081">
   <display-name lang="zh">[myTV SUPER] 81 翡翠台 4K</display-name>
+  <display-name lang="zh">myTV SUPER 81 翡翠台 4K</display-name>
+  <display-name lang="zh">[myTV SUPER] 81 翡翠台</display-name>
+  <display-name lang="zh">[myTV SUPER] 81 翡翠台|H265|字幕</display-name>
+  <display-name lang="zh">[myTV SUPER] 81 翡翠台|720p|字幕</display-name>
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001082">
   <display-name lang="zh">[myTV SUPER] 82 TVB Plus</display-name>
+  <display-name lang="zh">[myTV SUPER] 82 TVB Plus|H265|字幕</display-name>
+  <display-name lang="zh">[myTV SUPER] 82 TVB Plus|720p|字幕</display-name>
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001083">
   <display-name lang="zh">[myTV SUPER] 83 無綫新聞台</display-name>
+  <display-name lang="zh">[myTV SUPER] 83 無綫新聞台|H265</display-name>
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001084">
   <display-name lang="zh">[myTV SUPER] 84 明珠台</display-name>
+  <display-name lang="zh">[myTV SUPER] 84 明珠台|H265|字幕</display-name>
+  <display-name lang="zh">[myTV SUPER] 84 明珠台|720p|字幕</display-name>
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001086">
@@ -82,6 +91,7 @@
   </channel>
   <channel id="1001090">
   <display-name lang="zh">[myTV SUPER] 90 黃金華劇台</display-name>
+  <display-name lang="zh">[myTV SUPER] 90 黃金華劇台|H265|字幕</display-name>
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001091">
@@ -463,16 +473,19 @@
   </channel>
   <channel id="1002611">
   <display-name lang="zh">[NowTV] 611 Sports 4K-1</display-name>
+  <display-name lang="zh">NowTV 611 Sports 4K-1</display-name>  
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002612">
   <display-name lang="zh">[NowTV] 612 Sports 4K-2</display-name>
+  <display-name lang="zh">NowTV 612 Sports 4K-2</display-name>  
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002613">
   <display-name lang="zh">[NowTV] 613 Sports 4K-3</display-name>
+  <display-name lang="zh">NowTV 613 Sports 4K-3</display-name>  
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch613_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
