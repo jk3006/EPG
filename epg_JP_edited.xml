@@ -76,6 +76,14 @@
     <display-name lang="ja">[JP-I] 衛星劇場</display-name>
     <url>http://www.tvkingdom.jp.sp</url>
   </channel>
+  <channel id="8101028">
+    <display-name lang="ja">[JP-I] WOWOWシネマ</display-name>
+    <url>http://www.tvkingdom.jp.sp</url>
+  </channel>
+  <channel id="8101029">
+    <display-name lang="ja">[JP-I] WOWOWライブ</display-name>
+    <url>http://www.tvkingdom.jp.sp</url>
+  </channel>
   <programme start="20251229060000 +0900" stop="20251229063000 +0900" channel="8101020">
     <title lang="ja">おめざめショッピング</title>
     <desc lang="ja">選りすぐりの商品をご紹介！.</desc>
@@ -3819,174 +3827,6 @@ MC：金村義明、大塚光二.</desc>
 
 長崎ヴェルカ×千葉ジェッツ.</desc>
     <category lang="ja">スポーツ - その他の球技</category>
-  </programme>
-  <programme start="20251229053000 +0900" stop="20251229080000 +0900" channel="8101017">
-    <title lang="ja">キングコング（1976）</title>
-  </programme>
-  <programme start="20251229080000 +0900" stop="20251229124500 +0900" channel="8101017">
-    <title lang="ja">連続ドラマW　石の繭 殺人分析班～5（全5話）</title>
-    <desc lang="ja">麻見和史の人気警察小説シリーズをドラマ化。猟奇殺人事件の犯人との息詰まる攻防戦を描く、最後の最後まで仕掛けに満ちたノンストップ・クライムサスペンス。（全5話）.</desc>
-    <category lang="ja">ドラマ - 国内ドラマ</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20251229124500 +0900" stop="20251229174500 +0900" channel="8101017">
-    <title lang="ja">連続ドラマW　水晶の鼓動 殺人分析班～5（全5話）</title>
-    <desc lang="ja">大ヒットクライムサスペンス『石の繭』の続編。シリーズ史上最も大胆かつ複雑な事件の全貌とは？その衝撃のラストへのカウントダウンが今、始まる！（全5話）.</desc>
-    <category lang="ja">ドラマ - 国内ドラマ</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20251229174500 +0900" stop="20251229204500 +0900" channel="8101017">
-    <title lang="ja">連続ドラマW　蝶の力学 殺人分析班～3（全6話）</title>
-    <desc lang="ja">大ヒットクライムサスペンス『殺人分析班』シリーズ第3弾！シリーズ史上最も難解な猟奇殺人事件に殺人分析班メンバーが挑む。（全6話）.</desc>
-    <category lang="ja">ドラマ - 国内ドラマ</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20251229204500 +0900" stop="20251229234500 +0900" channel="8101017">
-    <title lang="ja">連続ドラマW　蝶の力学 殺人分析班～6（全6話）</title>
-    <desc lang="ja">大ヒットクライムサスペンス『殺人分析班』シリーズ第3弾！シリーズ史上最も難解な猟奇殺人事件に殺人分析班メンバーが挑む。（全6話）.</desc>
-    <category lang="ja">ドラマ - 国内ドラマ</category>
-    <episode-num system="onscreen">E4</episode-num>
-  </programme>
-  <programme start="20251229234500 +0900" stop="20251230021500 +0900" channel="8101017">
-    <title lang="ja">悪の波動　殺人分析班スピンオフ～5（全5話） ◆古川雄輝 主演</title>
-    <desc lang="ja">古川雄輝主演。大ヒットクライムサスペンス『殺人分析班』シリーズに登場する希代の猟奇殺人犯・トレミーはいかにして冷酷な殺人鬼になったのか。その前日譚を描く。.</desc>
-    <category lang="ja">ドラマ - 国内ドラマ</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20251230021500 +0900" stop="20251230040000 +0900" channel="8101017">
-    <title lang="ja">私の奴隷になりなさい</title>
-    <desc lang="ja">人気美人タレント、壇蜜の体当たりの熱演が話題になってヒット。彼女が演じるミステリアスな美人OLは後輩の男性社員を翻弄する一方、“ご主人様”の男性に尽くしていく。.</desc>
-    <category lang="ja">映画 - 邦画</category>
-  </programme>
-  <programme start="20251230040000 +0900" stop="20251230053000 +0900" channel="8101017">
-    <title lang="ja">白い指の戯れ</title>
-    <desc lang="ja">日活の官能作品群の初期を代表する傑作。本作が映画初主演となった伊佐山ひろ子は、1972年度のキネマ旬報ベスト・テンで主演女優賞に輝いた。村川透監督のデビュー作。.</desc>
-    <category lang="ja">映画 - 邦画</category>
-  </programme>
-  <programme start="20251230053000 +0900" stop="20251230080000 +0900" channel="8101017">
-    <title lang="ja">空軍大戦略</title>
-    <desc lang="ja">ガイ・ハミルトン監督が、航空戦“バトル・オブ・ブリテン”を題材に描いた戦争巨編。ローレンス・オリヴィエ、マイケル・ケイン、ロバート・ショウら豪華キャストが共演。.</desc>
-    <category lang="ja">映画 - 洋画</category>
-  </programme>
-  <programme start="20251230080000 +0900" stop="20251230124500 +0900" channel="8101017">
-    <title lang="ja">連続ドラマW　邪神の天秤 公安分析班～5（全10話）</title>
-    <desc lang="ja">大ヒットクライムサスペンス＜殺人分析班＞シリーズのユニバース作品が登場。青木崇高演じる鷹野が、公安警察を舞台に新たな猟奇殺人事件と陰謀に挑む！（全10話）.</desc>
-    <category lang="ja">ドラマ - 国内ドラマ</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20251230124500 +0900" stop="20251230173000 +0900" channel="8101017">
-    <title lang="ja">連続ドラマW　邪神の天秤 公安分析班～10（全10話）</title>
-    <desc lang="ja">大ヒットクライムサスペンス＜殺人分析班＞シリーズのユニバース作品が登場。青木崇高演じる鷹野が、公安警察を舞台に新たな猟奇殺人事件と陰謀に挑む！（全10話）.</desc>
-    <category lang="ja">ドラマ - 国内ドラマ</category>
-    <episode-num system="onscreen">E6</episode-num>
-  </programme>
-  <programme start="20251230173000 +0900" stop="20251230204500 +0900" channel="8101017">
-    <title lang="ja">犯罪症候群 Season～4（全8話） ◆谷原章介、玉山鉄二</title>
-    <desc lang="ja">超豪華キャストが復讐と正義の間で翻弄される男たちを熱演！！貫井徳郎の最高傑作かつ問題作として高い人気を誇る、壮大なスケールの社会派サスペンス。（全8話）.</desc>
-    <category lang="ja">ドラマ - 国内ドラマ</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20251230204500 +0900" stop="20251231000000 +0900" channel="8101017">
-    <title lang="ja">犯罪症候群 Season～8（全8話） ◆谷原章介、玉山鉄二</title>
-    <desc lang="ja">超豪華キャストが復讐と正義の間で翻弄される男たちを熱演！！貫井徳郎の最高傑作かつ問題作として高い人気を誇る、壮大なスケールの社会派サスペンス。（全8話）.</desc>
-    <category lang="ja">ドラマ - 国内ドラマ</category>
-    <episode-num system="onscreen">E5</episode-num>
-  </programme>
-  <programme start="20251231000000 +0900" stop="20251231040000 +0900" channel="8101017">
-    <title lang="ja">犯罪症候群 Season～4（全4話） ◆谷原章介、玉山鉄二</title>
-    <desc lang="ja">超豪華キャストが復讐と正義の間で翻弄される男たちを熱演！！貫井徳郎の最高傑作かつ問題作として高い人気を誇る社会派サスペンスのシーズン２。（全４話）.</desc>
-    <category lang="ja">ドラマ - 国内ドラマ</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20251231040000 +0900" stop="20251231051500 +0900" channel="8101017">
-    <title lang="ja">制服処女のいたみ</title>
-    <desc lang="ja">当時無名の新人だった美保純が、本作でいきなり主役に抜擢されて映画デビューした官能作品。美保は新宿の歌舞伎町で遊び回る女子高生の主人公の役で天真爛漫な魅力を発揮。.</desc>
-    <category lang="ja">映画 - 邦画</category>
-  </programme>
-  <programme start="20251231051500 +0900" stop="20251231073000 +0900" channel="8101017">
-    <title lang="ja">ロードハウス／孤独の街</title>
-    <desc lang="ja">ガラの悪い連中たちに立ち向かう酒場の用心棒の活躍を描いたアクション。『ゴースト／ニューヨークの幻』のパトリック・スウェイジがたくましく男らしい主人公を好演する。.</desc>
-    <category lang="ja">映画 - 洋画</category>
-  </programme>
-  <programme start="20251231073000 +0900" stop="20251231113000 +0900" channel="8101017">
-    <title lang="ja">闇金ウシジマくん～9（全9話） ◆山田孝之 主演</title>
-    <desc lang="ja">真鍋昌平による原作『闇金ウシジマくん』を山田孝之主演でドラマ化！闇金融の経営者・丑嶋(ウシジマ)を主人公に、人間の暗部と“闇の先にある光”を描く。（全9話）.</desc>
-    <category lang="ja">ドラマ - 国内ドラマ</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20251231113000 +0900" stop="20251231140000 +0900" channel="8101017">
-    <title lang="ja">闇金ウシジマくん ◆山田孝之 主演</title>
-    <desc lang="ja">真鍋昌平の人気コミックを、山田孝之主演で映像化したＴＶドラマの劇場版シリーズ第１作。母親が闇金から借りた借金を肩代わりさせられるヒロイン役を、大島優子が演じた。.</desc>
-    <category lang="ja">映画 - 邦画</category>
-  </programme>
-  <programme start="20251231140000 +0900" stop="20251231180000 +0900" channel="8101017">
-    <title lang="ja">闇金ウシジマくん Season～9（全9話） ◆山田孝之 主演</title>
-    <desc lang="ja">山田孝之主演で映像化された大人気シリーズのシーズン2。闇金融の経営者・丑嶋(ウシジマ)を主人公に、人間の暗部と“闇の先にある光”を描く。（全9話）.</desc>
-    <category lang="ja">ドラマ - 国内ドラマ</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20251231180000 +0900" stop="20251231203000 +0900" channel="8101017">
-    <title lang="ja">闇金ウシジマくん　Part２ ◆山田孝之 主演</title>
-    <desc lang="ja">真鍋昌平の人気コミックを原作にしたTVドラマの劇場版第2弾。法外な金利で金を貸す闇金業者ウシジマ(丑嶋)を狂言回しに、金に踊らされる人々の悲喜劇を赤裸々に描く。.</desc>
-    <category lang="ja">映画 - 邦画</category>
-  </programme>
-  <programme start="20251231203000 +0900" stop="20260101003000 +0900" channel="8101017">
-    <title lang="ja">闇金ウシジマくん Season～9（全9話） ◆山田孝之 主演</title>
-    <desc lang="ja">山田孝之主演で映像化された大人気シリーズのシーズン3。闇金融の経営者・丑嶋(ウシジマ)を主人公に、人間の暗部と“闇の先にある光”を描く。（全9話）.</desc>
-    <category lang="ja">ドラマ - 国内ドラマ</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20260101003000 +0900" stop="20260101030000 +0900" channel="8101017">
-    <title lang="ja">映画『闇金ウシジマくん Part3』 ◆山田孝之 主演</title>
-    <desc lang="ja">真鍋昌平のコミックを、山田孝之主演で映像化したＴＶドラマの劇場版シリーズ第３作。詐欺まがいの情報商材に踊らされる若者と、キャバ嬢に入れ揚げた会社員を悲劇が待つ。.</desc>
-    <category lang="ja">映画 - 邦画</category>
-  </programme>
-  <programme start="20260101030000 +0900" stop="20260101053000 +0900" channel="8101017">
-    <title lang="ja">映画『闇金ウシジマくん ザ・ファイナル』 ◆山田孝之 主演</title>
-    <desc lang="ja">真鍋昌平のコミックを山田孝之主演で映像化したＴＶドラマの劇場版第4弾で、シリーズ完結編。中学時代の友人と再会したことを機に、ウシジマ(丑嶋)の過去が明かされる。.</desc>
-    <category lang="ja">映画 - 邦画</category>
-  </programme>
-  <programme start="20260101053000 +0900" stop="20260101063000 +0900" channel="8101017">
-    <title lang="ja">銀魂 -ミツバ篇-～3（全3話）</title>
-    <sub-title lang="ja">年末年始シリーズ一挙</sub-title>
-    <desc lang="ja">『銀魂』屈指の名エピソードを豪華キャストで完全実写化！実写映画版でお馴染のキャストに加え、沖田の姉・ミツバを北乃きいが演じる。（全３話）.</desc>
-    <category lang="ja">ドラマ - 国内ドラマ</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20260101063000 +0900" stop="20260101074500 +0900" channel="8101017">
-    <title lang="ja">銀魂２ -世にも奇妙な銀魂ちゃん-～3（全3話）</title>
-    <sub-title lang="ja">年末年始シリーズ一挙</sub-title>
-    <desc lang="ja">『銀魂』屈指の名エピソードを豪華キャストで完全実写化！アニメ版の出演声優・立木文彦が実写版でも同じキャラを演じたことでも話題に。（全３話）.</desc>
-    <category lang="ja">ドラマ - 国内ドラマ</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20260101074500 +0900" stop="20260101130000 +0900" channel="8101017">
-    <title lang="ja">とんび～5（全10話）</title>
-    <sub-title lang="ja">年末年始一挙</sub-title>
-    <desc lang="ja">内野聖陽主演。不器用に戸惑い、悩みながら、それでも我が子の幸せ第一に考え、息子を育てる父親の喜びと哀しみ。魂が涙する、父親物語の最高傑作！（全10話）.</desc>
-    <category lang="ja">ドラマ - 国内ドラマ</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20260101130000 +0900" stop="20260101180000 +0900" channel="8101017">
-    <title lang="ja">とんび～10（全10話）</title>
-    <sub-title lang="ja">年末年始一挙</sub-title>
-    <desc lang="ja">内野聖陽主演。不器用に戸惑い、悩みながら、それでも我が子の幸せ第一に考え、息子を育てる父親の喜びと哀しみ。魂が涙する、父親物語の最高傑作！（全10話）.</desc>
-    <category lang="ja">ドラマ - 国内ドラマ</category>
-    <episode-num system="onscreen">E6</episode-num>
-  </programme>
-  <programme start="20260101180000 +0900" stop="20260101224500 +0900" channel="8101017">
-    <title lang="ja">連続ドラマW　鉄の骨～5（全5話）</title>
-    <sub-title lang="ja">年末年始一挙</sub-title>
-    <desc lang="ja">組織に殉じるか、正義を信じるか―。理想とは、使命とは、そして、守るべき信念とは―。現代を生きる全ての人へ贈る、社会派エンターテインメント大作！（全5話）.</desc>
-    <category lang="ja">ドラマ - 国内ドラマ</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20260101224500 +0900" stop="20260102032000 +0900" channel="8101017">
-    <title lang="ja">連続ドラマW　アキラとあきら～5（全9話）</title>
-    <sub-title lang="ja">年末年始一挙</sub-title>
-    <desc lang="ja">池井戸潤の原作をドラマ化。自らの意志で人生を選んできたエリートと、自らの能力で人生を切り開いてきた天才2人の“宿命”を描くヒューマンドラマ。（全9話）.</desc>
-    <category lang="ja">ドラマ - 国内ドラマ</category>
-    <episode-num system="onscreen">E1</episode-num>
   </programme>
   <programme start="20251229073000 +0900" stop="20251229090000 +0900" channel="8101006">
     <title lang="ja">一休さん セレクション-3</title>
@@ -8477,5 +8317,2067 @@ CENT・ExWHYZ・世が世なら!!!</desc>
     <sub-title lang="ja">追悼　女優　吉行和子</sub-title>
     <desc lang="ja">妻が欲しかった誕生日プレゼントは——！？『東京家族』に出演した豪華キャストが再集結し、今度は現代の家族を“喜劇”で描く。2016年　108分☆予告編付.</desc>
     <category lang="ja">映画 - 邦画</category>
+  </programme>
+  <programme start="20251231013000 +0900" stop="20251231040000 +0900" channel="8101028">
+    <title lang="ja">キングスマン：ゴールデン・サークル（字幕版）</title>
+    <sub-title lang="ja">キングスマン</sub-title>
+    <desc lang="ja">一見時代遅れのようでいて、実は超凄腕であるスパイ組織の活躍を描いた、大ヒット痛快アクションシリーズの第２作。前作に続いてＣ・ファースらが共演。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20251231040000 +0900" stop="20251231060000 +0900" channel="8101028">
+    <title lang="ja">六人の嘘つきな大学生</title>
+    <desc lang="ja">浜辺美波らの若手俳優陣の共演で、浅倉秋成による同名ベストセラー小説を映画化。ある人気企業の新卒採用試験で最終選考に残った６人は、謎の告発文によって意外な事態へ！.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20251231060000 +0900" stop="20251231080000 +0900" channel="8101028">
+    <title lang="ja">映画　マイホームヒーロー</title>
+    <desc lang="ja">佐々木蔵之介主演の人気ドラマの映画版。７年前、娘のために殺人を犯したサラリーマンの父・哲雄。山中に埋めた死体が発見されたことから、彼は再び危険にさらされる。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20251231080000 +0900" stop="20251231081500 +0900" channel="8101028">
+    <title lang="ja">映画『ＷＩＮＤ　ＢＲＥＡＫＥＲ／ウィ…』徹底解剖ナビ　ストーリー篇</title>
+    <category lang="ja">バラエティー - その他</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20251231081500 +0900" stop="20251231100000 +0900" channel="8101028">
+    <title lang="ja">東京リベンジャーズ２　血のハロウィン編−決戦−</title>
+    <desc lang="ja">東京卍會創設メンバーの絆を崩壊させた“血のハロウィン”。タケミチはその惨劇を食い止めることができるのか。和久井健の人気コミックを実写映画化した続編２部作の後編。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20251231100000 +0900" stop="20251231121500 +0900" channel="8101028">
+    <title lang="ja">キングダム（２０１９）</title>
+    <desc lang="ja">原泰久の人気コミックを実写映画化した大作。紀元前３世紀、春秋戦国時代の中国を舞台に、戦災孤児の少年と後に始皇帝となる若き王の壮大なドラマを描く。後にシリーズ化。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - 時代劇</category>
+  </programme>
+  <programme start="20251231121500 +0900" stop="20251231143000 +0900" channel="8101028">
+    <title lang="ja">キングダム２　遥かなる大地へ</title>
+    <desc lang="ja">原泰久の人気コミックを壮大なスケールで実写映画化した人気シリーズの第２作。前作から半年後、秦軍の歩兵となった主人公・信は、魏軍の侵攻を迎え撃つ戦いで初陣に臨む。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - 時代劇</category>
+  </programme>
+  <programme start="20251231143000 +0900" stop="20251231164500 +0900" channel="8101028">
+    <title lang="ja">キングダム　運命の炎</title>
+    <desc lang="ja">原泰久の人気コミックを豪華キャストと壮大なスケールで映画化した歴史アクション巨編第３弾。春秋戦国時代の中国・秦。ついに自分の部隊を持った主人公・信の戦いを描く。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - 時代劇</category>
+  </programme>
+  <programme start="20251231164500 +0900" stop="20251231191500 +0900" channel="8101028">
+    <title lang="ja">キングダム　大将軍の帰還</title>
+    <desc lang="ja">中国春秋戦国時代を舞台に、天下の大将軍になるという夢を抱く少年と中華統一を目指す若き王を壮大なスケールで描く。映画キングダムの集大成にしてシリーズ史上最高傑作。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - 時代劇</category>
+  </programme>
+  <programme start="20251231191500 +0900" stop="20251231220000 +0900" channel="8101028">
+    <title lang="ja">グラディエーター（字幕版）</title>
+    <desc lang="ja">第７３回アカデミー賞で作品賞など５部門に輝いたスペクタクル史劇。古代ローマ、新皇帝の陰謀で奴隷の剣闘士に身をやつした将軍の復讐を描く。２４年後に続編も誕生。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - 時代劇</category>
+  </programme>
+  <programme start="20251231220000 +0900" stop="20260101003000 +0900" channel="8101028">
+    <title lang="ja">グラディエーターII　英雄を呼ぶ声（字幕版）</title>
+    <sub-title lang="ja">グラディエーター</sub-title>
+    <desc lang="ja">大ヒット作の２４年ぶりに作られた続編。古代ローマ。前作の主人公マキシマス（クロウ）の息子であるルシアスは剣闘士になり、妻の復讐に立ち上がる。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - 時代劇</category>
+  </programme>
+  <programme start="20260101003000 +0900" stop="20260101024500 +0900" channel="8101028">
+    <title lang="ja">キングスマン：ファースト・エージェント（字幕版）</title>
+    <sub-title lang="ja">キングスマン</sub-title>
+    <desc lang="ja">人気スパイアクションシリーズの第３作。シリーズの前日譚としてスパイ組織“キングスマン”の誕生を壮大なスケールで描写。主演はＲ・ファインズに交代。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260101024500 +0900" stop="20260101024500 +0900" channel="8101028">
+    <title lang="ja">侍タイムスリッパー</title>
+    <desc lang="ja">低予算の自主製作映画ながら２０２４年に大ヒットを記録し、第４８回日本アカデミー賞で最優秀作品賞など２部門を制した話題作。侍が幕末から現代にタイムスリップし……？.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260101024500 +0900" stop="20260101050000 +0900" channel="8101028">
+    <title lang="ja">侍タイムスリッパー</title>
+    <desc lang="ja">低予算の自主製作映画ながら２０２４年に大ヒットを記録し、第４８回日本アカデミー賞で最優秀作品賞など２部門を制した話題作。侍が幕末から現代にタイムスリップし……？.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260101050000 +0900" stop="20260101063000 +0900" channel="8101028">
+    <title lang="ja">アドレナリン：フルスロットル（字幕版）</title>
+    <desc lang="ja">犯罪組織から大金を奪って逃げた泥棒が、大金目当てで彼を追うさまざまな悪党たちと競り合いながら、人質に取られた相棒の救出に乗り出すさまを愉快に描いた娯楽犯罪喜劇。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260101063000 +0900" stop="20260101084500 +0900" channel="8101028">
+    <title lang="ja">エミリア・ペレス（字幕版）</title>
+    <desc lang="ja">第９７回アカデミー賞で最多の計１３ノミネーションを獲得。異才Ｊ・オディアール監督が、性別適合手術で女性に変わる大物犯罪者を描いた、型破りなクライムミュージカル。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">劇場／公演 - ミュージカル</category>
+  </programme>
+  <programme start="20260101084500 +0900" stop="20260101103000 +0900" channel="8101028">
+    <title lang="ja">パディントン（字幕版）</title>
+    <desc lang="ja">Ｍ・ボンドの名作児童小説を実写映画化した家族向け人気コメディの第１作。南米ペルーからやって来た言葉を話すクマのパディントンが大都会ロンドンで大騒動を巻き起こす。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">バラエティー - お笑い・コメディ</category>
+  </programme>
+  <programme start="20260101103000 +0900" stop="20260101121500 +0900" channel="8101028">
+    <title lang="ja">パディントン２（字幕版）</title>
+    <sub-title lang="ja">パディントン</sub-title>
+    <desc lang="ja">世界中で愛される児童小説シリーズを実写映画化したシリーズ第２作。キュートなクマ、パディントンは希少本を盗んだ犯人として刑務所に入れられてしまう。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">バラエティー - お笑い・コメディ</category>
+  </programme>
+  <programme start="20260101121500 +0900" stop="20260101141500 +0900" channel="8101028">
+    <title lang="ja">トップガン（字幕版）</title>
+    <desc lang="ja">Ｔ・クルーズ主演の大ヒットミリタリーアクション。パイロット訓練施設、通称“トップガン”を舞台に、若者たちの友情や青春をテンポよく描く。３６年後に続編も大ヒット。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260101141500 +0900" stop="20260101163000 +0900" channel="8101028">
+    <title lang="ja">トップガン　マーヴェリック（字幕版）</title>
+    <sub-title lang="ja">トップガン</sub-title>
+    <desc lang="ja">全世界が熱狂した、１９８６年のアクション映画の続編。主人公である戦闘機パイロットのマーヴェリック役を再びＴ・クルーズが演じ、２０２２年に大ヒット。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260101163000 +0900" stop="20260101185000 +0900" channel="8101028">
+    <title lang="ja">ＨＥＲＯ（２００７）</title>
+    <desc lang="ja">検事・久利生公平、最大の危機！？　木村拓哉が型破りな検事を熱演したＴＶドラマ初の映画化。森田一義、イ・ビョンホン、松本白鸚ら豪華共演陣を迎えた大ヒット映画版。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260101185000 +0900" stop="20260101210000 +0900" channel="8101028">
+    <title lang="ja">ＨＥＲＯ（２０１５）</title>
+    <desc lang="ja">木村拓哉ほか、豪華キャストが共演した社会派群像ドラマの劇場版第２作。大使館裏の通りで起こった交通事故。裏に隠された大掛かりな陰謀に普段着のユニークな検事が挑む。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260101210000 +0900" stop="20260101230000 +0900" channel="8101028">
+    <title lang="ja">映画『グランメゾン・パリ』</title>
+    <sub-title lang="ja">グランメゾン東京</sub-title>
+    <desc lang="ja">木村拓哉が型破りなシェフを演じたドラマの映画版。フランス料理の本場パリで、アジア人初のミシュラン三つ星を目指す主人公たちの苦闘を描く。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260101230000 +0900" stop="20260102004500 +0900" channel="8101028">
+    <title lang="ja">ショウタイムセブン</title>
+    <sub-title lang="ja">テロ，ライブ</sub-title>
+    <desc lang="ja">２０１３年の韓国映画を阿部寛主演でリメイクしたサスペンス。爆弾テロ犯からの電話を受けた元人気キャスターが、犯人との交渉を生中継し始めるが……。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260102004500 +0900" stop="20260102025000 +0900" channel="8101028">
+    <title lang="ja">アンダーニンジャ</title>
+    <desc lang="ja">山(※)賢人主演、浜辺美波共演の現代ニンジャアクション。闇の世界で暗躍する謎の敵対組織“ＵＮ（アンダーニンジャ）”調査のため高校に潜入した下忍の青年だが？.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260102025000 +0900" stop="20260102025000 +0900" channel="8101028">
+    <title lang="ja">マインクラフト／ザ・ムービー（字幕版）</title>
+    <sub-title lang="ja">マインクラフト</sub-title>
+    <desc lang="ja">超人気ゲームを実写映画化し、世界中で大ヒットした冒険ファンタジー。すべてが四角でできた不思議な世界に飛ばされた人々は、現実世界への帰還に挑む。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260102025000 +0900" stop="20260102044000 +0900" channel="8101028">
+    <title lang="ja">マインクラフト／ザ・ムービー（字幕版）</title>
+    <sub-title lang="ja">マインクラフト</sub-title>
+    <desc lang="ja">超人気ゲームを実写映画化し、世界中で大ヒットした冒険ファンタジー。すべてが四角でできた不思議な世界に飛ばされた人々は、現実世界への帰還に挑む。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260102044000 +0900" stop="20260102055000 +0900" channel="8101028">
+    <title lang="ja">秒速５センチメートル（２００７）</title>
+    <sub-title lang="ja">天気の子</sub-title>
+    <desc lang="ja">の新海誠が監督。桜の花びらが落ちる速度＝秒速５センチメートル。互いに惹かれながらも小学校卒業後、離れ離れになった少年と少女が、大人になるまでを紡ぐ。.(n)</desc>
+    <category lang="ja">映画 - アニメ</category>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260102055000 +0900" stop="20260102074500 +0900" channel="8101028">
+    <title lang="ja">ビーキーパー（字幕版）</title>
+    <desc lang="ja">人気タフガイスターのＪ・ステイサムが主演・製作を務めた、痛快ムードがたっぷりのアクション。ステイサムが演じる“養蜂家（ビーキーパー）”は、冷酷非道な巨悪と戦う！.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260102074500 +0900" stop="20260102095000 +0900" channel="8101028">
+    <title lang="ja">のだめカンタービレ　最終楽章　前編</title>
+    <desc lang="ja">上野樹里らが共演した人気ＴＶドラマの完結編となる劇場版２部作の前編。クラシックの本場ヨーロッパで指揮者として頭角を現わす千秋とそれを知って焦るのだめの恋は……。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260102095000 +0900" stop="20260102120000 +0900" channel="8101028">
+    <title lang="ja">のだめカンタービレ　最終楽章　後編</title>
+    <desc lang="ja">大ヒットシリーズ、ついに完結。千秋と共演するチャンスを最大のライバルに奪われたヒロインのだめは再び立ち上がれるのか。シリーズ完結編となる劇場版２部作の後編。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260102120000 +0900" stop="20260102141500 +0900" channel="8101028">
+    <title lang="ja">ミステリと言う勿れ</title>
+    <desc lang="ja">菅田将暉主演で大ヒットしたドラマの劇場版。旅先の広島で、ある名家の遺産相続争いに巻き込まれた主人公・久能整が、相続の条件である謎解きに隠された秘密を解き明かす。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260102141500 +0900" stop="20260102163000 +0900" channel="8101028">
+    <title lang="ja">容疑者Ｘの献身</title>
+    <sub-title lang="ja">ガリレオ</sub-title>
+    <desc lang="ja">福山雅治主演のヒットドラマの劇場版第１作。東野圭吾の直木賞受賞作を原作に、ある哀しい殺人を巡って天才物理学者の湯川学と天才数学者が頭脳戦を展開する。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260102163000 +0900" stop="20260102184000 +0900" channel="8101028">
+    <title lang="ja">真夏の方程式</title>
+    <sub-title lang="ja">ガリレオ</sub-title>
+    <desc lang="ja">福山雅治主演の人気ドラマの映画版第２作。変人と呼ばれる准教授・湯川が出会ったのは夏休み中の少年。２人が滞在する、旅館を経営する一家が抱える秘密とは？.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260102184000 +0900" stop="20260102210000 +0900" channel="8101028">
+    <title lang="ja">沈黙のパレード</title>
+    <sub-title lang="ja">ガリレオ</sub-title>
+    <desc lang="ja">福山雅治が主演した東野圭吾原作の人気ドラマの映画版第３作。行方不明の女子学生が５年後、遺体で発見され、天才物理学者・湯川が事件の背後の真実に迫る。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260102210000 +0900" stop="20260102230000 +0900" channel="8101028">
+    <title lang="ja">＃真相をお話しします</title>
+    <desc lang="ja">ミステリー界の超新星・結城真一郎による異色のベストセラー小説を、大森元貴と菊池風磨のＷ主演で映画化。暴露系生配信で語られる“真相”とは？.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260102230000 +0900" stop="20260103003500 +0900" channel="8101028">
+    <title lang="ja">フライト・リスク（字幕版）</title>
+    <desc lang="ja">小型飛行機を舞台に、司法取引した証人と保安官補とパイロット、ワケありの３人の攻防を描く。Ｍ・ギブソン監督、Ｍ・ウォールバーグ主演の航空サスペンスアクション。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260103003500 +0900" stop="20260103004500 +0900" channel="8101028">
+    <title lang="ja">映画検定２０２６模擬試験　ＳＴＥＰ１</title>
+    <category lang="ja">バラエティー - その他</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">情報／ワイドショー - 番組紹介・お知らせ</category>
+  </programme>
+  <programme start="20260103004500 +0900" stop="20260103024000 +0900" channel="8101028">
+    <title lang="ja">ツイスター（字幕版）</title>
+    <sub-title lang="ja">ツイスターズ</sub-title>
+    <desc lang="ja">Ｓ・スピルバーグが製作総指揮して、大竜巻＝ツイスターの猛威をリアルに描いた大ヒットパニックアドベンチャー。２８年後の２０２４年に続編も作られた。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260103024000 +0900" stop="20260103024000 +0900" channel="8101028">
+    <title lang="ja">ツイスターズ（字幕版）</title>
+    <sub-title lang="ja">ツイスター</sub-title>
+    <desc lang="ja">Ｓ・スピルバーグほかが製作総指揮した１９９６年の大ヒットパニック映画。その２８年ぶりに作られた続編。竜巻の脅威を前作をはるかに上回る迫力で描いた。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260103024000 +0900" stop="20260103044500 +0900" channel="8101028">
+    <title lang="ja">ツイスターズ（字幕版）</title>
+    <sub-title lang="ja">ツイスター</sub-title>
+    <desc lang="ja">Ｓ・スピルバーグほかが製作総指揮した１９９６年の大ヒットパニック映画。その２８年ぶりに作られた続編。竜巻の脅威を前作をはるかに上回る迫力で描いた。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260103044500 +0900" stop="20260103062000 +0900" channel="8101028">
+    <title lang="ja">ＷＩＬＤ　ＣＡＲＤ／ワイルドカード（字幕版）</title>
+    <sub-title lang="ja">トランスポーター</sub-title>
+    <desc lang="ja">のＪ・ステイサムが主演した犯罪アクション。ラスベガスの片隅に生きる用心棒が、元恋人から復讐の依頼を受けたことで凶悪組織と対立することに。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260103062000 +0900" stop="20260103063000 +0900" channel="8101028">
+    <title lang="ja">映画検定２０２６模擬試験　ＳＴＥＰ２</title>
+    <category lang="ja">バラエティー - その他</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">情報／ワイドショー - 番組紹介・お知らせ</category>
+  </programme>
+  <programme start="20260103063000 +0900" stop="20260103090000 +0900" channel="8101028">
+    <title lang="ja">あずみ</title>
+    <desc lang="ja">上戸彩が主演を務めた本格アクション時代劇。最強の刺客となるべく育てられた少女あずみ。理も義もなくただ命令のまま、人を斬る自分の宿命に疑問を抱く彼女だったが……。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260103090000 +0900" stop="20260103110000 +0900" channel="8101028">
+    <title lang="ja">あずみ２　Ｄｅａｔｈ　ｏｒ　Ｌｏｖｅ</title>
+    <desc lang="ja">関ヶ原後の混乱期で、最強の刺客として育てられた少女あずみの苦闘を描くアクション時代劇の第２弾。人気女優、上戸彩が再び、暗殺者としての人生に苦しむヒロインを熱演。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260103110000 +0900" stop="20260103124500 +0900" channel="8101028">
+    <title lang="ja">カールじいさんの空飛ぶ家（字幕版）</title>
+    <desc lang="ja">ディズニー／ピクサーが２００９年に放ち、第８２回アカデミー賞で長編アニメ映画賞に輝いた秀作。妻を失ったカールじいさんは気球のような家に乗って、少年と冒険の旅へ。.(n)</desc>
+    <category lang="ja">映画 - アニメ</category>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260103124500 +0900" stop="20260103143000 +0900" channel="8101028">
+    <title lang="ja">塔の上のラプンツェル（字幕版）</title>
+    <desc lang="ja">ディズニーの長編アニメーション映画として５０作目となった、感動のエンターテイメント作品。長い“魔法”の髪を持つ少女ラプンツェルは、生まれて初めて“外の世界”へ。.(n)</desc>
+    <category lang="ja">映画 - アニメ</category>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260103143000 +0900" stop="20260103161500 +0900" channel="8101028">
+    <title lang="ja">ベイマックス（字幕版）</title>
+    <desc lang="ja">近未来を舞台にしたディズニーのアドベンチャーアニメーション。最愛の兄を亡くした孤独な少年が、兄の残したケアロボット“ベイマックス”とともに謎と陰謀に立ち向かう。.(n)</desc>
+    <category lang="ja">映画 - アニメ</category>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260103161500 +0900" stop="20260103181500 +0900" channel="8101028">
+    <title lang="ja">リメンバー・ミー（２０１７）（字幕版）</title>
+    <desc lang="ja">第９０回アカデミー賞で長編アニメ映画賞と歌曲賞に輝いたディズニー＆ピクサーの感動作。ミュージシャン志望の少年ミゲルは先祖の魂を迎える“死者の日”に驚異の世界へ。.(n)</desc>
+    <category lang="ja">映画 - アニメ</category>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260103181500 +0900" stop="20260103200000 +0900" channel="8101028">
+    <title lang="ja">アナと雪の女王（字幕版）</title>
+    <desc lang="ja">世界中にブームを巻き起こした、ディズニー・アニメーション映画史上最高のヒット作。運命に引き裂かれた王家の姉妹、エルサとアナを主人公に〈真実の愛〉を描いた感動作。.(n)</desc>
+    <category lang="ja">映画 - アニメ</category>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260103200000 +0900" stop="20260103220000 +0900" channel="8101028">
+    <title lang="ja">アナと雪の女王２（字幕版）</title>
+    <sub-title lang="ja">アナと雪の女王</sub-title>
+    <desc lang="ja">なぜ、エルサに力は与えられたのか──。　世界的ヒットとなったの続編。女王となったエルサは、ある日不思議な歌声に導かれ、未知なる世界へ旅立つ。.(n)</desc>
+    <category lang="ja">映画 - アニメ</category>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260103220000 +0900" stop="20260104000000 +0900" channel="8101028">
+    <title lang="ja">九龍ジェネリックロマンス</title>
+    <desc lang="ja">眉月じゅんの人気コミックを、吉岡里帆と水上恒司のＷ主演で映画化。誰もがなぜか懐かしさを感じる街・九龍（クーロン）を舞台に展開するミステリーラブロマンス。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260104000000 +0900" stop="20260104020000 +0900" channel="8101028">
+    <title lang="ja">室井慎次　敗れざる者</title>
+    <sub-title lang="ja">踊る大捜査線. 室井慎次　生き続ける者</sub-title>
+    <desc lang="ja">ドラマなどのシリーズで柳葉敏郎が演じた元警察庁キャリア組、室井慎次のその後と新たな事件を描いた話題作。後編も作られた。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260104020000 +0900" stop="20260104020000 +0900" channel="8101028">
+    <title lang="ja">室井慎次　生き続ける者</title>
+    <sub-title lang="ja">踊る大捜査線</sub-title>
+    <desc lang="ja">ドラマなどのシリーズで柳葉敏郎が演じた元警察庁キャリア組、室井慎次。秋田の山中に移り住んだ彼のその後とそこで起きた新たな事件を描く２部作の後編。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260104020000 +0900" stop="20260104040000 +0900" channel="8101028">
+    <title lang="ja">室井慎次　生き続ける者</title>
+    <sub-title lang="ja">踊る大捜査線</sub-title>
+    <desc lang="ja">ドラマなどのシリーズで柳葉敏郎が演じた元警察庁キャリア組、室井慎次。秋田の山中に移り住んだ彼のその後とそこで起きた新たな事件を描く２部作の後編。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260104040000 +0900" stop="20260104054500 +0900" channel="8101028">
+    <title lang="ja">ドラゴンボール超　スーパーヒーロー</title>
+    <sub-title lang="ja">ドラゴンボール超</sub-title>
+    <desc lang="ja">鳥山明原作のアニメシリーズの劇場版第２弾。孫悟飯とピッコロの師弟コンビが、復活したレッドリボン軍が放った２人の人造人間と超絶バトルを展開！.(n)</desc>
+    <category lang="ja">映画 - アニメ</category>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260104054500 +0900" stop="20260104074000 +0900" channel="8101028">
+    <title lang="ja">ＡＩＲ／エア（字幕版）</title>
+    <desc lang="ja">業績不振だったナイキのバスケシューズ部門を救った“エア・ジョーダン”誕生に至る苦闘を、Ｍ・デイモンと監督も兼ねたＢ・アフレックの盟友コンビで描く実録ドラマ。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260104074000 +0900" stop="20260104094500 +0900" channel="8101028">
+    <title lang="ja">劇場版『トリリオンゲーム』</title>
+    <desc lang="ja">主演・目黒蓮、共演・佐野勇斗で贈る、人気ドラマの劇場版。“世界を覆すハッタリ男”ハル×“すご腕エンジニア”ガクの最強バディが、“１兆ドル”を稼ぐため世界に挑む。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260104094500 +0900" stop="20260104120000 +0900" channel="8101028">
+    <title lang="ja">ザ・ファブル</title>
+    <desc lang="ja">岡田准一、木村文乃、山本美月らが共演し、南勝久による人気コミックを映画化。普通の暮らしをすることになった殺し屋を描く、痛快なコミカルアクション。後に続編も誕生。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260104120000 +0900" stop="20260104141500 +0900" channel="8101028">
+    <title lang="ja">ザ・ファブル　殺さない殺し屋</title>
+    <sub-title lang="ja">ザ・ファブル</sub-title>
+    <desc lang="ja">岡田准一ら豪華キャストが共演し、南勝久による人気コミックを実写映画化した痛快アクションの続編。殺し屋“ファブル”の前に、新たな敵が立ちふさがる。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260104141500 +0900" stop="20260104163000 +0900" channel="8101028">
+    <title lang="ja">たそがれ清兵衛</title>
+    <desc lang="ja">日本が誇る名匠・山田洋次監督が、藤沢周平の短編小説をもとに、初めて本格的時代劇に挑戦。第７６回アカデミー賞で外国語映画賞にノミネートされた話題作。真田広之主演。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - 時代劇</category>
+  </programme>
+  <programme start="20260104163000 +0900" stop="20260104184500 +0900" channel="8101028">
+    <title lang="ja">隠し剣　鬼の爪</title>
+    <sub-title lang="ja">たそがれ清兵衛</sub-title>
+    <desc lang="ja">山田洋次監督がに続いて藤沢周平の原作を映画化。幕末のお家騒動に巻き込まれた下級武士の苦悩と、切ない恋を描いた時代劇。主演は永瀬正敏、松たか子。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - 時代劇</category>
+  </programme>
+  <programme start="20260104184500 +0900" stop="20260104210000 +0900" channel="8101028">
+    <title lang="ja">武士の一分</title>
+    <desc lang="ja">日本映画界を代表する名匠・山田洋次監督が、人気者の木村拓哉を主演に迎えた話題の１本。人情味あふれる藤沢周平の原作を、丹精こめて切なく描き切った時代劇映画の秀作。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - 時代劇</category>
+  </programme>
+  <programme start="20260104210000 +0900" stop="20260104231500 +0900" channel="8101028">
+    <title lang="ja">トワイライト・ウォリアーズ　決戦！九龍城砦（字幕版）</title>
+    <desc lang="ja">２０２４年に香港で歴史的大ヒットを記録したアクションエンターテインメント。後に取り壊される香港のスラム街・九龍城砦で、１９８０年代、空前絶後のバトルが展開する。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260104231500 +0900" stop="20260105011500 +0900" channel="8101028">
+    <title lang="ja">死に損なった男</title>
+    <desc lang="ja">お笑いコンビ・空気階段の水川かたまり主演のホラーテイストコメディ。殺伐とした社会と報われない日々に疲弊したコントの構成作家が、中年男の幽霊に翻弄される姿を描く。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">バラエティー - お笑い・コメディ</category>
+  </programme>
+  <programme start="20260105011500 +0900" stop="20260105011500 +0900" channel="8101028">
+    <title lang="ja">知らないカノジョ</title>
+    <desc lang="ja">中島健人とｍｉｌｅｔが共演したファンタスティックラブストーリー。人気小説家は隣にいた最愛の人と出会っていない“もう一つの世界”で、愛の試練に立ち向かっていく。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260105011500 +0900" stop="20260105032000 +0900" channel="8101028">
+    <title lang="ja">知らないカノジョ</title>
+    <desc lang="ja">中島健人とｍｉｌｅｔが共演したファンタスティックラブストーリー。人気小説家は隣にいた最愛の人と出会っていない“もう一つの世界”で、愛の試練に立ち向かっていく。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260105032000 +0900" stop="20260105052000 +0900" channel="8101028">
+    <title lang="ja">ラブ・セカンド・サイト　はじまりは初恋のおわりから（字幕版）</title>
+    <sub-title lang="ja">知らないカノジョ</sub-title>
+    <desc lang="ja">後に日本でとしてリメイク。恋人と結婚した男性は１０年後、彼女が自分のことを知らない、もう一つの別世界へ。Ｆ・シヴィル主演のラブファンタジー。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260105052000 +0900" stop="20260105053000 +0900" channel="8101028">
+    <title lang="ja">映画検定２０２６受験ガイド</title>
+    <category lang="ja">バラエティー - その他</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">情報／ワイドショー - 番組紹介・お知らせ</category>
+  </programme>
+  <programme start="20260105053000 +0900" stop="20260105073000 +0900" channel="8101028">
+    <title lang="ja">（ハル）</title>
+    <desc lang="ja">森田芳光監督が１９９６年、インターネット時代の到来に先駆け、パソコン通信や電子メールがつなぐ男女の恋を描いた、ラブストーリーの佳作。深津絵里、内野聖陽らが出演。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260105073000 +0900" stop="20260105093000 +0900" channel="8101028">
+    <title lang="ja">ディーパンの闘い（字幕版）</title>
+    <desc lang="ja">第６８回カンヌ国際映画祭で最高賞であるパルムドールに輝いた、異才Ｊ・オディアール監督による社会派ドラマ。内戦下のスリランカを脱出した元兵士はフランスに移住する。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260105093000 +0900" stop="20260105123000 +0900" channel="8101028">
+    <title lang="ja">デーヴァラ（字幕版）</title>
+    <sub-title lang="ja">ＲＲＲ</sub-title>
+    <desc lang="ja">のＮ・Ｔ・ラーマ・ラオ・ジュニアが、親子２代の主人公をひとり２役で演じたインドアクション。村に武器密輸の悪事から手を引かせようとした英雄の伝説を描く。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260105123000 +0900" stop="20260105143000 +0900" channel="8101028">
+    <title lang="ja">オールド・フォックス　１１歳の選択（字幕版）</title>
+    <desc lang="ja">１９８９年、バブル景気に沸く台湾を舞台に、誠実だが時流に乗り損ねた“負け組”の父と、老練な“勝ち組”の地主との間で揺れる少年の葛藤を綴ったヒューマンドラマ。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260105143000 +0900" stop="20260105163000 +0900" channel="8101028">
+    <title lang="ja">１２日の殺人（字幕版）</title>
+    <desc lang="ja">フランスのアカデミー賞に当たる第４８回セザール賞で、作品賞、監督賞など計６部門を受賞。とある殺人事件の謎を追ううち深い闇に迷い込む刑事の姿を描いた不条理ドラマ。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260105163000 +0900" stop="20260105184500 +0900" channel="8101028">
+    <title lang="ja">スコア（字幕版）</title>
+    <desc lang="ja">Ｍ・ブランド、Ｒ・デ・ニーロ、Ｅ・ノートン、３世代の演技派が共演したクライムサスペンス。一匹狼の流儀を捨て、引退を懸けた大仕事に臨むすご腕金庫破りだったが……。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260105184500 +0900" stop="20260105210000 +0900" channel="8101028">
+    <title lang="ja">パッチギ！</title>
+    <desc lang="ja">井筒和幸監督が沢尻エリカらをキャストに迎え、恋・友情・けんかに情熱を燃やす、日本と在日朝鮮の高校生たちの青春を痛快に描いて高い評価を得た会心作。続編も作られた。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260105210000 +0900" stop="20260105232000 +0900" channel="8101028">
+    <title lang="ja">ハン・ソロ／スター・ウォーズ・ストーリー（字幕版）</title>
+    <sub-title lang="ja">スター・ウォーズ. ダ・ヴィンチ・コード</sub-title>
+    <desc lang="ja">サーガ第４〜７作の人気キャラ、ハン・ソロの若かりし日々を描いた話題作。などのヒットメーカー、Ｒ・ハワードが監督した。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260105232000 +0900" stop="20260106013000 +0900" channel="8101028">
+    <title lang="ja">ドラゴン×マッハ！（字幕版）</title>
+    <sub-title lang="ja">マッハ！</sub-title>
+    <desc lang="ja">香港＆タイを舞台に巨大な裏ビジネス、臓器売買をめぐり、当局ＶＳ犯罪組織が壮烈なバトルを展開。シリーズのＴ・ジャーら精鋭アクションスターが豪華に共演。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260106013000 +0900" stop="20260106013000 +0900" channel="8101028">
+    <title lang="ja">憐れみの３章（字幕版）</title>
+    <desc lang="ja">ギリシャの鬼才Ｙ・ランティモス監督の下に、Ｅ・ストーンほか、実力個性派たちが集結。彼らが１章ごとに強烈で違うキャラを演じ分ける、３章形式の異色オムニバスドラマ。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260106013000 +0900" stop="20260106042000 +0900" channel="8101028">
+    <title lang="ja">憐れみの３章（字幕版）</title>
+    <desc lang="ja">ギリシャの鬼才Ｙ・ランティモス監督の下に、Ｅ・ストーンほか、実力個性派たちが集結。彼らが１章ごとに強烈で違うキャラを演じ分ける、３章形式の異色オムニバスドラマ。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260106042000 +0900" stop="20260106064000 +0900" channel="8101028">
+    <title lang="ja">ＫＴ</title>
+    <desc lang="ja">１９７３年、東京都内のホテルで韓国の政治家・金大中が誘拐された。事件解決まで、彼の身に何が起こったのか……。衝撃的大事件の裏側を虚実交えて描写。主演は佐藤浩市。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260106064000 +0900" stop="20260106084500 +0900" channel="8101028">
+    <title lang="ja">ゴールデン・リバー（字幕版）</title>
+    <desc lang="ja">Ｊ・Ｃ・ライリー、Ｊ・フェニックス、Ｊ・ギレンホールらが豪華に競演し、第７５回ヴェネチア国際映画祭銀獅子賞（監督賞＝Ｊ・オディアール）ほかに輝いた異色の西部劇。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - 時代劇</category>
+  </programme>
+  <programme start="20260106084500 +0900" stop="20260106104500 +0900" channel="8101028">
+    <title lang="ja">西湖畔に生きる（字幕版）</title>
+    <sub-title lang="ja">春江水暖〜しゅんこうすいだん</sub-title>
+    <desc lang="ja">長編第１作で一躍世界の注目を浴びたグー・シャオガン監督が、山水画の世界を映画で極めたいと＜山水映画＞の第２弾として放った衝撃作。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260106104500 +0900" stop="20260106125000 +0900" channel="8101028">
+    <title lang="ja">来し方　行く末（字幕版）</title>
+    <desc lang="ja">弔辞の代筆業で生計を立てる主人公の不思議な人生を、中国の国民的人気俳優フー・ゴーが好演。第２５回上海国際映画祭で監督賞と男優賞に輝いた、味わい深い人間ドラマ。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260106125000 +0900" stop="20260106144500 +0900" channel="8101028">
+    <title lang="ja">コメント部隊（字幕版）</title>
+    <desc lang="ja">２０２０年代の韓国で人気の俳優ソン・ソックが主演した犯罪スリラー。大企業の不正に関する特ダネ記事が誤報だったことで停職処分になった記者が、世論操作の真相に迫る。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260106144500 +0900" stop="20260106163000 +0900" channel="8101028">
+    <title lang="ja">ロングレッグス（字幕版）</title>
+    <desc lang="ja">未解決だった殺人事件の謎を追う新人ＦＢＩ捜査官が、やがて驚くべき真相へと近づいていく。Ｎ・ケイジがエキセントリックなシリアルキラー役を演じたサスペンスホラー。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260106163000 +0900" stop="20260106184500 +0900" channel="8101028">
+    <title lang="ja">金子差入店</title>
+    <desc lang="ja">刑務所などへの差し入れ代行業を営む主人公が、息子の幼なじみの少女を殺害した犯人への差し入れを依頼され苦悩する。丸山隆平、北村匠海ら共演のヒューマンサスペンス。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260106184500 +0900" stop="20260106210000 +0900" channel="8101028">
+    <title lang="ja">パッチギ！　ＬＯＶＥ＆ＰＥＡＣＥ</title>
+    <sub-title lang="ja">パッチギ！</sub-title>
+    <desc lang="ja">日本映画界で絶賛されたから２年。物語の舞台を１９６８年の京都から１９７４年の東京に移し、井筒和幸監督が在日朝鮮人兄妹の青春を再び鮮烈に綴った続編。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260106210000 +0900" stop="20260106231500 +0900" channel="8101028">
+    <title lang="ja">ローグ・ワン／スター・ウォーズ・ストーリー（字幕版）</title>
+    <sub-title lang="ja">スター・ウォーズ</sub-title>
+    <desc lang="ja">のスピンオフで、２０１６年末に世界的大ヒット。銀河帝国軍と反乱同盟軍が繰り広げた、知られざる壮絶な戦いを激闘アクション満載で描いた熱い快作！.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260106231500 +0900" stop="20260107010000 +0900" channel="8101028">
+    <title lang="ja">カンフー・ジャングル（字幕版）</title>
+    <desc lang="ja">Ｄ・イェン主演の熱血カンフーアクション。武術界の頂点に立つＮｏ．１は誰だ？　服役中の警察の元武術教官は、武術の達人たちを狙う連続殺人鬼と宿命の対決を繰り広げる。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20251231011500 +0900" stop="20251231031500 +0900" channel="8101017">
+    <title lang="ja">インクレディブル・ハルク（吹替版）</title>
+    <desc lang="ja">人気アメコミを２度目の映画化。怒りを感じると緑色の大男《ハルク》に変身するようになった科学者が軍に追われ……。前作を超える評価を獲得したファンタジーアクション！.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20251231031500 +0900" stop="20251231053000 +0900" channel="8101017">
+    <title lang="ja">アイアンマン（吹替版）</title>
+    <desc lang="ja">アメリカンコミックの人気キャラを初めて実写映画化。巨大軍事企業の社長にして発明家のトニー・スタークは自身が作ったハイテクスーツを着て新ヒーロー、アイアンマンに！.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20251231053000 +0900" stop="20251231071000 +0900" channel="8101017">
+    <title lang="ja">ビートルジュース（吹替版）</title>
+    <desc lang="ja">幽霊の夫婦は、自分たちの家に越してきた家族を追い出そうと、人間退治専門のゴーストを呼び出す。鬼才Ｔ・バートン監督によるホラーコメディ。３６年後に続編が作られた。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">バラエティー - お笑い・コメディ</category>
+  </programme>
+  <programme start="20251231071000 +0900" stop="20251231090000 +0900" channel="8101017">
+    <title lang="ja">ビートルジュース　ビートルジュース（吹替版）</title>
+    <desc lang="ja">Ｔ・バートン監督によるカルトムービーの実に３６年ぶりとなる続編。主演Ｍ・キートンとＷ・ライダーらが再登場するほか、注目の俳優Ｊ・オルテガがヒロインの娘役で共演。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">バラエティー - お笑い・コメディ</category>
+  </programme>
+  <programme start="20251231090000 +0900" stop="20251231095500 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　コールドケース３　〜真実の扉〜　＃１　「鼓動（前…</title>
+    <sub-title lang="ja">コールドケース　〜真実の扉〜</sub-title>
+    <desc lang="ja">日本版待望の第３弾！吉田羊をはじめとする豪華キャストが様々な時代で起きた未解決事件の隠された真実を掘り起こす。.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20251231095500 +0900" stop="20251231105000 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　コールドケース３　〜真実の扉〜　＃２</title>
+    <sub-title lang="ja">鼓動（後編）</sub-title>
+    <desc lang="ja">日本版待望の第３弾！吉田羊をはじめとする豪華キャストが様々な時代で起きた未解決事件の隠された真実を掘り起こす。.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20251231105000 +0900" stop="20251231114500 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　コールドケース３　〜真実の扉〜　＃３</title>
+    <sub-title lang="ja">女優</sub-title>
+    <desc lang="ja">日本版待望の第３弾！吉田羊をはじめとする豪華キャストが様々な時代で起きた未解決事件の隠された真実を掘り起こす。.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20251231114500 +0900" stop="20251231124000 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　コールドケース３　〜真実の扉〜　＃４</title>
+    <sub-title lang="ja">オルゴール</sub-title>
+    <desc lang="ja">日本版待望の第３弾！吉田羊をはじめとする豪華キャストが様々な時代で起きた未解決事件の隠された真実を掘り起こす。.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20251231124000 +0900" stop="20251231133500 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　コールドケース３　〜真実の扉〜　＃５</title>
+    <sub-title lang="ja">夜のドライブ</sub-title>
+    <desc lang="ja">日本版待望の第３弾！吉田羊をはじめとする豪華キャストが様々な時代で起きた未解決事件の隠された真実を掘り起こす。.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20251231133500 +0900" stop="20251231143000 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　コールドケース３　〜真実の扉〜　＃６</title>
+    <sub-title lang="ja">壁の女たちへ</sub-title>
+    <desc lang="ja">日本版待望の第３弾！吉田羊をはじめとする豪華キャストが様々な時代で起きた未解決事件の隠された真実を掘り起こす。.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20251231143000 +0900" stop="20251231152500 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　コールドケース３　〜真実の扉〜　＃７</title>
+    <sub-title lang="ja">思い出の渚</sub-title>
+    <desc lang="ja">日本版待望の第３弾！吉田羊をはじめとする豪華キャストが様々な時代で起きた未解決事件の隠された真実を掘り起こす。.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20251231152500 +0900" stop="20251231162000 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　コールドケース３　〜真実の扉〜　＃８</title>
+    <sub-title lang="ja">汚名</sub-title>
+    <desc lang="ja">日本版待望の第３弾！吉田羊をはじめとする豪華キャストが様々な時代で起きた未解決事件の隠された真実を掘り起こす。.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20251231162000 +0900" stop="20251231171500 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　コールドケース３　〜真実の扉〜　＃９</title>
+    <sub-title lang="ja">故郷</sub-title>
+    <desc lang="ja">日本版待望の第３弾！吉田羊をはじめとする豪華キャストが様々な時代で起きた未解決事件の隠された真実を掘り起こす。.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20251231171500 +0900" stop="20251231181500 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　コールドケース３　〜真実の扉〜　＃１０</title>
+    <sub-title lang="ja">母の条件</sub-title>
+    <desc lang="ja">日本版待望の第３弾！吉田羊をはじめとする豪華キャストが様々な時代で起きた未解決事件の隠された真実を掘り起こす。.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20251231181500 +0900" stop="20251231201500 +0900" channel="8101017">
+    <title lang="ja">バック・トゥ・ザ・フューチャー（吹替版）</title>
+    <desc lang="ja">１９８０年代を代表する大ヒットＳＦシリーズ第１弾！　タイムマシンで１９５５年に飛ばされた高校生マーティ。歴史を改変してしまった彼は、元の“未来”に帰れるのか！？.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20251231201500 +0900" stop="20251231221500 +0900" channel="8101017">
+    <title lang="ja">バック・トゥ・ザ・フューチャー　ＰＡＲＴ２（吹替版）</title>
+    <desc lang="ja">未来から現在に持ち込まれたスポーツ年鑑のせいで、歴史は大混乱することに。Ｓ・スピルバーグが製作総指揮した、１９８０年代を代表する人気ＳＦコメディ３部作の第２弾！.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20251231221500 +0900" stop="20260101001500 +0900" channel="8101017">
+    <title lang="ja">バック・トゥ・ザ・フューチャー　ＰＡＲＴ３（吹替版）</title>
+    <desc lang="ja">マーティはドクを追って西部開拓時代へ飛んだ！　Ｓ・スピルバーグ製作総指揮による伝説的なＳＦコメディ３部作の完結編は、意表を突いて西部劇の面白さをミックス。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260101001500 +0900" stop="20260101014500 +0900" channel="8101017">
+    <title lang="ja">ＴＡＸｉ（吹替版）</title>
+    <desc lang="ja">チューンナップしたスーパータクシーで強盗団を猛追する暴走運転手の活躍を描いた人気カーアクションシリーズ第１作。人気クリエイター、Ｌ・ベッソンが製作・脚本を担当。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260101014500 +0900" stop="20260101014500 +0900" channel="8101017">
+    <title lang="ja">ＴＡＸｉ２（吹替版）</title>
+    <desc lang="ja">Ｌ・ベッソン製作の人気カーアクションシリーズ第２弾。訪仏した日本の防衛庁長官が誘拐され……。史上最速を誇るタクシー運転手ダニエルは、犯人を追ってパリの街を爆走！.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260101014500 +0900" stop="20260101031500 +0900" channel="8101017">
+    <title lang="ja">ＴＡＸｉ２（吹替版）</title>
+    <desc lang="ja">Ｌ・ベッソン製作の人気カーアクションシリーズ第２弾。訪仏した日本の防衛庁長官が誘拐され……。史上最速を誇るタクシー運転手ダニエルは、犯人を追ってパリの街を爆走！.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260101031500 +0900" stop="20260101044500 +0900" channel="8101017">
+    <title lang="ja">ＴＡＸｉ(3)（吹替版）</title>
+    <desc lang="ja">プジョー４０６を駆る最速のタクシー運転手ダニエルが、今度は謎の強盗団を追ってアルプスの雪山を爆走する！　Ｌ・ベッソン製作・脚本のコミカルカーアクション第３弾。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260101044500 +0900" stop="20260101063000 +0900" channel="8101017">
+    <title lang="ja">ＴＡＸｉ(4)（吹替版）</title>
+    <desc lang="ja">最速のタクシー運転手ダニエルと、ドジ刑事エミリアンの迷コンビが活躍するコミカルカーアクション第４弾。凶悪犯を追う２人が、マルセイユからモナコへと大爆走！.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260101063000 +0900" stop="20260101081500 +0900" channel="8101017">
+    <title lang="ja">ＴＡＸｉ　ダイヤモンド・ミッション（吹替版）</title>
+    <sub-title lang="ja">ＴＡＸｉ</sub-title>
+    <desc lang="ja">痛快カーアクションシリーズの前作から１１年ぶりに作られた第５作。新たな迷コンビは前作の名車プジョー４０７を入手。マフィアの宝石強盗団と対決していく。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260101081500 +0900" stop="20260101103000 +0900" channel="8101017">
+    <title lang="ja">パラサイト　半地下の家族（吹替版）</title>
+    <desc lang="ja">第９２回アカデミー賞で作品賞など最多の４部門で受賞した、韓国のポン・ジュノ監督による秀作。貧しい４人家族は大富豪が暮らす豪邸で、恐るべき秘密を知ってしまう……。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260101103000 +0900" stop="20260101122000 +0900" channel="8101017">
+    <title lang="ja">プロフェッショナル（２０２４）（吹替版）</title>
+    <desc lang="ja">紛争に揺れる１９７０年代の北アイルランドを舞台に、引退した伝説の殺し屋が凶悪なテロリストたちと死闘を繰り広げる。Ｌ・ニーソン主演のハードボイルドアクション。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260101122000 +0900" stop="20260101123000 +0900" channel="8101017">
+    <title lang="ja">映画検定２０２６受験ガイド</title>
+    <category lang="ja">バラエティー - その他</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">情報／ワイドショー - 番組紹介・お知らせ</category>
+  </programme>
+  <programme start="20260101123000 +0900" stop="20260101141500 +0900" channel="8101017">
+    <title lang="ja">メカニック（２０１１）（吹替版）</title>
+    <sub-title lang="ja">トランスポーター</sub-title>
+    <desc lang="ja">のＪ・ステイサム主演の痛快アクション。殺人の痕跡を残さない殺し屋が仕事で親友を暗殺するが……。１９７２年の同名作をリメイク。続編も作られた。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260101141500 +0900" stop="20260101160000 +0900" channel="8101017">
+    <title lang="ja">メカニック：ワールドミッション（吹替版）</title>
+    <sub-title lang="ja">メカニック</sub-title>
+    <desc lang="ja">チャールズ・ブロンソンが主演した１９７２年のをＪ・ステイサム主演でリメイクしてヒットした同名アクションの続編。元殺し屋ビショップを罠が待ち受ける。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260101160000 +0900" stop="20260101165000 +0900" channel="8101017">
+    <title lang="ja">英国ミステリー　＃１　孤島のバッ…</title>
+    <sub-title lang="ja">リンリー警部の事件簿</sub-title>
+    <desc lang="ja">人気小説を原作とする英国発の刑事ドラマ。子爵の称号を持ちながら犯罪捜査に情熱を注ぐリンリー警部とたたき上げの巡査部長ヘイヴァース、異色のコンビが事件を追う。.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260101165000 +0900" stop="20260101174000 +0900" channel="8101017">
+    <title lang="ja">英国ミステリー　＃２　孤島のバッカス…</title>
+    <sub-title lang="ja">リンリー警部の事件簿</sub-title>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260101174000 +0900" stop="20260101183000 +0900" channel="8101017">
+    <title lang="ja">英国ミステリー　＃３　旧友からの依頼…</title>
+    <sub-title lang="ja">リンリー警部の事件簿</sub-title>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260101183000 +0900" stop="20260101192000 +0900" channel="8101017">
+    <title lang="ja">英国ミステリー　＃４　旧友からの依頼…</title>
+    <sub-title lang="ja">リンリー警部の事件簿</sub-title>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260101192000 +0900" stop="20260101201000 +0900" channel="8101017">
+    <title lang="ja">英国ミステリー　＃５　恩讐の彼方　前編</title>
+    <sub-title lang="ja">リンリー警部の事件簿</sub-title>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260101201000 +0900" stop="20260101210000 +0900" channel="8101017">
+    <title lang="ja">英国ミステリー　＃６　恩讐の彼方　後編</title>
+    <sub-title lang="ja">リンリー警部の事件簿</sub-title>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260101210000 +0900" stop="20260101215000 +0900" channel="8101017">
+    <title lang="ja">英国ミステリー　＃７　偽りの聖痕　前編</title>
+    <sub-title lang="ja">リンリー警部の事件簿</sub-title>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260101215000 +0900" stop="20260101224500 +0900" channel="8101017">
+    <title lang="ja">英国ミステリー　＃８　偽りの聖痕　…</title>
+    <sub-title lang="ja">リンリー警部の事件簿</sub-title>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260101224500 +0900" stop="20260101230000 +0900" channel="8101017">
+    <title lang="ja">ＷＯＷＯＷ　ＭＵＳＩＣ　ＢＲＥＡＫ　＃３６２</title>
+    <category lang="ja">音楽 - 海外ロック・ポップス</category>
+  </programme>
+  <programme start="20260101230000 +0900" stop="20260102000000 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　池井戸潤スペシャル　＃１　「十…</title>
+    <sub-title lang="ja">かばん屋の相続</sub-title>
+    <desc lang="ja">で感動を呼んだ池井戸潤の珠玉の人間ドラマをＷＯＷＯＷで映像化！倒産、借金、不正、争い…４人の働く男たちの苦悩と葛藤の物語。.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260102000000 +0900" stop="20260102010000 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　池井戸潤スペシャル　＃２</title>
+    <sub-title lang="ja">かばん屋の相続. 芥のごとく</sub-title>
+    <desc lang="ja">で感動を呼んだ池井戸潤の珠玉の人間ドラマをＷＯＷＯＷで映像化！倒産、借金、不正、争い…４人の働く男たちの苦悩と葛藤の物語。.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260102010000 +0900" stop="20260102020000 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　池井戸潤スペシャル　＃３　「セールストー…</title>
+    <sub-title lang="ja">かばん屋の相続</sub-title>
+    <desc lang="ja">で感動を呼んだ池井戸潤の珠玉の人間ドラマをＷＯＷＯＷで映像化！倒産、借金、不正、争い…４人の働く男たちの苦悩と葛藤の物語。.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260102020000 +0900" stop="20260102030000 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　池井戸潤スペシャル　＃４　「かばん屋の…</title>
+    <sub-title lang="ja">かばん屋の相続</sub-title>
+    <desc lang="ja">で感動を呼んだ池井戸潤の珠玉の人間ドラマをＷＯＷＯＷで映像化！倒産、借金、不正、争い…４人の働く男たちの苦悩と葛藤の物語。.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260102030000 +0900" stop="20260102051500 +0900" channel="8101017">
+    <title lang="ja">アキラとあきら</title>
+    <desc lang="ja">竹内涼真と横浜流星がＷ主演。かつて“連続ドラマＷ”版も作られた、池井戸潤の小説を映画化。大銀行で出会った青年２人が現実に挑戦する“大逆転エンターテインメント”！.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260102051500 +0900" stop="20260102071000 +0900" channel="8101017">
+    <title lang="ja">シンシン／ＳＩＮＧ　ＳＩＮＧ（吹替版）</title>
+    <desc lang="ja">第９７回アカデミー賞では３部門でノミネート。米国の刑務所の実話に基づき、舞台演劇を通して受刑者の更生を目指すプログラムに参加した面々の友情と再生を描いた感動作。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260102071000 +0900" stop="20260102093000 +0900" channel="8101017">
+    <title lang="ja">ラブ・アクチュアリー（吹替版）</title>
+    <sub-title lang="ja">ブリジット・ジョーンズの日記</sub-title>
+    <desc lang="ja">クリスマスが近づくロンドンを舞台に、の名スタッフが男女１９人のさまざまな恋愛を並行させて描いた、豪華キャスト競演のラブコメディ。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260102093000 +0900" stop="20260102114500 +0900" channel="8101017">
+    <title lang="ja">告発（吹替版）</title>
+    <desc lang="ja">実話に基づき、アルカトラズ刑務所の不正と暴力に対して受刑者と弁護士が立ち上がる姿を描いたサスペンスドラマ。実力派スター２人、Ｃ・スレイターとＫ・ベーコンが共演。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260102114500 +0900" stop="20260102133000 +0900" channel="8101017">
+    <title lang="ja">クワイエット・プレイス（吹替版）</title>
+    <desc lang="ja">全米で大ヒットし、シリーズ化されたサスペンスホラーの第１作。音を立てると怪物に襲われるという異常な状況で、一家４人は命懸けのサバイバルに挑む。Ｍ・ベイほか製作。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260102133000 +0900" stop="20260102151500 +0900" channel="8101017">
+    <title lang="ja">クワイエット・プレイス　破られた沈黙（吹替版）</title>
+    <sub-title lang="ja">クワイエット・プレイス</sub-title>
+    <desc lang="ja">音を立てると襲ってくる怪物に立ち向かう家族を描いて大ヒットし、シリーズ化されたホラーの第２作。アボット一家は今までいた世界の外に出る。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260102151500 +0900" stop="20260102170000 +0900" channel="8101017">
+    <title lang="ja">クワイエット・プレイス：ＤＡＹ　１（吹替版）</title>
+    <desc lang="ja">音に反応する謎の怪物に支配された世界を舞台にしたホラーシリーズのスピンオフ前日譚。前２作で十分に語られていなかった“ＤＡＹ１”、怪物が現われた最初の日を描く。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260102170000 +0900" stop="20260102190000 +0900" channel="8101017">
+    <title lang="ja">映画『グランメゾン・パリ』</title>
+    <sub-title lang="ja">グランメゾン東京</sub-title>
+    <desc lang="ja">木村拓哉が型破りなシェフを演じたドラマの映画版。フランス料理の本場パリで、アジア人初のミシュラン三つ星を目指す主人公たちの苦闘を描く。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260102190000 +0900" stop="20260102210000 +0900" channel="8101017">
+    <title lang="ja">トップガン（吹替版）</title>
+    <desc lang="ja">Ｔ・クルーズ主演の大ヒットミリタリーアクション。パイロット訓練施設、通称“トップガン”を舞台に、若者たちの友情や青春をテンポよく描く。３６年後に続編も大ヒット。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260102210000 +0900" stop="20260102231500 +0900" channel="8101017">
+    <title lang="ja">トップガン　マーヴェリック（吹替版）</title>
+    <sub-title lang="ja">トップガン</sub-title>
+    <desc lang="ja">全世界が熱狂した、１９８６年のアクション映画の続編。主人公である戦闘機パイロットのマーヴェリック役を再びＴ・クルーズが演じ、２０２２年に大ヒット。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260102231500 +0900" stop="20260103000500 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　夜の道標　−ある容疑者を巡る記録−　＃１　「第一…</title>
+    <desc lang="ja">第７６回日本推理作家協会賞受賞、芦沢央の原作を連続ドラマ化。１９９６年に起きた殺人事件。その裏に隠された真実が胸に迫る、慟哭の本格社会派ミステリー。.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260103000500 +0900" stop="20260103010000 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　夜の道標　−ある容疑者を巡る記録−　＃２</title>
+    <sub-title lang="ja">第二話</sub-title>
+    <desc lang="ja">第７６回日本推理作家協会賞受賞、芦沢央の原作を連続ドラマ化。１９９６年に起きた殺人事件。その裏に隠された真実が胸に迫る、慟哭の本格社会派ミステリー。.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260103010000 +0900" stop="20260103020000 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　夜の道標　−ある容疑者を巡る記録−　＃３</title>
+    <sub-title lang="ja">第三話</sub-title>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260103020000 +0900" stop="20260103025000 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　夜の道標　−ある容疑者を巡る記録−　＃４</title>
+    <sub-title lang="ja">第四話</sub-title>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260103025000 +0900" stop="20260103025000 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　夜の道標　−ある容疑者を巡る記録−　＃５</title>
+    <sub-title lang="ja">最終話</sub-title>
+    <desc lang="ja">第７６回日本推理作家協会賞受賞、芦沢央の原作を連続ドラマ化。１９９６年に起きた殺人事件。その裏に隠された真実が胸に迫る、慟哭の本格社会派ミステリー。.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260103025000 +0900" stop="20260103035000 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　夜の道標　−ある容疑者を巡る記録−　＃５</title>
+    <sub-title lang="ja">最終話</sub-title>
+    <desc lang="ja">第７６回日本推理作家協会賞受賞、芦沢央の原作を連続ドラマ化。１９９６年に起きた殺人事件。その裏に隠された真実が胸に迫る、慟哭の本格社会派ミステリー。.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260103035000 +0900" stop="20260103053000 +0900" channel="8101017">
+    <title lang="ja">プロジェクト・サイレンス（吹替版）</title>
+    <desc lang="ja">海上の巨大な橋で多重衝突事故が発生！　崩落寸前の橋で人々が立ち往生する中、動物兵器として作り出された軍用犬が脱走し……。イ・ソンギュン主演のパニックスリラー。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260103053000 +0900" stop="20260103080500 +0900" channel="8101017">
+    <title lang="ja">ウエスト・サイド物語（吹替版）</title>
+    <desc lang="ja">アカデミー賞で作品賞など１０部門に輝くミュージカル映画の金字塔。ニューヨークで暮らす若者同士の対立を、名曲と有名なダンス場面の満載で描写。２０２１年にリメイク！.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">劇場／公演 - ミュージカル</category>
+  </programme>
+  <programme start="20260103080500 +0900" stop="20260103104500 +0900" channel="8101017">
+    <title lang="ja">ウエスト・サイド・ストーリー（吹替版）</title>
+    <sub-title lang="ja">ウエスト・サイド物語</sub-title>
+    <desc lang="ja">Ｓ・スピルバーグ監督がブロードウェイミュージカルの金字塔を２度目の映画化。第９４回アカデミー賞で計７ノミネーションを獲得した話題の秀作。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">劇場／公演 - ミュージカル</category>
+  </programme>
+  <programme start="20260103104500 +0900" stop="20260103133000 +0900" channel="8101017">
+    <title lang="ja">グラディエーター（吹替版）</title>
+    <desc lang="ja">第７３回アカデミー賞で作品賞など５部門に輝いたスペクタクル史劇。古代ローマ、新皇帝の陰謀で奴隷の剣闘士に身をやつした将軍の復讐を描く。２４年後に続編も誕生。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - 時代劇</category>
+  </programme>
+  <programme start="20260103133000 +0900" stop="20260103160000 +0900" channel="8101017">
+    <title lang="ja">グラディエーターII　英雄を呼ぶ声（吹替版）</title>
+    <sub-title lang="ja">グラディエーター</sub-title>
+    <desc lang="ja">大ヒット作の２４年ぶりに作られた続編。古代ローマ。前作の主人公マキシマス（クロウ）の息子であるルシアスは剣闘士になり、妻の復讐に立ち上がる。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - 時代劇</category>
+  </programme>
+  <programme start="20260103160000 +0900" stop="20260103170000 +0900" channel="8101017">
+    <title lang="ja">クリミナル・マインド１７　＃１　ゴールドスター</title>
+    <desc lang="ja">ＦＢＩのエリート犯罪プロファイラーチーム、ＢＡＵ（行動分析課）の活躍を描く大ヒットシリーズ。新たな謎“ゴールドスター”に隠された秘密とは…？.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260103170000 +0900" stop="20260103180000 +0900" channel="8101017">
+    <title lang="ja">クリミナル・マインド１７　＃２　悪意の伝染</title>
+    <desc lang="ja">ＦＢＩのエリート犯罪プロファイラーチーム、ＢＡＵ（行動分析課）の活躍を描く大ヒットシリーズ。新たな謎“ゴールドスター”に隠された秘密とは…？.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260103180000 +0900" stop="20260103190000 +0900" channel="8101017">
+    <title lang="ja">クリミナル・マインド１７　＃３　死の待つ新居</title>
+    <desc lang="ja">ＦＢＩのエリート犯罪プロファイラーチーム、ＢＡＵ（行動分析課）の活躍を描く大ヒットシリーズ。新たな謎“ゴールドスター”に隠された秘密とは…？.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260103190000 +0900" stop="20260103200000 +0900" channel="8101017">
+    <title lang="ja">クリミナル・マインド１７　＃４　鳥なき里のコウモリ</title>
+    <desc lang="ja">ＦＢＩのエリート犯罪プロファイラーチーム、ＢＡＵ（行動分析課）の活躍を描く大ヒットシリーズ。新たな謎“ゴールドスター”に隠された秘密とは…？.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260103200000 +0900" stop="20260103210000 +0900" channel="8101017">
+    <title lang="ja">クリミナル・マインド１７　＃５　陰謀と理論</title>
+    <desc lang="ja">ＦＢＩのエリート犯罪プロファイラーチーム、ＢＡＵ（行動分析課）の活躍を描く大ヒットシリーズ。新たな謎“ゴールドスター”に隠された秘密とは…？.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260103210000 +0900" stop="20260103220000 +0900" channel="8101017">
+    <title lang="ja">クリミナル・マインド１７　＃６　かつての手口</title>
+    <desc lang="ja">ＦＢＩのエリート犯罪プロファイラーチーム、ＢＡＵ（行動分析課）の活躍を描く大ヒットシリーズ。新たな謎“ゴールドスター”に隠された秘密とは…？.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260103220000 +0900" stop="20260103230000 +0900" channel="8101017">
+    <title lang="ja">クリミナル・マインド１７　＃７　ピラニア</title>
+    <desc lang="ja">ＦＢＩのエリート犯罪プロファイラーチーム、ＢＡＵ（行動分析課）の活躍を描く大ヒットシリーズ。新たな謎“ゴールドスター”に隠された秘密とは…？.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260103230000 +0900" stop="20260104000000 +0900" channel="8101017">
+    <title lang="ja">クリミナル・マインド１７　＃８　ノーススター</title>
+    <desc lang="ja">ＦＢＩのエリート犯罪プロファイラーチーム、ＢＡＵ（行動分析課）の活躍を描く大ヒットシリーズ。新たな謎“ゴールドスター”に隠された秘密とは…？.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260104000000 +0900" stop="20260104030000 +0900" channel="8101017">
+    <title lang="ja">憐れみの３章（字幕版）</title>
+    <desc lang="ja">ギリシャの鬼才Ｙ・ランティモス監督の下に、Ｅ・ストーンほか、実力個性派たちが集結。彼らが１章ごとに強烈で違うキャラを演じ分ける、３章形式の異色オムニバスドラマ。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260104030000 +0900" stop="20260104050000 +0900" channel="8101017">
+    <title lang="ja">明日に向って撃て！（字幕版）</title>
+    <desc lang="ja">２０２５年９月１６日に逝去したロバート・レッドフォードがポール・ニューマンと共演した傑作ウエスタン。ブッチとサンダンスが銀行強盗をし、自由奔放に生きる姿を描く。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - 時代劇</category>
+  </programme>
+  <programme start="20260104050000 +0900" stop="20260104063000 +0900" channel="8101017">
+    <title lang="ja">ＴＨＥ　ＧＵＩＬＴＹ／ギルティ（２０１８）（吹替版）</title>
+    <desc lang="ja">本国デンマークのアカデミー賞に当たる第３６回ロバート賞で、作品賞ほか最多の７部門を受賞。世界の各映画祭でも数多くの賞に輝いた秀作サスペンス。後に米国でリメイク。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260104063000 +0900" stop="20260104083000 +0900" channel="8101017">
+    <title lang="ja">クリフハンガー（吹替版）</title>
+    <sub-title lang="ja">ロッキー. ランボー</sub-title>
+    <desc lang="ja">“史上初！地上４０００メートルのノンストップエンターテインメント！”。のタフガイ、Ｓ・スタローン主演のヒット山岳スペクタクルアクション。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260104083000 +0900" stop="20260104090000 +0900" channel="8101017">
+    <title lang="ja">塀の中の美容室　＃１</title>
+    <sub-title lang="ja">第１話</sub-title>
+    <desc lang="ja">ひとりの受刑者と社会を生きる女性たちの人生が交錯する感動必至の温かな“再生”の物語。女子刑務所に実在する美容室をモデルにした小説を、主演に奈緒を迎えてドラマ化！.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260104090000 +0900" stop="20260104093000 +0900" channel="8101017">
+    <title lang="ja">塀の中の美容室　＃２</title>
+    <sub-title lang="ja">第２話</sub-title>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260104093000 +0900" stop="20260104100000 +0900" channel="8101017">
+    <title lang="ja">塀の中の美容室　＃３</title>
+    <sub-title lang="ja">第３話</sub-title>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260104100000 +0900" stop="20260104103000 +0900" channel="8101017">
+    <title lang="ja">塀の中の美容室　＃４</title>
+    <sub-title lang="ja">第４話</sub-title>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260104103000 +0900" stop="20260104110000 +0900" channel="8101017">
+    <title lang="ja">塀の中の美容室　＃５</title>
+    <sub-title lang="ja">第５話</sub-title>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260104110000 +0900" stop="20260104113000 +0900" channel="8101017">
+    <title lang="ja">塀の中の美容室　＃６</title>
+    <sub-title lang="ja">第６話</sub-title>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260104113000 +0900" stop="20260104120000 +0900" channel="8101017">
+    <title lang="ja">塀の中の美容室　＃７</title>
+    <sub-title lang="ja">最終話</sub-title>
+    <desc lang="ja">ひとりの受刑者と社会を生きる女性たちの人生が交錯する感動必至の温かな“再生”の物語。女子刑務所に実在する美容室をモデルにした小説を、主演に奈緒を迎えてドラマ化！.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260104120000 +0900" stop="20260104134500 +0900" channel="8101017">
+    <title lang="ja">カールじいさんの空飛ぶ家（吹替版）</title>
+    <desc lang="ja">ディズニー／ピクサーが２００９年に放ち、第８２回アカデミー賞で長編アニメ映画賞に輝いた秀作。妻を失ったカールじいさんは気球のような家に乗って、少年と冒険の旅へ。.(n)</desc>
+    <category lang="ja">映画 - アニメ</category>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260104134500 +0900" stop="20260104153000 +0900" channel="8101017">
+    <title lang="ja">塔の上のラプンツェル（吹替版）</title>
+    <desc lang="ja">ディズニーの長編アニメーション映画として５０作目となった、感動のエンターテイメント作品。長い“魔法”の髪を持つ少女ラプンツェルは、生まれて初めて“外の世界”へ。.(n)</desc>
+    <category lang="ja">映画 - アニメ</category>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260104153000 +0900" stop="20260104171500 +0900" channel="8101017">
+    <title lang="ja">ベイマックス（吹替版）</title>
+    <desc lang="ja">近未来を舞台にしたディズニーのアドベンチャーアニメーション。最愛の兄を亡くした孤独な少年が、兄の残したケアロボット“ベイマックス”とともに謎と陰謀に立ち向かう。.(n)</desc>
+    <category lang="ja">映画 - アニメ</category>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260104171500 +0900" stop="20260104191500 +0900" channel="8101017">
+    <title lang="ja">リメンバー・ミー（２０１７）（吹替版）</title>
+    <desc lang="ja">第９０回アカデミー賞で長編アニメ映画賞と歌曲賞に輝いたディズニー＆ピクサーの感動作。ミュージシャン志望の少年ミゲルは先祖の魂を迎える“死者の日”に驚異の世界へ。.(n)</desc>
+    <category lang="ja">映画 - アニメ</category>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260104191500 +0900" stop="20260104210000 +0900" channel="8101017">
+    <title lang="ja">アナと雪の女王（吹替版）</title>
+    <desc lang="ja">世界中にブームを巻き起こした、ディズニー・アニメーション映画史上最高のヒット作。運命に引き裂かれた王家の姉妹、エルサとアナを主人公に〈真実の愛〉を描いた感動作。.(n)</desc>
+    <category lang="ja">映画 - アニメ</category>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260104210000 +0900" stop="20260104230000 +0900" channel="8101017">
+    <title lang="ja">アナと雪の女王２（吹替版）</title>
+    <sub-title lang="ja">アナと雪の女王</sub-title>
+    <desc lang="ja">なぜ、エルサに力は与えられたのか──。　世界的ヒットとなったの続編。女王となったエルサは、ある日不思議な歌声に導かれ、未知なる世界へ旅立つ。.(n)</desc>
+    <category lang="ja">映画 - アニメ</category>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260104230000 +0900" stop="20260105010000 +0900" channel="8101017">
+    <title lang="ja">＃真相をお話しします</title>
+    <desc lang="ja">ミステリー界の超新星・結城真一郎による異色のベストセラー小説を、大森元貴と菊池風磨のＷ主演で映画化。暴露系生配信で語られる“真相”とは？.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260105010000 +0900" stop="20260105010000 +0900" channel="8101017">
+    <title lang="ja">神は銃弾（字幕版）</title>
+    <desc lang="ja">悪魔崇拝のカルト集団の仕業で元妻を惨殺され、娘を拉致された刑事が、怒りの追撃を開始。絶賛を博したＢ・テランの同名小説を鮮烈な暴力描写を交えて映画化した衝撃作。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260105010000 +0900" stop="20260105034500 +0900" channel="8101017">
+    <title lang="ja">神は銃弾（字幕版）</title>
+    <desc lang="ja">悪魔崇拝のカルト集団の仕業で元妻を惨殺され、娘を拉致された刑事が、怒りの追撃を開始。絶賛を博したＢ・テランの同名小説を鮮烈な暴力描写を交えて映画化した衝撃作。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260105034500 +0900" stop="20260105053000 +0900" channel="8101017">
+    <title lang="ja">５７秒　復讐のタイムループ（字幕版）</title>
+    <desc lang="ja">時間を５７秒巻き戻せる指輪を手にした青年が、妹を死に追いやった巨大製薬会社への復讐に挑む。Ｊ・ハッチャーソンと名優Ｍ・フリーマンが共演したＳＦタイムサスペンス。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260105053000 +0900" stop="20260105073000 +0900" channel="8101017">
+    <title lang="ja">スピーク・ノー・イーブル　異常な家族（字幕版）</title>
+    <sub-title lang="ja">胸騒ぎ. スプリット</sub-title>
+    <desc lang="ja">両親と娘という米国人３人家族は英国の地方で暮らす一家の家に招かれるが、そこで衝撃の事態へ。映画を米国でリメイク。主演はのＪ・マカヴォイ。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260105073000 +0900" stop="20260105082000 +0900" channel="8101017">
+    <title lang="ja">国色芳華（こくしょくほうか）〜牡丹の花咲く都で〜　＃１１　第１１話（字幕版）</title>
+    <desc lang="ja">唐の時代。牡丹栽培を職にする不屈のヒロインと、軽薄と見せかけた高潔な貴公子、惹かれ合う２人の運命は……圧倒的スケールと深い人間ドラマが織り成すメガヒット時代劇。.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260105082000 +0900" stop="20260105083000 +0900" channel="8101017">
+    <title lang="ja">暮らしをたのしむ、料理道具　＃１　毎日焼きたくなる玉子焼き</title>
+    <category lang="ja">バラエティー - その他</category>
+  </programme>
+  <programme start="20260105083000 +0900" stop="20260105094500 +0900" channel="8101017">
+    <title lang="ja">韓国ホームドラマ　＃２８　「…（字幕版）</title>
+    <sub-title lang="ja">トクスリ５兄弟をよろしく！</sub-title>
+    <desc lang="ja">韓国で視聴率２０％超え！伝統的な酒蔵、トクスリ酒造を営む個性豊かな５人兄弟と結婚１０日目に夫を亡くし、突然家長になった長男の嫁が織り成すホームドラマ.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260105094500 +0900" stop="20260105110000 +0900" channel="8101017">
+    <title lang="ja">チャン・ナラ×イ・サンユン　＃１６　…（字幕版）</title>
+    <sub-title lang="ja">ＶＩＰ−迷路の始まり−</sub-title>
+    <desc lang="ja">演技派人気俳優が豪華共演！高級百貨店のＶＩＰ顧客専門チームの愛憎を描くスリリングなラブサスペンス。１通のメールをきっかけに暴かれるそれぞれの秘密とは…？.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260105110000 +0900" stop="20260105115000 +0900" channel="8101017">
+    <title lang="ja">燕雲台−Ｔｈｅ　Ｌｅｇｅｎｄ　ｏｆ　Ｅｍｐｒｅｓｓ−　＃４８　…（字幕版）</title>
+    <sub-title lang="ja">王女未央　−ＢＩＯＵ−</sub-title>
+    <desc lang="ja">大ヒットドラマのティファニー・タン主演。伝説の皇后の愛と戦いの物語が鮮やかに蘇る歴史エンターテイメント超大作。.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260105115000 +0900" stop="20260105124500 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　誰かがこの町で　＃１</title>
+    <sub-title lang="ja">第１話</sub-title>
+    <desc lang="ja">江口洋介主演で送る、ある新興住宅地を舞台に忖度（そんたく）と同調圧力の恐怖を描いた衝撃の社会派ミステリー。１９年前にこの町で起きた一家失踪事件の真実とは？.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260105124500 +0900" stop="20260105134000 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　誰かがこの町で　＃２</title>
+    <sub-title lang="ja">第２話</sub-title>
+    <desc lang="ja">江口洋介主演で送る、ある新興住宅地を舞台に忖度（そんたく）と同調圧力の恐怖を描いた衝撃の社会派ミステリー。１９年前にこの町で起きた一家失踪事件の真実とは？.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260105134000 +0900" stop="20260105143500 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　誰かがこの町で　＃３</title>
+    <sub-title lang="ja">第３話</sub-title>
+    <desc lang="ja">江口洋介主演で送る、ある新興住宅地を舞台に忖度（そんたく）と同調圧力の恐怖を描いた衝撃の社会派ミステリー。１９年前にこの町で起きた一家失踪事件の真実とは？.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260105143500 +0900" stop="20260105153000 +0900" channel="8101017">
+    <title lang="ja">連続ドラマＷ　誰かがこの町で　＃４</title>
+    <sub-title lang="ja">最終話</sub-title>
+    <desc lang="ja">江口洋介主演で送る、ある新興住宅地を舞台に忖度（そんたく）と同調圧力の恐怖を描いた衝撃の社会派ミステリー。１９年前にこの町で起きた一家失踪事件の真実とは？.(n)</desc>
+    <category lang="ja">ドラマ - 国内ドラマ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260105153000 +0900" stop="20260105183000 +0900" channel="8101017">
+    <title lang="ja">カルキ　２８９８−ＡＤ（字幕版）</title>
+    <sub-title lang="ja">バーフバリ</sub-title>
+    <desc lang="ja">２部作のプラバースを主演に、インド神話とＳＦを融合させたアクション大作。独裁者が支配する未来で、救世主とされる胎児を巡って壮絶な戦いが展開する。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260105183000 +0900" stop="20260105204500 +0900" channel="8101017">
+    <title lang="ja">ブリジット・ジョーンズの日記　サイテー最高な私の今（字幕版）</title>
+    <sub-title lang="ja">ブリジット・ジョーンズの日記</sub-title>
+    <desc lang="ja">Ｒ・ゼルウィガーが主演のロマンティックコメディシリーズの９年ぶりに作られた第４作。シングルマザーになったブリジットの奮闘を描く。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260105204500 +0900" stop="20260105224500 +0900" channel="8101017">
+    <title lang="ja">死に損なった男</title>
+    <desc lang="ja">お笑いコンビ・空気階段の水川かたまり主演のホラーテイストコメディ。殺伐とした社会と報われない日々に疲弊したコントの構成作家が、中年男の幽霊に翻弄される姿を描く。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">バラエティー - お笑い・コメディ</category>
+  </programme>
+  <programme start="20260105224500 +0900" stop="20260106010000 +0900" channel="8101017">
+    <title lang="ja">金子差入店</title>
+    <desc lang="ja">刑務所などへの差し入れ代行業を営む主人公が、息子の幼なじみの少女を殺害した犯人への差し入れを依頼され苦悩する。丸山隆平、北村匠海ら共演のヒューマンサスペンス。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260106010000 +0900" stop="20260106015000 +0900" channel="8101017">
+    <title lang="ja">唐朝詭事録＜とうちょうきじろく＞　第二季　＃２６　相次ぐ失踪（字幕版）</title>
+    <desc lang="ja">若き武官と老練な検視人が、八つの奇怪事件を追うエンターテインメント×サスペンス時代劇。唐を舞台に凸凹コンビの活躍が光る、絶大な支持を得た人気シリーズの第２作。.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260106015000 +0900" stop="20260106024000 +0900" channel="8101017">
+    <title lang="ja">唐朝詭事録＜とうちょうきじろく＞　第二季　＃２７　犯人捜し（字幕版）</title>
+    <desc lang="ja">若き武官と老練な検視人が、八つの奇怪事件を追うエンターテインメント×サスペンス時代劇。唐を舞台に凸凹コンビの活躍が光る、絶大な支持を得た人気シリーズの第２作。.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260106024000 +0900" stop="20260106024000 +0900" channel="8101017">
+    <title lang="ja">唐朝詭事録＜とうちょうきじろく＞　第二季　＃２８　命懸けの遊戯（字幕版）</title>
+    <desc lang="ja">若き武官と老練な検視人が、八つの奇怪事件を追うエンターテインメント×サスペンス時代劇。唐を舞台に凸凹コンビの活躍が光る、絶大な支持を得た人気シリーズの第２作。.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260106024000 +0900" stop="20260106033000 +0900" channel="8101017">
+    <title lang="ja">唐朝詭事録＜とうちょうきじろく＞　第二季　＃２８　命懸けの遊戯（字幕版）</title>
+    <desc lang="ja">若き武官と老練な検視人が、八つの奇怪事件を追うエンターテインメント×サスペンス時代劇。唐を舞台に凸凹コンビの活躍が光る、絶大な支持を得た人気シリーズの第２作。.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260106033000 +0900" stop="20260106042000 +0900" channel="8101017">
+    <title lang="ja">唐朝詭事録＜とうちょうきじろく＞　第二季　＃２９　協力者現る（字幕版）</title>
+    <desc lang="ja">若き武官と老練な検視人が、八つの奇怪事件を追うエンターテインメント×サスペンス時代劇。唐を舞台に凸凹コンビの活躍が光る、絶大な支持を得た人気シリーズの第２作。.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260106042000 +0900" stop="20260106051000 +0900" channel="8101017">
+    <title lang="ja">唐朝詭事録＜とうちょうきじろく＞　第二季　＃３０　仙階の主（字幕版）</title>
+    <desc lang="ja">若き武官と老練な検視人が、八つの奇怪事件を追うエンターテインメント×サスペンス時代劇。唐を舞台に凸凹コンビの活躍が光る、絶大な支持を得た人気シリーズの第２作。.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260106051000 +0900" stop="20260106073000 +0900" channel="8101017">
+    <title lang="ja">ふたりで終わらせる／ＩＴ　ＥＮＤＳ　ＷＩＴＨ　ＵＳ（字幕版）</title>
+    <sub-title lang="ja">ゴシップガール</sub-title>
+    <desc lang="ja">２０２４年に世界的ヒットを記録した話題作。偶然の出会いから幸福な日々が続いた男女のカップルは予期せぬ事態へ……。主演はドラマのＢ・ライヴリー。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260106073000 +0900" stop="20260106082000 +0900" channel="8101017">
+    <title lang="ja">国色芳華（こくしょくほうか）〜牡丹の花咲く都で〜　＃１２　第１２話（字幕版）</title>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260106082000 +0900" stop="20260106083000 +0900" channel="8101017">
+    <title lang="ja">暮らしをたのしむ、料理道具　＃２　手仕事のおろし金と、ポタージュ</title>
+    <category lang="ja">バラエティー - その他</category>
+  </programme>
+  <programme start="20260106083000 +0900" stop="20260106094500 +0900" channel="8101017">
+    <title lang="ja">韓国ホームドラマ　＃２９　「…（字幕版）</title>
+    <sub-title lang="ja">トクスリ５兄弟をよろしく！</sub-title>
+    <desc lang="ja">韓国で視聴率２０％超え！伝統的な酒蔵、トクスリ酒造を営む個性豊かな５人兄弟と結婚１０日目に夫を亡くし、突然家長になった長男の嫁が織り成すホームドラマ.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260106094500 +0900" stop="20260106110000 +0900" channel="8101017">
+    <title lang="ja">イ・ドンウク主演　＃１　…（字幕版）</title>
+    <sub-title lang="ja">九尾狐＜クミホ＞伝〜不滅の愛〜</sub-title>
+    <desc lang="ja">伝説の霊獣とされている九尾狐（クミホ）と人間の女性の愛を描いた、イ・ドンウク主演のファンタジーアクションロマンス！.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260106110000 +0900" stop="20260106115000 +0900" channel="8101017">
+    <title lang="ja">アンジェラベイビー主演　＃１　シ…（字幕版）</title>
+    <sub-title lang="ja">摩天楼のモンタージュ…</sub-title>
+    <desc lang="ja">アンジェラベイビーが主演する密室型ミステリー・サスペンス。タワーマンションに住むミステリアスな美女の死に対する住人たちの食い違う証言は、驚きの真相を導き出す。.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260106115000 +0900" stop="20260106120000 +0900" channel="8101017">
+    <title lang="ja">映画検定２０２６模擬試験　ＳＴＥＰ１</title>
+    <category lang="ja">バラエティー - その他</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">情報／ワイドショー - 番組紹介・お知らせ</category>
+  </programme>
+  <programme start="20260106120000 +0900" stop="20260106130000 +0900" channel="8101017">
+    <title lang="ja">アサシン／伝説の殺し屋　＃１　十年ぶりの依頼</title>
+    <desc lang="ja">引退した殺し屋の母とそれを知らずに育った息子。突然の銃撃に遭い、奇妙な逃避行が始まる。２人を狙う黒幕とは？Ｋ・ホーズ、Ｆ・ハイモア主演の極上サスペンス！.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260106130000 +0900" stop="20260106140000 +0900" channel="8101017">
+    <title lang="ja">アサシン／伝説の殺し屋　＃２　危険なクルーズ</title>
+    <desc lang="ja">引退した殺し屋の母とそれを知らずに育った息子。突然の銃撃に遭い、奇妙な逃避行が始まる。２人を狙う黒幕とは？Ｋ・ホーズ、Ｆ・ハイモア主演の極上サスペンス！.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260106140000 +0900" stop="20260106145000 +0900" channel="8101017">
+    <title lang="ja">アサシン／伝説の殺し屋　＃３　過去からの罠</title>
+    <desc lang="ja">引退した殺し屋の母とそれを知らずに育った息子。突然の銃撃に遭い、奇妙な逃避行が始まる。２人を狙う黒幕とは？Ｋ・ホーズ、Ｆ・ハイモア主演の極上サスペンス！.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260106145000 +0900" stop="20260106154500 +0900" channel="8101017">
+    <title lang="ja">アサシン／伝説の殺し屋　＃４　黄色い手紙</title>
+    <desc lang="ja">引退した殺し屋の母とそれを知らずに育った息子。突然の銃撃に遭い、奇妙な逃避行が始まる。２人を狙う黒幕とは？Ｋ・ホーズ、Ｆ・ハイモア主演の極上サスペンス！.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260106154500 +0900" stop="20260106164000 +0900" channel="8101017">
+    <title lang="ja">アサシン／伝説の殺し屋　＃５　消えた息子</title>
+    <desc lang="ja">引退した殺し屋の母とそれを知らずに育った息子。突然の銃撃に遭い、奇妙な逃避行が始まる。２人を狙う黒幕とは？Ｋ・ホーズ、Ｆ・ハイモア主演の極上サスペンス！.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260106164000 +0900" stop="20260106173000 +0900" channel="8101017">
+    <title lang="ja">アサシン／伝説の殺し屋　＃６　復讐の舞台</title>
+    <desc lang="ja">引退した殺し屋の母とそれを知らずに育った息子。突然の銃撃に遭い、奇妙な逃避行が始まる。２人を狙う黒幕とは？Ｋ・ホーズ、Ｆ・ハイモア主演の極上サスペンス！.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260106173000 +0900" stop="20260106191500 +0900" channel="8101017">
+    <title lang="ja">ザ・ウォッチャーズ（吹替版）</title>
+    <desc lang="ja">Ｍ・ナイト・シャマラン監督の娘イシャナ・ナイト・シャマランが長編初監督に挑んだサスペンスホラー。森に迷い込んだ人間たちを毎晩監視する“ウォッチャーズ”とは？.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260106191500 +0900" stop="20260106210000 +0900" channel="8101017">
+    <title lang="ja">フライト・リスク（吹替版）</title>
+    <desc lang="ja">小型飛行機を舞台に、司法取引した証人と保安官補とパイロット、ワケありの３人の攻防を描く。Ｍ・ギブソン監督、Ｍ・ウォールバーグ主演の航空サスペンスアクション。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260106210000 +0900" stop="20260106220000 +0900" channel="8101017">
+    <title lang="ja">プロジェクト・ランウェイ２１　＃１　ウェルカムバック！</title>
+    <desc lang="ja">世界的人気のファッション・リアリティ・ショーからシーズン２１が上陸。出場者１２人が激闘に挑む。スーパーモデルのハイジ・クラムが５シーズンぶりに司会として復帰.(n)</desc>
+    <category lang="ja">バラエティー - その他</category>
+    <category lang="ja">情報／ワイドショー - ファッション</category>
+  </programme>
+  <programme start="20260106220000 +0900" stop="20260106230000 +0900" channel="8101017">
+    <title lang="ja">クリミナル・マインド１７　＃８　ノーススター（字幕版）</title>
+    <desc lang="ja">ＦＢＩのエリート犯罪プロファイラーチーム、ＢＡＵ（行動分析課）の活躍を描く大ヒットシリーズ。新たな謎“ゴールドスター”に隠された秘密とは…？.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260106230000 +0900" stop="20260106235000 +0900" channel="8101017">
+    <title lang="ja">ＦＢＩ：ＭｏｓｔＷａｎｔｅｄ６指名手配特捜班＜最終章＞　＃１８</title>
+    <sub-title lang="ja">ＦＢＩ：特別捜査班</sub-title>
+    <desc lang="ja">大人気シリーズのスピンオフ、ついにファイナルシーズン！　最重要指名手配リストに名を連ねる凶悪な逃亡犯を追う捜査官たちの活躍を描く。.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20260106235000 +0900" stop="20260107002000 +0900" channel="8101017">
+    <title lang="ja">Ｆｉｓｈ　ｏｆ　ｔｈｅ　Ｄａｙ２〜南太平洋で釣り三昧〜　＃１０（字幕版）</title>
+    <desc lang="ja">ニュージーランドを中心に、南太平洋の島々で海釣りや素潜りをし、大型の魚も捕まえ、シェフが料理した魚に舌鼓を打つ、究極の釣り番組。.(n)</desc>
+    <category lang="ja">バラエティー - その他</category>
+    <category lang="ja">趣味／教育 - 旅・釣り・アウトドア</category>
+  </programme>
+  <programme start="20251231030000 +0900" stop="20251231035000 +0900" channel="8101029">
+    <title lang="ja">英国サスペンス　　Ｆｉｌｅ　１　報いのバラ…</title>
+    <sub-title lang="ja">警部補アニカ２</sub-title>
+    <desc lang="ja">シリーズのＮ・ウォーカー主演。海や湖など水に関連する殺人事件を捜査する特殊チーム“ＭＨＵ”の活躍を描く一話完結のクライムサスペンス第２弾。.(n)</desc>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20251231035000 +0900" stop="20251231044000 +0900" channel="8101029">
+    <title lang="ja">英国サスペンス　　Ｆｉｌｅ　２　ウェイヴァ…</title>
+    <sub-title lang="ja">警部補アニカ２</sub-title>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20251231044000 +0900" stop="20251231053000 +0900" channel="8101029">
+    <title lang="ja">英国サスペンス　　Ｆｉｌｅ　３　ハイド氏の裏の顔</title>
+    <sub-title lang="ja">警部補アニカ２</sub-title>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20251231053000 +0900" stop="20251231062000 +0900" channel="8101029">
+    <title lang="ja">英国サスペンス　　Ｆｉｌｅ　４　ビッグ・ブラザーは見…</title>
+    <sub-title lang="ja">警部補アニカ２</sub-title>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20251231062000 +0900" stop="20251231071000 +0900" channel="8101029">
+    <title lang="ja">英国サスペンス　　Ｆｉｌｅ　５　エコリゾートの魔物</title>
+    <sub-title lang="ja">警部補アニカ２</sub-title>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20251231071000 +0900" stop="20251231080000 +0900" channel="8101029">
+    <title lang="ja">英国サスペンス　　Ｆｉｌｅ　６　プロメテウスの大罪</title>
+    <sub-title lang="ja">警部補アニカ２</sub-title>
+    <category lang="ja">ドラマ - 海外ドラマ</category>
+  </programme>
+  <programme start="20251231080000 +0900" stop="20251231083000 +0900" channel="8101029">
+    <title lang="ja">大坂なおみドキュメンタリー（字幕版）</title>
+    <sub-title lang="ja">ピープルズ・チャンピオン</sub-title>
+    <category lang="ja">スポーツ - その他の球技</category>
+  </programme>
+  <programme start="20251231083000 +0900" stop="20251231093000 +0900" channel="8101029">
+    <title lang="ja">小田凱人　歴史を変えた１９歳。誰も知らない、その先へ</title>
+    <desc lang="ja">１９歳の若さで生涯ゴールデンスラムを達成したプロ車いすテニスプレーヤー、小田凱人。世界一への軌跡をたどるとともにその強さとさらなる進化に迫るドキュメンタリー。.(n)</desc>
+    <category lang="ja">スポーツ - その他の球技</category>
+    <category lang="ja">スポーツ - その他</category>
+    <category lang="ja">ドキュメンタリー／教養 - スポーツ</category>
+  </programme>
+  <programme start="20251231093000 +0900" stop="20251231103000 +0900" channel="8101029">
+    <title lang="ja">ＬＰＧＡ女子ゴルフツアー２０２５　ＴＨＥ　ＲＯＯＫＩＥＳ　純真な一年、永遠の輝き</title>
+    <desc lang="ja">２０２５年、５人の日本勢が女子ゴルフの頂点を目指し、海を渡った。それぞれ確かな実績、自信と共に。一度限りのルーキーイヤー、彼女たちが世界に刻んだ１年を振り返る。.(n)</desc>
+    <category lang="ja">スポーツ - その他</category>
+  </programme>
+  <programme start="20251231103000 +0900" stop="20251231120000 +0900" channel="8101029">
+    <title lang="ja">１４年間ありがとう！ＬＰＧＡ女子ゴルフツアー　大総集編</title>
+    <desc lang="ja">レギュラー放送開始から１４年、ご視聴いただいた皆様に感謝の気持ちを込めて、ＷＯＷＯＷの歴史を一緒に歩んできた豪華５人のプロとともに貴重な映像で振り返る大総集編。.(n)</desc>
+    <category lang="ja">スポーツ - ゴルフ</category>
+    <category lang="ja">スポーツ - その他</category>
+  </programme>
+  <programme start="20251231120000 +0900" stop="20251231123000 +0900" channel="8101029">
+    <title lang="ja">ネイチャーズ・キッチン　＃６　雪のみなかみと鹿のロースト</title>
+    <desc lang="ja">日本各地の狩猟や漁の文化・風習に焦点を当てながら、その場でとれた食材を調理する。こだわり抜いた美しい映像で地球と人と食材の関係を映すドキュメント。.(n)</desc>
+    <category lang="ja">ドキュメンタリー／教養 - 歴史・紀行</category>
+    <category lang="ja">ドキュメンタリー／教養 - その他</category>
+  </programme>
+  <programme start="20251231123000 +0900" stop="20251231160000 +0900" channel="8101029">
+    <title lang="ja">ＮＢＡバスケットボール　八村塁出場予定　ピストンズｖｓレイカーズ</title>
+    <desc lang="ja">東の首位に立つピストンズを率いるのは“新時代の米国出身ＰＧ”ケイド・カニングハム。レイカーズは彼の華麗なアシストを封じ、レブロン４１歳の誕生日を白星で飾れるか.(n)</desc>
+    <category lang="ja">スポーツ - その他の球技</category>
+    <category lang="ja">スポーツ - その他</category>
+  </programme>
+  <programme start="20251231160000 +0900" stop="20251231184500 +0900" channel="8101029">
+    <title lang="ja">ウィキッド　ふたりの魔女（字幕版）</title>
+    <sub-title lang="ja">オズの魔法使. ウィキッド</sub-title>
+    <desc lang="ja">名作と同じ、“オズの国”が舞台の演劇を映画化し、世界的大ヒット。第９７回アカデミー賞で２部門に輝いたミュージカルファンタジー大作。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">劇場／公演 - ミュージカル</category>
+  </programme>
+  <programme start="20251231184500 +0900" stop="20251231201500 +0900" channel="8101029">
+    <title lang="ja">ウィキッド・スペシャル：忘れられない一夜（字幕版）</title>
+    <sub-title lang="ja">ウィキッド</sub-title>
+    <desc lang="ja">ミュージカル界の不朽の名作を映画化、全世界総興収は７億５０００万ドルを突破した映画『ウィキッド　ふたりの魔女』のライブミュージカル番組。.(n)</desc>
+    <category lang="ja">劇場／公演 - その他</category>
+    <category lang="ja">劇場／公演 - ミュージカル</category>
+  </programme>
+  <programme start="20251231201500 +0900" stop="20251231223000 +0900" channel="8101029">
+    <title lang="ja">ラグビー　テストマッチ　２０２５　南アフリカｖｓ日本</title>
+    <desc lang="ja">１９年Ｗ杯以来６年ぶりの激突！日本代表欧州遠征第１戦の相手は世界ランキング１位の南アフリカ！歴史的勝利を挙げたイングランドの地で１０年ぶり２度目の勝利なるか！？.(n)</desc>
+    <category lang="ja">スポーツ - その他の球技</category>
+    <category lang="ja">スポーツ - オリンピック・国際大会</category>
+  </programme>
+  <programme start="20251231223000 +0900" stop="20260101004500 +0900" channel="8101029">
+    <title lang="ja">ラグビーテストマッチ２０２５　アイルランドｖｓ日本</title>
+    <desc lang="ja">日本代表、ロンドンからダブリンへ乗り込み強豪アイルランドと４年ぶりに激突！ともにキルター・ネーションズシリーズ初戦を迎える両チーム…今秋初勝利を手にするのは！？.(n)</desc>
+    <category lang="ja">スポーツ - その他の球技</category>
+    <category lang="ja">スポーツ - オリンピック・国際大会</category>
+    <category lang="ja">スポーツ - その他</category>
+  </programme>
+  <programme start="20260101004500 +0900" stop="20260101030000 +0900" channel="8101029">
+    <title lang="ja">ラグビーテストマッチ２０２５　ウェールズｖｓ日本</title>
+    <desc lang="ja">４週連続日本代表戦！欧州遠征第３戦は７月に日本で１勝１敗と互角の勝負を繰り広げた世界ランク１２位のウェールズ！同１３位の日本にとって負けられない敵地での大一番！.(n)</desc>
+    <category lang="ja">スポーツ - その他の球技</category>
+    <category lang="ja">スポーツ - オリンピック・国際大会</category>
+    <category lang="ja">スポーツ - その他</category>
+  </programme>
+  <programme start="20260101030000 +0900" stop="20260101045000 +0900" channel="8101029">
+    <title lang="ja">ＲＥＤ　ＳＨＡＤＯＷ　赤影</title>
+    <desc lang="ja">かつてドラマ化もされた横山光輝による漫画を、音楽ビデオ界の寵児だった当時の中野裕之監督が映画化。対立する２大勢力の忍者たちの激しい戦いを描いた新感覚娯楽時代劇。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - 時代劇</category>
+  </programme>
+  <programme start="20260101045000 +0900" stop="20260101061000 +0900" channel="8101029">
+    <title lang="ja">フォー・レター・ワーズ（字幕版）</title>
+    <sub-title lang="ja">ＡＮＯＲＡ　アノーラ</sub-title>
+    <desc lang="ja">が第９７回アカデミー賞で作品賞ほかに輝いた鬼才Ｓ・ベイカーの監督デビュー作。ある真夏の夜、米国の郊外で男子大学生たちは本音をぶつけ合う。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260101061000 +0900" stop="20260101090000 +0900" channel="8101029">
+    <title lang="ja">桂雀々独演会　芸歴四十五周年記念公演</title>
+    <desc lang="ja">２０２４年１１月２０日に逝去した、上方の爆笑王こと桂雀々。２０２２年の独演会を放送。舞台装置も演出に取り込み、芸歴４５周年の集大成となった見どころ満載の公演。.(n)</desc>
+    <category lang="ja">劇場／公演 - 落語・演芸</category>
+    <category lang="ja">バラエティー - お笑い・コメディ</category>
+  </programme>
+  <programme start="20260101090000 +0900" stop="20260101120000 +0900" channel="8101029">
+    <title lang="ja">ＮＢＡバスケットボール　ニックスｖｓスパーズ</title>
+    <desc lang="ja">ＮＢＡカップ決勝では大会ＭＶＰブランソンを中心にニックスがスパーズを相手に大逆転で優勝を手にした。雪辱に燃えるウェンバンヤマ、最後まで目が離せない激戦の予感ー.(n)</desc>
+    <category lang="ja">スポーツ - その他の球技</category>
+    <category lang="ja">スポーツ - その他</category>
+  </programme>
+  <programme start="20260101120000 +0900" stop="20260101123000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃１　ＳＯＳ地球！！　甦れ宇宙戦艦ヤマト</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260101123000 +0900" stop="20260101130000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃２　号砲一発！！　宇宙戦艦ヤマト始動</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260101130000 +0900" stop="20260101133000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃３　ヤマト発進！！　２９万６千光年への挑戦！！</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260101133000 +0900" stop="20260101140000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃４　驚異の世界！！　光を飛び越えたヤマト！！</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260101140000 +0900" stop="20260101143000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃５　浮遊大陸脱出！！　危機を呼ぶ波動砲！！</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260101143000 +0900" stop="20260101150000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃６　氷原に眠る宇宙駆逐艦ゆきかぜ！</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260101150000 +0900" stop="20260101153000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃７　ヤマト沈没！！　運命の要塞攻略戦！！</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260101153000 +0900" stop="20260101160000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃８　決死のヤマト！！　反射衛星砲撃破せよ！！</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260101160000 +0900" stop="20260101163000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃９　回転防禦！！　アステロイド・ベルト！！</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260101163000 +0900" stop="20260101170000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃１０　さらば太陽系！！　銀河より愛をこめて！！</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260101170000 +0900" stop="20260101173000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃１１　決断！！　ガミラス絶対防衛線突入</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260101173000 +0900" stop="20260101180000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃１２　絶体絶命！　オリオンの願い星・地獄星</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260101180000 +0900" stop="20260101183000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃１３　急げヤマト！！　地球は病んでいる！！</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260101183000 +0900" stop="20260101190000 +0900" channel="8101029">
+    <title lang="ja">宝塚プルミエール　彩風咲奈×彩みちる　からくり装置工作</title>
+    <category lang="ja">劇場／公演 - ミュージカル</category>
+    <category lang="ja">情報／ワイドショー - 番組紹介・お知らせ</category>
+  </programme>
+  <programme start="20260101190000 +0900" stop="20260101204500 +0900" channel="8101029">
+    <title lang="ja">玉置浩二　ｗｉｔｈ　故郷楽団　１０周年　Ｃｏｎｃｅｒｔ　Ｔｏｕｒ　２…</title>
+    <desc lang="ja">愛と平和への想いを歌に乗せる玉置浩二。そこには、音楽の力を改めて信じることができる強さがある。玉置浩二と故郷楽団の旅も１０年。その最新公演を独占放送・配信！.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260101204500 +0900" stop="20260101210000 +0900" channel="8101029">
+    <title lang="ja">ＷＯＷＯＷ　ＭＵＳＩＣ　ＢＲＥＡＫ　＃３６１</title>
+    <category lang="ja">音楽 - 海外ロック・ポップス</category>
+  </programme>
+  <programme start="20260101210000 +0900" stop="20260101231000 +0900" channel="8101029">
+    <title lang="ja">清水ミチコ万博　〜ひとり　ＰＡＲＡＤＥ〜ｉｎ武道館</title>
+    <desc lang="ja">２０２５年を笑いで幕開けした清水ミチコの武道館ライブ！今回はひとり万博と題して清水ワールドを炸裂させる。ＶＴＲやステージに豪華ゲスト続々出演！.(n)</desc>
+    <category lang="ja">劇場／公演 - その他</category>
+    <category lang="ja">バラエティー - お笑い・コメディ</category>
+  </programme>
+  <programme start="20260101231000 +0900" stop="20260102012500 +0900" channel="8101029">
+    <title lang="ja">清水ミチコアワー〜ひとり祝賀会〜ｉｎ武道館　１０ｔｈ　ａｎｎｉｖｅｒｓａｒｙ</title>
+    <desc lang="ja">年末年始の風物詩・清水ミチコの武道館公演、なんと記念すべき１０回目！！ＶＴＲに豪華ゲスト続々出演！メモリアルな瞬間をひとりと言わずみんなで祝いたい。.(n)</desc>
+    <category lang="ja">劇場／公演 - その他</category>
+    <category lang="ja">バラエティー - お笑い・コメディ</category>
+  </programme>
+  <programme start="20260102012500 +0900" stop="20260102025000 +0900" channel="8101029">
+    <title lang="ja">ＴＭ　ＮＥＴＷＯＲＫ　ＬＩＶＥ　ＴＯＵＲ　ＭａｊｏｒＴｕｒｎ−Ｒｏｕｎｄ　０１…</title>
+    <desc lang="ja">ＴＭ　ＮＥＴＷＯＲＫが『ＥＸＰＯ』から９年ぶりとなるアルバム『Ｍａｊｏｒ　Ｔｕｒｎ−Ｒｏｕｎｄ』を引っ提げて行なったツアーの映像作品を２本まとめて放送・配信。.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260102025000 +0900" stop="20260102025000 +0900" channel="8101029">
+    <title lang="ja">ＴＭ　ＮＥＴＷＯＲＫ　ＬＩＶＥ　ＴＯＵＲ　ＭａｊｏｒＴｕｒｎ−Ｒｏｕｎｄ　０２…</title>
+    <desc lang="ja">ＴＭ　ＮＥＴＷＯＲＫが『ＥＸＰＯ』から９年ぶりとなるアルバム『Ｍａｊｏｒ　Ｔｕｒｎ−Ｒｏｕｎｄ』を引っ提げて行なったツアーの映像作品を２本まとめて放送・配信。.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260102025000 +0900" stop="20260102035000 +0900" channel="8101029">
+    <title lang="ja">ＴＭ　ＮＥＴＷＯＲＫ　ＬＩＶＥ　ＴＯＵＲ　ＭａｊｏｒＴｕｒｎ−Ｒｏｕｎｄ　０２…</title>
+    <desc lang="ja">ＴＭ　ＮＥＴＷＯＲＫが『ＥＸＰＯ』から９年ぶりとなるアルバム『Ｍａｊｏｒ　Ｔｕｒｎ−Ｒｏｕｎｄ』を引っ提げて行なったツアーの映像作品を２本まとめて放送・配信。.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260102035000 +0900" stop="20260102040000 +0900" channel="8101029">
+    <title lang="ja">ＷＯＷＯＷ　ＭＵＳＩＣ　ＢＲＥＡＫ　＃３６３</title>
+    <category lang="ja">音楽 - 海外ロック・ポップス</category>
+  </programme>
+  <programme start="20260102040000 +0900" stop="20260102045000 +0900" channel="8101029">
+    <title lang="ja">洋楽主義　クイーン</title>
+    <category lang="ja">音楽 - 海外ロック・ポップス</category>
+    <category lang="ja">音楽 - その他</category>
+  </programme>
+  <programme start="20260102045000 +0900" stop="20260102070000 +0900" channel="8101029">
+    <title lang="ja">鈴木雅之　ｔａｓｔｅ　ｏｆ　ｍａｒｔｉｎｉ　ｔｏｕｒ　２０２０／２１　〜ＡＬＬ…</title>
+    <desc lang="ja">１９８０年シャネルズからデビュー４０周年。アニメ主題歌で世界的に注目されるなど、進化し続ける鈴木雅之。４０年間のヒット曲も含め、まさに集大成となるツアーは必見！.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260102070000 +0900" stop="20260102090000 +0900" channel="8101029">
+    <title lang="ja">徳永英明　ＬＩＶＥ　１９９９　Ｃｏｎｃｅｒｔ　Ｔｏｕｒ　”ｈｏｎｅｓｔｏ”</title>
+    <desc lang="ja">５カ月間５１本にも及ぶ公演で、各地で完売を連発した１９９９年のツアー。定評あるバラードをじっくりと聴かせるツアーから、神奈川県民ホール公演をお送りする。.(n)</desc>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260102090000 +0900" stop="20260102100000 +0900" channel="8101029">
+    <title lang="ja">徳永英明　Ｍｕｓｉｃ　Ｖｉｄｅｏ　Ｃｏｌｌｅｃｔｉｏｎ</title>
+    <desc lang="ja">ボーカリスト徳永英明の世界観が詰め込まれたミュージックビデオ・コレクション。時代を彩ってきた名曲の数々をお送りする。.(n)</desc>
+    <category lang="ja">音楽 - その他</category>
+  </programme>
+  <programme start="20260102100000 +0900" stop="20260102120000 +0900" channel="8101029">
+    <title lang="ja">エキサイトマッチ　＃３６　２０２５年総集編</title>
+    <sub-title lang="ja">エキサイトマッチ</sub-title>
+    <desc lang="ja">が今年放送・配信した試合の中から豪華解説と充実の実況陣と共にランキング形式で振り返る２０２５年総集編。.(n)</desc>
+    <category lang="ja">スポーツ - 相撲・格闘技</category>
+  </programme>
+  <programme start="20260102120000 +0900" stop="20260102123000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃１４　銀河の試練！！　西暦２２００年の発進！！</title>
+    <desc lang="ja">ＴＶ放送開始から＜５０周年＞。社会現象を巻き起こしたＴＶシリーズ第１作をＯＡ。西暦２１９９年、ガミラス帝国と宇宙戦艦ヤマトの戦いと旅を描く。.(n)</desc>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260102123000 +0900" stop="20260102130000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃１５　必死の逃亡！！　異次元のヤマト！！</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260102130000 +0900" stop="20260102133000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃１６　ビーメラ星地下牢の死刑囚！</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260102133000 +0900" stop="20260102140000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃１７　突撃！！　バラノドン特攻隊！</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260102140000 +0900" stop="20260102143000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃１８　浮かぶ要塞島！　たった二人の決死隊！！</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260102143000 +0900" stop="20260102150000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃１９　宇宙の望郷！　母の涙は我が涙</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260102150000 +0900" stop="20260102153000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃２０　バラン星に太陽が落下する日！！</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260102153000 +0900" stop="20260102160000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃２１　ドメル艦隊　決死の挑戦状！！</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260102160000 +0900" stop="20260102163000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃２２　決戦！！　七色星団の攻防戦！！</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260102163000 +0900" stop="20260102170000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃２３　ついに来た！　マゼラン星雲波高し！</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260102170000 +0900" stop="20260102173000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃２４　死闘！神よ、ガミラスのために泣け！！</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260102173000 +0900" stop="20260102180000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃２５　イスカンダル！　滅び行くか愛の星よ！！</title>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260102180000 +0900" stop="20260102183000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　＃２６　地球よ、ヤマトは帰って来た！！</title>
+    <desc lang="ja">ＴＶ放送開始から＜５０周年＞。社会現象を巻き起こしたＴＶシリーズ第１作をＯＡ。西暦２１９９年、ガミラス帝国と宇宙戦艦ヤマトの戦いと旅を描く。.(n)</desc>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+  </programme>
+  <programme start="20260102183000 +0900" stop="20260102190000 +0900" channel="8101029">
+    <title lang="ja">ＵＥＦＡ　ＣＬマガジン　リーグフェーズ　Ｍａｔｃｈｄａｙ　６　Ｒｅｖｉｅｗ</title>
+    <desc lang="ja">ＵＥＦＡ公式の情報番組。チャンピオンズリーグに出場する選手たちのインタビューや注目試合のプレビュー、振り返りなどを貴重な映像とともにお届け！.(n)</desc>
+    <category lang="ja">スポーツ - サッカー</category>
+    <category lang="ja">スポーツ - その他</category>
+    <category lang="ja">情報／ワイドショー - 番組紹介・お知らせ</category>
+  </programme>
+  <programme start="20260102190000 +0900" stop="20260102204500 +0900" channel="8101029">
+    <title lang="ja">徳永英明　コンサートツアー　２０２５　ＡＬＬ　ＲＥＱＵＥＳＴ</title>
+    <desc lang="ja">ファンからのリクエストによってセットリストが決まる最新コンサートツアー。夏を挟んでの後半は前半とは違った内容に。豪華すぎる名曲の数々に圧倒されるステージは必見！.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - その他</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260102204500 +0900" stop="20260102210000 +0900" channel="8101029">
+    <title lang="ja">ＷＯＷＯＷ　ＭＵＳＩＣ　ＢＲＥＡＫ　＃３６４</title>
+    <category lang="ja">音楽 - 海外ロック・ポップス</category>
+  </programme>
+  <programme start="20260102210000 +0900" stop="20260102230000 +0900" channel="8101029">
+    <title lang="ja">シネマ歌舞伎　宮藤官九郎×中村勘九郎</title>
+    <sub-title lang="ja">唐茄子屋　不思議国之若旦那</sub-title>
+    <desc lang="ja">宮藤官九郎×中村勘九郎！古典落語とを掛け合わせた奇想天外な物語。客席はドッカンドッカンの大爆笑！人情味と幸せ感あふれる新作歌舞伎。.(n)</desc>
+    <category lang="ja">劇場／公演 - 歌舞伎・古典</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260102230000 +0900" stop="20260103020000 +0900" channel="8101029">
+    <title lang="ja">ＮＢＡバスケットボール　八村塁出場予定　ピストンズｖｓレイカーズ</title>
+    <desc lang="ja">東の首位に立つピストンズを率いるのは“新時代の米国出身ＰＧ”ケイド・カニングハム。レイカーズは彼の華麗なアシストを封じ、レブロン４１歳の誕生日を白星で飾れるか.(n)</desc>
+    <category lang="ja">スポーツ - その他の球技</category>
+    <category lang="ja">スポーツ - その他</category>
+  </programme>
+  <programme start="20260103020000 +0900" stop="20260103020000 +0900" channel="8101029">
+    <title lang="ja">新しい学校のリーダーズ　宣誓　〜個性や自由ではみ出し１０年〜　Ｓｐｅｃｉａｌ　…</title>
+    <desc lang="ja">７月１９日に行なわれた新しい学校のリーダーズの記念ライブのスペシャル・エディション。ライブ映像に加え、メンバーたちが１０周年の想いを熱く語るインタビューも必見！.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260103020000 +0900" stop="20260103043000 +0900" channel="8101029">
+    <title lang="ja">新しい学校のリーダーズ　宣誓　〜個性や自由ではみ出し１０年〜　Ｓｐｅｃｉａｌ　…</title>
+    <desc lang="ja">７月１９日に行なわれた新しい学校のリーダーズの記念ライブのスペシャル・エディション。ライブ映像に加え、メンバーたちが１０周年の想いを熱く語るインタビューも必見！.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260103043000 +0900" stop="20260103055500 +0900" channel="8101029">
+    <title lang="ja">プレゼンス　存在（字幕版）</title>
+    <sub-title lang="ja">オーシャンズ</sub-title>
+    <desc lang="ja">シリーズ３部作などで知られるＳ・ソダーバーグ監督が、とある屋敷に引っ越してきた一家に降りかかる悲劇を全編幽霊の一人称視点で見つめた新感覚ホラー。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260103055500 +0900" stop="20260103074000 +0900" channel="8101029">
+    <title lang="ja">ＳＨＩＮＯＢＩ</title>
+    <desc lang="ja">仲間由紀恵とオダギリジョーが豪華共演した忍者アクション時代劇。忍者の里である伊賀と甲賀、それぞれの跡取りである男女が落ちた許されない恋と悲しい宿命を描く。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - 時代劇</category>
+  </programme>
+  <programme start="20260103074000 +0900" stop="20260103100000 +0900" channel="8101029">
+    <title lang="ja">室町無頼</title>
+    <desc lang="ja">直木賞作家・垣根涼介の同名小説を大泉洋主演で映画化した時代劇大作。室町時代に実在した蓮田兵衛（はすだひょうえ）が、武士階級として初めて一揆を起こすまでを描く。.(n)</desc>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">ドラマ - 時代劇</category>
+  </programme>
+  <programme start="20260103100000 +0900" stop="20260103120000 +0900" channel="8101029">
+    <title lang="ja">エキサイトマッチＳＰ　＃２８</title>
+    <sub-title lang="ja">寺地拳四朗ｖｓサンドバル</sub-title>
+    <desc lang="ja">２階級制覇王者でＷＢＡ・ＷＢＣ世界フライ級チャンピオンの寺地拳四朗がリカルド・サンドバルを相手に世界フライ級王座２度目の防衛戦に臨む。.(n)</desc>
+    <category lang="ja">スポーツ - 相撲・格闘技</category>
+  </programme>
+  <programme start="20260103120000 +0900" stop="20260103142000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　劇場版</title>
+    <sub-title lang="ja">宇宙戦艦ヤマト</sub-title>
+    <desc lang="ja">ＴＶシリーズの総集編で、映画版シリーズの第１作。その４Ｋリマスター版。西暦２１９９年、地球を救うため宇宙戦艦ヤマトはイスカンダルへ旅立つ。.(n)</desc>
+    <category lang="ja">映画 - アニメ</category>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260103142000 +0900" stop="20260103165300 +0900" channel="8101029">
+    <title lang="ja">さらば宇宙戦艦ヤマト　愛の戦士たち</title>
+    <sub-title lang="ja">宇宙戦艦ヤマト</sub-title>
+    <desc lang="ja">の映画版シリーズ第２作。その４Ｋリマスター版。２２０１年、地球に白色彗星の脅威が迫っていることを知った古代はヤマトを再発進させる。.(n)</desc>
+    <category lang="ja">映画 - アニメ</category>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260103165300 +0900" stop="20260103183000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　新たなる旅立ち</title>
+    <sub-title lang="ja">宇宙戦艦ヤマト</sub-title>
+    <desc lang="ja">シリーズで唯一のＴＶスペシャル版。イスカンダルの危機を知ったヤマトは、イスカンダルへ救援に向かう。.(n)</desc>
+    <category lang="ja">アニメ／特撮 - 国内アニメ</category>
+    <category lang="ja">アニメ／特撮 - その他</category>
+  </programme>
+  <programme start="20260103183000 +0900" stop="20260103210000 +0900" channel="8101029">
+    <title lang="ja">劇場版　氷川きよし　「ＫＩＹＯＳＨＩ　ＨＩＫＡＷＡ＋ＫＩＩＮＡ…</title>
+    <desc lang="ja">２０２４年、１年８カ月ぶりに歌手活動を再開した氷川きよし。デビュー２５周年の幕開けを飾ったコンサートツアーにドキュメンタリー映像が追加収録された劇場作品.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260103210000 +0900" stop="20260103231500 +0900" channel="8101029">
+    <title lang="ja">三谷文楽</title>
+    <sub-title lang="ja">人形ぎらい</sub-title>
+    <desc lang="ja">文楽人形が、スケボーに乗って劇場を飛び出す！？主人公は万年“憎まれ役”の人形。三谷幸喜の抱腹絶倒エンターテインメント。文楽人形に不可能はない！.(n)</desc>
+    <category lang="ja">劇場／公演 - 現代劇・新劇</category>
+    <category lang="ja">ドラマ - その他</category>
+    <category lang="ja">ドキュメンタリー／教養 - カルチャー・伝統文化</category>
+  </programme>
+  <programme start="20260103231500 +0900" stop="20260104013000 +0900" channel="8101029">
+    <title lang="ja">ナイツ独演会　でも懐には分厚いお札が入っていた</title>
+    <desc lang="ja">毎年完売御礼のナイツ独演会。全国８都市を巡ったツアーから東京公演を放送！今や押しも押されもせぬ漫才コンビとなった２人のライブを、会場の熱気とともにお届けする。.(n)</desc>
+    <category lang="ja">バラエティー - お笑い・コメディ</category>
+  </programme>
+  <programme start="20260104013000 +0900" stop="20260104013000 +0900" channel="8101029">
+    <title lang="ja">ナイツ独演会　実況の人が『そうですね』ばっかり言うでしょう</title>
+    <desc lang="ja">毎年完売御礼のナイツ独演会。全国を巡ったツアーから東京公演を放送！今や押しも押されもせぬ漫才コンビとなった２人のライブを、会場の熱気とともにお届けする。.(n)</desc>
+    <category lang="ja">バラエティー - お笑い・コメディ</category>
+  </programme>
+  <programme start="20260104013000 +0900" stop="20260104032000 +0900" channel="8101029">
+    <title lang="ja">ナイツ独演会　実況の人が『そうですね』ばっかり言うでしょう</title>
+    <desc lang="ja">毎年完売御礼のナイツ独演会。全国を巡ったツアーから東京公演を放送！今や押しも押されもせぬ漫才コンビとなった２人のライブを、会場の熱気とともにお届けする。.(n)</desc>
+    <category lang="ja">バラエティー - お笑い・コメディ</category>
+  </programme>
+  <programme start="20260104032000 +0900" stop="20260104041000 +0900" channel="8101029">
+    <title lang="ja">洋楽主義　オアシス</title>
+    <category lang="ja">音楽 - 海外ロック・ポップス</category>
+    <category lang="ja">音楽 - その他</category>
+  </programme>
+  <programme start="20260104041000 +0900" stop="20260104042500 +0900" channel="8101029">
+    <title lang="ja">映画検定２０２６模擬試験　ＳＴＥＰ３</title>
+    <category lang="ja">バラエティー - その他</category>
+    <category lang="ja">映画 - その他</category>
+    <category lang="ja">情報／ワイドショー - 番組紹介・お知らせ</category>
+  </programme>
+  <programme start="20260104042500 +0900" stop="20260104052500 +0900" channel="8101029">
+    <title lang="ja">７　Ｓ．Ｔ．Ａ．Ｒ．Ｓ．佐藤アツヒロが繋ぐ光ＧＥＮＪＩの現在　＃６</title>
+    <desc lang="ja">“昭和の最強アイドル”光ＧＥＮＪＩ解散から３０年。　デビュー当時最年少１３歳だった佐藤アツヒロが、ひとつの強い想いを胸にメンバーを訪ねるドキュメンタリー。.(n)</desc>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+    <category lang="ja">ドキュメンタリー／教養 - カルチャー・伝統文化</category>
+  </programme>
+  <programme start="20260104052500 +0900" stop="20260104062000 +0900" channel="8101029">
+    <title lang="ja">７　Ｓ．Ｔ．Ａ．Ｒ．Ｓ．佐藤アツヒロが繋ぐ光ＧＥＮＪＩの現在　＃７</title>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+    <category lang="ja">ドキュメンタリー／教養 - カルチャー・伝統文化</category>
+  </programme>
+  <programme start="20260104062000 +0900" stop="20260104100000 +0900" channel="8101029">
+    <title lang="ja">メトロポリタン・オペラ　ヴェルディ《運命の力》新演出（字幕版）</title>
+    <desc lang="ja">巨匠ヴェルディによるドラマティックな愛の悲劇を、歴史に残る布陣で送る！運命に翻弄される人々の衝撃的な結末。未来が不確かな今、時を超えて現実味を帯び我々に迫る。.(n)</desc>
+    <category lang="ja">音楽 - クラシック・オペラ</category>
+    <category lang="ja">ドラマ - その他</category>
+  </programme>
+  <programme start="20260104100000 +0900" stop="20260104120000 +0900" channel="8101029">
+    <title lang="ja">エキサイトマッチＳＰ　＃２７</title>
+    <sub-title lang="ja">バルガスｖｓ比嘉大吾. ロサｖｓ高見亨介</sub-title>
+    <desc lang="ja">激闘の日本人ダブルタイトルマッチ２試合を比嘉大吾、高見亨介それぞれの本人解説で振り返る特別番組をお届けする。.(n)</desc>
+    <category lang="ja">スポーツ - 相撲・格闘技</category>
+  </programme>
+  <programme start="20260104120000 +0900" stop="20260104143000 +0900" channel="8101029">
+    <title lang="ja">ヤマトよ永遠に</title>
+    <sub-title lang="ja">宇宙戦艦ヤマト. 宇宙戦艦ヤマト　新たなる旅立ち</sub-title>
+    <desc lang="ja">の映画版シリーズ第３作で、ＴＶスペシャルの続編。２２０２年、地球を危機から救うためヤマトは再び宇宙に旅立つ。.(n)</desc>
+    <category lang="ja">映画 - アニメ</category>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260104143000 +0900" stop="20260104171500 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　完結編</title>
+    <sub-title lang="ja">ヤマトよ永遠に. 宇宙戦艦ヤマト</sub-title>
+    <desc lang="ja">前作に続いた、の映画版シリーズ第４作。２２０３年、新たな脅威が地球に迫ろうとしていた。異次元空間から突如銀河星雲が現われる。.(n)</desc>
+    <category lang="ja">映画 - アニメ</category>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260104171500 +0900" stop="20260104193000 +0900" channel="8101029">
+    <title lang="ja">宇宙戦艦ヤマト　復活篇</title>
+    <sub-title lang="ja">宇宙戦艦ヤマト　完結編</sub-title>
+    <desc lang="ja">以来２６年ぶりに作られた劇場版。移動性ブラックホールが地球に接近、古代進は若いクルーたちを連れ、ひそかに再建されたヤマトで飛び立つ。.(n)</desc>
+    <category lang="ja">映画 - アニメ</category>
+    <category lang="ja">映画 - 邦画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260104193000 +0900" stop="20260104200000 +0900" channel="8101029">
+    <title lang="ja">ＧＬＡＹ　ＭＶ　ＣＯＬＬＥＣＴＩＯＮ　Ｖｏｌ．４</title>
+    <desc lang="ja">デビュー３１年目に突入したＧＬＡＹのＭｕｓｉｃＶｉｄｅｏを複数月に渡り大特集。言わばＭＶのＢＥＳＴ盤！.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260104200000 +0900" stop="20260104223000 +0900" channel="8101029">
+    <title lang="ja">聖飢魔II　ＶＳ　ＢＡＢＹＭＥＴＡＬ　悪魔が来たりてベビメタる…</title>
+    <desc lang="ja">敵か味方か、現世最凶の遭遇と謳われたかつてない二夜の公演からＤＡＹ２の模様をお届け。聖飢魔IIとＢＡＢＹＭＥＴＡＬが雌雄を決す。.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260104223000 +0900" stop="20260105030000 +0900" channel="8101029">
+    <title lang="ja">ＳＩＡＭＳＯＰＨＩＡＳｐｅｃｉａ…</title>
+    <sub-title lang="ja">２０２５　ＳＩＡＭＳＯＰＨＩＡ　ＦＩＮＡＬ</sub-title>
+    <desc lang="ja">波瀾万丈の道を歩んできたＳＯＰＨＩＡとＳＩＡＭ　ＳＨＡＤＥの４人がＳＩＡＭＳＯＰＨＩＡの活動を通して辿り着いた場所とは？ライブ映像にインタビューを加えた特別編。.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260105030000 +0900" stop="20260105060000 +0900" channel="8101029">
+    <title lang="ja">ＳＩＡＭＳＯＰＨＩＡ</title>
+    <sub-title lang="ja">１９９５　ＳＩＡＭ　ＳＯＰＨＩＡ　−　Ｇ</sub-title>
+    <desc lang="ja">３０周年のＳＯＰＨＩＡとＳＩＡＭ　ＳＨＡＤＥメンバー４人とガレッジセールにより、２０２５年２月に大阪城ホールで開催されたライブの編集版をＷＯＷＯＷで放送・配信。.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260105060000 +0900" stop="20260105082000 +0900" channel="8101029">
+    <title lang="ja">清春　ｄｅｂｕｔ　３０ｔｈ　ａｎｎｉｖｅｒｓａｒｙ　ｙｅａｒ　ＴＯＵＲ　天使ノ…</title>
+    <desc lang="ja">ロックボーカリストとして多大な影響を与えてきた清春が、黒夢でのデビューから３０周年を記念し全国６０本を超えるツアーを開催中。誕生日公演を独占放送・配信！.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - その他</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260105082000 +0900" stop="20260105101500 +0900" channel="8101029">
+    <title lang="ja">黒夢　２０２５．０２．０９　ＣＯＲＫＳＣＲＥＷ　Ａ　ＧＯ　ＧＯ！　ＳＡＩＮＴ　…</title>
+    <desc lang="ja">黒夢がデビュー３０周年を記念し１０年ぶりに復活、デビュー日に東京ガーデンシアターで開催した熱狂のライブを独占放送・配信！.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - その他</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260105101500 +0900" stop="20260105110000 +0900" channel="8101029">
+    <title lang="ja">洋楽主義　ピンク・フロイド</title>
+    <sub-title lang="ja">観るベストアルバム</sub-title>
+    <desc lang="ja">アーティストやジャンルをフィーチャーした。英国のレジェンドバンド、ピンク・フロイドを特集する。.(n)</desc>
+    <category lang="ja">音楽 - 海外ロック・ポップス</category>
+    <category lang="ja">音楽 - その他</category>
+  </programme>
+  <programme start="20260105110000 +0900" stop="20260105113000 +0900" channel="8101029">
+    <title lang="ja">プラネット・ホーム　明日の暮らし　＃１６　２５ヴェルデ　〜トリノ〜（字幕版）</title>
+    <desc lang="ja">気候変動が進む世界で、持続可能な開発、住居とはどういうものなのか？　環境に適応した様々な住まいで実際に暮らす世界の人々の姿を紹介するドキュメンタリー。.(n)</desc>
+    <category lang="ja">ドキュメンタリー／教養 - 自然・動物・環境</category>
+  </programme>
+  <programme start="20260105113000 +0900" stop="20260105150000 +0900" channel="8101029">
+    <title lang="ja">ＮＢＡバスケットボール　八村塁出場予定　グリズリーズｖｓレイカーズ</title>
+    <desc lang="ja">世界最高峰のバスケットボールリーグＮＢＡ２５−２６シーズンを毎週２試合お届け！新時代の王者サンダーが連覇を狙う中、優勝争いの行方は？レイカーズ八村塁の活躍は！？.(n)</desc>
+    <category lang="ja">スポーツ - その他の球技</category>
+    <category lang="ja">スポーツ - その他</category>
+  </programme>
+  <programme start="20260105150000 +0900" stop="20260105153000 +0900" channel="8101029">
+    <title lang="ja">銘酒誕生物語　岩手県：南部美人</title>
+    <sub-title lang="ja">銘酒誕生物語. 南部美人（なんぶびじん）</sub-title>
+    <desc lang="ja">逸品の酒の誕生秘話に迫るシリーズの再編集特別版。今回は雪の東北清酒編。銘酒（岩手）が誕生するまでを描く。.(n)</desc>
+    <category lang="ja">ドキュメンタリー／教養 - カルチャー・伝統文化</category>
+    <category lang="ja">情報／ワイドショー - グルメ・料理</category>
+  </programme>
+  <programme start="20260105153000 +0900" stop="20260105163000 +0900" channel="8101029">
+    <title lang="ja">井上芳雄ミュージカルアワー　＃２８</title>
+    <sub-title lang="ja">芳雄のミュー</sub-title>
+    <desc lang="ja">生放送でお届け！ミュージカル界のトップスター、井上芳雄が司会を務める、トーク＆音楽ショー番組.(n)</desc>
+    <category lang="ja">劇場／公演 - ミュージカル</category>
+    <category lang="ja">劇場／公演 - その他</category>
+  </programme>
+  <programme start="20260105163000 +0900" stop="20260105190000 +0900" channel="8101029">
+    <title lang="ja">鈴木雅之　ｔａｓｔｅ　ｏｆ　ｍａｒｔｉｎｉ　ｔｏｕｒ　２０２５　〜Ｓｔｅｐ１２…</title>
+    <desc lang="ja">２０２５年７月の大阪・フェスティバルホール公演の模様に、ゲストたちがライヴを振り返って語るスペシャルインタビューを加えた特別版をお送りする。.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260105190000 +0900" stop="20260105213000 +0900" channel="8101029">
+    <title lang="ja">ＪＵＪＵ　ＨＡＬＬ　ＴＯＵＲ　２０２５　Ｔｈｅ　Ｗａｔｅｒ</title>
+    <desc lang="ja">７年ぶりのオリジナルアルバムを携えた全国ツアーより、１０月１０日“ＪＵＪＵの日”に行なわれたファイナルの模様をＷＯＷＯＷ独占放送・配信！.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260105213000 +0900" stop="20260105230000 +0900" channel="8101029">
+    <title lang="ja">甲斐バンド　ドキュメンタリー　〜５０周年の〜　拡大版</title>
+    <sub-title lang="ja">甲斐バンド論</sub-title>
+    <desc lang="ja">２０２５年１０月に放送・配信され、圧倒的な反響を呼んだ甲斐バンド５０周年ドキュメンタリー。新たに撮り下ろした映像と未公開映像を加えた拡大版をお届け！.(n)</desc>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+    <category lang="ja">ドキュメンタリー／教養 - カルチャー・伝統文化</category>
+  </programme>
+  <programme start="20260105230000 +0900" stop="20260106020000 +0900" channel="8101029">
+    <title lang="ja">ＮＢＡバスケットボール　ニックスｖｓスパーズ</title>
+    <desc lang="ja">ＮＢＡカップ決勝では大会ＭＶＰブランソンを中心にニックスがスパーズを相手に大逆転で優勝を手にした。雪辱に燃えるウェンバンヤマ、最後まで目が離せない激戦の予感ー.(n)</desc>
+    <category lang="ja">スポーツ - その他の球技</category>
+    <category lang="ja">スポーツ - その他</category>
+  </programme>
+  <programme start="20260106020000 +0900" stop="20260106020000 +0900" channel="8101029">
+    <title lang="ja">ダークネスマン（字幕版）</title>
+    <desc lang="ja">Ｊ＝Ｃ・ヴァン・ダムが主演するリベンジアクション。捜査を通じて愛を育んだ女性を殺されてしまった主人公は、犯人を捜しながら彼女の息子を見守り続けていたが……。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260106020000 +0900" stop="20260106040000 +0900" channel="8101029">
+    <title lang="ja">ダークネスマン（字幕版）</title>
+    <desc lang="ja">Ｊ＝Ｃ・ヴァン・ダムが主演するリベンジアクション。捜査を通じて愛を育んだ女性を殺されてしまった主人公は、犯人を捜しながら彼女の息子を見守り続けていたが……。.(n)</desc>
+    <category lang="ja">映画 - 洋画</category>
+    <category lang="ja">映画 - その他</category>
+  </programme>
+  <programme start="20260106040000 +0900" stop="20260106060000 +0900" channel="8101029">
+    <title lang="ja">ＢＵＣＫ−ＴＩＣＫ</title>
+    <sub-title lang="ja">ナイショの薔薇の下</sub-title>
+    <desc lang="ja">ＢＵＣＫ−ＴＩＣＫの年末恒例日本武道館ライブを独占放送・配信！喪失を乗り越え４人でニューアルバムを完成させた、第２期ＢＵＣＫ−ＴＩＣＫの最新の姿を見逃すな！.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260106060000 +0900" stop="20260106081500 +0900" channel="8101029">
+    <title lang="ja">ＴＨＥ　ＹＥＬＬＯＷ　ＭＯＮＫＥＹ　ＴＲＵＥ　ＭＩＮＤ　”ＮＡＫＥＤ”　…</title>
+    <sub-title lang="ja">ＪＡＭ. ＳＰＡＲＫ</sub-title>
+    <desc lang="ja">ＴＨＥ　ＹＥＬＬＯＷ　ＭＯＮＫＥＹの約３０年前のＮＨＫホール公演。代表曲発表の年に行なわれたライブツアーの息吹を体感できる貴重な映像。.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260106081500 +0900" stop="20260106111500 +0900" channel="8101029">
+    <title lang="ja">東京スカパラダイスオーケストラ　３５ｔｈ　Ａｎｎｉｖｅｒｓａｒｙ　Ｆｉｎａｌｅ…</title>
+    <desc lang="ja">横浜アリーナで開催されるデビュー３５周年の締めくくりワンマンライブをＷＯＷＯＷで独占放送・配信！宮本浩次、田島貴男、幾田りら、石原慎也、長屋晴子もゲスト出演！.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260106111500 +0900" stop="20260106131500 +0900" channel="8101029">
+    <title lang="ja">エキサイトマッチ＃１６　ＷＢＯ世界Ｓ・ウェルター級王座決定戦　ザヤスｖｓガルシア</title>
+    <desc lang="ja">プエルトリコのスター候補ザヤスが待望のＷＢＯ世界Ｓ・ウェルター級王座決定戦へ！井上尚弥との対戦を熱望するカーリントンのＷＢＣ世界フェザー級暫定王座決定戦も！.(n)</desc>
+    <category lang="ja">スポーツ - 相撲・格闘技</category>
+  </programme>
+  <programme start="20260106131500 +0900" stop="20260106132500 +0900" channel="8101029">
+    <title lang="ja">ＷＯＷＯＷ　ＭＵＳＩＣ　ＢＲＥＡＫ　＃３６５</title>
+    <category lang="ja">音楽 - 海外ロック・ポップス</category>
+  </programme>
+  <programme start="20260106132500 +0900" stop="20260106154500 +0900" channel="8101029">
+    <title lang="ja">葉加瀬太郎　コンサートツアー２０１８</title>
+    <sub-title lang="ja">ＡＬＬ　ＴＩＭＥ　ＢＥＳＴ</sub-title>
+    <desc lang="ja">２０１８年に５０歳を迎えた葉加瀬太郎が贈る“ＡＬＬ　ＴＩＭＥ　ＢＥＳＴ”全国ツアーより、ソロ・バイオリニストとしては初の日本武道館公演の模様を放送・配信する。.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+  </programme>
+  <programme start="20260106154500 +0900" stop="20260106190000 +0900" channel="8101029">
+    <title lang="ja">ＮＡＯＴＯ　２０ｔｈ　Ａｎｎｉｖｅｒｓａｒｙ　Ｌｉｖｅ　「ＳＥＲＥＮＤＩＰＩＴ…</title>
+    <desc lang="ja">２０２４年４月に２０周年を迎えたヴァイオリニストＮＡＯＴＯのアニバーサリーライブ。豪華なゲストとともに送る、貴重なステージを放送・配信！.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - その他</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260106190000 +0900" stop="20260106204200 +0900" channel="8101029">
+    <title lang="ja">ＴＵＢＥ　ＬＩＶＥ　ＡＲＯＵＮＤ　２０２１　ＢＬＵＥ　ＷＩＮＧＳ</title>
+    <desc lang="ja">ＴＵＢＥが２０２１年５月から７月にかけて全２１公演を行なった全国ホールツアーの中から、東京公演の模様を全曲放送・配信。.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260106204200 +0900" stop="20260106233000 +0900" channel="8101029">
+    <title lang="ja">ＴＵＢＥ　ＬＩＶＥ　ＡＲＯＵＮＤ　ＳＰＥＣＩＡＬ　２０１８　夏が来た！〜ＹＯＫ…</title>
+    <desc lang="ja">１９８８年の初開催以来、毎年恒例となったＴＵＢＥの横浜スタジアム公演。３０回目となった２０１８年の記念公演を放送・配信。.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
+  </programme>
+  <programme start="20260106233000 +0900" stop="20260107010000 +0900" channel="8101029">
+    <title lang="ja">ＴＵＢＥ　ＬＩＶＥ　ＡＲＯＵＮＤ　ＳＰＥＣＩＡＬ　２０１４　ａｔ　横浜スタジアム</title>
+    <desc lang="ja">２０２５年にデビュー４０周年を迎えたＴＵＢＥ。２０１４年８月に行なわれた横浜スタジアムでのライブを放送・配信。.(n)</desc>
+    <category lang="ja">音楽 - ライブ・コンサート</category>
+    <category lang="ja">音楽 - 国内ロック・ポップス</category>
   </programme>
   </tv>
