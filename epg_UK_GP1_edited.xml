@@ -12,7 +12,7 @@
   </channel>
   <channel id="4401016">
     <display-name lang="en">[BBC] 004 Four</display-name>
-    <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/bbc-three-hd.png"/>
+    <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/bbc-four-hd.png"/>
     <url>http://www.virginmedia.com</url>
   </channel>
   <channel id="4401066">
