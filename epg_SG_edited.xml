@@ -12,29 +12,17 @@
     <display-name lang="SG">224 Hub Premier 4</display-name>
     <icon src="" />
   </channel>
-  <channel id="65142">
-    <display-name lang="SG">[SG] 221 Hub Premier 1</display-name>
-    <icon src="" />
-  </channel>
-  <channel id="65202">
-    <display-name lang="SG">223 Hub Premier 3</display-name>
-    <icon src="" />
-  </channel>
-  <channel id="65100">
-    <display-name lang="SG">601 HBO HD</display-name>
-    <icon src="" />
-  </channel>
   <channel id="65161">
     <display-name lang="SG">869 CCM</display-name>
     <icon src="" />
   </channel>
-  <channel id="65280">
-    <display-name lang="SG">[SG] 222 Hub Premier 2</display-name>
-    <icon src="" />
+  <channel id="65325">
+    <display-name lang="SG">511 AXN HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042855719610_68.png" />
   </channel>
   <channel id="65505">
     <display-name lang="SG">812 NHK WORLD - JAPAN HD</display-name>
-    <icon src="" />
+    <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042816787280_12.png" />
   </channel>
   <channel id="65100">
     <display-name lang="SG">601 HBO HD</display-name>
@@ -238,6 +226,7 @@
   </channel>
   <channel id="65166">
     <display-name lang="SG">[SG] 201 Hub Sports 1 HD</display-name>
+    <display-name lang="SG">201 Hub Sports 1  HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042722110292_79.png" />
   </channel>
   <channel id="65168">
@@ -286,6 +275,7 @@
   </channel>
   <channel id="65185">
     <display-name lang="SG">111 Hub E City HD</display-name>
+    <display-name lang="SG">825 Hub E City HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042919719014_34.png" />
   </channel>
   <channel id="65187">
@@ -333,7 +323,7 @@
     <icon src="https://epg.pw/media/images/epg/2025/08/13/20250813042604656209_88.png" />
   </channel>
   <channel id="65202">
-    <display-name lang="SG">223 Hub Premier 3</display-name>
+    <display-name lang="SG">203 Hub Premier 3</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/08/13/20250813042607255287_83.png" />
   </channel>
   <channel id="65203">
@@ -352,9 +342,9 @@
     <display-name lang="SG">143 ANC</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/11/04/20251104042448829621_18.png" />
   </channel>
-  <channel id="65116">
-    <display-name lang="SG">[SG] 203 Hub Sports 3 HD</display-name>
-    <icon src="" />
+  <channel id="65312">
+    <display-name lang="SG">204 Hub Sports 4 HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042952565979_23.png" />
   </channel>
   <channel id="65201">
     <display-name lang="SG">228 Hub Premier 8</display-name>
@@ -398,23 +388,23 @@
   </channel>
   <channel id="65560">
     <display-name lang="SG">[SG] 105 Vasantham</display-name>
-    <icon src="" />
+    <icon src="https://epg.pw/media/images/epg/2026/01/10/20260110064233557827_34" />
   </channel>
   <channel id="65562">
     <display-name lang="SG">[SG] 106 CNA</display-name>
-    <icon src="" />
+    <icon src="https://epg.pw/media/images/epg/2026/01/10/20260110064536719032_41" />
   </channel>
   <channel id="65563">
     <display-name lang="SG">[SG] 104 Suria</display-name>
-    <icon src="" />
+    <icon src="https://epg.pw/media/images/epg/2026/01/10/20260110064705746134_39" />
   </channel>
   <channel id="65566">
     <display-name lang="SG">209 SPOTV</display-name>
-    <icon src="" />
+    <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042821612049_88.png" />
   </channel>
   <channel id="65421">
     <display-name lang="SG">210 SPOTV2</display-name>
-    <icon src="" />
+    <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042853421916_26.png" />
   </channel>
   <channel id="65118">
     <display-name lang="SG">722 CGTN</display-name>
@@ -470,6 +460,7 @@
   </channel>
   <channel id="65155">
     <display-name lang="SG">[SG] 202 Hub Sports 2 HD</display-name>
+    <display-name lang="SG">202 Hub Sports 2 HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2026/01/10/20260110064306572863_91" />
   </channel>
   <channel id="65146">
@@ -482,6 +473,7 @@
   </channel>
   <channel id="65116">
     <display-name lang="SG">[SG] 203 Hub Sports 3 HD</display-name>
+    <display-name lang="SG">203 Hub Sports 3 HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2026/01/10/20260110064336036703_77" />
   </channel>
   <channel id="65118">
@@ -598,6 +590,8 @@
   </channel>
   <channel id="65280">
     <display-name lang="SG">[SG] 222 Hub Premier 2</display-name>
+    <display-name lang="SG">222 Hub Premier 2 (HD)</display-name>
+    <display-name lang="SG">Starhubgo 222 Hub Premier 4K</display-name>
     <icon src="https://epg.pw/media/images/epg/2026/01/10/20260110064621608052_44" />
   </channel>
   <channel id="65201">
@@ -638,6 +632,7 @@
   </channel>
   <channel id="65142">
     <display-name lang="SG">[SG] 221 Hub Premier 1</display-name>
+    <display-name lang="SG">221 Hub Premier 1</display-name>
     <icon src="https://epg.pw/media/images/epg/2026/01/10/20260110064712054602_77" />
   </channel>
   <channel id="65152">
