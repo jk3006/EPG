@@ -554,6 +554,11 @@
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
+  <channel id="60335">
+    <display-name lang="en">[astro] 335 CCTV4  HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/385_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
   <programme start="20260316000000 +0800" stop="20260316003000 +0800" channel="60101">
     <title lang="en">(L) Berita Tengah Malam</title>
     <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
@@ -192995,5 +193000,2154 @@
     <category lang="en">Sports</category>
     <category lang="en">Rugby</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/PremierSports_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260316001800 +0800" stop="20260316010300 +0800" channel="60335">
+    <title lang="en">Yi Yi Xiang Bei Feng</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20260316010300 +0800" stop="20260316014800 +0800" channel="60335">
+    <title lang="en">Yi Yi Xiang Bei Feng</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+    <episode-num system="onscreen">E16</episode-num>
+  </programme>
+  <programme start="20260316014800 +0800" stop="20260316015300 +0800" channel="60335">
+    <title lang="en">Special Program</title>
+    <desc lang="en">Enjoy this showcase of cultural entertainment from across the Straits.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24675.jpg" />
+  </programme>
+  <programme start="20260316015300 +0800" stop="20260316020300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138451.jpg" />
+  </programme>
+  <programme start="20260316020300 +0800" stop="20260316023300 +0800" channel="60335">
+    <title lang="en">Network News</title>
+    <desc lang="en">Network News is a 30-minute news program which features news on China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X75409.jpg" />
+  </programme>
+  <programme start="20260316023300 +0800" stop="20260316024800 +0800" channel="60335">
+    <title lang="en">Dreamchaser</title>
+    <desc lang="en">This inspiring documentary gathers people of different social status and shares their unique stories about the pursuit of their dreams.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X426518.JPG" />
+  </programme>
+  <programme start="20260316024800 +0800" stop="20260316034800 +0800" channel="60335">
+    <title lang="en">China Showbiz</title>
+    <desc lang="en">Enjoy a line-up of vibrant cultural performances by China's cultural societies and organizations complete with commentaries.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Culture</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X25147.jpg" />
+  </programme>
+  <programme start="20260316034800 +0800" stop="20260316040300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138451.jpg" />
+  </programme>
+  <programme start="20260316040300 +0800" stop="20260316043300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260316043300 +0800" stop="20260316050300 +0800" channel="60335">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">The programme traces the latest development of the current affairs around China.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X134019.jpg" />
+  </programme>
+  <programme start="20260316050300 +0800" stop="20260316060300 +0800" channel="60335">
+    <title lang="en">Universal Show</title>
+    <desc lang="en">The talent show invites artists from all over the world to showcase their talents in music, dance, acrobatics, magic and more alongside China's performers.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X407595.jpg" />
+  </programme>
+  <programme start="20260316060300 +0800" stop="20260316063300 +0800" channel="60335">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">This program details the China Government's policy of one country.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24663.jpg" />
+  </programme>
+  <programme start="20260316063300 +0800" stop="20260316070300 +0800" channel="60335">
+    <title lang="en">International Depth</title>
+    <desc lang="en">Catch latest international news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X133999.jpg" />
+  </programme>
+  <programme start="20260316070300 +0800" stop="20260316073300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260316073300 +0800" stop="20260316080300 +0800" channel="60335">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">The programme traces the latest development of the current affairs around China.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X134019.jpg" />
+  </programme>
+  <programme start="20260316080300 +0800" stop="20260316090300 +0800" channel="60335">
+    <title lang="en">Global News</title>
+    <desc lang="en">This news programme returns to deliver more comprehensive local and international coverage with commentaries from experts that show you the bigger picture.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X410627.jpg" />
+  </programme>
+  <programme start="20260316090300 +0800" stop="20260316100300 +0800" channel="60335">
+    <title lang="en">China's Public Opinion Field</title>
+    <desc lang="en">CCTV-4 breaks new ground with this news commentary program that allows key individuals to interact with netizens via a range of social networks.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion</category>
+    <category lang="en">Interview</category>
+    <category lang="en">Debate</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X134017.jpg" />
+  </programme>
+  <programme start="20260316100300 +0800" stop="20260316101600 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260316101600 +0800" stop="20260316110300 +0800" channel="60335">
+    <title lang="en">On the Way</title>
+    <desc lang="en">A large-scale tourism programme that is designed to present rich tourism resources in China and around the world.</desc>
+    <category lang="en">Lifestyle, Leisure, Hobbies</category>
+    <category lang="en">Travel</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X25198.jpg" />
+  </programme>
+  <programme start="20260316110300 +0800" stop="20260316113300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138451.jpg" />
+  </programme>
+  <programme start="20260316113300 +0800" stop="20260316120300 +0800" channel="60335">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">This program details the China Government's policy of one country.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24663.jpg" />
+  </programme>
+  <programme start="20260316120300 +0800" stop="20260316130300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260316130300 +0800" stop="20260316134800 +0800" channel="60335">
+    <title lang="en">Decisive Victory</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X610011.jpg" />
+    <episode-num system="onscreen">E48</episode-num>
+  </programme>
+  <programme start="20260316134800 +0800" stop="20260316143300 +0800" channel="60335">
+    <title lang="en">Decisive Victory</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X610011.jpg" />
+    <episode-num system="onscreen">E49</episode-num>
+  </programme>
+  <programme start="20260316143300 +0800" stop="20260316151800 +0800" channel="60335">
+    <title lang="en">Back to 1915-1944</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X950455.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20260316151800 +0800" stop="20260316160300 +0800" channel="60335">
+    <title lang="en">Back to 1915-1944</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X950455.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20260316160300 +0800" stop="20260316165300 +0800" channel="60335">
+    <title lang="en">Back to 1915-1944</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X950455.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20260316165300 +0800" stop="20260316170300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138451.jpg" />
+  </programme>
+  <programme start="20260316170300 +0800" stop="20260316171800 +0800" channel="60335">
+    <title lang="en">Dreamchaser</title>
+    <desc lang="en">This inspiring documentary gathers people of different social status and shares their unique stories about the pursuit of their dreams.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X426518.JPG" />
+  </programme>
+  <programme start="20260316171800 +0800" stop="20260316180300 +0800" channel="60335">
+    <title lang="en">On the Way</title>
+    <desc lang="en">A large-scale tourism programme that is designed to present rich tourism resources in China and around the world.</desc>
+    <category lang="en">Lifestyle, Leisure, Hobbies</category>
+    <category lang="en">Travel</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X25198.jpg" />
+  </programme>
+  <programme start="20260316180300 +0800" stop="20260316190300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260316190300 +0800" stop="20260316193300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260316193300 +0800" stop="20260316200300 +0800" channel="60335">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Asia Today highlights the latest news and social developments across Asia. Correspondents report on the region's top stories while analysts bring Asian perspective to topical and developing issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X114808.jpg" />
+  </programme>
+  <programme start="20260316200300 +0800" stop="20260316203300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138451.jpg" />
+  </programme>
+  <programme start="20260316203300 +0800" stop="20260316210300 +0800" channel="60335">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">This program details the China Government's policy of one country.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24663.jpg" />
+  </programme>
+  <programme start="20260316210300 +0800" stop="20260316213300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260316213300 +0800" stop="20260316220300 +0800" channel="60335">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">The programme traces the latest development of the current affairs around China.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X134019.jpg" />
+  </programme>
+  <programme start="20260316220300 +0800" stop="20260316223300 +0800" channel="60335">
+    <title lang="en">Around China</title>
+    <desc lang="en">Enter a world where the true essence of China blossoms and you will begin to understand how this great nation has evolved.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Nature</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24685.jpg" />
+  </programme>
+  <programme start="20260316223300 +0800" stop="20260316230300 +0800" channel="60335">
+    <title lang="en">Network News</title>
+    <desc lang="en">Network News is a 30-minute news program which features news on China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X75409.jpg" />
+  </programme>
+  <programme start="20260316230300 +0800" stop="20260316234800 +0800" channel="60335">
+    <title lang="en">Yi Yi Xiang Bei Feng</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X956270.jpg" />
+    <episode-num system="onscreen">E19</episode-num>
+  </programme>
+  <programme start="20260316234800 +0800" stop="20260317003300 +0800" channel="60335">
+    <title lang="en">Yi Yi Xiang Bei Feng</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X956270.jpg" />
+    <episode-num system="onscreen">E20</episode-num>
+  </programme>
+  <programme start="20260317003300 +0800" stop="20260317012300 +0800" channel="60335">
+    <title lang="en">Yi Yi Xiang Bei Feng</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X956270.jpg" />
+    <episode-num system="onscreen">E21</episode-num>
+  </programme>
+  <programme start="20260317012300 +0800" stop="20260317015300 +0800" channel="60335">
+    <title lang="en">China Showbiz</title>
+    <desc lang="en">Enjoy a line-up of vibrant cultural performances by China's cultural societies and organizations complete with commentaries.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Culture</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X25147.jpg" />
+  </programme>
+  <programme start="20260317015300 +0800" stop="20260317020300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138451.jpg" />
+  </programme>
+  <programme start="20260317020300 +0800" stop="20260317023300 +0800" channel="60335">
+    <title lang="en">Network News</title>
+    <desc lang="en">Network News is a 30-minute news program which features news on China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X75409.jpg" />
+  </programme>
+  <programme start="20260317023300 +0800" stop="20260317030300 +0800" channel="60335">
+    <title lang="en">Around China</title>
+    <desc lang="en">Enter a world where the true essence of China blossoms and you will begin to understand how this great nation has evolved.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Nature</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24685.jpg" />
+  </programme>
+  <programme start="20260317030300 +0800" stop="20260317031300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260317031300 +0800" stop="20260317040300 +0800" channel="60335">
+    <title lang="en">On the Way</title>
+    <desc lang="en">A large-scale tourism programme that is designed to present rich tourism resources in China and around the world.</desc>
+    <category lang="en">Lifestyle, Leisure, Hobbies</category>
+    <category lang="en">Travel</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X25198.jpg" />
+  </programme>
+  <programme start="20260317040300 +0800" stop="20260317043300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260317043300 +0800" stop="20260317050300 +0800" channel="60335">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">The programme traces the latest development of the current affairs around China.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X134019.jpg" />
+  </programme>
+  <programme start="20260317050300 +0800" stop="20260317053300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138451.jpg" />
+  </programme>
+  <programme start="20260317053300 +0800" stop="20260317060300 +0800" channel="60335">
+    <title lang="en">Around China</title>
+    <desc lang="en">Enter a world where the true essence of China blossoms and you will begin to understand how this great nation has evolved.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Nature</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24685.jpg" />
+  </programme>
+  <programme start="20260317060300 +0800" stop="20260317063300 +0800" channel="60335">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">This program details the China Government's policy of one country.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24663.jpg" />
+  </programme>
+  <programme start="20260317063300 +0800" stop="20260317070300 +0800" channel="60335">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Asia Today highlights the latest news and social developments across Asia. Correspondents report on the region's top stories while analysts bring Asian perspective to topical and developing issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X114808.jpg" />
+  </programme>
+  <programme start="20260317070300 +0800" stop="20260317073300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260317073300 +0800" stop="20260317080300 +0800" channel="60335">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">The programme traces the latest development of the current affairs around China.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X134019.jpg" />
+  </programme>
+  <programme start="20260317080300 +0800" stop="20260317090300 +0800" channel="60335">
+    <title lang="en">Global News</title>
+    <desc lang="en">This news programme returns to deliver more comprehensive local and international coverage with commentaries from experts that show you the bigger picture.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X410627.jpg" />
+  </programme>
+  <programme start="20260317090300 +0800" stop="20260317093300 +0800" channel="60335">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Asia Today highlights the latest news and social developments across Asia. Correspondents report on the region's top stories while analysts bring Asian perspective to topical and developing issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260317093300 +0800" stop="20260317103300 +0800" channel="60335">
+    <title lang="en">Health China</title>
+    <desc lang="en">a story of China has always put the people's health at the top of its policy agenda, working hard to improve the health of its population and making universal health a primary goal of development.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260317103300 +0800" stop="20260317110300 +0800" channel="60335">
+    <title lang="en">Treasures Found</title>
+    <desc lang="en">Archaeology experts and scholars uncover ancient cities and their past using modern technology and share their findings in an easy-to-understand narrative.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260317110300 +0800" stop="20260317113300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260317113300 +0800" stop="20260317120300 +0800" channel="60335">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">This program details the China Government's policy of one country.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24663.jpg" />
+  </programme>
+  <programme start="20260317120300 +0800" stop="20260317130300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260317130300 +0800" stop="20260317134800 +0800" channel="60335">
+    <title lang="en">Back to 1915-1944</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20260317134800 +0800" stop="20260317143300 +0800" channel="60335">
+    <title lang="en">Back to 1915-1944</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20260317143300 +0800" stop="20260317151800 +0800" channel="60335">
+    <title lang="en">Back to 1915-1944</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20260317151800 +0800" stop="20260317160300 +0800" channel="60335">
+    <title lang="en">Back to 1915-1944</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20260317160300 +0800" stop="20260317165300 +0800" channel="60335">
+    <title lang="en">Back to 1915-1944</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20260317165300 +0800" stop="20260317170300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260317170300 +0800" stop="20260317171800 +0800" channel="60335">
+    <title lang="en">Dreamchaser</title>
+    <desc lang="en">This inspiring documentary gathers people of different social status and shares their unique stories about the pursuit of their dreams.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260317171800 +0800" stop="20260317180300 +0800" channel="60335">
+    <title lang="en">On the Way</title>
+    <desc lang="en">A large-scale tourism programme that is designed to present rich tourism resources in China and around the world.</desc>
+    <category lang="en">Lifestyle, Leisure, Hobbies</category>
+    <category lang="en">Travel</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X25198.jpg" />
+  </programme>
+  <programme start="20260317180300 +0800" stop="20260317190300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260317190300 +0800" stop="20260317193300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260317193300 +0800" stop="20260317200300 +0800" channel="60335">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Asia Today highlights the latest news and social developments across Asia. Correspondents report on the region's top stories while analysts bring Asian perspective to topical and developing issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X114808.jpg" />
+  </programme>
+  <programme start="20260317200300 +0800" stop="20260317203300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260317203300 +0800" stop="20260317210300 +0800" channel="60335">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">This program details the China Government's policy of one country.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24663.jpg" />
+  </programme>
+  <programme start="20260317210300 +0800" stop="20260317213300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260317213300 +0800" stop="20260317220300 +0800" channel="60335">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">The programme traces the latest development of the current affairs around China.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X134019.jpg" />
+  </programme>
+  <programme start="20260317220300 +0800" stop="20260317223300 +0800" channel="60335">
+    <title lang="en">Around China</title>
+    <desc lang="en">Enter a world where the true essence of China blossoms and you will begin to understand how this great nation has evolved.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Nature</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24685.jpg" />
+  </programme>
+  <programme start="20260317223300 +0800" stop="20260317230300 +0800" channel="60335">
+    <title lang="en">Network News</title>
+    <desc lang="en">Network News is a 30-minute news program which features news on China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X75409.jpg" />
+  </programme>
+  <programme start="20260317230300 +0800" stop="20260317234800 +0800" channel="60335">
+    <title lang="en">Yi Yi Xiang Bei Feng</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+    <episode-num system="onscreen">E22</episode-num>
+  </programme>
+  <programme start="20260317234800 +0800" stop="20260318003300 +0800" channel="60335">
+    <title lang="en">Yi Yi Xiang Bei Feng</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+    <episode-num system="onscreen">E23</episode-num>
+  </programme>
+  <programme start="20260318003300 +0800" stop="20260318012300 +0800" channel="60335">
+    <title lang="en">Yi Yi Xiang Bei Feng</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+    <episode-num system="onscreen">E24</episode-num>
+  </programme>
+  <programme start="20260318012300 +0800" stop="20260318015300 +0800" channel="60335">
+    <title lang="en">China Showbiz</title>
+    <desc lang="en">Enjoy a line-up of vibrant cultural performances by China's cultural societies and organizations complete with commentaries.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Culture</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260318015300 +0800" stop="20260318020300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260318020300 +0800" stop="20260318023300 +0800" channel="60335">
+    <title lang="en">Network News</title>
+    <desc lang="en">Network News is a 30-minute news program which features news on China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X75409.jpg" />
+  </programme>
+  <programme start="20260318023300 +0800" stop="20260318030300 +0800" channel="60335">
+    <title lang="en">Around China</title>
+    <desc lang="en">Enter a world where the true essence of China blossoms and you will begin to understand how this great nation has evolved.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Nature</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24685.jpg" />
+  </programme>
+  <programme start="20260318030300 +0800" stop="20260318031300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260318031300 +0800" stop="20260318040300 +0800" channel="60335">
+    <title lang="en">On the Way</title>
+    <desc lang="en">A large-scale tourism programme that is designed to present rich tourism resources in China and around the world.</desc>
+    <category lang="en">Lifestyle, Leisure, Hobbies</category>
+    <category lang="en">Travel</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X25198.jpg" />
+  </programme>
+  <programme start="20260318040300 +0800" stop="20260318043300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260318043300 +0800" stop="20260318050300 +0800" channel="60335">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">The programme traces the latest development of the current affairs around China.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X134019.jpg" />
+  </programme>
+  <programme start="20260318050300 +0800" stop="20260318053300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260318053300 +0800" stop="20260318060300 +0800" channel="60335">
+    <title lang="en">Around China</title>
+    <desc lang="en">Enter a world where the true essence of China blossoms and you will begin to understand how this great nation has evolved.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Nature</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24685.jpg" />
+  </programme>
+  <programme start="20260318060300 +0800" stop="20260318063300 +0800" channel="60335">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">This program details the China Government's policy of one country.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24663.jpg" />
+  </programme>
+  <programme start="20260318063300 +0800" stop="20260318070300 +0800" channel="60335">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Asia Today highlights the latest news and social developments across Asia. Correspondents report on the region's top stories while analysts bring Asian perspective to topical and developing issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X114808.jpg" />
+  </programme>
+  <programme start="20260318070300 +0800" stop="20260318073300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260318073300 +0800" stop="20260318080300 +0800" channel="60335">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">The programme traces the latest development of the current affairs around China.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X134019.jpg" />
+  </programme>
+  <programme start="20260318080300 +0800" stop="20260318090300 +0800" channel="60335">
+    <title lang="en">Global News</title>
+    <desc lang="en">This news programme returns to deliver more comprehensive local and international coverage with commentaries from experts that show you the bigger picture.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X410627.jpg" />
+  </programme>
+  <programme start="20260318090300 +0800" stop="20260318093300 +0800" channel="60335">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Asia Today highlights the latest news and social developments across Asia. Correspondents report on the region's top stories while analysts bring Asian perspective to topical and developing issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X114808.jpg" />
+  </programme>
+  <programme start="20260318093300 +0800" stop="20260318100300 +0800" channel="60335">
+    <title lang="en">China Showbiz</title>
+    <desc lang="en">Enjoy a line-up of vibrant cultural performances by China's cultural societies and organizations complete with commentaries.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Culture</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X25147.jpg" />
+  </programme>
+  <programme start="20260318100300 +0800" stop="20260318101600 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260318101600 +0800" stop="20260318110300 +0800" channel="60335">
+    <title lang="en">On the Way</title>
+    <desc lang="en">A large-scale tourism programme that is designed to present rich tourism resources in China and around the world.</desc>
+    <category lang="en">Lifestyle, Leisure, Hobbies</category>
+    <category lang="en">Travel</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X25198.jpg" />
+  </programme>
+  <programme start="20260318110300 +0800" stop="20260318113300 +0800" channel="60335">
+    <title lang="en">Memory of China</title>
+    <desc lang="en">Memory of China is the first history program of China, the TV program unveils secrets of important historical events, mega projects and the untold stories behind those crucial decisions of this country.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">History</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138495.jpg" />
+  </programme>
+  <programme start="20260318113300 +0800" stop="20260318120300 +0800" channel="60335">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">This program details the China Government's policy of one country.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24663.jpg" />
+  </programme>
+  <programme start="20260318120300 +0800" stop="20260318130800 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260318130800 +0800" stop="20260318135800 +0800" channel="60335">
+    <title lang="en">Classical Theatre</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X598706.jpg" />
+  </programme>
+  <programme start="20260318135800 +0800" stop="20260318144300 +0800" channel="60335">
+    <title lang="en">Classical Theatre</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X598706.jpg" />
+  </programme>
+  <programme start="20260318144300 +0800" stop="20260318152800 +0800" channel="60335">
+    <title lang="en">Classical Theatre</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X598706.jpg" />
+  </programme>
+  <programme start="20260318152800 +0800" stop="20260318161800 +0800" channel="60335">
+    <title lang="en">Classical Theatre</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X598706.jpg" />
+  </programme>
+  <programme start="20260318161800 +0800" stop="20260318170300 +0800" channel="60335">
+    <title lang="en">Classical Theatre</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X598706.jpg" />
+  </programme>
+  <programme start="20260318170300 +0800" stop="20260318171800 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138451.jpg" />
+  </programme>
+  <programme start="20260318171800 +0800" stop="20260318180300 +0800" channel="60335">
+    <title lang="en">On the Way</title>
+    <desc lang="en">A large-scale tourism programme that is designed to present rich tourism resources in China and around the world.</desc>
+    <category lang="en">Lifestyle, Leisure, Hobbies</category>
+    <category lang="en">Travel</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X25198.jpg" />
+  </programme>
+  <programme start="20260318180300 +0800" stop="20260318183300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260318183300 +0800" stop="20260318190300 +0800" channel="60335">
+    <title lang="en">China Showbiz</title>
+    <desc lang="en">Enjoy a line-up of vibrant cultural performances by China's cultural societies and organizations complete with commentaries.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Culture</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X25147.jpg" />
+  </programme>
+  <programme start="20260318190300 +0800" stop="20260318193300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260318193300 +0800" stop="20260318200300 +0800" channel="60335">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Asia Today highlights the latest news and social developments across Asia. Correspondents report on the region's top stories while analysts bring Asian perspective to topical and developing issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X114808.jpg" />
+  </programme>
+  <programme start="20260318200300 +0800" stop="20260318203300 +0800" channel="60335">
+    <title lang="en">Memory of China</title>
+    <desc lang="en">Memory of China is the first history program of China, the TV program unveils secrets of important historical events, mega projects and the untold stories behind those crucial decisions of this country.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">History</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138495.jpg" />
+  </programme>
+  <programme start="20260318203300 +0800" stop="20260318210300 +0800" channel="60335">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">This program details the China Government's policy of one country.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24663.jpg" />
+  </programme>
+  <programme start="20260318210300 +0800" stop="20260318213300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260318213300 +0800" stop="20260318220300 +0800" channel="60335">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">The programme traces the latest development of the current affairs around China.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X134019.jpg" />
+  </programme>
+  <programme start="20260318220300 +0800" stop="20260318223300 +0800" channel="60335">
+    <title lang="en">Around China</title>
+    <desc lang="en">Enter a world where the true essence of China blossoms and you will begin to understand how this great nation has evolved.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Nature</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24685.jpg" />
+  </programme>
+  <programme start="20260318223300 +0800" stop="20260318230800 +0800" channel="60335">
+    <title lang="en">Network News</title>
+    <desc lang="en">Network News is a 30-minute news program which features news on China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X75409.jpg" />
+  </programme>
+  <programme start="20260318230800 +0800" stop="20260318235300 +0800" channel="60335">
+    <title lang="en">Classical Theatre</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X598706.jpg" />
+  </programme>
+  <programme start="20260318235300 +0800" stop="20260319003800 +0800" channel="60335">
+    <title lang="en">Classical Theatre</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X598706.jpg" />
+  </programme>
+  <programme start="20260319003800 +0800" stop="20260319012800 +0800" channel="60335">
+    <title lang="en">Classical Theatre</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X598706.jpg" />
+  </programme>
+  <programme start="20260319012800 +0800" stop="20260319020300 +0800" channel="60335">
+    <title lang="en">China Showbiz</title>
+    <desc lang="en">Enjoy a line-up of vibrant cultural performances by China's cultural societies and organizations complete with commentaries.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Culture</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X25147.jpg" />
+  </programme>
+  <programme start="20260319020300 +0800" stop="20260319023300 +0800" channel="60335">
+    <title lang="en">Network News</title>
+    <desc lang="en">Network News is a 30-minute news program which features news on China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X75409.jpg" />
+  </programme>
+  <programme start="20260319023300 +0800" stop="20260319030300 +0800" channel="60335">
+    <title lang="en">Around China</title>
+    <desc lang="en">Enter a world where the true essence of China blossoms and you will begin to understand how this great nation has evolved.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Nature</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24685.jpg" />
+  </programme>
+  <programme start="20260319030300 +0800" stop="20260319031300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260319031300 +0800" stop="20260319040300 +0800" channel="60335">
+    <title lang="en">On the Way</title>
+    <desc lang="en">A large-scale tourism programme that is designed to present rich tourism resources in China and around the world.</desc>
+    <category lang="en">Lifestyle, Leisure, Hobbies</category>
+    <category lang="en">Travel</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X25198.jpg" />
+  </programme>
+  <programme start="20260319040300 +0800" stop="20260319043300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260319043300 +0800" stop="20260319050300 +0800" channel="60335">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">The programme traces the latest development of the current affairs around China.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X134019.jpg" />
+  </programme>
+  <programme start="20260319050300 +0800" stop="20260319053300 +0800" channel="60335">
+    <title lang="en">Memory of China</title>
+    <desc lang="en">Memory of China is the first history program of China, the TV program unveils secrets of important historical events, mega projects and the untold stories behind those crucial decisions of this country.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">History</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138495.jpg" />
+  </programme>
+  <programme start="20260319053300 +0800" stop="20260319060300 +0800" channel="60335">
+    <title lang="en">Around China</title>
+    <desc lang="en">Enter a world where the true essence of China blossoms and you will begin to understand how this great nation has evolved.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Nature</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24685.jpg" />
+  </programme>
+  <programme start="20260319060300 +0800" stop="20260319063300 +0800" channel="60335">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">This program details the China Government's policy of one country.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260319063300 +0800" stop="20260319070300 +0800" channel="60335">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Asia Today highlights the latest news and social developments across Asia. Correspondents report on the region's top stories while analysts bring Asian perspective to topical and developing issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260319070300 +0800" stop="20260319073300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260319073300 +0800" stop="20260319080300 +0800" channel="60335">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">The programme traces the latest development of the current affairs around China.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260319080300 +0800" stop="20260319090300 +0800" channel="60335">
+    <title lang="en">Global News</title>
+    <desc lang="en">This news programme returns to deliver more comprehensive local and international coverage with commentaries from experts that show you the bigger picture.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260319090300 +0800" stop="20260319093300 +0800" channel="60335">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Asia Today highlights the latest news and social developments across Asia. Correspondents report on the region's top stories while analysts bring Asian perspective to topical and developing issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260319093300 +0800" stop="20260319100300 +0800" channel="60335">
+    <title lang="en">China Showbiz</title>
+    <desc lang="en">Enjoy a line-up of vibrant cultural performances by China's cultural societies and organizations complete with commentaries.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Culture</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260319100300 +0800" stop="20260319101600 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260319101600 +0800" stop="20260319110300 +0800" channel="60335">
+    <title lang="en">On the Way</title>
+    <desc lang="en">A large-scale tourism programme that is designed to present rich tourism resources in China and around the world.</desc>
+    <category lang="en">Lifestyle, Leisure, Hobbies</category>
+    <category lang="en">Travel</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260319110300 +0800" stop="20260319113300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260319113300 +0800" stop="20260319120300 +0800" channel="60335">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">This program details the China Government's policy of one country.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260319120300 +0800" stop="20260319130300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260319130300 +0800" stop="20260319131800 +0800" channel="60335">
+    <title lang="en">Dreamchaser</title>
+    <desc lang="en">This inspiring documentary gathers people of different social status and shares their unique stories about the pursuit of their dreams.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260319131800 +0800" stop="20260319140800 +0800" channel="60335">
+    <title lang="en">Back to 1915-1944</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20260319140800 +0800" stop="20260319145300 +0800" channel="60335">
+    <title lang="en">Back to 1915-1944</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+    <episode-num system="onscreen">E16</episode-num>
+  </programme>
+  <programme start="20260319145300 +0800" stop="20260319154300 +0800" channel="60335">
+    <title lang="en">Back to 1915-1944</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+    <episode-num system="onscreen">E17</episode-num>
+  </programme>
+  <programme start="20260319154300 +0800" stop="20260319162800 +0800" channel="60335">
+    <title lang="en">Back to 1915-1944</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+    <episode-num system="onscreen">E18</episode-num>
+  </programme>
+  <programme start="20260319162800 +0800" stop="20260319171800 +0800" channel="60335">
+    <title lang="en">Back to 1915-1944</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+    <episode-num system="onscreen">E19</episode-num>
+  </programme>
+  <programme start="20260319171800 +0800" stop="20260319180300 +0800" channel="60335">
+    <title lang="en">Back to 1915-1944</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+    <episode-num system="onscreen">E20</episode-num>
+  </programme>
+  <programme start="20260319180300 +0800" stop="20260319190300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260319190300 +0800" stop="20260319193300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260319193300 +0800" stop="20260319200300 +0800" channel="60335">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Asia Today highlights the latest news and social developments across Asia. Correspondents report on the region's top stories while analysts bring Asian perspective to topical and developing issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260319200300 +0800" stop="20260319203300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260319203300 +0800" stop="20260319210300 +0800" channel="60335">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">This program details the China Government's policy of one country.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260319210300 +0800" stop="20260319213300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260319213300 +0800" stop="20260319220300 +0800" channel="60335">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">The programme traces the latest development of the current affairs around China.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260319220300 +0800" stop="20260319223300 +0800" channel="60335">
+    <title lang="en">Around China</title>
+    <desc lang="en">Enter a world where the true essence of China blossoms and you will begin to understand how this great nation has evolved.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Nature</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260319223300 +0800" stop="20260319230300 +0800" channel="60335">
+    <title lang="en">Network News</title>
+    <desc lang="en">Network News is a 30-minute news program which features news on China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X75409.jpg" />
+  </programme>
+  <programme start="20260319230300 +0800" stop="20260319234800 +0800" channel="60335">
+    <title lang="en">Yi Yi Xiang Bei Feng</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+    <episode-num system="onscreen">E28</episode-num>
+  </programme>
+  <programme start="20260319234800 +0800" stop="20260320003300 +0800" channel="60335">
+    <title lang="en">Yi Yi Xiang Bei Feng</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+    <episode-num system="onscreen">E29</episode-num>
+  </programme>
+  <programme start="20260320003300 +0800" stop="20260320012300 +0800" channel="60335">
+    <title lang="en">Yi Yi Xiang Bei Feng</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+    <episode-num system="onscreen">E30</episode-num>
+  </programme>
+  <programme start="20260320012300 +0800" stop="20260320015300 +0800" channel="60335">
+    <title lang="en">China Showbiz</title>
+    <desc lang="en">Enjoy a line-up of vibrant cultural performances by China's cultural societies and organizations complete with commentaries.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Culture</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260320015300 +0800" stop="20260320020300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260320020300 +0800" stop="20260320023300 +0800" channel="60335">
+    <title lang="en">Network News</title>
+    <desc lang="en">Network News is a 30-minute news program which features news on China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X75409.jpg" />
+  </programme>
+  <programme start="20260320023300 +0800" stop="20260320030300 +0800" channel="60335">
+    <title lang="en">Around China</title>
+    <desc lang="en">Enter a world where the true essence of China blossoms and you will begin to understand how this great nation has evolved.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Nature</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260320030300 +0800" stop="20260320031300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260320031300 +0800" stop="20260320040300 +0800" channel="60335">
+    <title lang="en">On the Way</title>
+    <desc lang="en">A large-scale tourism programme that is designed to present rich tourism resources in China and around the world.</desc>
+    <category lang="en">Lifestyle, Leisure, Hobbies</category>
+    <category lang="en">Travel</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260320040300 +0800" stop="20260320043300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260320043300 +0800" stop="20260320050300 +0800" channel="60335">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">The programme traces the latest development of the current affairs around China.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260320050300 +0800" stop="20260320053300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260320053300 +0800" stop="20260320060300 +0800" channel="60335">
+    <title lang="en">Around China</title>
+    <desc lang="en">Enter a world where the true essence of China blossoms and you will begin to understand how this great nation has evolved.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Nature</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1644_IVP_LAND_917x516.jpg" />
+  </programme>
+  <programme start="20260320060300 +0800" stop="20260320063300 +0800" channel="60335">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">This program details the China Government's policy of one country.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24663.jpg" />
+  </programme>
+  <programme start="20260320063300 +0800" stop="20260320070300 +0800" channel="60335">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Asia Today highlights the latest news and social developments across Asia. Correspondents report on the region's top stories while analysts bring Asian perspective to topical and developing issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X114808.jpg" />
+  </programme>
+  <programme start="20260320070300 +0800" stop="20260320073300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260320073300 +0800" stop="20260320080300 +0800" channel="60335">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">The programme traces the latest development of the current affairs around China.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X134019.jpg" />
+  </programme>
+  <programme start="20260320080300 +0800" stop="20260320090300 +0800" channel="60335">
+    <title lang="en">Global News</title>
+    <desc lang="en">This news programme returns to deliver more comprehensive local and international coverage with commentaries from experts that show you the bigger picture.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X410627.jpg" />
+  </programme>
+  <programme start="20260320090300 +0800" stop="20260320093300 +0800" channel="60335">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Asia Today highlights the latest news and social developments across Asia. Correspondents report on the region's top stories while analysts bring Asian perspective to topical and developing issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X114808.jpg" />
+  </programme>
+  <programme start="20260320093300 +0800" stop="20260320100300 +0800" channel="60335">
+    <title lang="en">China Showbiz</title>
+    <desc lang="en">Enjoy a line-up of vibrant cultural performances by China's cultural societies and organizations complete with commentaries.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Culture</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X25147.jpg" />
+  </programme>
+  <programme start="20260320100300 +0800" stop="20260320101600 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260320101600 +0800" stop="20260320110300 +0800" channel="60335">
+    <title lang="en">On the Way</title>
+    <desc lang="en">A large-scale tourism programme that is designed to present rich tourism resources in China and around the world.</desc>
+    <category lang="en">Lifestyle, Leisure, Hobbies</category>
+    <category lang="en">Travel</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X25198.jpg" />
+  </programme>
+  <programme start="20260320110300 +0800" stop="20260320113300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138451.jpg" />
+  </programme>
+  <programme start="20260320113300 +0800" stop="20260320120300 +0800" channel="60335">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">This program details the China Government's policy of one country.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24663.jpg" />
+  </programme>
+  <programme start="20260320120300 +0800" stop="20260320130300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260320130300 +0800" stop="20260320134800 +0800" channel="60335">
+    <title lang="en">Swords Into Plowshares</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X958529.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20260320134800 +0800" stop="20260320143300 +0800" channel="60335">
+    <title lang="en">Swords Into Plowshares</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X958529.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20260320143300 +0800" stop="20260320151800 +0800" channel="60335">
+    <title lang="en">Swords Into Plowshares</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X958529.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20260320151800 +0800" stop="20260320160300 +0800" channel="60335">
+    <title lang="en">Swords Into Plowshares</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X958529.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20260320160300 +0800" stop="20260320165300 +0800" channel="60335">
+    <title lang="en">Swords Into Plowshares</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X958529.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20260320165300 +0800" stop="20260320170300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138451.jpg" />
+  </programme>
+  <programme start="20260320170300 +0800" stop="20260320171800 +0800" channel="60335">
+    <title lang="en">Dreamchaser</title>
+    <desc lang="en">This inspiring documentary gathers people of different social status and shares their unique stories about the pursuit of their dreams.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X426518.JPG" />
+  </programme>
+  <programme start="20260320171800 +0800" stop="20260320180300 +0800" channel="60335">
+    <title lang="en">On the Way</title>
+    <desc lang="en">A large-scale tourism programme that is designed to present rich tourism resources in China and around the world.</desc>
+    <category lang="en">Lifestyle, Leisure, Hobbies</category>
+    <category lang="en">Travel</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X25198.jpg" />
+  </programme>
+  <programme start="20260320180300 +0800" stop="20260320190300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260320190300 +0800" stop="20260320193300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260320193300 +0800" stop="20260320200300 +0800" channel="60335">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Asia Today highlights the latest news and social developments across Asia. Correspondents report on the region's top stories while analysts bring Asian perspective to topical and developing issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X114808.jpg" />
+  </programme>
+  <programme start="20260320200300 +0800" stop="20260320203300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138451.jpg" />
+  </programme>
+  <programme start="20260320203300 +0800" stop="20260320210300 +0800" channel="60335">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">This program details the China Government's policy of one country.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24663.jpg" />
+  </programme>
+  <programme start="20260320210300 +0800" stop="20260320213300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260320213300 +0800" stop="20260320220300 +0800" channel="60335">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">The programme traces the latest development of the current affairs around China.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X134019.jpg" />
+  </programme>
+  <programme start="20260320220300 +0800" stop="20260320223300 +0800" channel="60335">
+    <title lang="en">Talk With Lu Jian</title>
+    <desc lang="en">Lu Jian talk show that covers guests unique stories about the pursuit of their dreams.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X515529.jpg" />
+  </programme>
+  <programme start="20260320223300 +0800" stop="20260320230300 +0800" channel="60335">
+    <title lang="en">Network News</title>
+    <desc lang="en">Network News is a 30-minute news program which features news on China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X75409.jpg" />
+  </programme>
+  <programme start="20260320230300 +0800" stop="20260320234800 +0800" channel="60335">
+    <title lang="en">Yi Yi Xiang Bei Feng</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X956270.jpg" />
+    <episode-num system="onscreen">E31</episode-num>
+  </programme>
+  <programme start="20260320234800 +0800" stop="20260321003300 +0800" channel="60335">
+    <title lang="en">Yi Yi Xiang Bei Feng</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X956270.jpg" />
+    <episode-num system="onscreen">E32</episode-num>
+  </programme>
+  <programme start="20260321003300 +0800" stop="20260321012300 +0800" channel="60335">
+    <title lang="en">Yi Yi Xiang Bei Feng</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X956270.jpg" />
+    <episode-num system="onscreen">E33</episode-num>
+  </programme>
+  <programme start="20260321012300 +0800" stop="20260321015300 +0800" channel="60335">
+    <title lang="en">China Showbiz</title>
+    <desc lang="en">Enjoy a line-up of vibrant cultural performances by China's cultural societies and organizations complete with commentaries.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Culture</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X25147.jpg" />
+  </programme>
+  <programme start="20260321015300 +0800" stop="20260321020300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138451.jpg" />
+  </programme>
+  <programme start="20260321020300 +0800" stop="20260321023300 +0800" channel="60335">
+    <title lang="en">Network News</title>
+    <desc lang="en">Network News is a 30-minute news program which features news on China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X75409.jpg" />
+  </programme>
+  <programme start="20260321023300 +0800" stop="20260321030300 +0800" channel="60335">
+    <title lang="en">Talk With Lu Jian</title>
+    <desc lang="en">Lu Jian talk show that covers guests unique stories about the pursuit of their dreams.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X515529.jpg" />
+  </programme>
+  <programme start="20260321030300 +0800" stop="20260321031300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260321031300 +0800" stop="20260321040300 +0800" channel="60335">
+    <title lang="en">On the Way</title>
+    <desc lang="en">A large-scale tourism programme that is designed to present rich tourism resources in China and around the world.</desc>
+    <category lang="en">Lifestyle, Leisure, Hobbies</category>
+    <category lang="en">Travel</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X25198.jpg" />
+  </programme>
+  <programme start="20260321040300 +0800" stop="20260321043300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260321043300 +0800" stop="20260321050300 +0800" channel="60335">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">The programme traces the latest development of the current affairs around China.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X134019.jpg" />
+  </programme>
+  <programme start="20260321050300 +0800" stop="20260321053300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138451.jpg" />
+  </programme>
+  <programme start="20260321053300 +0800" stop="20260321060300 +0800" channel="60335">
+    <title lang="en">Talk With Lu Jian</title>
+    <desc lang="en">Lu Jian talk show that covers guests unique stories about the pursuit of their dreams.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X515529.jpg" />
+  </programme>
+  <programme start="20260321060300 +0800" stop="20260321063300 +0800" channel="60335">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">This program details the China Government's policy of one country.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24663.jpg" />
+  </programme>
+  <programme start="20260321063300 +0800" stop="20260321070300 +0800" channel="60335">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Asia Today highlights the latest news and social developments across Asia. Correspondents report on the region's top stories while analysts bring Asian perspective to topical and developing issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X114808.jpg" />
+  </programme>
+  <programme start="20260321070300 +0800" stop="20260321073300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260321073300 +0800" stop="20260321080300 +0800" channel="60335">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">The programme traces the latest development of the current affairs around China.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X134019.jpg" />
+  </programme>
+  <programme start="20260321080300 +0800" stop="20260321090300 +0800" channel="60335">
+    <title lang="en">Global News</title>
+    <desc lang="en">This news programme returns to deliver more comprehensive local and international coverage with commentaries from experts that show you the bigger picture.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X410627.jpg" />
+  </programme>
+  <programme start="20260321090300 +0800" stop="20260321093300 +0800" channel="60335">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Asia Today highlights the latest news and social developments across Asia. Correspondents report on the region's top stories while analysts bring Asian perspective to topical and developing issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X114808.jpg" />
+  </programme>
+  <programme start="20260321093300 +0800" stop="20260321103300 +0800" channel="60335">
+    <title lang="en">China Showbiz</title>
+    <desc lang="en">Enjoy a line-up of vibrant cultural performances by China's cultural societies and organizations complete with commentaries.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Culture</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X25147.jpg" />
+  </programme>
+  <programme start="20260321103300 +0800" stop="20260321113300 +0800" channel="60335">
+    <title lang="en">Universal Show</title>
+    <desc lang="en">The talent show invites artists from all over the world to showcase their talents in music, dance, acrobatics, magic and more alongside China's performers.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X407595.jpg" />
+  </programme>
+  <programme start="20260321113300 +0800" stop="20260321120300 +0800" channel="60335">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">This program details the China Government's policy of one country.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24663.jpg" />
+  </programme>
+  <programme start="20260321120300 +0800" stop="20260321130300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260321130300 +0800" stop="20260321133300 +0800" channel="60335">
+    <title lang="en">Chinese Story</title>
+    <desc lang="en">Peek into the lives of Chinese studying, working and living abroad, where embracing independence and fighting homesickness are key in making something of their lives in a foreign land.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X410623.jpg" />
+  </programme>
+  <programme start="20260321133300 +0800" stop="20260321141800 +0800" channel="60335">
+    <title lang="en">Swords Into Plowshares</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X958529.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20260321141800 +0800" stop="20260321150300 +0800" channel="60335">
+    <title lang="en">Swords Into Plowshares</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X958529.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20260321150300 +0800" stop="20260321154800 +0800" channel="60335">
+    <title lang="en">Swords Into Plowshares</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X958529.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20260321154800 +0800" stop="20260321163300 +0800" channel="60335">
+    <title lang="en">Swords Into Plowshares</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X958529.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20260321163300 +0800" stop="20260321172300 +0800" channel="60335">
+    <title lang="en">Swords Into Plowshares</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X958529.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20260321172300 +0800" stop="20260321173300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138451.jpg" />
+  </programme>
+  <programme start="20260321173300 +0800" stop="20260321174800 +0800" channel="60335">
+    <title lang="en">Dreamchaser</title>
+    <desc lang="en">This inspiring documentary gathers people of different social status and shares their unique stories about the pursuit of their dreams.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X426518.JPG" />
+  </programme>
+  <programme start="20260321174800 +0800" stop="20260321180300 +0800" channel="60335">
+    <title lang="en">Dreamchaser</title>
+    <desc lang="en">This inspiring documentary gathers people of different social status and shares their unique stories about the pursuit of their dreams.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X426518.JPG" />
+  </programme>
+  <programme start="20260321180300 +0800" stop="20260321190300 +0800" channel="60335">
+    <title lang="en">China Showbiz</title>
+    <desc lang="en">Enjoy a line-up of vibrant cultural performances by China's cultural societies and organizations complete with commentaries.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Culture</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X25147.jpg" />
+  </programme>
+  <programme start="20260321190300 +0800" stop="20260321193300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260321193300 +0800" stop="20260321200300 +0800" channel="60335">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Asia Today highlights the latest news and social developments across Asia. Correspondents report on the region's top stories while analysts bring Asian perspective to topical and developing issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X114808.jpg" />
+  </programme>
+  <programme start="20260321200300 +0800" stop="20260321203300 +0800" channel="60335">
+    <title lang="en">International Depth</title>
+    <desc lang="en">Catch latest international news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X133999.jpg" />
+  </programme>
+  <programme start="20260321203300 +0800" stop="20260321210300 +0800" channel="60335">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">This program details the China Government's policy of one country.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24663.jpg" />
+  </programme>
+  <programme start="20260321210300 +0800" stop="20260321213300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260321213300 +0800" stop="20260321220300 +0800" channel="60335">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">The programme traces the latest development of the current affairs around China.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X134019.jpg" />
+  </programme>
+  <programme start="20260321220300 +0800" stop="20260321223300 +0800" channel="60335">
+    <title lang="en">International Depth</title>
+    <desc lang="en">Catch latest international news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X133999.jpg" />
+  </programme>
+  <programme start="20260321223300 +0800" stop="20260321230300 +0800" channel="60335">
+    <title lang="en">Network News</title>
+    <desc lang="en">Network News is a 30-minute news program which features news on China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X75409.jpg" />
+  </programme>
+  <programme start="20260321230300 +0800" stop="20260322000300 +0800" channel="60335">
+    <title lang="en">Health China</title>
+    <desc lang="en">a story of China has always put the people's health at the top of its policy agenda, working hard to improve the health of its population and making universal health a primary goal of development.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X543135.jpg" />
+  </programme>
+  <programme start="20260322000300 +0800" stop="20260322004800 +0800" channel="60335">
+    <title lang="en">Yi Yi Xiang Bei Feng</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X956270.jpg" />
+    <episode-num system="onscreen">E34</episode-num>
+  </programme>
+  <programme start="20260322004800 +0800" stop="20260322013300 +0800" channel="60335">
+    <title lang="en">Yi Yi Xiang Bei Feng</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X956270.jpg" />
+    <episode-num system="onscreen">E35</episode-num>
+  </programme>
+  <programme start="20260322013300 +0800" stop="20260322020300 +0800" channel="60335">
+    <title lang="en">Bond With China</title>
+    <desc lang="en">Through rich encounters, witness the captivating bond between the people of China and the world outside. Celebrating diversity, the program also introduces China and its spirit to the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X248836.jpg" />
+  </programme>
+  <programme start="20260322020300 +0800" stop="20260322023300 +0800" channel="60335">
+    <title lang="en">Network News</title>
+    <desc lang="en">Network News is a 30-minute news program which features news on China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X75409.jpg" />
+  </programme>
+  <programme start="20260322023300 +0800" stop="20260322024800 +0800" channel="60335">
+    <title lang="en">Dreamchaser</title>
+    <desc lang="en">This inspiring documentary gathers people of different social status and shares their unique stories about the pursuit of their dreams.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X426518.JPG" />
+  </programme>
+  <programme start="20260322024800 +0800" stop="20260322031800 +0800" channel="60335">
+    <title lang="en">Chinese Story</title>
+    <desc lang="en">Peek into the lives of Chinese studying, working and living abroad, where embracing independence and fighting homesickness are key in making something of their lives in a foreign land.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X410623.jpg" />
+  </programme>
+  <programme start="20260322031800 +0800" stop="20260322034800 +0800" channel="60335">
+    <title lang="en">International Depth</title>
+    <desc lang="en">Catch latest international news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X133999.jpg" />
+  </programme>
+  <programme start="20260322034800 +0800" stop="20260322040300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138451.jpg" />
+  </programme>
+  <programme start="20260322040300 +0800" stop="20260322043300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260322043300 +0800" stop="20260322050300 +0800" channel="60335">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">The programme traces the latest development of the current affairs around China.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X134019.jpg" />
+  </programme>
+  <programme start="20260322050300 +0800" stop="20260322060300 +0800" channel="60335">
+    <title lang="en">China Showbiz</title>
+    <desc lang="en">Enjoy a line-up of vibrant cultural performances by China's cultural societies and organizations complete with commentaries.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Culture</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X25147.jpg" />
+  </programme>
+  <programme start="20260322060300 +0800" stop="20260322063300 +0800" channel="60335">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Asia Today highlights the latest news and social developments across Asia. Correspondents report on the region's top stories while analysts bring Asian perspective to topical and developing issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X114808.jpg" />
+  </programme>
+  <programme start="20260322063300 +0800" stop="20260322070300 +0800" channel="60335">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">This program details the China Government's policy of one country.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24663.jpg" />
+  </programme>
+  <programme start="20260322070300 +0800" stop="20260322073300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260322073300 +0800" stop="20260322080300 +0800" channel="60335">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">The programme traces the latest development of the current affairs around China.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X134019.jpg" />
+  </programme>
+  <programme start="20260322080300 +0800" stop="20260322090300 +0800" channel="60335">
+    <title lang="en">Global News</title>
+    <desc lang="en">This news programme returns to deliver more comprehensive local and international coverage with commentaries from experts that show you the bigger picture.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X410627.jpg" />
+  </programme>
+  <programme start="20260322090300 +0800" stop="20260322093300 +0800" channel="60335">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Asia Today highlights the latest news and social developments across Asia. Correspondents report on the region's top stories while analysts bring Asian perspective to topical and developing issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X114808.jpg" />
+  </programme>
+  <programme start="20260322093300 +0800" stop="20260322100300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138451.jpg" />
+  </programme>
+  <programme start="20260322100300 +0800" stop="20260322103300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138451.jpg" />
+  </programme>
+  <programme start="20260322103300 +0800" stop="20260322110300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138451.jpg" />
+  </programme>
+  <programme start="20260322110300 +0800" stop="20260322113300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138451.jpg" />
+  </programme>
+  <programme start="20260322113300 +0800" stop="20260322120300 +0800" channel="60335">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">This program details the China Government's policy of one country.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24663.jpg" />
+  </programme>
+  <programme start="20260322120300 +0800" stop="20260322130300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260322130300 +0800" stop="20260322134800 +0800" channel="60335">
+    <title lang="en">Swords Into Plowshares</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X958529.jpg" />
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20260322134800 +0800" stop="20260322143300 +0800" channel="60335">
+    <title lang="en">Swords Into Plowshares</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X958529.jpg" />
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20260322143300 +0800" stop="20260322151800 +0800" channel="60335">
+    <title lang="en">Swords Into Plowshares</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X958529.jpg" />
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20260322151800 +0800" stop="20260322160300 +0800" channel="60335">
+    <title lang="en">Swords Into Plowshares</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X958529.jpg" />
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20260322160300 +0800" stop="20260322165300 +0800" channel="60335">
+    <title lang="en">Swords Into Plowshares</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X958529.jpg" />
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20260322165300 +0800" stop="20260322170300 +0800" channel="60335">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X138451.jpg" />
+  </programme>
+  <programme start="20260322170300 +0800" stop="20260322180300 +0800" channel="60335">
+    <title lang="en">Health China</title>
+    <desc lang="en">a story of China has always put the people's health at the top of its policy agenda, working hard to improve the health of its population and making universal health a primary goal of development.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X543135.jpg" />
+  </programme>
+  <programme start="20260322180300 +0800" stop="20260322190300 +0800" channel="60335">
+    <title lang="en">Universal Show</title>
+    <desc lang="en">The talent show invites artists from all over the world to showcase their talents in music, dance, acrobatics, magic and more alongside China's performers.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X407595.jpg" />
+  </programme>
+  <programme start="20260322190300 +0800" stop="20260322193300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260322193300 +0800" stop="20260322203300 +0800" channel="60335">
+    <title lang="en">China's Public Opinion Field</title>
+    <desc lang="en">CCTV-4 breaks new ground with this news commentary program that allows key individuals to interact with netizens via a range of social networks.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion</category>
+    <category lang="en">Interview</category>
+    <category lang="en">Debate</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X134017.jpg" />
+  </programme>
+  <programme start="20260322203300 +0800" stop="20260322210300 +0800" channel="60335">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">This program details the China Government's policy of one country.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X24663.jpg" />
+  </programme>
+  <programme start="20260322210300 +0800" stop="20260322213300 +0800" channel="60335">
+    <title lang="en">China News</title>
+    <desc lang="en">Catch the latest news and social changes that are moving China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X120276.jpg" />
+  </programme>
+  <programme start="20260322213300 +0800" stop="20260322220300 +0800" channel="60335">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">The programme traces the latest development of the current affairs around China.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X134019.jpg" />
+  </programme>
+  <programme start="20260322220300 +0800" stop="20260322223300 +0800" channel="60335">
+    <title lang="en">Bond With China</title>
+    <desc lang="en">Through rich encounters, witness the captivating bond between the people of China and the world outside. Celebrating diversity, the program also introduces China and its spirit to the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X248836.jpg" />
+  </programme>
+  <programme start="20260322223300 +0800" stop="20260322230300 +0800" channel="60335">
+    <title lang="en">Network News</title>
+    <desc lang="en">Network News is a 30-minute news program which features news on China and the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <category lang="en">General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1644X75409.jpg" />
+  </programme>
+  <programme start="20260322230300 +0800" stop="20260322233300 +0800" channel="60335">
+    <title lang="en">Treasures Found</title>
+    <desc lang="en">Archaeology experts and scholars uncover ancient cities and their past using modern technology and share their findings in an easy-to-understand narrative.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X544743.jpg" />
+  </programme>
+  <programme start="20260322233300 +0800" stop="20260323001800 +0800" channel="60335">
+    <title lang="en">Yi Yi Xiang Bei Feng</title>
+    <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000399X956270.jpg" />
+    <episode-num system="onscreen">E36</episode-num>
   </programme>
   </tv>
