@@ -2,754 +2,760 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="1001001">
     <display-name lang="zh">[myTV SUPER] 01 SUPER FREE</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my01.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my01.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001002">
     <display-name lang="zh">[myTV SUPER] 02 SUPER 獎門人</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my02.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my02.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001003">
     <display-name lang="zh">[myTV SUPER] 03 SUPER EYT</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my03.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my03.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001004">
     <display-name lang="zh">[myTV SUPER] 04 SUPER 識食</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my04.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my04.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001005">
     <display-name lang="zh">[myTV SUPER] 05 SUPER 識嘆</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my05.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my05.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001006">
     <display-name lang="zh">[myTV SUPER] 06 SUPER Music</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my06.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my06.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001007">
     <display-name lang="zh">[myTV SUPER] 07 SUPER 金曲</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my07.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my07.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001008">
     <display-name lang="zh">[myTV SUPER] 08 SUPER 煲劇</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my08.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my08.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001009">
     <display-name lang="zh">[myTV SUPER] 09 SUPER 單元劇</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my09.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my09.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001010">
     <display-name lang="zh">[myTV SUPER] 10 真情SUPER煲</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my10.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my10.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001011">
     <display-name lang="zh">[myTV SUPER] 11 SUPER Sports</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my11.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my11.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001018">
     <display-name lang="zh">[myTV SUPER] 18 myTV SUPER 18台</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my18.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my18.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001080">
     <display-name lang="zh">[myTV SUPER] 80 黃金翡翠台</display-name>
-    <icon src="https://myeth-epg.github.io/icons/黄金翡翠台.png"/>
+	<icon src="https://myeth-epg.github.io/icons/黄金翡翠台.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001081">
     <display-name lang="zh">[myTV SUPER] 81 翡翠台 4K</display-name>
-    <icon src="https://myeth-epg.github.io/icons/tvb.jade.png"/>
+	<icon src="https://myeth-epg.github.io/icons/tvb.jade.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001082">
     <display-name lang="zh">[myTV SUPER] 82 TVB Plus</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my82.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my82.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001083">
     <display-name lang="zh">[myTV SUPER] 83 無綫新聞台</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my83.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my83.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001084">
     <display-name lang="zh">[myTV SUPER] 84 明珠台</display-name>
-    <icon src="https://myeth-epg.github.io/icons/明珠台.png"/>
+	<icon src="https://myeth-epg.github.io/icons/明珠台.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001086">
     <display-name lang="zh">[myTV SUPER] 86 千禧經典台</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my86.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my86.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001087">
     <display-name lang="zh">[myTV SUPER] 87 亞洲劇台</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my87.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my87.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001089">
     <display-name lang="zh">[myTV SUPER] 89 華語劇台</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my89.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my89.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001090">
     <display-name lang="zh">[myTV SUPER] 90 黃金華劇台</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my90.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my90.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001091">
     <display-name lang="zh">[myTV SUPER] 91 娛樂新聞台</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my91.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my91.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001098">
     <display-name lang="zh">[myTV SUPER] 98 戲曲台</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my98.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my98.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001100">
     <display-name lang="zh">[myTV SUPER] 100 兒童台</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my100.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my100.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001101">
     <display-name lang="zh">[myTV SUPER] 101 ZooMoo</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my101.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my101.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001104">
     <display-name lang="zh">[myTV SUPER] 104 Nickelodeon</display-name>
-    <icon src="https://myeth-epg.github.io/icons/nickelodeon.png"/>
+	<icon src="https://myeth-epg.github.io/icons/nickelodeon.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001105">
     <display-name lang="zh">[myTV SUPER] 105 Nick Jr</display-name>
-    <icon src="https://myeth-epg.github.io/icons/nickjr.png"/>
+	<icon src="https://myeth-epg.github.io/icons/nickjr.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001200">
     <display-name lang="zh">[myTV SUPER] 200 粵語片台</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my200.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my200.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001201">
     <display-name lang="zh">[myTV SUPER] 201 美亞電影台</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my201.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my201.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001202">
     <display-name lang="zh">[myTV SUPER] 202 Thrill</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my202.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my202.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001203">
     <display-name lang="zh">[myTV SUPER] 203 天映經典頻道</display-name>
-    <icon src="https://myeth-epg.github.io/icons/ccm.png"/>
+	<icon src="https://myeth-epg.github.io/icons/ccm.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001205">
     <display-name lang="zh">[myTV SUPER] 205 ROCK Action</display-name>
-    <icon src="https://myeth-epg.github.io/icons/rock.action.png"/>
+	<icon src="https://myeth-epg.github.io/icons/rock.action.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001206">
     <display-name lang="zh">[myTV SUPER] 206 PopC</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my206.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my206.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001304">
     <display-name lang="zh">[myTV SUPER] 304 KIX</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my304.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my304.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001402">
     <display-name lang="zh">[myTV SUPER] 402 Love Nature HD</display-name>
-    <icon src="https://myeth-epg.github.io/icons/lovenature.png"/>
+	<icon src="https://myeth-epg.github.io/icons/lovenature.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001403">
     <display-name lang="zh">myTV SUPER 403 Love Nature 4K</display-name>
-    <icon src="https://myeth-epg.github.io/icons/lovenature.png"/>
+	<icon src="https://myeth-epg.github.io/icons/lovenature.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001407">
     <display-name lang="zh">[myTV SUPER] 407 Global Trekker</display-name>
-    <icon src="https://myeth-epg.github.io/icons/global.trekker.png"/>
+	<icon src="https://myeth-epg.github.io/icons/global.trekker.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001501">
     <display-name lang="zh">[myTV SUPER] 501 ROCK綜藝娛樂</display-name>
-    <icon src="https://myeth-epg.github.io/icons/rock.entertainment.png"/>
+	<icon src="https://myeth-epg.github.io/icons/rock.entertainment.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001502">
     <display-name lang="zh">[myTV SUPER] 502 AXN</display-name>
-    <icon src="https://myeth-epg.github.io/icons/axn.png"/>
+	<icon src="https://myeth-epg.github.io/icons/axn.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001504">
     <display-name lang="zh">[myTV SUPER] 504 Animax</display-name>
-    <icon src="https://myeth-epg.github.io/icons/animax.png"/>
+	<icon src="https://myeth-epg.github.io/icons/animax.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001505">
     <display-name lang="zh">[myTV SUPER] 505 tvN</display-name>
-    <icon src="https://myeth-epg.github.io/icons/tvn.png"/>
+	<icon src="https://myeth-epg.github.io/icons/tvn.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001601">
     <display-name lang="zh">[myTV SUPER] 601 無線衛星亞洲台</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my601.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my601.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001603">
     <display-name lang="zh">[myTV SUPER] 603 FashionBox</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my603.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my603.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001604">
     <display-name lang="zh">[myTV SUPER] 604 Mezzo Live HD</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my604.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my604.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001609">
     <display-name lang="zh">[myTV SUPER] 609 東方衛視國際頻道</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my609.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my609.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001610">
     <display-name lang="zh">[myTV SUPER] 610 鳳凰衛視中文台</display-name>
-    <icon src="https://myeth-epg.github.io/icons/phoenixtv.png"/>
+	<icon src="https://myeth-epg.github.io/icons/phoenixtv.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001611">
     <display-name lang="zh">[myTV SUPER] 611 鳳凰衛視資訊台</display-name>
-    <icon src="https://myeth-epg.github.io/icons/phoenix.info.png"/>
+	<icon src="https://myeth-epg.github.io/icons/phoenix.info.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001612">
     <display-name lang="zh">[myTV SUPER] 612 鳳凰衛視香港台</display-name>
-    <icon src="https://myeth-epg.github.io/icons/phoenixhk.png"/>
+	<icon src="https://myeth-epg.github.io/icons/phoenixhk.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001702">
     <display-name lang="zh">[myTV SUPER] 702 無線衛星新聞台</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my702.png"/>
+	<icon src="https://myeth-epg.github.io/icons/my702.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001707">
     <display-name lang="zh">[myTV SUPER] 707 NHK World-Japan</display-name>
-    <icon src="https://myeth-epg.github.io/icons/t102.png"/>
+	<icon src="https://myeth-epg.github.io/icons/t102.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001901">
     <display-name lang="zh">[myTV SUPER] 901 直播足球2台</display-name>
-    <display-name lang="zh-HK">[myTV SUPER] 901 直播足球2台|備</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my901.png"/>
-    <url>http://www.mytvsuper.com</url>
+	<display-name lang="zh-HK">[myTV SUPER] 901 直播足球2台|備</display-name>
+	<icon src="https://myeth-epg.github.io/icons/my901.png" />
+	<url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001902">
     <display-name lang="zh">[myTV SUPER] 902 直播足球3台</display-name>
-    <display-name lang="zh-HK">[myTV SUPER] 902 直播足球3台|備</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my902.png"/>
+	<display-name lang="zh-HK">[myTV SUPER] 902 直播足球3台|備</display-name>
+	<icon src="https://myeth-epg.github.io/icons/my902.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001903">
     <display-name lang="zh">[myTV SUPER] 903 直播足球4台</display-name>
-    <display-name lang="zh-HK">[myTV SUPER] 903 直播足球4台|備</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my903.png"/>
+	<display-name lang="zh-HK">[myTV SUPER] 903 直播足球4台|備</display-name>
+	<icon src="https://myeth-epg.github.io/icons/my903.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001904">
     <display-name lang="zh">[myTV SUPER] 904 直播足球5台</display-name>
-    <display-name lang="zh-HK">[myTV SUPER] 904 直播足球5台|備</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my904.png"/>
+	<display-name lang="zh-HK">[myTV SUPER] 904 直播足球5台|備</display-name>
+	<icon src="https://myeth-epg.github.io/icons/my904.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001905">
     <display-name lang="zh">[myTV SUPER] 905 直播足球6台</display-name>
-    <display-name lang="zh-HK">[myTV SUPER] 905 直播足球6台|備</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my905.png"/>
+	<display-name lang="zh-HK">[myTV SUPER] 905 直播足球6台|備</display-name>
+	<icon src="https://myeth-epg.github.io/icons/my905.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1001906">
     <display-name lang="zh">[myTV SUPER] 906 直播足球7台</display-name>
-    <display-name lang="zh-HK">[myTV SUPER] 906 直播足球7台|備</display-name>
-    <icon src="https://myeth-epg.github.io/icons/my906.png"/>
+	<display-name lang="zh-HK">[myTV SUPER] 906 直播足球7台|備</display-name>
+	<icon src="https://myeth-epg.github.io/icons/my906.png" />
     <url>http://www.mytvsuper.com</url>
   </channel>
   <channel id="1002096">
-    <display-name lang="zh">[NowTV] 96 ViuTVsix</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_160_115"/>
+  <display-name lang="zh">[NowTV] 96 ViuTVsix</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002099">
-    <display-name lang="zh">[NowTV] 99 ViuTV</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch99_160_115"/>
+  <display-name lang="zh">[NowTV] 99 ViuTV</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch99_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002102">
-    <display-name lang="zh">[NowTV] 102 Viu 頻道</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch102_160_115"/>
+  <display-name lang="zh">[NowTV] 102 Viu 頻道</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch102_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002105">
-    <display-name lang="zh">[NowTV] 105 Now華劇台</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch105_160_115"/>
+  <display-name lang="zh">[NowTV] 105 Now華劇台</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch105_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002108">
-    <display-name lang="zh">[NowTV] 108 NowJelli</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch108_160_115"/>
+  <display-name lang="zh">[NowTV] 108 NowJelli</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch108_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002111">
-    <display-name lang="zh">[NowTV] 111 HBO Hits</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115"/>
+  <display-name lang="zh">[NowTV] 111 HBO Hits</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002112">
-    <display-name lang="zh">[NowTV] 112 HBO Family</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115"/>
+  <display-name lang="zh">[NowTV] 112 HBO Family</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002113">
-    <display-name lang="zh">[NowTV] 113 CINEMAX</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_160_115"/>
+  <display-name lang="zh">[NowTV] 113 CINEMAX</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002114">
-    <display-name lang="zh">[NowTV] 114 HBO Signature</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115"/>
+  <display-name lang="zh">[NowTV] 114 HBO Signature</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002115">
-    <display-name lang="zh">[NowTV] 115 HBO</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115"/>
+  <display-name lang="zh">[NowTV] 115 HBO</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" />  
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002116">
-    <display-name lang="zh">[NowTV] 116 MOVIE MOVIE</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch116_160_115"/>
+  <display-name lang="zh">[NowTV] 116 MOVIE MOVIE</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch116_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002119">
-    <display-name lang="zh">[NowTV] 119 HITS MOVIES</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch119_160_115"/>
+  <display-name lang="zh">[NowTV] 119 HITS MOVIES</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch119_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002133">
-    <display-name lang="zh">[NowTV] 133 爆谷台</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch133_160_115"/>
+  <display-name lang="zh">[NowTV] 133 爆谷台</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch133_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002138">
-    <display-name lang="zh">[NowTV] 138 爆谷星影台</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch138_160_115"/>
+  <display-name lang="zh">[NowTV] 138 爆谷星影台</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch138_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002150">
-    <display-name lang="zh">[NowTV] 150 Animax</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch150_160_115"/>
+  <display-name lang="zh">[NowTV] 150 Animax</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch150_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002155">
-    <display-name lang="zh">[NowTV] 155 tvN</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch155_160_115"/>
+  <display-name lang="zh">[NowTV] 155 tvN</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch155_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002156">
-    <display-name lang="zh">[NowTV] 156 KBS World</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch156_160_115"/>
+  <display-name lang="zh">[NowTV] 156 KBS World</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch156_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002162">
-    <display-name lang="zh">[NowTV] 162 東森亞洲衛視</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch162_160_115"/>
+  <display-name lang="zh">[NowTV] 162 東森亞洲衛視</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch162_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002208">
-    <display-name lang="zh">[NowTV] 208 Discovery Asia</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_160_115"/>
+  <display-name lang="zh">[NowTV] 208 Discovery Asia</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002209">
-    <display-name lang="zh">[NowTV] 209 Discovery Channel</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch209_160_115"/>
+  <display-name lang="zh">[NowTV] 209 Discovery Channel</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch209_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002210">
-    <display-name lang="zh">[NowTV] 210 動物星球頻道</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch210_160_115"/>
+  <display-name lang="zh">[NowTV] 210 動物星球頻道</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch210_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002211">
-    <display-name lang="zh">[NowTV] 211 Discovery 科學頻道</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch211_160_115"/>
+  <display-name lang="zh">[NowTV] 211 Discovery 科學頻道</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch211_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002212">
-    <display-name lang="zh">[NowTV] 212 DMAX</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch212_160_115"/>
+  <display-name lang="zh">[NowTV] 212 DMAX</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch212_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002213">
-    <display-name lang="zh">[NowTV] 213 TLC旅遊生活頻道</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch213_160_115"/>
+  <display-name lang="zh">[NowTV] 213 TLC旅遊生活頻道</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch213_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002220">
-    <display-name lang="zh">[NowTV] 220 BBC Earth</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch220_160_115"/>
+  <display-name lang="zh">[NowTV] 220 BBC Earth</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch220_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002221">
-    <display-name lang="zh">[NowTV] 221 Outdoor 戶外頻道</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch221_160_115"/>
+  <display-name lang="zh">[NowTV] 221 Outdoor 戶外頻道</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch221_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002222">
-    <display-name lang="zh">[NowTV] 222 罪案 + 偵緝</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch222_160_115"/>
+  <display-name lang="zh">[NowTV] 222 罪案 + 偵緝</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch222_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002223">
-    <display-name lang="zh">[NowTV] 223 HISTORY</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch223_160_115"/>
+  <display-name lang="zh">[NowTV] 223 HISTORY</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch223_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002331">
-    <display-name lang="zh">[NowTV] 331 直播台</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch331_160_115"/>
+  <display-name lang="zh">[NowTV] 331 直播台</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch331_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002332">
-    <display-name lang="zh">[NowTV] 332 新聞台</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_160_115"/>
+  <display-name lang="zh">[NowTV] 332 新聞台</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002333">
-    <display-name lang="zh">[NowTV] 333 財經台</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch333_160_115"/>
+  <display-name lang="zh">[NowTV] 333 財經台</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch333_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002371">
-    <display-name lang="zh">[NowTV] 371 東森亞洲新聞台</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch371_160_115"/>
+  <display-name lang="zh">[NowTV] 371 東森亞洲新聞台</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch371_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002460">
-    <display-name lang="zh">[NowTV] 460 Da Vinci</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch460_160_115"/>
+  <display-name lang="zh">[NowTV] 460 Da Vinci</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch460_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002502">
-    <display-name lang="zh">[NowTV] 502 BBC Lifestyle</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch502_160_115"/>
+  <display-name lang="zh">[NowTV] 502 BBC Lifestyle</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch502_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002512">
-    <display-name lang="zh">[NowTV] 512 AXN</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch512_160_115"/>
+  <display-name lang="zh">[NowTV] 512 AXN</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch512_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002513">
-    <display-name lang="zh">[NowTV] 513 HITS</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch513_160_115"/>
+  <display-name lang="zh">[NowTV] 513 HITS</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch513_160_115" />  
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002517">
-    <display-name lang="zh">[NowTV] 517 ROCK Entertainment</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch517_160_115"/>
+  <display-name lang="zh">[NowTV] 517 ROCK Entertainment</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch517_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002525">
-    <display-name lang="zh">[NowTV] 525 Lifetime</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch525_160_115"/>
+  <display-name lang="zh">[NowTV] 525 Lifetime</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch525_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002526">
-    <display-name lang="zh">[NowTV] 526 Food Network</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch526_160_115"/>
+  <display-name lang="zh">[NowTV] 526 Food Network</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch526_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002527">
-    <display-name lang="zh">[NowTV] 527 亞洲美食台</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch527_160_115"/>
+  <display-name lang="zh">[NowTV] 527 亞洲美食台</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch527_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002538">
-    <display-name lang="zh">[NowTV] 538 中天亞洲台</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch538_160_115"/>
+  <display-name lang="zh">[NowTV] 538 中天亞洲台</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch538_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002540">
-    <display-name lang="zh">[NowTV] 540 深圳衛視</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch540_160_115"/>
+  <display-name lang="zh">[NowTV] 540 深圳衛視</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch540_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002541">
-    <display-name lang="zh">[NowTV] 541 CCTV-1</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch541_160_115"/>
+  <display-name lang="zh">[NowTV] 541 CCTV-1</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch541_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002542">
-    <display-name lang="zh">[NowTV] 542 CCTV-4</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch542_160_115"/>
+  <display-name lang="zh">[NowTV] 542 CCTV-4</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch542_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002543">
-    <display-name lang="zh">[NowTV] 543 大灣區衛視</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch543_160_115"/>
+  <display-name lang="zh">[NowTV] 543 大灣區衛視</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch543_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002545">
-    <display-name lang="zh">[NowTV] 545 中央電視台新聞頻道</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch545_160_115"/>
+  <display-name lang="zh">[NowTV] 545 中央電視台新聞頻道</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch545_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002553">
-    <display-name lang="zh">[NowTV] 553 三沙衛視</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch553_160_115"/>
+  <display-name lang="zh">[NowTV] 553 三沙衛視</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch553_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002555">
-    <display-name lang="zh">[NowTV] 555 浙江衛視</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch555_160_115"/>
+  <display-name lang="zh">[NowTV] 555 浙江衛視</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch555_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002611">
-    <display-name lang="zh">[NowTV] 611 Sports 4K-1</display-name>
-    <display-name lang="zh">NowTV 611 Sports 4K-1</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_160_115"/>
+  <display-name lang="zh">[NowTV] 611 Sports 4K-1|比賽時開放</display-name>
+  <display-name lang="zh">NowTV 611 Sports 4K-1</display-name>  
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002612">
-    <display-name lang="zh">[NowTV] 612 Sports 4K-2</display-name>
-    <display-name lang="zh">NowTV 612 Sports 4K-2</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115"/>
+  <display-name lang="zh">[NowTV] 612 Sports 4K-2|比賽時開放</display-name>
+  <display-name lang="zh">NowTV 612 Sports 4K-2</display-name>  
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002613">
-    <display-name lang="zh">[NowTV] 613 Sports 4K-3</display-name>
-    <display-name lang="zh">NowTV 613 Sports 4K-3</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch613_160_115"/>
+  <display-name lang="zh">[NowTV] 613 Sports 4K-3|比賽時開放</display-name>
+  <display-name lang="zh">NowTV 613 Sports 4K-3</display-name>  
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch613_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002618">
-    <display-name lang="en">[NowTV] 618 WC2026</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch618_160_115"/>
+    <display-name lang="en">[NowTV] 618 WC2026|比賽時開放</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch618_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="ZH:Now Sports Premier League TV">
-    <display-name lang="zh">ZH:Now Sports Premier League TV</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch620_160_115"/>
+  <display-name lang="zh">ZH:Now Sports Premier League TV</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch620_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002621">
-    <display-name lang="zh">[NowTV] 621 Sports 英超1台</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115"/>
+  <display-name lang="zh">[NowTV] 621 Sports 英超1台</display-name>
+  <display-name lang="zh">[NowTV] 621 Sports 英超1台|比賽時開放</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002622">
-    <display-name lang="zh">[NowTV] 622 Sports 英超2台</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115"/>
+  <display-name lang="zh">[NowTV] 622 Sports 英超2台|比賽時開放</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002623">
-    <display-name lang="zh">[NowTV] 623 Sports 英超3台</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_160_115"/>
+  <display-name lang="zh">[NowTV] 623 Sports 英超3台|比賽時開放</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002624">
-    <display-name lang="zh">[NowTV] 624 Sports 英超4台</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_160_115"/>
+  <display-name lang="zh">[NowTV] 624 Sports 英超4台|比賽時開放</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002625">
-    <display-name lang="zh">[NowTV] 625 Sports 英超5台</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch625_160_115"/>
+  <display-name lang="zh">[NowTV] 625 Sports 英超5台|比賽時開放</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch625_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002626">
-    <display-name lang="zh">[NowTV] 626 Sports 英超6台</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch626_160_115"/>
+  <display-name lang="zh">[NowTV] 626 Sports 英超6台|比賽時開放</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch626_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002627">
-    <display-name lang="zh">[NowTV] 627 Sports 英超7台</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch627_160_115"/>
+  <display-name lang="zh">[NowTV] 627 Sports 英超7台|比賽時開放</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch627_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002630">
-    <display-name lang="zh">[NowTV] 630 Sports 精選</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_160_115"/>
+  <display-name lang="zh">[NowTV] 630 Sports 精選</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002631">
-    <display-name lang="zh">[NowTV] 631 Sports 1</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_160_115"/>
+  <display-name lang="zh">[NowTV] 631 Sports 1</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002632">
-    <display-name lang="zh">[NowTV] 632 Sports 2</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_160_115"/>
+  <display-name lang="zh">[NowTV] 632 Sports 2</display-name>
+  <display-name lang="zh">[NowTV] 632 Sports 2|比賽時開放</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002633">
-    <display-name lang="zh">[NowTV] 633 Sports 3</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_160_115"/>
+  <display-name lang="zh">[NowTV] 633 Sports 3</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002634">
-    <display-name lang="zh">[NowTV] 634 Sports 4</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_160_115"/>
+  <display-name lang="zh">[NowTV] 634 Sports 4</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_160_115" />  
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002635">
-    <display-name lang="zh">[NowTV] 635 Sports 5</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_160_115"/>
+  <display-name lang="zh">[NowTV] 635 Sports 5</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002636">
-    <display-name lang="zh">[NowTV] 636 Sports 6</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_160_115"/>
+  <display-name lang="zh">[NowTV] 636 Sports 6</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002637">
-    <display-name lang="zh">[NowTV] 637 Sports 7</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_160_115"/>
+  <display-name lang="zh">[NowTV] 637 Sports 7</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002638">
-    <display-name lang="zh">[NowTV] 638 beIN SPORTS 1</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115"/>
+  <display-name lang="zh">[NowTV] 638 beIN SPORTS 1</display-name>
+  <display-name lang="zh">[NowTV] 638 beIN SPORTS 1|比賽時開放</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002639">
-    <display-name lang="zh">[NowTV] 639 beIN SPORTS 2</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115"/>
+  <display-name lang="zh">[NowTV] 639 beIN SPORTS 2</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002641">
-    <display-name lang="zh">[NowTV] 641 Sports NBA</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch641_160_115"/>
+  <display-name lang="zh">[NowTV] 641 Sports NBA|比賽時開放</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch641_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002642">
-    <display-name lang="zh">[NowTV] 642 NBATV</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch642_160_115"/>
+  <display-name lang="zh">[NowTV] 642 NBATV</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch642_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002643">
-    <display-name lang="zh">[NowTV] 643 beIN SPORTS 3</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115"/>
+  <display-name lang="zh">[NowTV] 643 beIN SPORTS 3</display-name>
+  <display-name lang="zh">[NowTV] 643 beIN SPORTS 3|比賽時開放</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002644">
-    <display-name lang="zh">[NowTV] 644 beIN SPORTS 4</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch644_160_115"/>
+  <display-name lang="zh">[NowTV] 644 beIN SPORTS 4</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch644_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002645">
-    <display-name lang="zh">[NowTV] 645 beIN SPORTS 5</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch645_160_115"/>
+  <display-name lang="zh">[NowTV] 645 beIN SPORTS 5</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch645_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002646">
-    <display-name lang="zh">[NowTV] 646 beIN SPORTS 6</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch646_160_115"/>
+  <display-name lang="zh">[NowTV] 646 beIN SPORTS 6</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch646_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002647">
-    <display-name lang="zh">[NowTV] 647 Sports 647</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch647_160_115"/>
+  <display-name lang="zh">[NowTV] 647 Sports 647</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch647_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002636">
-    <display-name lang="zh">[NowTV] 636 Sports 6</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch650_160_115"/>
+  <display-name lang="zh">[NowTV] 636 Sports 6</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch650_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002651">
-    <display-name lang="zh">[NowTV] 651 FA Cup</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch651_160_115"/>
+  <display-name lang="zh">[NowTV] 651 FA Cup</display-name>
+  <display-name lang="zh">[NowTV] 651 FA Cup|比賽時開放</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch651_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002652">
-    <display-name lang="zh">[NowTV] 652 FA Cup</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch652_160_115"/>
+  <display-name lang="zh">[NowTV] 652 FA Cup</display-name>
+  <display-name lang="zh">[NowTV] 652 FA Cup|比賽時開放</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch652_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002668">
-    <display-name lang="zh">[NowTV] 668 Now668</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch668_160_115"/>
+  <display-name lang="zh">[NowTV] 668 Now668</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch668_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002680">
-    <display-name lang="zh">[NowTV] 680 Sports Plus</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch680_160_115"/>
+  <display-name lang="zh">[NowTV] 680 Sports Plus</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch680_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002683">
-    <display-name lang="zh">[NowTV] 683 Now Golf 2</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch683_160_115"/>
+  <display-name lang="zh">[NowTV] 683 Now Golf 2</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch683_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002684">
-    <display-name lang="zh">[NowTV] 684 Now Golf 3</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch684_160_115"/>
+  <display-name lang="zh">[NowTV] 684 Now Golf 3</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch684_160_115" />
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1004076">
-    <display-name lang="zh">[iCable] 76台|HOY國際財經台</display-name>
-    <display-name lang="zh">[iCable] 76台|HOY國際財經台|備</display-name>
-    <icon src="https://storage.hoy.tv/v1/image/channel/1.jpg"/>
+  <display-name lang="zh">[iCable] 76台|HOY國際財經台</display-name>
+  <display-name lang="zh">[iCable] 76台|HOY國際財經台|備</display-name>
+    <icon src="https://storage.hoy.tv/v1/image/channel/1.jpg" />
     <url>http://www.hoy.tv</url>
   </channel>
   <channel id="1004077">
-    <display-name lang="zh">[iCable] 77台|HOY TV</display-name>
-    <display-name lang="zh">[iCable] 77台|HOY TV|備</display-name>
-    <icon src="https://storage.hoy.tv/v1/image/channel/2.jpg"/>
+  <display-name lang="zh">[iCable] 77台|HOY TV</display-name>
+  <display-name lang="zh">[iCable] 77台|HOY TV|備</display-name>
+    <icon src="https://storage.hoy.tv/v1/image/channel/2.jpg" />
     <url>http://www.hoy.tv</url>
   </channel>
   <channel id="1004078">
-    <display-name lang="zh">[iCable] 78台|HOY 資訊台</display-name>
-    <display-name lang="zh">[iCable] 78台|HOY 資訊台|備</display-name>
-    <icon src="https://storage.hoy.tv/v1/image/channel/3.jpg"/>
+  <display-name lang="zh">[iCable] 78台|HOY 資訊台</display-name>
+  <display-name lang="zh">[iCable] 78台|HOY 資訊台|備</display-name>
+    <icon src="https://storage.hoy.tv/v1/image/channel/3.jpg" />
     <url>http://www.hoy.tv</url>
   </channel>
   <channel id="1003031">
-    <display-name lang="zh">[RTTV] 31 港台电视31</display-name>
-    <icon src="https://myeth-epg.github.io/icons/rt31.png"/>
+  <display-name lang="zh">[RTTV] 31 港台电视31</display-name>
+  <icon src="https://myeth-epg.github.io/icons/rt31.png" />
     <url>http://www.rthk.hk</url>
   </channel>
   <channel id="1003032">
-    <display-name lang="zh">[RTTV] 32 港台电视32</display-name>
-    <icon src="https://myeth-epg.github.io/icons/rt32.png"/>
+  <display-name lang="zh">[RTTV] 32 港台电视32</display-name>
+  <icon src="https://myeth-epg.github.io/icons/rt32.png" />
     <url>http://www.rthk.hk</url>
   </channel>
   <channel id="1003033">
-    <display-name lang="zh">[RTTV] 33 港台电视33</display-name>
-    <icon src="https://myeth-epg.github.io/icons/rt33.png"/>
+  <display-name lang="zh">[RTTV] 33 港台电视33</display-name>
+  <icon src="https://myeth-epg.github.io/icons/rt33.png" />
     <url>http://www.rthk.hk</url>
   </channel>
   <channel id="1003034">
-    <display-name lang="zh">[RTTV] 34 港台电视34</display-name>
-    <icon src="https://myeth-epg.github.io/icons/rt34.png"/>
+  <display-name lang="zh">[RTTV] 34 港台电视34</display-name>
+  <icon src="https://myeth-epg.github.io/icons/rt34.png" />
     <url>http://www.rthk.hk</url>
   </channel>
   <channel id="1003035">
-    <display-name lang="zh">[RTTV] 35 港台电视35</display-name>
-    <icon src="https://myeth-epg.github.io/icons/rt35.png"/>
+  <display-name lang="zh">[RTTV] 35 港台电视35</display-name>
+  <icon src="https://myeth-epg.github.io/icons/rt35.png" />
     <url>http://www.rthk.hk</url>
   </channel>
   <programme start="20260429000000 +0800" stop="20260429005000 +0800" channel="1001001">
