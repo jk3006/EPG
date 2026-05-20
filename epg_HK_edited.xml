@@ -553,24 +553,24 @@
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002616">
-    <display-name lang="en">[NowTV] 616 Sports 4K 616|比賽時開放</display-name>
+    <display-name lang="en">[NowTV] 616 Now Sports 4K 616|比賽時開放</display-name>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch616_160_115"/>
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002617">
-    <display-name lang="en">[NowTV] 617 Sports 4K 617|比賽時開放</display-name>
+    <display-name lang="en">[NowTV] 617 Now Sports 4K 617|比賽時開放</display-name>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch617_160_115"/>
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002618">
-    <display-name lang="en">[NowTV] Now Sports 618</display-name>
-    <display-name lang="en">[NowTV] Now Sports 618|比賽時開放</display-name>
+    <display-name lang="en">[NowTV] 618 Now Sports 618</display-name>
+    <display-name lang="en">[NowTV] 618 Now Sports 618|比賽時開放</display-name>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch618_160_115"/>
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002619">
-    <display-name lang="en">[NowTV] Now Sports 619|比賽時開放</display-name>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##619_160_115"/>
+    <display-name lang="en">[NowTV] 619 Now Sports 619|比賽時開放</display-name>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch619_160_115"/>
     <url>http://www.nowplayer.now.com</url>
   </channel>
   <channel id="1002621">
