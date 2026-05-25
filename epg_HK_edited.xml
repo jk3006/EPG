@@ -65013,7 +65013,7 @@
     <category lang="zh">Action</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##096_160_115"/>
   </programme>
-  <programme start="20260531154500 +0000" stop="20260601024500 +0000" channel="1002096">
+  <programme start="20260531154500 +0000" stop="20260531160000 +0000" channel="1002096">
     <title lang="zh">ViuTV News</title>
     <desc lang="zh">Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
     <category lang="zh">News</category>
@@ -66916,7 +66916,7 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##099_160_115"/>
     <episode-num system="onscreen">E256</episode-num>
   </programme>
-  <programme start="20260531153000 +0000" stop="20260601023000 +0000" channel="1002099">
+  <programme start="20260531153000 +0000" stop="20260531160000 +0000" channel="1002099">
     <title lang="zh">隊長小翼第二季 青少年篇</title>
     <sub-title lang="&quot;zh&quot;">專業的戰士</sub-title>
     <desc lang="zh">若林在日本青少年隊對漢堡的練習賽上展現出銅牆鐵壁般的防守。在外號「德國的小皇帝」的施奈德猛攻之下，青少年隊很快就落後兩球。隊友們奮力合作，為日向製造了一個機會，但仍在施奈德激烈的防守下被擋了下來。日向不禁怒氣爆發，若林卻反指「足球應該是格鬥運動」。在這絕望的狀況中，完成治療的小翼從日本趕來了！雖然他想於下半場上場，但是….</desc>
@@ -68329,7 +68329,7 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##102_160_115"/>
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-  <programme start="20260531150000 +0000" stop="20260601020000 +0000" channel="1002102">
+  <programme start="20260531150000 +0000" stop="20260531160000 +0000" channel="1002102">
     <title lang="zh">天空城堡</title>
     <desc lang="zh">只有最頂層的0.1%人口可住在天空城堡——一個獨特的住宅社區。在上流社會的「SKY Castle」中更住著一群欲扶助丈夫事業和培育子女成為二代貴族的貴婦。然而，這些貴婦都有一個秘密不能告訴任何人。她們的財富、榮譽和最重要的權力鬥爭從現在開始.</desc>
     <date>2024</date>
@@ -69708,7 +69708,7 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##105_160_115"/>
     <episode-num system="onscreen">E4</episode-num>
   </programme>
-  <programme start="20260531153000 +0000" stop="20260601023000 +0000" channel="1002105">
+  <programme start="20260531153000 +0000" stop="20260531163000 +0000" channel="1002105">
     <title lang="zh">那小子不可愛</title>
     <desc lang="zh">高冷孤僻的企業繼承人顧榮儼然是個“傲嬌公子”，而看似軟萌文靜的少女蘇靜靜實則武藝不凡。一場意外讓“元氣少女”蘇靜靜與“不食人間煙火”的顧榮產生交集，還成為他的貼身保鏢。性格、習慣大相徑庭的兩人不得不開啟室友生活，在追求人生目標中攜手蛻變與成長….</desc>
     <date>2023</date>
@@ -70836,7 +70836,7 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##108_160_115"/>
     <episode-num system="onscreen">E13</episode-num>
   </programme>
-  <programme start="20260531140000 +0000" stop="20260601010000 +0000" channel="1002108">
+  <programme start="20260531140000 +0000" stop="20260531160000 +0000" channel="1002108">
     <title lang="zh">風華合伙人</title>
     <sub-title lang="&quot;zh&quot;">新官上任 常華森代旭變rapper</sub-title>
     <desc lang="zh">由吳彥祖擔任「風華投資人」，集結井朧、代旭、沙一汀、周柯宇、常華森、董思成、謝依霖等常駐嘉賓，在杭州西湖邊的青春潮飲生活店，共同完成15天的運營任務，探索興趣社交的潮流生活方式.</desc>
@@ -147900,7 +147900,7 @@
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##611_160_115"/>
   </programme>
-  <programme start="20260531140000 +0000" stop="20260601010000 +0000" channel="1002611">
+  <programme start="20260531140000 +0000" stop="20260531160000 +0000" channel="1002611">
     <title lang="zh">請留意下場播映賽事</title>
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##611_160_115"/>
@@ -148300,7 +148300,7 @@
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##612_160_115"/>
   </programme>
-  <programme start="20260531140000 +0000" stop="20260601010000 +0000" channel="1002612">
+  <programme start="20260531140000 +0000" stop="20260531160000 +0000" channel="1002612">
     <title lang="zh">請留意下場播映賽事</title>
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##612_160_115"/>
@@ -148700,7 +148700,7 @@
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##613_160_115"/>
   </programme>
-  <programme start="20260531140000 +0000" stop="20260601010000 +0000" channel="1002613">
+  <programme start="20260531140000 +0000" stop="20260531160000 +0000" channel="1002613">
     <title lang="zh">請留意下場播映賽事</title>
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##613_160_115"/>
@@ -149393,7 +149393,7 @@
     <category lang="zh">Worldcup/Soccer/Match</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##618_160_115"/>
   </programme>
-  <programme start="20260531153000 +0000" stop="20260601023000 +0000" channel="1002618">
+  <programme start="20260531153000 +0000" stop="20260531160000 +0000" channel="1002618">
     <title lang="zh">進軍決賽周</title>
     <category lang="zh">Sports</category>
     <category lang="zh">Worldcup/Soccer</category>
@@ -150900,7 +150900,7 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##621_160_115"/>
   </programme>
   <programme start="20260525160000 +0000" stop="20260525180000 +0000" channel="1002621">
-    <title lang="zh">英格蘭超級聯賽 -熱刺 對 愛華頓</title>
+    <title lang="zh">英格蘭超級聯賽 -白禮頓 對 曼聯</title>
     <category lang="zh">Sports</category>
     <category lang="zh">PL/Soccer/match</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##621_160_115"/>
@@ -150918,7 +150918,7 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##621_160_115"/>
   </programme>
   <programme start="20260525220000 +0000" stop="20260526000000 +0000" channel="1002621">
-    <title lang="zh">英格蘭超級聯賽 -熱刺 對 愛華頓</title>
+    <title lang="zh">英格蘭超級聯賽 -白禮頓 對 曼聯</title>
     <category lang="zh">Sports</category>
     <category lang="zh">PL/Soccer/match</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##621_160_115"/>
@@ -150948,7 +150948,7 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##621_160_115"/>
   </programme>
   <programme start="20260526060000 +0000" stop="20260526080000 +0000" channel="1002621">
-    <title lang="zh">英格蘭超級聯賽 -熱刺 對 愛華頓</title>
+    <title lang="zh">英格蘭超級聯賽 -白禮頓 對 曼聯</title>
     <category lang="zh">Sports</category>
     <category lang="zh">PL/Soccer/match</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##621_160_115"/>
@@ -150972,7 +150972,7 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##621_160_115"/>
   </programme>
   <programme start="20260526130000 +0000" stop="20260526150000 +0000" channel="1002621">
-    <title lang="zh">英格蘭超級聯賽 -熱刺 對 愛華頓</title>
+    <title lang="zh">英格蘭超級聯賽 -白禮頓 對 曼聯</title>
     <category lang="zh">Sports</category>
     <category lang="zh">PL/Soccer/match</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##621_160_115"/>
@@ -151532,7 +151532,7 @@
     <category lang="zh">PL/Soccer/match</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##621_160_115"/>
   </programme>
-  <programme start="20260531150000 +0000" stop="20260601020000 +0000" channel="1002621">
+  <programme start="20260531150000 +0000" stop="20260531160000 +0000" channel="1002621">
     <title lang="zh">英格蘭超級聯賽精華 -第三十八週</title>
     <category lang="zh">Sports</category>
     <category lang="zh">PL/Soccer</category>
@@ -151733,7 +151733,7 @@
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##622_160_115"/>
   </programme>
-  <programme start="20260531120000 +0000" stop="20260531230000 +0000" channel="1002622">
+  <programme start="20260531120000 +0000" stop="20260531160000 +0000" channel="1002622">
     <title lang="zh">請留意下場播映賽事</title>
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##622_160_115"/>
@@ -151933,7 +151933,7 @@
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##623_160_115"/>
   </programme>
-  <programme start="20260531120000 +0000" stop="20260531230000 +0000" channel="1002623">
+  <programme start="20260531120000 +0000" stop="20260531160000 +0000" channel="1002623">
     <title lang="zh">請留意下場播映賽事</title>
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##623_160_115"/>
@@ -152133,7 +152133,7 @@
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##624_160_115"/>
   </programme>
-  <programme start="20260531120000 +0000" stop="20260531230000 +0000" channel="1002624">
+  <programme start="20260531120000 +0000" stop="20260531160000 +0000" channel="1002624">
     <title lang="zh">請留意下場播映賽事</title>
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##624_160_115"/>
@@ -152333,7 +152333,7 @@
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##625_160_115"/>
   </programme>
-  <programme start="20260531120000 +0000" stop="20260531230000 +0000" channel="1002625">
+  <programme start="20260531120000 +0000" stop="20260531160000 +0000" channel="1002625">
     <title lang="zh">請留意下場播映賽事</title>
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##625_160_115"/>
@@ -152533,7 +152533,7 @@
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##626_160_115"/>
   </programme>
-  <programme start="20260531120000 +0000" stop="20260531230000 +0000" channel="1002626">
+  <programme start="20260531120000 +0000" stop="20260531160000 +0000" channel="1002626">
     <title lang="zh">請留意下場播映賽事</title>
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##626_160_115"/>
@@ -152733,7 +152733,7 @@
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##627_160_115"/>
   </programme>
-  <programme start="20260531120000 +0000" stop="20260531230000 +0000" channel="1002627">
+  <programme start="20260531120000 +0000" stop="20260531160000 +0000" channel="1002627">
     <title lang="zh">請留意下場播映賽事</title>
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##627_160_115"/>
@@ -154286,7 +154286,7 @@
     <category lang="zh">ATP/Tennis</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##631_160_115"/>
   </programme>
-  <programme start="20260531130000 +0000" stop="20260601000000 +0000" channel="1002631">
+  <programme start="20260531130000 +0000" stop="20260531160000 +0000" channel="1002631">
     <title lang="zh">2026 ITTF 世界乒乓球團體錦標賽 -男子團體決賽</title>
     <category lang="zh">Sports</category>
     <category lang="zh">TableTennis/Match</category>
@@ -155917,7 +155917,7 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##633_160_115"/>
     <episode-num system="onscreen">E139</episode-num>
   </programme>
-  <programme start="20260531153000 +0000" stop="20260601023000 +0000" channel="1002633">
+  <programme start="20260531153000 +0000" stop="20260531160000 +0000" channel="1002633">
     <title lang="zh">進軍決賽周</title>
     <category lang="zh">Sports</category>
     <category lang="zh">Worldcup/Soccer</category>
@@ -156718,7 +156718,7 @@
     <category lang="zh">WTA/Tennis/Match</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##634_160_115"/>
   </programme>
-  <programme start="20260531140000 +0000" stop="20260601010000 +0000" channel="1002634">
+  <programme start="20260531140000 +0000" stop="20260531160000 +0000" channel="1002634">
     <title lang="zh">WTA 26 摩洛哥網球大獎賽 -決賽</title>
     <category lang="zh">Sports</category>
     <category lang="zh">WTA/Tennis/Match</category>
@@ -158453,7 +158453,7 @@
     <category lang="zh">ATP/Tennis/Match</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##636_160_115"/>
   </programme>
-  <programme start="20260531153000 +0000" stop="20260601023000 +0000" channel="1002636">
+  <programme start="20260531153000 +0000" stop="20260531160000 +0000" channel="1002636">
     <title lang="zh">進軍決賽周</title>
     <category lang="zh">Sports</category>
     <category lang="zh">Worldcup/Soccer</category>
@@ -159110,7 +159110,7 @@
     <category lang="zh">Snooker/Match</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##637_160_115"/>
   </programme>
-  <programme start="20260531153000 +0000" stop="20260601023000 +0000" channel="1002637">
+  <programme start="20260531153000 +0000" stop="20260531160000 +0000" channel="1002637">
     <title lang="zh">進軍決賽周</title>
     <category lang="zh">Sports</category>
     <category lang="zh">Worldcup/Soccer</category>
@@ -162495,7 +162495,7 @@
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##641_160_115"/>
   </programme>
-  <programme start="20260531140000 +0000" stop="20260601010000 +0000" channel="1002641">
+  <programme start="20260531140000 +0000" stop="20260531160000 +0000" channel="1002641">
     <title lang="zh">請留意下場播映賽事</title>
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##641_160_115"/>
@@ -164372,7 +164372,7 @@
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##644_160_115"/>
   </programme>
-  <programme start="20260531120000 +0000" stop="20260531230000 +0000" channel="1002644">
+  <programme start="20260531120000 +0000" stop="20260531160000 +0000" channel="1002644">
     <title lang="zh">請留意下場播映賽事</title>
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##644_160_115"/>
@@ -164572,7 +164572,7 @@
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##645_160_115"/>
   </programme>
-  <programme start="20260531120000 +0000" stop="20260531230000 +0000" channel="1002645">
+  <programme start="20260531120000 +0000" stop="20260531160000 +0000" channel="1002645">
     <title lang="zh">請留意下場播映賽事</title>
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##645_160_115"/>
@@ -164772,7 +164772,7 @@
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##646_160_115"/>
   </programme>
-  <programme start="20260531120000 +0000" stop="20260531230000 +0000" channel="1002646">
+  <programme start="20260531120000 +0000" stop="20260531160000 +0000" channel="1002646">
     <title lang="zh">請留意下場播映賽事</title>
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##646_160_115"/>
@@ -165190,7 +165190,7 @@
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##647_160_115"/>
   </programme>
-  <programme start="20260531140000 +0000" stop="20260601010000 +0000" channel="1002647">
+  <programme start="20260531140000 +0000" stop="20260531160000 +0000" channel="1002647">
     <title lang="zh">請留意下場播映賽事</title>
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##647_160_115"/>
@@ -165590,7 +165590,7 @@
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##651_160_115"/>
   </programme>
-  <programme start="20260531140000 +0000" stop="20260601010000 +0000" channel="1002651">
+  <programme start="20260531140000 +0000" stop="20260531160000 +0000" channel="1002651">
     <title lang="zh">請留意下場播映賽事</title>
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##651_160_115"/>
@@ -165990,7 +165990,7 @@
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##652_160_115"/>
   </programme>
-  <programme start="20260531140000 +0000" stop="20260601010000 +0000" channel="1002652">
+  <programme start="20260531140000 +0000" stop="20260531160000 +0000" channel="1002652">
     <title lang="zh">請留意下場播映賽事</title>
     <category lang="zh">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##652_160_115"/>
@@ -167247,7 +167247,7 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##668_160_115"/>
     <episode-num system="onscreen">E76</episode-num>
   </programme>
-  <programme start="20260531151500 +0000" stop="20260601021500 +0000" channel="1002668">
+  <programme start="20260531151500 +0000" stop="20260531160000 +0000" channel="1002668">
     <title lang="zh">賽事重溫</title>
     <category lang="zh">Sports</category>
     <category lang="zh">HorseRacing</category>
@@ -168300,7 +168300,7 @@
     <category lang="zh">Snooker</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##680_160_115"/>
   </programme>
-  <programme start="20260531154000 +0000" stop="20260601024000 +0000" channel="1002680">
+  <programme start="20260531154000 +0000" stop="20260531160000 +0000" channel="1002680">
     <title lang="zh">一CUE過百</title>
     <category lang="zh">Sports</category>
     <category lang="zh">Snooker</category>
@@ -168864,7 +168864,7 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##683_160_115"/>
     <episode-num system="onscreen">E9</episode-num>
   </programme>
-  <programme start="20260531153000 +0000" stop="20260601023000 +0000" channel="1002683">
+  <programme start="20260531153000 +0000" stop="20260531160000 +0000" channel="1002683">
     <title lang="zh">進軍決賽周</title>
     <category lang="zh">Sports</category>
     <category lang="zh">Worldcup/Soccer</category>
@@ -169543,7 +169543,7 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/chzh##684_160_115"/>
     <episode-num system="onscreen">E8</episode-num>
   </programme>
-  <programme start="20260531130000 +0000" stop="20260601000000 +0000" channel="1002684">
+  <programme start="20260531130000 +0000" stop="20260531160000 +0000" channel="1002684">
     <title lang="zh">LPGA 2026 新澤西州LPGA女子高爾夫球精英賽 -第2天</title>
     <category lang="zh">Sports</category>
     <category lang="zh">Golf/Match/LPGA</category>
