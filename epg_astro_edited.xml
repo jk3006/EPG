@@ -36970,28 +36970,28 @@
     <category lang="en">General</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/SunTV_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260525073000 +0800" stop="20260525080500 +0800" channel="60211">
+  <programme start="20260525073000 +0800" stop="20260525081000 +0800" channel="60211">
     <title lang="en">Rasipalan</title>
     <desc lang="en">An astrologer predicts the future for people belonging to various sun signs.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/SunTV_IVP_LAND_917x516.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000376X81781.jpg"/>
   </programme>
-  <programme start="20260525080500 +0800" stop="20260525083000 +0800" channel="60211">
+  <programme start="20260525081000 +0800" stop="20260525083200 +0800" channel="60211">
     <title lang="en">Vanakkam Thamizha</title>
     <desc lang="en">A morning talk show which hosts celebrities and professionals from all walks of life who share their valuable expertise on varied topics.</desc>
     <category lang="en">News</category>
     <category lang="en">Discussion</category>
     <category lang="en">Interview</category>
     <category lang="en">Debate</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/SunTV_IVP_LAND_917x516.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000376X839312.jpg"/>
   </programme>
-  <programme start="20260525083000 +0800" stop="20260525093000 +0800" channel="60211">
+  <programme start="20260525083200 +0800" stop="20260525093000 +0800" channel="60211">
     <title lang="en">Ramayanam</title>
     <desc lang="en">Ramayana tells the story of King Rama of Ayodhya and his wife Sita and is celebrated for its depiction of relationships, duty, lifestyle and warfare.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/SunTV_IVP_LAND_917x516.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000376X812903.jpg"/>
     <episode-num system="onscreen">E94</episode-num>
   </programme>
   <programme start="20260525093000 +0800" stop="20260525103000 +0800" channel="60211">
@@ -39493,7 +39493,7 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000054X37136.jpg"/>
   </programme>
   <programme start="20260525073000 +0800" stop="20260525093000 +0800" channel="60214">
-    <title lang="en">Gubir Sirippu</title>
+    <title lang="en">Sirigama Pathani</title>
     <desc lang="en">Back to back comedy clips with a literary or cinematic work of a comic nature that uses themes or methods of comedy and humor.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Comedy</category>
@@ -43300,14 +43300,14 @@
     <category lang="en">General</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/SunNews_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260525013000 +0800" stop="20260525043000 +0800" channel="60216">
+  <programme start="20260525020000 +0800" stop="20260525045500 +0800" channel="60216">
     <title lang="en">Parthiban Kanavu</title>
     <desc lang="en">Parthiban, a marketing executive, discovers that the woman he has fallen in love with is the same one that his parents want him to marry. However, after marriage, he learns an unexpected truth.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Family</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/KTV_HD_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260525043000 +0800" stop="20260525073000 +0800" channel="60216">
+  <programme start="20260525045500 +0800" stop="20260525071000 +0800" channel="60216">
     <title lang="en">Koottu Puzhukkal</title>
     <desc lang="en">Surya, an unemployed man, comes across Manga, his neighbour, and falls in love with her. In order to succeed, he must prove himself worthy.</desc>
     <category lang="en">Movie</category>
@@ -43762,19 +43762,19 @@
     <category lang="en">Music</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000570X677874.jpg"/>
   </programme>
-  <programme start="20260525033000 +0800" stop="20260525060000 +0800" channel="60217">
+  <programme start="20260525033000 +0800" stop="20260525063700 +0800" channel="60217">
     <title lang="en">Thangamalai Ragasiyam</title>
     <desc lang="en">Adithan, the emperor of Azhagapuri, marries Kumutha, who is the maid of Princess Nandini. Enraged by the same, the princess vows to destroy Kumutha's life and capture the kingdom.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Family</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/SunLife_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260525060000 +0800" stop="20260525113000 +0800" channel="60217">
+  <programme start="20260525063700 +0800" stop="20260525113000 +0800" channel="60217">
     <title lang="en">Songs</title>
     <desc lang="en">Enjoy back to back songs from your favourite movies.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Music</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/SunLife_IVP_LAND_917x516.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000570X677833.jpg"/>
   </programme>
   <programme start="20260525113000 +0800" stop="20260525123000 +0800" channel="60217">
     <title lang="en">Thulluvatho Isai</title>
@@ -44526,8 +44526,8 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000375X785799.jpg"/>
   </programme>
   <programme start="20260525060000 +0800" stop="20260525063000 +0800" channel="60221">
-    <title lang="en">Kana Kandaenadi</title>
-    <desc lang="en">The series explores the evolving dynamics of childhood friendship and whether it can withstand the transition into marriage.</desc>
+    <title lang="en">Thaai Maaman</title>
+    <desc lang="en">After serving 14 years for a violent feud, a man returns to his village seeking peace and proposes a marriage between his son and his sworn enemy's daughter to end generations of hatred.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_10000148_IVP_LAND_917x516.jpg"/>
@@ -48071,50 +48071,50 @@
     <episode-num system="onscreen">S5 E47</episode-num>
   </programme>
   <programme start="20260525030000 +0800" stop="20260525033000 +0800" channel="60223">
-    <title lang="en">Zee Flix</title>
-    <desc lang="en">Enjoy unforgettable scenes from various Tamil films.</desc>
+    <title lang="en">Thirai Flix</title>
+    <desc lang="en">Take a look at a compilation of popular songs and scenes from recently released Tamil movies.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000342X548035.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ZeeTamil_2025_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260525033000 +0800" stop="20260525040000 +0800" channel="60223">
-    <title lang="en">Zee Flix</title>
-    <desc lang="en">Enjoy unforgettable scenes from various Tamil films.</desc>
+    <title lang="en">Thirai Flix</title>
+    <desc lang="en">Take a look at a compilation of popular songs and scenes from recently released Tamil movies.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000342X548035.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ZeeTamil_2025_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260525040000 +0800" stop="20260525043000 +0800" channel="60223">
-    <title lang="en">Zee Flix</title>
-    <desc lang="en">Enjoy unforgettable scenes from various Tamil films.</desc>
+    <title lang="en">Thirai Flix</title>
+    <desc lang="en">Take a look at a compilation of popular songs and scenes from recently released Tamil movies.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000342X548035.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ZeeTamil_2025_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260525043000 +0800" stop="20260525050000 +0800" channel="60223">
-    <title lang="en">Zee Flix</title>
-    <desc lang="en">Enjoy unforgettable scenes from various Tamil films.</desc>
+    <title lang="en">Thirai Flix</title>
+    <desc lang="en">Take a look at a compilation of popular songs and scenes from recently released Tamil movies.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000342X548035.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ZeeTamil_2025_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260525050000 +0800" stop="20260525053000 +0800" channel="60223">
-    <title lang="en">Zee Flix</title>
-    <desc lang="en">Enjoy unforgettable scenes from various Tamil films.</desc>
+    <title lang="en">Thirai Flix</title>
+    <desc lang="en">Take a look at a compilation of popular songs and scenes from recently released Tamil movies.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000342X548035.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ZeeTamil_2025_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260525053000 +0800" stop="20260525060000 +0800" channel="60223">
-    <title lang="en">Zee Flix</title>
-    <desc lang="en">Enjoy unforgettable scenes from various Tamil films.</desc>
+    <title lang="en">Thirai Flix</title>
+    <desc lang="en">Take a look at a compilation of popular songs and scenes from recently released Tamil movies.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000342X548035.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ZeeTamil_2025_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260525060000 +0800" stop="20260525063000 +0800" channel="60223">
-    <title lang="en">Zee Flix</title>
-    <desc lang="en">Enjoy unforgettable scenes from various Tamil films.</desc>
+    <title lang="en">Thirai Flix</title>
+    <desc lang="en">Take a look at a compilation of popular songs and scenes from recently released Tamil movies.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ZeeTamil_2025_IVP_LAND_917x516.jpg"/>
@@ -169006,26 +169006,19 @@
     <category lang="en">Football</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTKIX.jpg"/>
   </programme>
-  <programme start="20260525010000 +0800" stop="20260525013000 +0800" channel="60804">
+  <programme start="20260525011000 +0800" stop="20260525013700 +0800" channel="60804">
     <title lang="en">Sorotan MSL 2025/26: PEN lwn TER</title>
     <desc lang="en">Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Penang lwn Terengganu.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTLET.jpg"/>
   </programme>
-  <programme start="20260525013000 +0800" stop="20260525020000 +0800" channel="60804">
+  <programme start="20260525013700 +0800" stop="20260525021500 +0800" channel="60804">
     <title lang="en">Sorotan MSL 2025/26: SEL lwn DPMM</title>
     <desc lang="en">Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Selangor lwn DPMM.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTLEV.jpg"/>
-  </programme>
-  <programme start="20260525020000 +0800" stop="20260525021500 +0800" channel="60804">
-    <title lang="en">NYDL: This is Our Time</title>
-    <desc lang="en">Perjalanan Marissa dan rakan sepasukannya dalam atasi perbezaan budaya dan membina kerjasama antara ahli pasukan New York Dutch Lions.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Sports Magazine</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroArenaBola2_2024_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260525021500 +0800" stop="20260525022500 +0800" channel="60804">
     <title lang="en">NYDL: This is Our Time</title>
@@ -169041,26 +169034,12 @@
     <category lang="en">Sports Magazine</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroArenaBola2_2024_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260525023500 +0800" stop="20260525044500 +0800" channel="60804">
+  <programme start="20260525023500 +0800" stop="20260525060000 +0800" channel="60804">
     <title lang="en">(L) Serie A 2025/26: TOR lwn JUV</title>
     <desc lang="en">(Langsung) Serie A 2025/26: Torino lwn Juventus dari Stadium Olympic Grande Torino, Turin, Itali.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWNDX.jpg"/>
-  </programme>
-  <programme start="20260525044500 +0800" stop="20260525050000 +0800" channel="60804">
-    <title lang="en">NYDL: This is Our Time</title>
-    <desc lang="en">Perjalanan Marissa dan rakan sepasukannya dalam atasi perbezaan budaya dan membina kerjasama antara ahli pasukan New York Dutch Lions.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Sports Magazine</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroArenaBola2_2024_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20260525050000 +0800" stop="20260525060000 +0800" channel="60804">
-    <title lang="en">Bola Dulu Baru Kamu!</title>
-    <desc lang="en">4 orang legenda bolasepak Malaysia berkumpul di dalam satu program menceritakan tentang bolasepak Malaysia.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Sports Magazine</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KUFID.jpg"/>
   </programme>
   <programme start="20260525060000 +0800" stop="20260525080000 +0800" channel="60804">
     <title lang="en">Liga A1 2025/26: MUFT lwn KFA</title>
@@ -169713,7 +169692,7 @@
     <category lang="en">Football</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KVXIC.jpg"/>
   </programme>
-  <programme start="20260525020000 +0800" stop="20260525041500 +0800" channel="60805">
+  <programme start="20260525030000 +0800" stop="20260525041500 +0800" channel="60805">
     <title lang="en">PL: Liverpool vs Brighton</title>
     <desc lang="en">Premier League 2025/26: Round 16: Liverpool vs Brighton &amp; Hove Albion, from the Anfield, Liverpool.</desc>
     <category lang="en">Sports</category>
@@ -170231,14 +170210,14 @@
     <category lang="en">Football</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KUJQI.jpg"/>
   </programme>
-  <programme start="20260525023500 +0800" stop="20260525045000 +0800" channel="60810">
+  <programme start="20260525023500 +0800" stop="20260525045500 +0800" channel="60810">
     <title lang="en">(L) Serie A: Cremonese vs Como</title>
     <desc lang="en">LIVE: Serie A 2025/26: Round 38: Cremonese vs Como, from Stadio Giovanni Zini in Cremona.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWNDU.jpg"/>
   </programme>
-  <programme start="20260525045000 +0800" stop="20260525060000 +0800" channel="60810">
+  <programme start="20260525045500 +0800" stop="20260525060000 +0800" channel="60810">
     <title lang="en">Emirates FA Cup 2025/26: Season Review</title>
     <desc lang="en">As the curtain falls on the 2025/26 season competition, take a lookback at the highs, the lows and the incredible giant killing stories conjured up by the magic of the FA Cup.</desc>
     <category lang="en">Sports</category>
@@ -170252,14 +170231,14 @@
     <category lang="en">Football</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTKHO.jpg"/>
   </programme>
-  <programme start="20260525084000 +0800" stop="20260525104000 +0800" channel="60810">
+  <programme start="20260525084000 +0800" stop="20260525110000 +0800" channel="60810">
     <title lang="en">Scottish Cup: Celtic vs Dunfermline</title>
     <desc lang="en">Scottish Cup 2025/26: Finals: Celtic vs Dunfermline Athletic, from Hampden Park, Glasgow, Scotland.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroGrandstand_2024_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260525104000 +0800" stop="20260525111000 +0800" channel="60810">
+  <programme start="20260525110000 +0800" stop="20260525111000 +0800" channel="60810">
     <title lang="en">Tour Of Oman 2026 Daily Hls: Stage 4</title>
     <desc lang="en">Tour Of Oman 2026 Daily Hls: Stage 4 from Al Sawadi Beach to Sohar Oman.</desc>
     <category lang="en">Sports</category>
@@ -170827,28 +170806,21 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTMWF_series.jpg"/>
     <episode-num system="onscreen">E31</episode-num>
   </programme>
-  <programme start="20260525053000 +0800" stop="20260525060000 +0800" channel="60811">
-    <title lang="en">Match HL 2025/26: WK37: ARS vs BUR</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTVBH_series.jpg"/>
-  </programme>
-  <programme start="20260525060000 +0800" stop="20260525070000 +0800" channel="60811">
+  <programme start="20260525053000 +0800" stop="20260525061000 +0800" channel="60811">
     <title lang="en">PL Moments Ep.3: Michael Carrick</title>
     <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTRUJ_series.jpg"/>
   </programme>
-  <programme start="20260525070000 +0800" stop="20260525091000 +0800" channel="60811">
+  <programme start="20260525061000 +0800" stop="20260525085000 +0800" channel="60811">
     <title lang="en">(D) PL: Man City vs Aston Villa</title>
     <desc lang="en">Premier League 2025/26: Match Week 38: Manchester City vs. Aston Villa, from Etihad Stadium.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTKIQ.jpg"/>
   </programme>
-  <programme start="20260525091000 +0800" stop="20260525131000 +0800" channel="60811">
+  <programme start="20260525085000 +0800" stop="20260525131000 +0800" channel="60811">
     <title lang="en">PL: Tottenham vs Everton</title>
     <desc lang="en">Premier League 2025/26: Match Week 38: Tottenham Hotspur vs. Everton, from Tottenham Hotspur Stadium.</desc>
     <category lang="en">Sports</category>
@@ -171493,7 +171465,7 @@
     <category lang="en">Football</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTMXA_series.jpg"/>
   </programme>
-  <programme start="20260525020000 +0800" stop="20260525030000 +0800" channel="60812">
+  <programme start="20260525021500 +0800" stop="20260525030000 +0800" channel="60812">
     <title lang="en">PLTV: 1-To-11 2025/26</title>
     <desc lang="en">Former Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</desc>
     <category lang="en">Sports</category>
