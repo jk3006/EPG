@@ -277,6 +277,10 @@
     <display-name lang="en">812 NHK WORLD - JAPAN HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042816787280_12.png"/>
   </channel>
+  <channel id="6502108">
+    <display-name lang="en">811 NHK World Premium HD</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png"/>
+  </channel>
   <channel id="6502069">
     <display-name lang="en">128 COLORS</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042605957464_10.png"/>
