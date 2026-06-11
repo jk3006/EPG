@@ -1,0 +1,1639 @@
+<?xml version="1.0" ?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="6401001">
+    <display-name lang="en">913 Sky Movies Premiere</display-name>
+    <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/23RkexBUGiJIg5pZrgog5W/c4e86f15be68ea7bb19485f7added05e/Sky_Movies_Premiere.png"/>
+    <url>http://www.sky.co.nz</url>
+  </channel>
+  <channel id="6401002">
+    <display-name lang="en">914 Sky Movies Comedy</display-name>
+    <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4INQvqt3DZGPd58SVEipKh/eeb0ca97e156f6856d4905cdc5dd83b6/Sky_Movies_COMEDY.png"/>
+    <url>http://www.sky.co.nz</url>
+  </channel>
+  <channel id="6401003">
+    <display-name lang="en">915 Sky Movies Action</display-name>
+    <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/6lOzGKmf69IQeVzJBd8q3d/fdd21b63556747d850119290a00c4374/Sky_Movies_ACTION.png"/>
+    <url>http://www.sky.co.nz</url>
+  </channel>
+  <channel id="6401004">
+    <display-name lang="en">916 Sky Movies Greats</display-name>
+    <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3yUGDdxxxYUhE2r2nIMd0t/cba2bf01592446d9ac94fde3f5773be4/Sky_Movies_Greats.png"/>
+    <url>http://www.sky.co.nz</url>
+  </channel>
+  <channel id="6401005">
+    <display-name lang="en">917 Sky Movies Classics</display-name>
+    <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4HhCeCq1DuWS0iHzFnGnjK/38a0d6437e0f96b2d210d3ada453f860/Sky_Movies_CLASSICS.png"/>
+    <url>http://www.sky.co.nz</url>
+  </channel>
+  <channel id="6401006">
+    <display-name lang="en">918 Sky Movies Family</display-name>
+    <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2fajvvc9DnVkIGUTrUUBBu/455f4e5d97035dd6209977f158271aae/Sky_Movies_FAMILY.png"/>
+    <url>http://www.sky.co.nz</url>
+  </channel>
+  <channel id="6401007">
+    <display-name lang="en">901 Sky Sport Select</display-name>
+    <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7nDLn3jd7sFlVOsWo81cL0/ff39abec2569729c132e2c75a3e6839f/Sky_Sports_Select.png"/>
+    <url>http://www.sky.co.nz</url>
+  </channel>
+  <channel id="6401008">
+    <display-name lang="en">902 Sky Sport 1</display-name>
+    <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4gZFsogRgbwZdK9k95iHWa/8dee97f8eebca01da8099679b7f42f5c/Sky_Sports_1.png"/>
+    <url>http://www.sky.co.nz</url>
+  </channel>
+  <channel id="6401009">
+    <display-name lang="en">903 Sky Sport 2</display-name>
+    <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5sg8cnjJ9ewyw9mBnj4DyP/d889d7e60e7959cb32fb4459c359b310/Sky_Sports_2.png"/>
+    <url>http://www.sky.co.nz</url>
+  </channel>
+  <channel id="6401010">
+    <display-name lang="en">904 Sky Sport 3</display-name>
+    <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2Li36VKCjeQR5EdxX94vyV/f4e8b1608c57e9f44fc5fead915927b0/Sky_Sports_3.png"/>
+    <url>http://www.sky.co.nz</url>
+  </channel>
+  <channel id="6401011">
+    <display-name lang="en">905 Sky Sport 4</display-name>
+    <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/547OJTpD88fxJE5z1ZlZhN/5350246da05b14251b852b58a8cf07e5/Sky_Sports_4.png"/>
+    <url>http://www.sky.co.nz</url>
+  </channel>
+  <channel id="6401012">
+    <display-name lang="en">906 Sky Sport 5</display-name>
+    <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3fJO9Xv4cwOvshWTvCVjX6/8c97db357dd3aa0050d7ffdb1ff46259/Sky_Sports_5.png"/>
+    <url>http://www.sky.co.nz</url>
+  </channel>
+  <channel id="6401013">
+    <display-name lang="en">907 Sky Sport 6</display-name>
+    <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4neKyKZhBEIzEzEmeWWU96/edcfc922667d86db8a25c087cdea2750/Sky_Sports_6.png"/>
+    <url>http://www.sky.co.nz</url>
+  </channel>
+  <channel id="6401014">
+    <display-name lang="en">908 Sky Sport 7</display-name>
+    <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2W3VYD7jLnxWNNztOkEfNn/78f46ff43a7a01580c69d7b8c68a085f/Sky_Sports_7.png"/>
+    <url>http://www.sky.co.nz</url>
+  </channel>
+  <channel id="6401015">
+    <display-name lang="en">909 Sky Sport 8</display-name>
+    <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/1E6YMflONVpZdhNXvc0LWo/68443f563a0c6a383edcc2518b1cbae9/Sky_Sport_Premier_League_Logo_Arrow_Box.png"/>
+    <url>http://www.sky.co.nz</url>
+  </channel>
+  <channel id="6401016">
+    <display-name lang="en">910 Sky Sport 9</display-name>
+    <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5F6kCqdSuIcHo7gDduSFVt/f67001a9ae1f9dfb1d7a2a82d9acf538/Sky_Sports_9.png"/>
+    <url>http://www.sky.co.nz</url>
+  </channel>
+  <channel id="6401017">
+    <display-name lang="en">911 ESPN</display-name>
+    <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2fIOtL3s8jEH8xBYOrStcX/0073e945ae106236a808851818d2e723/ESPN.png"/>
+    <url>http://www.sky.co.nz</url>
+  </channel>
+  <channel id="6401018">
+    <display-name lang="en">912 ESPN2</display-name>
+    <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3fTSsxpHHLRnEtSs4eTKtO/1ffb263a0e8e663feac0e11cda63c638/ESPN2.png"/>
+    <url>http://www.sky.co.nz</url>
+  </channel>
+  <programme start="20260611012500 +0000" stop="20260611031000 +0000" channel="6401001">
+    <title lang="en">Caught Stealing</title>
+    <desc lang="en">After agreeing to look after his neighbour's cat, Hank Thompson unexpectedly becomes embroiled in the criminal underbelly of 1990s New York City.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>16VLC</value>
+    </rating>
+  </programme>
+  <programme start="20260611031000 +0000" stop="20260611044500 +0000" channel="6401001">
+    <title lang="en">Locked</title>
+    <desc lang="en">Eddie breaks into a luxury SUV, only to realise he's been caught in a deadly trap set by a twisted vigilante.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>16VLC</value>
+    </rating>
+  </programme>
+  <programme start="20260611044500 +0000" stop="20260611065000 +0000" channel="6401001">
+    <title lang="en">Mr. Burton</title>
+    <desc lang="en">Based on the remarkable true story, an English teacher helps transform a wild schoolboy into one of the biggest stars Wales has ever produced: Richard Burton.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>MC</value>
+    </rating>
+  </programme>
+  <programme start="20260611065000 +0000" stop="20260611083000 +0000" channel="6401001">
+    <title lang="en">Jane Austen Wrecked My Life</title>
+    <desc lang="en">A romantically challenged aspiring novelist attends a Jane Austen Writers' Residency in England, where she gets caught in an unexpected love triangle. Contains English Subtitles.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>ML</value>
+    </rating>
+  </programme>
+  <programme start="20260611083000 +0000" stop="20260611102000 +0000" channel="6401001">
+    <title lang="en">The Long Walk</title>
+    <desc lang="en">In a dystopian United States under military rule, a group of teen boys compete in an annual contest known as The Long Walk, where they must maintain a certain walking speed or get shot. Based on Stephen King's iconic novel.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>16VLC</value>
+    </rating>
+  </programme>
+  <programme start="20260611102000 +0000" stop="20260611122000 +0000" channel="6401001">
+    <title lang="en">Maria</title>
+    <desc lang="en">After a glamorous yet tumultuous life in the public eye, famed opera singer Maria Callas retreats to Paris, where she reckons with her identity.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>MLC</value>
+    </rating>
+  </programme>
+  <programme start="20260611011500 +0000" stop="20260611025500 +0000" channel="6401002">
+    <title lang="en">Just My Luck</title>
+    <desc lang="en">When a lucky Manhattan socialite kisses the most unlucky man on Earth at a masquerade ball, their respective fortunes take a surprising turn.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>PGL</value>
+    </rating>
+  </programme>
+  <programme start="20260611025500 +0000" stop="20260611045000 +0000" channel="6401002">
+    <title lang="en">Mother's Day</title>
+    <desc lang="en">Multiple stories intertwine in this heartfelt comedy that follows several families in Atlanta as Mother's day approaches.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>ML</value>
+    </rating>
+  </programme>
+  <programme start="20260611045000 +0000" stop="20260611064000 +0000" channel="6401002">
+    <title lang="en">22 Jump Street</title>
+    <desc lang="en">After making their way through high school (twice), big changes are in store for officers Schmidt and Jenko when they go deep undercover at a local college.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>16VSLC</value>
+    </rating>
+  </programme>
+  <programme start="20260611064000 +0000" stop="20260611083000 +0000" channel="6401002">
+    <title lang="en">Bend it Like Beckham</title>
+    <desc lang="en">Talent doesn't seem to be enough when your parents want you to hang up your football boots, find a nice boy, and cook the perfect chapatti.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>PGL</value>
+    </rating>
+  </programme>
+  <programme start="20260611083000 +0000" stop="20260611101500 +0000" channel="6401002">
+    <title lang="en">My Best Friend's Wedding</title>
+    <desc lang="en">After a woman's long-time best friend tells her he's engaged, she realises she's in love with him and sets out to do whatever's necessary to stop the \"wedding of the year.\".</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>ML</value>
+    </rating>
+  </programme>
+  <programme start="20260611101500 +0000" stop="20260611114500 +0000" channel="6401002">
+    <title lang="en">Empire Records</title>
+    <desc lang="en">Over one eventful day in a bustling independent record store a group of young slackers, doers, and dreamers must band together to fight a corporate takeover and save the workplace they love.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>16LC</value>
+    </rating>
+  </programme>
+  <programme start="20260611114500 +0000" stop="20260611132500 +0000" channel="6401002">
+    <title lang="en">Art School Confidential</title>
+    <desc lang="en">While pursuing art school, a young man learns how the art world really works, and finds he must adapt his vision to the reality that confronts him.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>16VSL</value>
+    </rating>
+  </programme>
+  <programme start="20260611003500 +0000" stop="20260611020500 +0000" channel="6401003">
+    <title lang="en">Killing Season</title>
+    <desc lang="en">Two veterans of the Bosnian War - one American and one Serbian - play a game of cat-and-mouse in the remote Appalachian wilderness.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>16VC</value>
+    </rating>
+  </programme>
+  <programme start="20260611020500 +0000" stop="20260611034500 +0000" channel="6401003">
+    <title lang="en">'71</title>
+    <desc lang="en">Abandoned by his unit, a British soldier must survive the night in the disorienting and deadly streets of Belfast during the 1971 riots.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>16VL</value>
+    </rating>
+  </programme>
+  <programme start="20260611034500 +0000" stop="20260611052000 +0000" channel="6401003">
+    <title lang="en">War on Everyone</title>
+    <desc lang="en">A couple of fast-talking, corrupt officers blackmail every criminal they stumble upon, until they cross one who is too sinister to bring down.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>16VSLC</value>
+    </rating>
+  </programme>
+  <programme start="20260611052000 +0000" stop="20260611070000 +0000" channel="6401003">
+    <title lang="en">A Warrior's Heart</title>
+    <desc lang="en">After his father's death, high school lacrosse star Conor becomes angry and destructive, but a new love interest and a wilderness training camp help him rediscover the warrior within.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611070000 +0000" stop="20260611083000 +0000" channel="6401003">
+    <title lang="en">Catch the Bullet</title>
+    <desc lang="en">A no-nonsense U.S. Marshal returns from the trail to discover that his 12-year-old son has been kidnapped by a ruthless outlaw gang.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>16VLC</value>
+    </rating>
+  </programme>
+  <programme start="20260611083000 +0000" stop="20260611101000 +0000" channel="6401003">
+    <title lang="en">Mafia Wars</title>
+    <desc lang="en">An ex-con gets released early from prison, only to be forced into an undercover unit of six men sent to infiltrate the Mafia.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>16VL</value>
+    </rating>
+  </programme>
+  <programme start="20260611101000 +0000" stop="20260611120500 +0000" channel="6401003">
+    <title lang="en">Con Air</title>
+    <desc lang="en">A former U.S. Ranger is trapped when America's most dangerous criminals commandeer their prison transport plane.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>18VL</value>
+    </rating>
+  </programme>
+  <programme start="20260611001000 +0000" stop="20260611015000 +0000" channel="6401004">
+    <title lang="en">The Flying Scotsman</title>
+    <desc lang="en">The true story of Graeme Obree, an amateur Scottish cyclist who built his own bike from an old washing machine, and broke the one-hour world record.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20260611015000 +0000" stop="20260611035000 +0000" channel="6401004">
+    <title lang="en">3:10 to Yuma</title>
+    <desc lang="en">In 1800s Arizona, a small-time rancher agrees to escort a criminal to his trial in Yuma. But danger looms at every turn, and the outlaw's men are in pursuit.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>MV</value>
+    </rating>
+  </programme>
+  <programme start="20260611035000 +0000" stop="20260611063000 +0000" channel="6401004">
+    <title lang="en">The English Patient</title>
+    <desc lang="en">In an abandoned monastery at the end of World War II, a young nurse tends to a severely burned plane crash victim. His past is shown in flashbacks, revealing a fateful love affair.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>MVL</value>
+    </rating>
+  </programme>
+  <programme start="20260611063000 +0000" stop="20260611083000 +0000" channel="6401004">
+    <title lang="en">Training Day</title>
+    <desc lang="en">A rookie cop spends his first day as an LA narcotics officer with a rogue detective whose methods blur the line between justice and corruption.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>18VL</value>
+    </rating>
+  </programme>
+  <programme start="20260611083000 +0000" stop="20260611103500 +0000" channel="6401004">
+    <title lang="en">Basic Instinct</title>
+    <desc lang="en">A San Francisco police detective investigating the brutal murder of a wealthy rock star becomes involved with the prime suspect - a seductive enigmatic writer whose novel mirrors the details of the killing.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>18VS</value>
+    </rating>
+  </programme>
+  <programme start="20260611103500 +0000" stop="20260611121500 +0000" channel="6401004">
+    <title lang="en">Alex Cross</title>
+    <desc lang="en">A young homicide detective and psychologist meets his match in a serial killer. The two face off in a high-stakes game of cat and mouse.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>MVS</value>
+    </rating>
+  </programme>
+  <programme start="20260611025000 +0000" stop="20260611043000 +0000" channel="6401005">
+    <title lang="en">Seems Like Old Times</title>
+    <desc lang="en">Wrongfully accused of a bank robbery, a writer seeks help from his ex-wife, who's now married to the soon-to-be Attorney General of California.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260611043000 +0000" stop="20260611062500 +0000" channel="6401005">
+    <title lang="en">Natural Born Killers</title>
+    <desc lang="en">Two young, attractive serial killers become tabloid-TV darlings. As a sensationalistic press reports on the pair, they go on a blood-drenched, murderous road trip. A controversial, satirical look at violence, murder, and the American media.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>18V</value>
+    </rating>
+  </programme>
+  <programme start="20260611062500 +0000" stop="20260611083000 +0000" channel="6401005">
+    <title lang="en">The Passenger</title>
+    <desc lang="en">A world-weary American journalist discovers the body of a stranger and decides to assume the dead man's identity. But he soon learns the man was an arms dealer with dangerous friends and enemies.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260611083000 +0000" stop="20260611104500 +0000" channel="6401005">
+    <title lang="en">Rain Man</title>
+    <desc lang="en">After the death of their father, an ambitious yuppie and his autistic brother embark on a voyage of discovery.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>ML</value>
+    </rating>
+  </programme>
+  <programme start="20260611104500 +0000" stop="20260611124500 +0000" channel="6401005">
+    <title lang="en">Platoon</title>
+    <desc lang="en">In the 1960s, a young American soldier arrives in Vietnam, and discovers he must battle not only the Viet Cong, but also the fear, exhaustion and intense anger growing within him.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>MVL</value>
+    </rating>
+  </programme>
+  <programme start="20260611010100 +0000" stop="20260611022500 +0000" channel="6401006">
+    <title lang="en">The Dragon Spell</title>
+    <desc lang="en">The son of a famous warrior is sucked into a mysterious portal. With help from some new friends, he must slay a dragon and find his way home.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260611022500 +0000" stop="20260611040600 +0000" channel="6401006">
+    <title lang="en">Ramona and Beezus</title>
+    <desc lang="en">An adventurous young girl uses her imagination to escape her reality, but it's rapidly spinning out of control.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611040600 +0000" stop="20260611053100 +0000" channel="6401006">
+    <title lang="en">The Peanuts Movie</title>
+    <desc lang="en">Snoopy and Charlie are on a mission - Charlie aims to impress a girl, while Snoopy takes to the skies in pursuit of his arch-nemesis.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611053100 +0000" stop="20260611070000 +0000" channel="6401006">
+    <title lang="en">Riki Rhino</title>
+    <desc lang="en">A young rhinoceros has his horn stolen by a horrible poacher. To get it back, he embarks on an exciting adventure through the rainforest.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260611070000 +0000" stop="20260611080900 +0000" channel="6401006">
+    <title lang="en">Once Upon A Forest</title>
+    <desc lang="en">When a toxic spill poisons their friend, a mouse, a mole, and a hedgehog embark on a treacherous journey to find a cure.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611080900 +0000" stop="20260611092500 +0000" channel="6401006">
+    <title lang="en">Garfield: A Tail of Two Kitties</title>
+    <desc lang="en">A case of mistaken cat identity finds Garfield ruling over a castle in London, and living large as only he can!</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611092500 +0000" stop="20260611112800 +0000" channel="6401006">
+    <title lang="en">Miss Peregrine's Home for Peculiar Children</title>
+    <desc lang="en">When Jake follows the clues left by his dead grandfather, he discovers a place with unique characters in possession of strange powers.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>MVC</value>
+    </rating>
+  </programme>
+  <programme start="20260611112800 +0000" stop="20260611180000 +0000" channel="6401006">
+    <title lang="en">Sweet Dreams</title>
+    <desc lang="en">Time for bed! We'll see you first thing in the morning.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611001000 +0000" stop="20260611005500 +0000" channel="6401007">
+    <title lang="en">Between Two Posts</title>
+    <desc lang="en">TUE 9 JUN - Not your typical rugby show as Sean, Morgs and Hoilesy return with sharp analysis, big stories and plenty of banter as they break down each weekend’s rugby action, joined by special guests for insights on and off the field.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611005500 +0000" stop="20260611015500 +0000" channel="6401007">
+    <title lang="en">Sal's NBL: Week 9 Hls</title>
+    <desc lang="en">Highlights of the Week 9 of Sal's National Basketball League.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611015500 +0000" stop="20260611022500 +0000" channel="6401007">
+    <title lang="en">Bangladesh v Australia: 1st ODI Hls</title>
+    <desc lang="en">Highlights of the 1st ODI between Bangladesh and Australia at Sher-e-Bangla National Cricket Stadium, Mirpur, Dhaka.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611022500 +0000" stop="20260611035500 +0000" channel="6401007">
+    <title lang="en">England v BLACKCAPS: 1st Test Wrap</title>
+    <desc lang="en">Wrap of the first Test match between England and the BLACKCAPS at Lord's, London.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611035500 +0000" stop="20260611044500 +0000" channel="6401007">
+    <title lang="en">Isle Of Man TT: Sportbike R1 HLs</title>
+    <desc lang="en">Highlights from the Isle of Man TT, Sportbike Race 1. From the iconic Snaefell Mountain course on the Isle of Man.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611044500 +0000" stop="20260611051500 +0000" channel="6401007">
+    <title lang="en">Champions of the Future Karting R1&amp;2 HLs</title>
+    <desc lang="en">Highlights from the Champions of the Future Karting Academy Program, Round 1 &amp; Round 2.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611051500 +0000" stop="20260611054500 +0000" channel="6401007">
+    <title lang="en">Spirit of Sport Ep8</title>
+    <desc lang="en">Watch exclusive insight, commentary and interviews with global sports stars on their sports and career, and explore the places which define a sport.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611054500 +0000" stop="20260611064500 +0000" channel="6401007">
+    <title lang="en">UCI BMX Racing World Cup Rd1 Hls</title>
+    <desc lang="en">Highlights of the opening round of the 2026 UCI BMX Racing World Cup in Sarrians, France, where elite riders launch the season on a challenging track, racing from qualifiers through to high‑intensity finals.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611064500 +0000" stop="20260611074500 +0000" channel="6401007">
+    <title lang="en">UCI BMX Racing World Cup Rd2 Hls</title>
+    <desc lang="en">Highlights of Round 2 of the 2026 UCI BMX Racing World Cup in Sarrians, France, as the world’s best riders battle once more on the challenging track, with fast‑paced racing from qualifiers through to the finals.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611074500 +0000" stop="20260611081500 +0000" channel="6401007">
+    <title lang="en">Champions of the Future Karting R1&amp;2 HLs</title>
+    <desc lang="en">Highlights from the Champions of the Future Karting Academy Program, Round 1 &amp; Round 2.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611081500 +0000" stop="20260611084500 +0000" channel="6401007">
+    <title lang="en">Bangladesh v Australia: 1st ODI Hls</title>
+    <desc lang="en">Highlights of the 1st ODI between Bangladesh and Australia at Sher-e-Bangla National Cricket Stadium, Mirpur, Dhaka.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611084500 +0000" stop="20260611091500 +0000" channel="6401007">
+    <title lang="en">Crowned - ICC Women's T20 CWC Final 2024</title>
+    <desc lang="en">Sophie Devine finally achieved her ultimate goal in cricket after 18 years as a White Fern as she led New Zealand to their first ever ICC Women’s T20 World Cup title in 2024. Relive one of cricket's most magical stories.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611091500 +0000" stop="20260611101000 +0000" channel="6401007">
+    <title lang="en">ICC T20 WCWC 2026 - The Greatest Moments</title>
+    <desc lang="en">Relive some of the greatest moments in ICC Women's T20 World Cup history. Some of the biggest names in the sport will talk us through how the women’s T20 game has evolved since its inception in 2009 and how the tournament has treated us over the years.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611101000 +0000" stop="20260611111000 +0000" channel="6401007">
+    <title lang="en">ICC T20 WCWC 2026 - The Experts' View</title>
+    <desc lang="en">The Experts’ View will bring together some of the finest minds in cricket to discuss the upcoming ICC Women's T20 World Cup 2026. Our panel will dissect each team's strengths and weaknesses and who can go all the way to lift the trophy at Lord's.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611111000 +0000" stop="20260611121000 +0000" channel="6401007">
+    <title lang="en">ICC Women's T20 CWC 2026: The A-List</title>
+    <desc lang="en">A panel of experts discuss the superstars to watch out for at the ICC Women's T20 World Cup — from the biggest power hitter to the best wicketkeeper and ultimate pacer. Find out who makes The A-List.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611010000 +0000" stop="20260611030500 +0000" channel="6401008">
+    <title lang="en">UEFA: England v Costa Rica</title>
+    <desc lang="en">Coverage of the UEFA European Friendlies match between England and Costa Rica held at Wembley Stadium, London.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611030500 +0000" stop="20260611040000 +0000" channel="6401008">
+    <title lang="en">Gallagher Premiership Round 18 Hls</title>
+    <desc lang="en">Highlights from Round 18 of the Gallagher Premiership.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611040000 +0000" stop="20260611050000 +0000" channel="6401008">
+    <title lang="en">Inside Line</title>
+    <desc lang="en">THU 11 JUN - Inside Line is a hard-hitting rugby show tackling breaking news and key debates. Featuring experts, former players, and top journalists, each episode dissects the latest developments in local and global rugby.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611050000 +0000" stop="20260611070000 +0000" channel="6401008">
+    <title lang="en">NRL 2024 Sharks v Warriors</title>
+    <desc lang="en">Coverage of the 2024 NRL Premiership Round 26: Cronulla-Sutherland Sharks v New Zealand Warriors at PointsBet Stadium.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611070000 +0000" stop="20260611073000 +0000" channel="6401008">
+    <title lang="en">The Crowd Goes Wild</title>
+    <desc lang="en">THU 11 JUN- Join the team for an alternative dose of sports news, delivering the best (and worst) sporting moments the only way they know how, with a little cheek!</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260611073000 +0000" stop="20260611074500 +0000" channel="6401008">
+    <title lang="en">NRL Premiership: CRO v WAR Hls</title>
+    <desc lang="en">Highlights of round 5 of the NRL Premiership as the Cronulla Sharks take on the New Zealand Warriors at PointsBet Stadium, Sydney.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611074500 +0000" stop="20260611080000 +0000" channel="6401008">
+    <title lang="en">NRL Premiership: WAR v CRO Hls</title>
+    <desc lang="en">Highlights of round 20 of the NRL Premiership as the New Zealand Warriors take on the Cronulla Sharks at Go Media Stadium Mt Smart, Auckland.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611080000 +0000" stop="20260611083000 +0000" channel="6401008">
+    <title lang="en">League Lounge With Shaun Johnson</title>
+    <desc lang="en">MON 08 JUNE. Episode 15 - Sam Healey. The young gun is on the couch to share his story of growing up with an NRL legend for a dad, coming through the Sharks development system, before making a shock move to join the Warriors in 2025.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611083000 +0000" stop="20260611114500 +0000" channel="6401008">
+    <title lang="en">NRL: Rabbitohs v Broncos</title>
+    <desc lang="en">Live coverage of the NRL game between the Rabbitohs and the Broncos at Accor Stadium, Sydney. Kick-off at 9:50 pm.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611114500 +0000" stop="20260611124500 +0000" channel="6401008">
+    <title lang="en">Rugby League: The Late Show With Matty Johns</title>
+    <desc lang="en">THU 11 JUN - Matty is joined by Fletch &amp; Hindy to react to the round's opening clash. Plus they’ll preview remaining games &amp; provide plenty of laughs.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20260611000000 +0000" stop="20260611010000 +0000" channel="6401009">
+    <title lang="en">Sal's NBL: Week 9 Hls</title>
+    <desc lang="en">Highlights of the Week 9 of Sal's National Basketball League.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611010000 +0000" stop="20260611011500 +0000" channel="6401009">
+    <title lang="en">NRL: Cowboys v Dolphins Hls</title>
+    <desc lang="en">Highlights of the NRL game between Cowboys and Dolphins at Qld Country Bank Stadium, Townsville.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611011500 +0000" stop="20260611013000 +0000" channel="6401009">
+    <title lang="en">NRL: West Tigers v Panthers Hls</title>
+    <desc lang="en">Highlights of the NRL game between Wests Tigers and Panthers at CommBank Stadium, Sydney.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611013000 +0000" stop="20260611014500 +0000" channel="6401009">
+    <title lang="en">NRL: Sharks v Dragons Hls</title>
+    <desc lang="en">Highlights of the NRL game between Sharks and Dragons at Sharks Stadium, Sydney.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611014500 +0000" stop="20260611020000 +0000" channel="6401009">
+    <title lang="en">NRL: Bulldogs v Eels Hls</title>
+    <desc lang="en">Highlights of the NRL game between Bulldogs and Eels at Accor Stadium, Sydney.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611020000 +0000" stop="20260611030000 +0000" channel="6401009">
+    <title lang="en">Game of 2 Halves</title>
+    <desc lang="en">S2 EP7. Aotearoa’s favourite sports quiz, Game of 2 Halves, returns as Kiwi sporting legends and New Zealand’s funniest people enter a brutal battle arena of sporting trivia and comedic chaos. Guests: Hayley Sproull, Angus Ta'avao, Joe Daymond &amp; more!</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20260611030000 +0000" stop="20260611031500 +0000" channel="6401009">
+    <title lang="en">UEFA: Greece v Italy Hls</title>
+    <desc lang="en">Highlights of the UEFA European Friendlies match between Greece and Italy held at Olympic Stadium, Athens.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611031500 +0000" stop="20260611033000 +0000" channel="6401009">
+    <title lang="en">UEFA: Denmark v Ukraine Hls</title>
+    <desc lang="en">Highlights of the UEFA European Friendlies match between Denmark and Ukraine held at Parken Stadium, Copenhagen.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611033000 +0000" stop="20260611034500 +0000" channel="6401009">
+    <title lang="en">UEFA: Croatia v Slovenia Hls</title>
+    <desc lang="en">Highlights of the UEFA European Friendlies match between Croatia and Slovenia held at Stadion Maksimir, Zagreb.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611034500 +0000" stop="20260611040000 +0000" channel="6401009">
+    <title lang="en">UEFA: Switzerland v Australia Hls</title>
+    <desc lang="en">Highlights of the UEFA European Friendlies match between Switzerland and Australia held at Letzigrund Stadium, Zurich.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611040000 +0000" stop="20260611042000 +0000" channel="6401009">
+    <title lang="en">UEFA: England v Costa Rica Hls</title>
+    <desc lang="en">Highlights of the UEFA European Friendlies match between England and Costa Rica held at Wembley Stadium, London.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611042000 +0000" stop="20260611144500 +0000" channel="6401009">
+    <title lang="en">Bangladesh v Aus: 2nd ODI</title>
+    <desc lang="en">LIVE: coverage of the 2nd One Day International between Bangladesh and Australia at Sher-e-Bangla National Cricket Stadium, Mirpur, Dhaka.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611000000 +0000" stop="20260611003000 +0000" channel="6401010">
+    <title lang="en">ICF: Prague Hls</title>
+    <desc lang="en">Highlights from the ICF Canoe Slalom World Cup at the White Water Center, Prague.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611003000 +0000" stop="20260611010000 +0000" channel="6401010">
+    <title lang="en">League Lounge With Shaun Johnson</title>
+    <desc lang="en">MON 08 JUNE. Episode 15 - Sam Healey. The young gun is on the couch to share his story of growing up with an NRL legend for a dad, coming through the Sharks development system, before making a shock move to join the Warriors in 2025.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611010000 +0000" stop="20260611011500 +0000" channel="6401010">
+    <title lang="en">ICC T20WC: England v India  Hls</title>
+    <desc lang="en">Highlights of the ICC Women's T20 World Cup warm up match between England and India at Sophia Gardens, Cardiff.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611011500 +0000" stop="20260611014500 +0000" channel="6401010">
+    <title lang="en">Crowned - ICC Women's T20 CWC Final 2024</title>
+    <desc lang="en">Sophie Devine finally achieved her ultimate goal in cricket after 18 years as a White Fern as she led New Zealand to their first ever ICC Women’s T20 World Cup title in 2024. Relive one of cricket's most magical stories.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611014500 +0000" stop="20260611024500 +0000" channel="6401010">
+    <title lang="en">Chasing The Dream - ICC T20 WCWC 2026</title>
+    <desc lang="en">In January 2026, 10 nations headed to Nepal to fight for a place at the ICC Women’s T20 World Cup taking place in England in 2026. With hope and expectation, only 4 could qualify as our cameras followed some incredible stories that unfolded in Nepal.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611024500 +0000" stop="20260611050000 +0000" channel="6401010">
+    <title lang="en">2025 SRA: Blues v Matatu Final</title>
+    <desc lang="en">Coverage from the Super Rugby Aupiki Final between the Blues and Matatu at Eden Park, Auckland.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611050000 +0000" stop="20260611064000 +0000" channel="6401010">
+    <title lang="en">2007: Crusaders v Chiefs</title>
+    <desc lang="en">This weekend's semifinal sees a rematch of the 2025 final as the Crusaders go to Hamilton to face the Chiefs. We go back to 2007 for a classic match at Jade Stadium.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611064000 +0000" stop="20260611083000 +0000" channel="6401010">
+    <title lang="en">2015: Hurricanes v Blues</title>
+    <desc lang="en">As the Hurricanes host the Blues in the semifinal this weekend, we go back to a classic match between the two in Palmerston North in 2015.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611083000 +0000" stop="20260611090000 +0000" channel="6401010">
+    <title lang="en">ICF: Prague Hls</title>
+    <desc lang="en">Highlights from the ICF Canoe Slalom World Cup at the White Water Center, Prague.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611090000 +0000" stop="20260611091500 +0000" channel="6401010">
+    <title lang="en">AFL: Collingwood v Melbourne Hls</title>
+    <desc lang="en">Highlights of the AFL Round 13 as the Collingwood takes on Melbourne from MCG, Melbourne.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611091500 +0000" stop="20260611123000 +0000" channel="6401010">
+    <title lang="en">AFL: Western Bulldogs v Adelaide</title>
+    <desc lang="en">LIVE coverage of the AFL Round 14 as Western Bulldogs take on Adelaide Crows from Marvel Stadium, Melbourne.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611000000 +0000" stop="20260611020000 +0000" channel="6401011">
+    <title lang="en">NRL 2024 Sharks v Warriors</title>
+    <desc lang="en">Coverage of the 2024 NRL Premiership Round 26: Cronulla-Sutherland Sharks v New Zealand Warriors at PointsBet Stadium.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611020000 +0000" stop="20260611023000 +0000" channel="6401011">
+    <title lang="en">League Lounge With Shaun Johnson</title>
+    <desc lang="en">MON 08 JUNE. Episode 15 - Sam Healey. The young gun is on the couch to share his story of growing up with an NRL legend for a dad, coming through the Sharks development system, before making a shock move to join the Warriors in 2025.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611023000 +0000" stop="20260611033000 +0000" channel="6401011">
+    <title lang="en">NRL 360</title>
+    <desc lang="en">WED 10 JUN Braith Anasta &amp; Gorden Tallis set the agenda during 2026, with breaking news &amp; opinions. Plus journalists, players &amp; coaches with views on what’s topical.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611033000 +0000" stop="20260611040000 +0000" channel="6401011">
+    <title lang="en">NRL: The Fan</title>
+    <desc lang="en">WED 10 JUN - The Fan is a look at League through the historical and quirky lens of the game’s biggest fan, Andrew Voss. Built around the upcoming round, Vossy reflects on the game from the fan’s point of view and talks to the biggest lovers of the game.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611040000 +0000" stop="20260611043000 +0000" channel="6401011">
+    <title lang="en">ICC T20WC: India v White Ferns Hls</title>
+    <desc lang="en">Highlights of the ICC Women's T20 World Cup match between India and the White Ferns at Dubai International Cricket Stadium, Dubai.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611043000 +0000" stop="20260611050000 +0000" channel="6401011">
+    <title lang="en">ICC T20WC: White Ferns v Sri Lanka Hls</title>
+    <desc lang="en">Highlights of the ICC Women's T20 World Cup match between the White Ferns and Sri Lanka at Sharjah Cricket Stadium, Sharjah.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611050000 +0000" stop="20260611053000 +0000" channel="6401011">
+    <title lang="en">ICC T20WC: Pakistan v White Ferns Hls</title>
+    <desc lang="en">Highlights of the ICC Women's T20 World Cup match between Pakistan and the White Ferns at Dubai International Cricket Stadium, Dubai.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611053000 +0000" stop="20260611060000 +0000" channel="6401011">
+    <title lang="en">2024 T20WC: Windies v White Ferns SF Hls</title>
+    <desc lang="en">Highlights of the second semifinal of the ICC Women's T20 World Cup between the West Indies and White Ferns at Sharjah Cricket Stadium, Sharjah.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611060000 +0000" stop="20260611063000 +0000" channel="6401011">
+    <title lang="en">2024 T20WC: S Africa v White Ferns F Hls</title>
+    <desc lang="en">Highlights of the ICC Women's T20 World Cup Final between South Africa and New Zealand at Dubai International Cricket Stadium, Dubai.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611063000 +0000" stop="20260611080000 +0000" channel="6401011">
+    <title lang="en">India v Afghanistan: Test Wrap</title>
+    <desc lang="en">Wrap of the Test Match between India and Afghanistan from Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611080000 +0000" stop="20260611085500 +0000" channel="6401011">
+    <title lang="en">The Breakdown</title>
+    <desc lang="en">SUN 07 JUN - Fresh off the back of the weekend action, host Kirstie Stanway is joined by All Black legends Goldie and Mils to discuss and analyse all the hot topics.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611085500 +0000" stop="20260611092500 +0000" channel="6401011">
+    <title lang="en">The Crowd Goes Wild</title>
+    <desc lang="en">THU 11 JUN- Join the team for an alternative dose of sports news, delivering the best (and worst) sporting moments the only way they know how, with a little cheek!</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260611092500 +0000" stop="20260611101000 +0000" channel="6401011">
+    <title lang="en">Gallagher Premiership Round 18 Hls</title>
+    <desc lang="en">Highlights from Round 18 of the Gallagher Premiership.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611101000 +0000" stop="20260611110000 +0000" channel="6401011">
+    <title lang="en">Inside Line</title>
+    <desc lang="en">THU 11 JUN - Inside Line is a hard-hitting rugby show tackling breaking news and key debates. Featuring experts, former players, and top journalists, each episode dissects the latest developments in local and global rugby.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611110000 +0000" stop="20260611112500 +0000" channel="6401011">
+    <title lang="en">PGA Tour: The Cut</title>
+    <desc lang="en">Go behind the scenes of the PGA Tour with player profiles, event highlights, and exclusive stories. The Cut offers a fresh look at the sport, showcasing the passion, challenges, and triumphs of golf's top players. A must-watch for every golf fan!</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611112500 +0000" stop="20260611114000 +0000" channel="6401011">
+    <title lang="en">UEFA: Portugal v Nigeria Hls</title>
+    <desc lang="en">Highlights of the UEFA European Friendlies match between Portugal and Nigeria held at Estadio Jose Alvalade, Lisbon.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611114000 +0000" stop="20260611115500 +0000" channel="6401011">
+    <title lang="en">UEFA: England v Costa Rica Hls</title>
+    <desc lang="en">Highlights of the UEFA European Friendlies match between England and Costa Rica held at Wembley Stadium, London.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611115500 +0000" stop="20260611125500 +0000" channel="6401011">
+    <title lang="en">Game of 2 Halves</title>
+    <desc lang="en">S2 EP7. Aotearoa’s favourite sports quiz, Game of 2 Halves, returns as Kiwi sporting legends and New Zealand’s funniest people enter a brutal battle arena of sporting trivia and comedic chaos. Guests: Hayley Sproull, Angus Ta'avao, Joe Daymond &amp; more!</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20260611020000 +0000" stop="20260611031000 +0000" channel="6401012">
+    <title lang="en">FIA Formula 1: Monaco Pre Race</title>
+    <desc lang="en">Coverage of FIA Formula 1,  Monaco Grand Prix, Pre Race. From Circuit de Monaco, Monte Carlo, Monaco.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611031000 +0000" stop="20260611051000 +0000" channel="6401012">
+    <title lang="en">FIA Formula 1: Monaco Grand Prix</title>
+    <desc lang="en">Coverage of FIA Formula 1, Monaco Grand Prix. From Circuit de Monaco, Monte Carlo, Monaco.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611051000 +0000" stop="20260611060500 +0000" channel="6401012">
+    <title lang="en">FIA Formula 1: Chequered Flag</title>
+    <desc lang="en">Coverage of FIA Formula 1, Monaco Grand Prix, Chequered Flag. From Circuit de Monaco, Monte Carlo, Monaco.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611060500 +0000" stop="20260611063500 +0000" channel="6401012">
+    <title lang="en">Spirit of Sport Ep8</title>
+    <desc lang="en">Watch exclusive insight, commentary and interviews with global sports stars on their sports and career, and explore the places which define a sport.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611063500 +0000" stop="20260611070500 +0000" channel="6401012">
+    <title lang="en">Bangladesh v Australia: 1st ODI Hls</title>
+    <desc lang="en">Highlights of the 1st ODI between Bangladesh and Australia at Sher-e-Bangla National Cricket Stadium, Mirpur, Dhaka.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611070500 +0000" stop="20260611080500 +0000" channel="6401012">
+    <title lang="en">Isle Of Man TT: Senior TT Race HLs</title>
+    <desc lang="en">Highlights from the Isle of Man TT, Senior TT Race. From the iconic Snaefell Mountain course on the Isle of Man.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611080500 +0000" stop="20260611082000 +0000" channel="6401012">
+    <title lang="en">UEFA: Portugal v Nigeria Hls</title>
+    <desc lang="en">Highlights of the UEFA European Friendlies match between Portugal and Nigeria held at Estadio Jose Alvalade, Lisbon.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611082000 +0000" stop="20260611083500 +0000" channel="6401012">
+    <title lang="en">UEFA: England v Costa Rica Hls</title>
+    <desc lang="en">Highlights of the UEFA European Friendlies match between England and Costa Rica held at Wembley Stadium, London.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611083500 +0000" stop="20260611093000 +0000" channel="6401012">
+    <title lang="en">NZ Rally Championship:Rd2 Canterbury Hls</title>
+    <desc lang="en">Highlights from the New Zealand Rally Championship. Round 2, Canterbury Rally.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611093000 +0000" stop="20260611100000 +0000" channel="6401012">
+    <title lang="en">Spirit of Sport Ep8</title>
+    <desc lang="en">Watch exclusive insight, commentary and interviews with global sports stars on their sports and career, and explore the places which define a sport.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611100000 +0000" stop="20260611105000 +0000" channel="6401012">
+    <title lang="en">Suzuki Extreme 4x4 Challenge HLs</title>
+    <desc lang="en">Close up action and high revving V8 engines is the order of the day as drivers try to negotiate their 4x4 trucks around the 15 custom designed obstacle courses.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611105000 +0000" stop="20260611115000 +0000" channel="6401012">
+    <title lang="en">Isle Of Man TT: Senior TT Race HLs</title>
+    <desc lang="en">Highlights from the Isle of Man TT, Senior TT Race. From the iconic Snaefell Mountain course on the Isle of Man.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611115000 +0000" stop="20260611122000 +0000" channel="6401012">
+    <title lang="en">Champions of the Future Karting R1&amp;2 HLs</title>
+    <desc lang="en">Highlights from the Champions of the Future Karting Academy Program, Round 1 &amp; Round 2.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611000000 +0000" stop="20260611020000 +0000" channel="6401013">
+    <title lang="en">Women's US Open R4 L2H</title>
+    <desc lang="en">Coverage of the last two hours of Round 4 of the Women's US Open Championship at Riviera Country Club in Pacific Palisades, California.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611020000 +0000" stop="20260611023000 +0000" channel="6401013">
+    <title lang="en">PGA Tour: The Cut</title>
+    <desc lang="en">Go behind the scenes of the PGA Tour with player profiles, event highlights, and exclusive stories. The Cut offers a fresh look at the sport, showcasing the passion, challenges, and triumphs of golf's top players. A must-watch for every golf fan!</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611023000 +0000" stop="20260611044000 +0000" channel="6401013">
+    <title lang="en">Roland-Garros: W Singles Final</title>
+    <desc lang="en">Coverage of the 2026 Roland‑Garros Women’s Singles Final from the prestigious Court Philippe‑Chatrier at Stade Roland‑Garros in Paris, France. Qualifier Maja Chwalinska takes on Number 8 Mirra Andreeva.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611044000 +0000" stop="20260611093000 +0000" channel="6401013">
+    <title lang="en">Roland-Garros: M Singles Final</title>
+    <desc lang="en">Coverage of the 2026 Roland-Garros Men's Singles Final from the prestigious Court Philippe‑Chatrier at Stade Roland‑Garros in Paris, France. Number 10 seed Flavio Cobolli takes on Number 2 seed Alexander Zverev.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611093000 +0000" stop="20260611110000 +0000" channel="6401013">
+    <title lang="en">India v Afghanistan: Test Wrap</title>
+    <desc lang="en">Wrap of the Test Match between India and Afghanistan from Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611110000 +0000" stop="20260611130000 +0000" channel="6401013">
+    <title lang="en">DP World Tour: Round 4</title>
+    <desc lang="en">Coverage of Round 4 of the DP World Tour: KLM Open Championship held at The International, Amsterdam, Netherlands.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611020000 +0000" stop="20260611050000 +0000" channel="6401014">
+    <title lang="en">AFL: Essendon v Carlton</title>
+    <desc lang="en">Coverage of the AFL Round 13 as the Essendon takes on Carlton from MCG, Melbourne.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611050000 +0000" stop="20260611080000 +0000" channel="6401014">
+    <title lang="en">AFL: Collingwood v Melbourne</title>
+    <desc lang="en">Coverage of the AFL Round 13 as the Collingwood takes on Melbourne from MCG, Melbourne.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611080000 +0000" stop="20260611100000 +0000" channel="6401014">
+    <title lang="en">UEFA: England v Costa Rica</title>
+    <desc lang="en">Coverage of the UEFA European Friendlies match between England and Costa Rica held at Wembley Stadium, London.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611100000 +0000" stop="20260611120000 +0000" channel="6401014">
+    <title lang="en">UEFA: Portugal v Nigeria</title>
+    <desc lang="en">Coverage of the UEFA European Friendlies match between  Portugal and Nigeria held at Estadio Jose Alvalade, Lisbon.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611120000 +0000" stop="20260611140000 +0000" channel="6401014">
+    <title lang="en">UEFA: France v Northern Ireland</title>
+    <desc lang="en">Coverage of the UEFA European Friendlies match between France and Northern Ireland held at Stade de France, Saint-Denis.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611000000 +0000" stop="20260611003000 +0000" channel="6401015">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">EP24: HALL OF FAME EVENT NIGHT. We head to London to unveil the two newest inductee’s into the Premier League Hall of fame. Hosted by Kelly Cates, and with a who’s who of footballing royalty in attendance, we go behind the curtain to give you exc.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611003000 +0000" stop="20260611010000 +0000" channel="6401015">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">EP27: GARY NEVILLE: PREMIER LEAGUE HALL OF FAME. We sit down for an exclusive interview with the second of two new Premier League Hall of fame inductees, Gary Neville. From his journey from Class of ’92 prodigy to Premier League Hall of Fame icon.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611010000 +0000" stop="20260611020000 +0000" channel="6401015">
+    <title lang="en">REVIEW</title>
+    <desc lang="en">SUN 14 SEP. After the international break, Review is back with highlights from Matchweek 4, starting with Arsenal facing Nottingham Forest, Everton hosting Villa, and the Manchester derby as United take on City at the Etihad.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611020000 +0000" stop="20260611030000 +0000" channel="6401015">
+    <title lang="en">PL GOATS</title>
+    <desc lang="en">EP05: AFRICA'S FINEST WITH KOLO TOURE AND MIKEL JOHN OBI. Julia Stuart is joined by Ian Wright, Kolo Touré &amp; Mikel John Obi to discuss the influence of African football on the Premier League.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611030000 +0000" stop="20260611033000 +0000" channel="6401015">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">EP02: POCHETTINO’S SPURS. Ahead of the World Cup, we revisit the rise of current USA manager Mauricio Pochettino’s unforgettable Tottenham Hotspur side; the team that transformed Spurs from top-four hopefuls into genuine challengers at home and in Europe.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611033000 +0000" stop="20260611040000 +0000" channel="6401015">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">EP01: LEE BOWYER. We sit down with Lee Bowyer to look back on the career of one of the Premier League’s fiercest and most competitive midfielders. From his rise at Charlton to becoming a key figure in the brilliant Leeds United side that challenged Europe.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611040000 +0000" stop="20260611050000 +0000" channel="6401015">
+    <title lang="en">REVIEW OF THE SEASON</title>
+    <desc lang="en">2025/2026 (ARS). As we wave goodbye to another action-packed and compelling Premier League campaign, Review of the Season takes you through the twists and turns of a gripping last 10 months. From how the title was won, the fight for European spots, and th.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611050000 +0000" stop="20260611060000 +0000" channel="6401015">
+    <title lang="en">GOALS OF THE SEASON</title>
+    <desc lang="en">2025/2026. From free-kicks to solo runs, scissor kicks to 30-yard screamers, Goals of the Season revisits some of the most memorable strikes from the 25/26 campaign, whilst paying homage to the Golden Boot winner.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611060000 +0000" stop="20260611063000 +0000" channel="6401015">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">EP24: HALL OF FAME EVENT NIGHT. We head to London to unveil the two newest inductee’s into the Premier League Hall of fame. Hosted by Kelly Cates, and with a who’s who of footballing royalty in attendance, we go behind the curtain to give you exc.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611063000 +0000" stop="20260611070000 +0000" channel="6401015">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">EP27: GARY NEVILLE: PREMIER LEAGUE HALL OF FAME. We sit down for an exclusive interview with the second of two new Premier League Hall of fame inductees, Gary Neville. From his journey from Class of ’92 prodigy to Premier League Hall of Fame icon.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611070000 +0000" stop="20260611073000 +0000" channel="6401015">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">EP02: POCHETTINO’S SPURS. Ahead of the World Cup, we revisit the rise of current USA manager Mauricio Pochettino’s unforgettable Tottenham Hotspur side; the team that transformed Spurs from top-four hopefuls into genuine challengers at home and in Europe.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611073000 +0000" stop="20260611080000 +0000" channel="6401015">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">EP01: LEE BOWYER. We sit down with Lee Bowyer to look back on the career of one of the Premier League’s fiercest and most competitive midfielders. From his rise at Charlton to becoming a key figure in the brilliant Leeds United side that challenged Europe.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611080000 +0000" stop="20260611083000 +0000" channel="6401015">
+    <title lang="en">PL WORLD BEATERS</title>
+    <desc lang="en">EP04. A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer. Through wide-ranging interview, archive and a bespoke creative treatment, these films tell each pla.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611083000 +0000" stop="20260611090000 +0000" channel="6401015">
+    <title lang="en">PL WORLD BEATERS</title>
+    <desc lang="en">EP03. A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer. Through wide-ranging interview, archive and a bespoke creative treatment, these films tell each pla.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611090000 +0000" stop="20260611100000 +0000" channel="6401015">
+    <title lang="en">PL BEST OF...</title>
+    <desc lang="en">PREMIER LEAGUE FRENCH CONNECTION. A celebration of France’s greatest football icons, featuring Thierry Henry, David Ginola, Robert Pirès, Claude Makélélé, Emmanuel Petit and many more.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611100000 +0000" stop="20260611110000 +0000" channel="6401015">
+    <title lang="en">PL GOATS</title>
+    <desc lang="en">EP05: AFRICA'S FINEST WITH KOLO TOURE AND MIKEL JOHN OBI. Julia Stuart is joined by Ian Wright, Kolo Touré &amp; Mikel John Obi to discuss the influence of African football on the Premier League.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611110000 +0000" stop="20260611120000 +0000" channel="6401015">
+    <title lang="en">REVIEW</title>
+    <desc lang="en">SUN 14 SEP. After the international break, Review is back with highlights from Matchweek 4, starting with Arsenal facing Nottingham Forest, Everton hosting Villa, and the Manchester derby as United take on City at the Etihad.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611120000 +0000" stop="20260611123000 +0000" channel="6401015">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">EP02: POCHETTINO’S SPURS. Ahead of the World Cup, we revisit the rise of current USA manager Mauricio Pochettino’s unforgettable Tottenham Hotspur side; the team that transformed Spurs from top-four hopefuls into genuine challengers at home and in Europe.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611033500 +0000" stop="20260611061000 +0000" channel="6401016">
+    <title lang="en">AFL Hall of Fame</title>
+    <desc lang="en">The AFL Hall of Fame celebrates the legends of Australian football, honouring their achievements, unforgettable moments and lasting impact on the game through a night of recognition and tribute.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611061000 +0000" stop="20260611064000 +0000" channel="6401016">
+    <title lang="en">PGA Tour: The Cut</title>
+    <desc lang="en">Go behind the scenes of the PGA Tour with player profiles, event highlights, and exclusive stories. The Cut offers a fresh look at the sport, showcasing the passion, challenges, and triumphs of golf's top players. A must-watch for every golf fan!</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611064000 +0000" stop="20260611074000 +0000" channel="6401016">
+    <title lang="en">Game of 2 Halves</title>
+    <desc lang="en">S2 EP7. Aotearoa’s favourite sports quiz, Game of 2 Halves, returns as Kiwi sporting legends and New Zealand’s funniest people enter a brutal battle arena of sporting trivia and comedic chaos. Guests: Hayley Sproull, Angus Ta'avao, Joe Daymond &amp; more!</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20260611074000 +0000" stop="20260611084000 +0000" channel="6401016">
+    <title lang="en">Gallagher Premiership Round 18 Hls</title>
+    <desc lang="en">Highlights from Round 18 of the Gallagher Premiership.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611084000 +0000" stop="20260611094000 +0000" channel="6401016">
+    <title lang="en">Bordeaux SVNS Event Hls</title>
+    <desc lang="en">Event highlights from the Bordeaux SVNS World Championships at Stade Atlantique, Bordeaux.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611094000 +0000" stop="20260611114500 +0000" channel="6401016">
+    <title lang="en">MLR: Old Glory DC v Carolina</title>
+    <desc lang="en">Coverage from Round 11 of Major League Rugby 2026 between Old Glory DC and Anthem Carolina at George Mason Stadium, Fairfax.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611114500 +0000" stop="20260611134500 +0000" channel="6401016">
+    <title lang="en">MLR: New England v Chicago</title>
+    <desc lang="en">Coverage from Round 11 of Major League Rugby 2026 between the New England Free Jacks and Chicago Hounds at Veterans Memorial Stadium, Boston.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611000000 +0000" stop="20260611003000 +0000" channel="6401017">
+    <title lang="en">NBA Tip-Off</title>
+    <desc lang="en">Sports Broadcasting Hall of Famer Ernie Johnson hosts NBA Tip-Off with analysts Charles Barkley, Shaquille O'Neal and Kenny Smith.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611003000 +0000" stop="20260611034500 +0000" channel="6401017">
+    <title lang="en">NBA: Knicks v Spurs</title>
+    <desc lang="en">Knicks v Spurs: The best from the East and West go head-to-head for the chance to claim the Larry O'Brien Trophy. Who will rise and become this year's champion?</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611034500 +0000" stop="20260611040000 +0000" channel="6401017">
+    <title lang="en">Inside the NBA</title>
+    <desc lang="en">Sports Broadcasting Hall of Famer Ernie Johnson hosts Inside the NBA with analysts Charles Barkley, Shaquille O'Neal and Kenny Smith.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611040000 +0000" stop="20260611050000 +0000" channel="6401017">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">with Scott Van Pelt: The late-night edition of the iconic news and highlights show, hosted by Scott Van Pelt, featuring interviews with the biggest newsmakers in sports and signature segments such ...</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611050000 +0000" stop="20260611053000 +0000" channel="6401017">
+    <title lang="en">Nothing But Net at the NBA Finals</title>
+    <desc lang="en">Game 4: ESPN's resident basketball insider Kane Pitman previews the upcoming NBA and NBL action.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611053000 +0000" stop="20260611060000 +0000" channel="6401017">
+    <title lang="en">NBA Mini</title>
+    <desc lang="en">G4: Spurs vs Knicks. Catch up on today's NBA action with a condensed, highlight driven version of the game.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611060000 +0000" stop="20260611063000 +0000" channel="6401017">
+    <title lang="en">Nothing But Net at the NBA Finals</title>
+    <desc lang="en">Game 4: ESPN's resident basketball insider Kane Pitman previews the upcoming NBA and NBL action.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611063000 +0000" stop="20260611083000 +0000" channel="6401017">
+    <title lang="en">NBA</title>
+    <desc lang="en">Knicks v Spurs: The best from the East and West go head-to-head for the chance to claim the Larry O'Brien Trophy. Who will rise and become this year's champion?</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611083000 +0000" stop="20260611090000 +0000" channel="6401017">
+    <title lang="en">Nothing But Net at the NBA Finals</title>
+    <desc lang="en">Game 4: ESPN's resident basketball insider Kane Pitman previews the upcoming NBA and NBL action.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611090000 +0000" stop="20260611110000 +0000" channel="6401017">
+    <title lang="en">NBA</title>
+    <desc lang="en">Knicks v Spurs: The best from the East and West go head-to-head for the chance to claim the Larry O'Brien Trophy. Who will rise and become this year's champion?</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611110000 +0000" stop="20260611113000 +0000" channel="6401017">
+    <title lang="en">Nothing But Net at the NBA Finals</title>
+    <desc lang="en">Game 4: ESPN's resident basketball insider Kane Pitman previews the upcoming NBA and NBL action.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611113000 +0000" stop="20260611120000 +0000" channel="6401017">
+    <title lang="en">NBA Mini</title>
+    <desc lang="en">G4: Spurs vs Knicks. Catch up on today's NBA action with a condensed, highlight driven version of the game.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611120000 +0000" stop="20260611140000 +0000" channel="6401017">
+    <title lang="en">Get Up</title>
+    <desc lang="en">Host Mike Greenberg brings fans up to speed every morning and a rotating panel of guests deliver expert analysis on all the latest from the world of sports.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611000000 +0000" stop="20260611003000 +0000" channel="6401018">
+    <title lang="en">Pardon the Interruption</title>
+    <desc lang="en">Tony Kornheiser and Mike Wilbon run down the day's hot topics and key events in a fast-paced format delivered with their distinctive style.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611003000 +0000" stop="20260611010000 +0000" channel="6401018">
+    <title lang="en">MLB Epic Moments</title>
+    <desc lang="en">An Ace Arrives (2008 CC Sabathia Brewers Postseason).</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611010000 +0000" stop="20260611040500 +0000" channel="6401018">
+    <title lang="en">MLB: Athletics v Milwaukee Brewers</title>
+    <desc lang="en">Athletics v Milwaukee Brewers: Game action from Major League Baseball.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611040500 +0000" stop="20260611043000 +0000" channel="6401018">
+    <title lang="en">Prime 9</title>
+    <desc lang="en">All '90s Team.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611043000 +0000" stop="20260611053000 +0000" channel="6401018">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">Global soccer news, interviews, analysis and debates from the world's biggest teams and leagues.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611053000 +0000" stop="20260611083000 +0000" channel="6401018">
+    <title lang="en">College Athletics</title>
+    <desc lang="en">Men's Day 1: Top college athletes compete for school pride and championship glory.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611083000 +0000" stop="20260611090000 +0000" channel="6401018">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">Global soccer news, interviews, analysis and debates from the world's biggest teams and leagues.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611090000 +0000" stop="20260611110000 +0000" channel="6401018">
+    <title lang="en">Athletes Unlimited Softball</title>
+    <desc lang="en">Blaze v Cascade: The Athletes Unlimited Softball League is the premier professional women's softball league in the United States, featuring six teams competing for the AUSL Championship.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260611110000 +0000" stop="20260611130000 +0000" channel="6401018">
+    <title lang="en">MLB</title>
+    <desc lang="en">Athletics v Milwaukee Brewers: Game action from Major League Baseball.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+</tv>
