@@ -4227,7 +4227,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613140000 +0000" stop="20260613153000 +0000" channel="6401007">
+  <programme start="20260613140000 +0000" stop="20260613153500 +0000" channel="6401007">
     <title lang="en">UCI BMX Racing World Cup: Rd3</title>
     <desc lang="en">LIVE coverage of Round 3 of the 2026 UCI BMX Racing World Cup from Papendal in Arnhem, Netherlands, where the world’s best riders take on the iconic high-speed track in a crucial early-season battle for points.</desc>
     <category lang="en">Show</category>
@@ -4236,7 +4236,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613153000 +0000" stop="20260613183000 +0000" channel="6401007">
+  <programme start="20260613153500 +0000" stop="20260613183000 +0000" channel="6401007">
     <title lang="en">AFL: Port Adelaide v Sydney Swans</title>
     <desc lang="en">Coverage of the AFL Round 14 as Port Adelaide take on Sydney Swans from the Adelaide Oval, Adelaide.</desc>
     <category lang="en">Show</category>
@@ -5724,7 +5724,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613135500 +0000" stop="20260613160000 +0000" channel="6401008">
+  <programme start="20260613135500 +0000" stop="20260613160500 +0000" channel="6401008">
     <title lang="en">GP: Bath v Exeter Chiefs SF2</title>
     <desc lang="en">LIVE coverage from the second semifinal of the Gallagher Premiership between Bath and the Exeter Chiefs at The Rec, Bath.</desc>
     <category lang="en">Show</category>
@@ -5733,7 +5733,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613160000 +0000" stop="20260613163000 +0000" channel="6401008">
+  <programme start="20260613160500 +0000" stop="20260613163000 +0000" channel="6401008">
     <title lang="en">LPGA: Round 2 Hls</title>
     <desc lang="en">Highlights of Round 2 of Dow Championship from Midland Country Club in Midland, Michigan.</desc>
     <category lang="en">Show</category>
@@ -5760,7 +5760,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613170000 +0000" stop="20260613210000 +0000" channel="6401008">
+  <programme start="20260613170000 +0000" stop="20260613211500 +0000" channel="6401008">
     <title lang="en">ICC T20WC: Windies v White Ferns</title>
     <desc lang="en">LIVE coverage of the ICC Women's T20 World Cup match between the West Indies and White Ferns at the Rose Bowl, Southampton.</desc>
     <category lang="en">Show</category>
@@ -5769,9 +5769,9 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613210000 +0000" stop="20260613213000 +0000" channel="6401008">
+  <programme start="20260613211500 +0000" stop="20260613213000 +0000" channel="6401008">
     <title lang="en">ICC T20WC: Australia v S Africa Hls</title>
-    <desc lang="en">Extended highlights of the ICC Women's T20 World Cup match between Australia and South Africa at Old Trafford, Manchester.</desc>
+    <desc lang="en">Highlights of the ICC Women's T20 World Cup match between Australia and South Africa at Old Trafford, Manchester.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -8165,7 +8165,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613122000 +0000" stop="20260613142500 +0000" channel="6401010">
+  <programme start="20260613122000 +0000" stop="20260613150000 +0000" channel="6401010">
     <title lang="en">Tour Auvergne-Rhone-Alpes: S7</title>
     <desc lang="en">LIVE: Tour Auvergne Rhone Alpes Stage 7. Starting from La Bridoire and finishing in Grand Colombier, covering 133.6 km.</desc>
     <category lang="en">Show</category>
@@ -8174,18 +8174,9 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613142500 +0000" stop="20260613163000 +0000" channel="6401010">
+  <programme start="20260613150000 +0000" stop="20260613164500 +0000" channel="6401010">
     <title lang="en">SRA: Blues v Poua</title>
     <desc lang="en">Coverage from Round 1 of Super Rugby Aupiki between the Blues and Hurricanes Poua at Eden Park, Auckland.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260613163000 +0000" stop="20260613164500 +0000" channel="6401010">
-    <title lang="en">GP: Northampton v Leicester SF1 Hls</title>
-    <desc lang="en">Highlights from the first semifinal of the Gallagher Premiership between the Northampton Saints and Leicester Tigets at cinch Stadium @ Franklin's Gardens, Northampton.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -8237,7 +8228,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613210000 +0000" stop="20260614010000 +0000" channel="6401010">
+  <programme start="20260613210000 +0000" stop="20260614011000 +0000" channel="6401010">
     <title lang="en">ICC T20WC: Windies v White Ferns</title>
     <desc lang="en">Coverage of the ICC Women's T20 World Cup match between the West Indies and White Ferns at the Rose Bowl, Southampton.</desc>
     <category lang="en">Show</category>
@@ -8246,7 +8237,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260614010000 +0000" stop="20260614050000 +0000" channel="6401010">
+  <programme start="20260614011000 +0000" stop="20260614050000 +0000" channel="6401010">
     <title lang="en">ICC T20WC: Australia v S Africa</title>
     <desc lang="en">Coverage of the ICC Women's T20 World Cup match between Australia and South Africa at Old Trafford, Manchester.</desc>
     <category lang="en">Show</category>
@@ -9295,7 +9286,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613130000 +0000" stop="20260613164500 +0000" channel="6401011">
+  <programme start="20260613130000 +0000" stop="20260613170000 +0000" channel="6401011">
     <title lang="en">ICC T20WC: Australia v S Africa</title>
     <desc lang="en">LIVE coverage of the ICC Women's T20 World Cup match between Australia and South Africa at Old Trafford, Manchester.</desc>
     <category lang="en">Show</category>
@@ -9304,7 +9295,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613164500 +0000" stop="20260613174500 +0000" channel="6401011">
+  <programme start="20260613170000 +0000" stop="20260613180000 +0000" channel="6401011">
     <title lang="en">Roland-Garros: Review Show</title>
     <desc lang="en">A comprehensive review of Roland-Garros 2026, featuring match highlights, expert analysis, and key moments from the prestigious clay courts at the Stade Roland-Garros in Paris, France.</desc>
     <category lang="en">Show</category>
@@ -9313,16 +9304,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613174500 +0000" stop="20260613180000 +0000" channel="6401011">
-    <title lang="en">GP: Northampton v Leicester SF1 Hls</title>
-    <desc lang="en">Highlights from the first semifinal of the Gallagher Premiership between the Northampton Saints and Leicester Tigets at cinch Stadium @ Franklin's Gardens, Northampton.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260613180000 +0000" stop="20260613200000 +0000" channel="6401011">
+  <programme start="20260613180000 +0000" stop="20260613195500 +0000" channel="6401011">
     <title lang="en">FIA Formula 1: Barcelona P3</title>
     <desc lang="en">Coverage of FIA Formula 1, Barcelona Grand Prix, Practice 3. From Circuit de Barcelona-Catalunya, Montmelo, Spain.</desc>
     <category lang="en">Show</category>
@@ -9331,7 +9313,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613200000 +0000" stop="20260613225000 +0000" channel="6401011">
+  <programme start="20260613195500 +0000" stop="20260613224500 +0000" channel="6401011">
     <title lang="en">FIA Formula 1: Barcelona Qualifying</title>
     <desc lang="en">Coverage of FIA Formula 1, Barcelona Grand Prix, Qualifying. From Circuit de Barcelona-Catalunya, Montmelo, Spain.</desc>
     <category lang="en">Show</category>
@@ -9340,7 +9322,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613225000 +0000" stop="20260613232000 +0000" channel="6401011">
+  <programme start="20260613224500 +0000" stop="20260613232000 +0000" channel="6401011">
     <title lang="en">Ted's Notebook: Barcelona Qualifying</title>
     <desc lang="en">Ted Kravitz is back in the paddock as he reviews all the biggest stories from the qualifying session at the 2026 Barcelona Grand Prix.</desc>
     <category lang="en">Show</category>
@@ -10303,16 +10285,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613075000 +0000" stop="20260613160000 +0000" channel="6401012">
+  <programme start="20260613075000 +0000" stop="20260613172000 +0000" channel="6401012">
     <title lang="en">Weather Delay: India v Afg: 1st ODI</title>
-    <desc lang="en">Weather Delay coverage of the First ODI Match between India and Afghanistan from Himachal Pradesh Cricket Association Stadium, Dharamsala.</desc>
+    <desc lang="en">Coverage of the First ODI Match between India and Afghanistan from Himachal Pradesh Cricket Association Stadium, Dharamsala.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613160000 +0000" stop="20260613180000 +0000" channel="6401012">
+  <programme start="20260613172000 +0000" stop="20260613190500 +0000" channel="6401012">
     <title lang="en">NRL: Eels v Raiders</title>
     <desc lang="en">Coverage of the NRL game between the Eels and the Raiders at CommBank Stadium, Sydney.</desc>
     <category lang="en">Show</category>
@@ -10321,7 +10303,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613180000 +0000" stop="20260613200000 +0000" channel="6401012">
+  <programme start="20260613190500 +0000" stop="20260613210000 +0000" channel="6401012">
     <title lang="en">SRP: Hurricanes v Blues SF2</title>
     <desc lang="en">Coverage from the second semifinal of Super Rugby Pacific 2026 between the Hurricanes and Blues at Hnry Stadium, Wellington.</desc>
     <category lang="en">Show</category>
@@ -10329,27 +10311,6 @@
     <rating system="NZ">
       <value>G</value>
     </rating>
-  </programme>
-  <programme start="20260613200000 +0000" stop="20260613201500 +0000" channel="6401012">
-    <title lang="en">SRA: Matatu v Manawa Hls</title>
-    <desc lang="en">Highlights from Round 1 of Super Rugby Aupiki between the Matatu and Chiefs Manawa at One NZ Stadium, Christchurch.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260613201500 +0000" stop="20260613203000 +0000" channel="6401012">
-    <title lang="en">SRA: Blues v Poua Hls</title>
-    <desc lang="en">Highlights from Round 1 of Super Rugby Aupiki between the Blues and Hurricanes Poua at Eden Park, Auckland.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260613203000 +0000" stop="20260613210000 +0000" channel="6401012">
-    <title lang="en">Programme Information Unavailable</title>
   </programme>
   <programme start="20260613210000 +0000" stop="20260614000000 +0000" channel="6401012">
     <title lang="en">PGA Champions Tour: R2</title>
@@ -10360,27 +10321,9 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260614000000 +0000" stop="20260614031500 +0000" channel="6401012">
+  <programme start="20260614000000 +0000" stop="20260614034500 +0000" channel="6401012">
     <title lang="en">World Cup Of Darts: D3 Aft session</title>
     <desc lang="en">Coverage of World Cup of Darts Day 3 Afternoon session. The tournament sees 40 nations in action, each represented by two players. See the best players battle it out for the World Cup title at the Eissporthalle in Frankfurt, Germany.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260614031500 +0000" stop="20260614033000 +0000" channel="6401012">
-    <title lang="en">ICC T20WC: Windies v White Ferns Hls</title>
-    <desc lang="en">Highlights of the ICC Women's T20 World Cup match between the West Indies and White Ferns at the Rose Bowl, Southampton.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260614033000 +0000" stop="20260614034500 +0000" channel="6401012">
-    <title lang="en">SRA: Matatu v Manawa Hls</title>
-    <desc lang="en">Highlights from Round 1 of Super Rugby Aupiki between the Matatu and Chiefs Manawa at One NZ Stadium, Christchurch.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -11431,7 +11374,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613173000 +0000" stop="20260613203000 +0000" channel="6401013">
+  <programme start="20260613173000 +0000" stop="20260613204000 +0000" channel="6401013">
     <title lang="en">Golf: Curtis Cup Round 2 Afternoon</title>
     <desc lang="en">LIVE coverage of Round 2 of the Curtis Cup at Bel‑Air Country Club in Los Angeles, California.</desc>
     <category lang="en">Show</category>
@@ -11440,18 +11383,9 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613203000 +0000" stop="20260613223000 +0000" channel="6401013">
+  <programme start="20260613204000 +0000" stop="20260613224500 +0000" channel="6401013">
     <title lang="en">NRL: Warriors v Sharks</title>
     <desc lang="en">Coverage of the NRL game between the Warriors and the Sharks at Go Media Stadium, Auckland.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260613223000 +0000" stop="20260613224500 +0000" channel="6401013">
-    <title lang="en">ICC T20WC: Australia v S Africa Hls</title>
-    <desc lang="en">Highlights of the ICC Women's T20 World Cup match between Australia and South Africa at Old Trafford, Manchester.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -12363,7 +12297,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613170000 +0000" stop="20260613210000 +0000" channel="6401014">
+  <programme start="20260613170000 +0000" stop="20260613210500 +0000" channel="6401014">
     <title lang="en">World Cup Of Darts: D3 Eve session</title>
     <desc lang="en">LIVE coverage of World Cup of Darts Day 3 Evening session. The tournament sees 40 nations in action, each represented by two players. See the best players battle it out for the World Cup title at the Eissporthalle in Frankfurt, Germany.</desc>
     <category lang="en">Show</category>
@@ -12372,9 +12306,9 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613210000 +0000" stop="20260613211500 +0000" channel="6401014">
-    <title lang="en">AFL: North Melbourne v West Coast Eagles</title>
-    <desc lang="en">Coverage of the AFL Round 14s as North Melbourne take on West Coast Eagles from the Optus Stadium, Perth.</desc>
+  <programme start="20260613210500 +0000" stop="20260613211500 +0000" channel="6401014">
+    <title lang="en">AFL: North Melbourne v West Coast  Hls</title>
+    <desc lang="en">Highlights of the AFL Round 14 as North Melbourne take on West Coast Eagles from the Optus Stadium, Perth.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -15198,7 +15132,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613090000 +0000" stop="20260613111500 +0000" channel="6401016">
+  <programme start="20260613090000 +0000" stop="20260613113500 +0000" channel="6401016">
     <title lang="en">ICF: Augsburg Day 2 S1</title>
     <desc lang="en">LIVE coverage from the first session of Day 2 of the ICF Canoe Slalom World Cup at the Eiskanal, Augsburg.</desc>
     <category lang="en">Show</category>
@@ -15207,9 +15141,9 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260613111500 +0000" stop="20260613114500 +0000" channel="6401016">
-    <title lang="en">Bangladesh v Australia: 2nd ODI Hls</title>
-    <desc lang="en">Highlights of the 2nd ODI between Bangladesh and Australia at Sher-e-Bangla National Cricket Stadium, Mirpur, Dhaka.</desc>
+  <programme start="20260613113500 +0000" stop="20260613114500 +0000" channel="6401016">
+    <title lang="en">GP: Northampton v Leicester SF1 Hls</title>
+    <desc lang="en">Highlights from the first semifinal of the Gallagher Premiership between the Northampton Saints and Leicester Tigers at cinch Stadium Franklin's Gardens, Northampton.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">

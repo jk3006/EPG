@@ -26099,18 +26099,31 @@
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33141572~~2FEP063694520003,imi:844fc184425405d0ec17c9db0c9918e95726bbb9/posterTile?imageVersion=C9DORQ&amp;w=200"/>
     <episode-num system="onscreen">S2026 E60603</episode-num>
   </programme>
-  <programme start="20260613070000 +0000" stop="20260613073500 +0000" channel="4401123">
-    <title lang="en">NBA On Fire</title>
-    <desc lang="en">Step beyond the NBA's hardwood with a weekly behind-the-scenes deep dive into all the latest action, both and off the court.</desc>
-    <date>2026</date>
+  <programme start="20260613070000 +0000" stop="20260613071500 +0000" channel="4401123">
+    <title lang="en">Rugby Retro</title>
+    <sub-title lang="en">Dan Luger '00</sub-title>
+    <desc lang="en">Miles Harrison and James Gemmell are joined by former England winger Dan Luger to recall his injury-time try against the world champion Australians at Twickenham in 2000.</desc>
+    <date>2020</date>
     <category lang="en">Sports Show</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33152913~~2FEP045022000133,imi:f23a332840143d87e509f2c328aba4afc0c2e974/posterTile?imageVersion=9MyFiA&amp;w=200"/>
+    <category lang="en">Rugby</category>
+    <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F18271436~~2FEP035051680002,imi:6f4fbdf5b1486217b2178796a2d63b30f267497e/posterTile?imageVersion=eFbGrw&amp;w=200"/>
+    <episode-num system="onscreen">S2020 E51102</episode-num>
   </programme>
-  <programme start="20260613073500 +0000" stop="20260613093500 +0000" channel="4401123">
+  <programme start="20260613071500 +0000" stop="20260613072800 +0000" channel="4401123">
+    <title lang="en">Best of Rugby</title>
+    <sub-title lang="en">2000: Australia v New Zealand</sub-title>
+    <desc lang="en">Old rivals Australia and New Zealand met in 2000 in what has gone down as one of the greatest matches ever played.</desc>
+    <date>2018</date>
+    <category lang="en">Rugby Union</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F15192642~~2FEP029060460001,imi:301570ef844850ed8a4b2670a2f6e3b33ec37a6a/posterTile?imageVersion=VtpR9Q&amp;w=200"/>
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2018 E30501</episode-num>
+  </programme>
+  <programme start="20260613072800 +0000" stop="20260613093500 +0000" channel="4401123">
     <title lang="en">Live: NRL</title>
     <sub-title lang="en">New Zealand Warriors v Cronulla-Sutherland Sharks</sub-title>
-    <desc lang="en">During round 15 of the 2026 NRL season, the NZ Warriors take on Cronulla Sharks.</desc>
+    <desc lang="en">During round 15 of the 2026 NRL season, a heavyweight clash sees the NZ Warriors take on Cronulla Sharks. The Warriors are looking to respond after their 12th-round loss to Penrith.</desc>
     <date>2026</date>
     <category lang="en">Sports Show</category>
     <category lang="en">Rugby League</category>
