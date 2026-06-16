@@ -36,200 +36,6 @@
     <icon src="https://myeth-epg.github.io/icons/mo97.png"/>
     <url>http://www.tdm.com.mo</url>
   </channel>
-  <programme start="20260616000100 +0800" stop="20260616002700 +0800" channel="8601091">
-    <title lang="zh">灣區全媒睇</title>
-  </programme>
-  <programme start="20260616002700 +0800" stop="20260616004900 +0800" channel="8601091">
-    <title lang="zh">家家有本事</title>
-    <desc lang="zh">《家家有本事》為一個綜合性生活資訊的家庭類節目，邀請相關人士就相關主題提供專業知識，包括日常生活、健康資訊等元素。. 【澳視澳門91台】\r\n逢星期二 21:30 (首播)\r\n\r\n其他重播時段\r\n逢星期三 00:30、05:00、09:30\r\n逢星期日 04:30、07:00\r\n逢星期一 05:30\r\n\r\n【澳門-Macau 96台】\r\n逢星期日 10:00、14:00、21:00\r\n逢星期一 02:50、08:50、21:00.</desc>
-    <credits>
-      <presenter>梁詠欣</presenter>
-      <presenter>區倩欣</presenter>
-      <presenter>馮露沙</presenter>
-    </credits>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/183f9ff4ebfb5a560c7162d96ff7fda0.jpg"/>
-  </programme>
-  <programme start="20260616004900 +0800" stop="20260616011900 +0800" channel="8601091">
-    <title lang="zh">重播風火台</title>
-  </programme>
-  <programme start="20260616011900 +0800" stop="20260616012700 +0800" channel="8601091">
-    <title lang="zh">“你問我答”粵澳法律直播間</title>
-  </programme>
-  <programme start="20260616012700 +0800" stop="20260616030000 +0800" channel="8601091">
-    <title lang="zh">承歡記</title>
-    <desc lang="zh">承歡記》改編自亦舒同名小說，由楊紫、許凱主演。故事講述出身於上海普通人家的95後女孩麥承歡，在母親劉婉玉的催促下，與男友辛家亮議婚。但辛家的經濟條件讓這段原本平等的感情關係變得失衡，同時，麥母對女兒終身大事的過度插手，加速了麥承歡和辛家亮的分手。在孝順父母和忠於自我之間，麥承歡艱難求索，她逐步從母親強勢的關愛中掙脫，在工作上更專心進取。麥承歡的蛻變得到了繼祖母的認可，把自己最看重的酒店經營重任託付給她。繼祖母的親孫、職業酒店經理人姚志明在與麥承歡的合作中逐漸對她理解並認同，倆人成為工作夥伴，攜手並進。而在生活中，姚志明被麥家煙火氣之下的真情包圍，與麥承歡的感情逐漸升溫。從“承歡膝下”到“成就自我”，麥承歡走出了一條獨屬於自己的不平凡的成長之路。. 逢星期一至五上午11:10、晚上8:00及翌日凌晨1:27(連播2集).</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/5d8a8d1e8483c4a39e2f87671c35644e.jpg"/>
-  </programme>
-  <programme start="20260616030000 +0800" stop="20260616032500 +0800" channel="8601091">
-    <title lang="zh">錄播普通話新聞</title>
-    <desc lang="zh">每日22:00《澳視澳門》《澳門資訊》《澳門-Macau》衛星頻道.</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/ff6cb332e565b5c8c671b87889fd294d.jpg"/>
-  </programme>
-  <programme start="20260616032500 +0800" stop="20260616040000 +0800" channel="8601091">
-    <title lang="zh">錄播晚間新聞</title>
-  </programme>
-  <programme start="20260616040000 +0800" stop="20260616042500 +0800" channel="8601091">
-    <title lang="zh">家家有本事</title>
-    <desc lang="zh">《家家有本事》為一個綜合性生活資訊的家庭類節目，邀請相關人士就相關主題提供專業知識，包括日常生活、健康資訊等元素。. 【澳視澳門91台】\r\n逢星期二 21:30 (首播)\r\n\r\n其他重播時段\r\n逢星期三 00:30、05:00、09:30\r\n逢星期日 04:30、07:00\r\n逢星期一 05:30\r\n\r\n【澳門-Macau 96台】\r\n逢星期日 10:00、14:00、21:00\r\n逢星期一 02:50、08:50、21:00.</desc>
-    <credits>
-      <presenter>梁詠欣</presenter>
-      <presenter>區倩欣</presenter>
-      <presenter>馮露沙</presenter>
-    </credits>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/183f9ff4ebfb5a560c7162d96ff7fda0.jpg"/>
-  </programme>
-  <programme start="20260616042500 +0800" stop="20260616044700 +0800" channel="8601091">
-    <title lang="zh">澳門早晨精華錄</title>
-  </programme>
-  <programme start="20260616044700 +0800" stop="20260616051700 +0800" channel="8601091">
-    <title lang="zh">重播風火台</title>
-  </programme>
-  <programme start="20260616051700 +0800" stop="20260616052500 +0800" channel="8601091">
-    <title lang="zh">“你問我答”粵澳法律直播間</title>
-  </programme>
-  <programme start="20260616052500 +0800" stop="20260616070000 +0800" channel="8601091">
-    <title lang="zh">賴貓的獅子倒影</title>
-    <desc lang="zh">《賴貓的獅子倒影》是由朱亞文、楊子姍、賀軍翔、李媛主演的都市情感劇 。該劇根據傲無常的小說《老婆愛上我》改編，講述了女總裁慕晚晴與“無業遊民”劉青這對歡喜冤家先婚後愛的故事。 一個是身家過億的女總裁，一個是身無分文的無業遊民，慕晚晴和劉青的第一次見面就在兩個人的婚禮現場。從毫無感情、互相敵對，到彼此扶持、互生情愫，劉青一邊暗中幫助慕晚晴解決公司遇到的重重危機，一邊機智對抗著橫空出現的慕晚晴前任男友馮聰。就在兩人的感情經歷重重考驗之際，一股背後的黑暗勢力也漸漸浮出水面。為了完成老一輩的遺願，慕晚晴和劉青踏上了去泰國的行程，與黑暗勢力正面交鋒並取得了勝利，二人也認定對方是自己的唯一所愛。兩人回國過上幸福圓滿的生活。. 逢星期二至六凌晨5:25(連播2集).</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-07/74976f58d83a9968ccc06c65841fa90a.jpg"/>
-  </programme>
-  <programme start="20260616070000 +0800" stop="20260616080000 +0800" channel="8601091">
-    <title lang="zh">早晨新聞</title>
-  </programme>
-  <programme start="20260616080000 +0800" stop="20260616090000 +0800" channel="8601091">
-    <title lang="zh">澳門早晨</title>
-  </programme>
-  <programme start="20260616090000 +0800" stop="20260616090200 +0800" channel="8601091">
-    <title lang="zh">TDM 新視點</title>
-  </programme>
-  <programme start="20260616090200 +0800" stop="20260616092500 +0800" channel="8601091">
-    <title lang="zh">家家有本事</title>
-    <desc lang="zh">《家家有本事》為一個綜合性生活資訊的家庭類節目，邀請相關人士就相關主題提供專業知識，包括日常生活、健康資訊等元素。. 【澳視澳門91台】\r\n逢星期二 21:30 (首播)\r\n\r\n其他重播時段\r\n逢星期三 00:30、05:00、09:30\r\n逢星期日 04:30、07:00\r\n逢星期一 05:30\r\n\r\n【澳門-Macau 96台】\r\n逢星期日 10:00、14:00、21:00\r\n逢星期一 02:50、08:50、21:00.</desc>
-    <credits>
-      <presenter>梁詠欣</presenter>
-      <presenter>區倩欣</presenter>
-      <presenter>馮露沙</presenter>
-    </credits>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/183f9ff4ebfb5a560c7162d96ff7fda0.jpg"/>
-  </programme>
-  <programme start="20260616092500 +0800" stop="20260616093000 +0800" channel="8601091">
-    <title lang="zh">趣談唐詩</title>
-    <desc lang="zh">俗語說：「熟讀唐詩三百首，不會吟時也會偷。」 無論是求學時期，或者在日常生活裡，我們都會接觸到唐詩。有見及此，本台製作了一個名為《趣談唐詩》的節目，以有趣和深入淺出的手法，結合現代人的生活趣聞，帶大家去瞭解每一首唐詩背後的歷史淵源和故事。. 《澳視澳門》：逢星期一、三、五 09:25, 13:20, 16:55, 01:55播出.</desc>
-    <credits>
-      <presenter>梁詠欣</presenter>
-      <presenter>布廷欣</presenter>
-      <presenter>陳美渟</presenter>
-    </credits>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/9e4ef83257c4648dae6153cc3cb8459c.jpg"/>
-  </programme>
-  <programme start="20260616093000 +0800" stop="20260616100000 +0800" channel="8601091">
-    <title lang="zh">千年陝菜第1季</title>
-  </programme>
-  <programme start="20260616100000 +0800" stop="20260616103000 +0800" channel="8601091">
-    <title lang="zh">新聞報道</title>
-  </programme>
-  <programme start="20260616103000 +0800" stop="20260616110000 +0800" channel="8601091">
-    <title lang="zh">重播風火台</title>
-  </programme>
-  <programme start="20260616110000 +0800" stop="20260616111000 +0800" channel="8601091">
-    <title lang="zh">“你問我答”粵澳法律直播間</title>
-  </programme>
-  <programme start="20260616111000 +0800" stop="20260616124500 +0800" channel="8601091">
-    <title lang="zh">承歡記</title>
-    <desc lang="zh">承歡記》改編自亦舒同名小說，由楊紫、許凱主演。故事講述出身於上海普通人家的95後女孩麥承歡，在母親劉婉玉的催促下，與男友辛家亮議婚。但辛家的經濟條件讓這段原本平等的感情關係變得失衡，同時，麥母對女兒終身大事的過度插手，加速了麥承歡和辛家亮的分手。在孝順父母和忠於自我之間，麥承歡艱難求索，她逐步從母親強勢的關愛中掙脫，在工作上更專心進取。麥承歡的蛻變得到了繼祖母的認可，把自己最看重的酒店經營重任託付給她。繼祖母的親孫、職業酒店經理人姚志明在與麥承歡的合作中逐漸對她理解並認同，倆人成為工作夥伴，攜手並進。而在生活中，姚志明被麥家煙火氣之下的真情包圍，與麥承歡的感情逐漸升溫。從“承歡膝下”到“成就自我”，麥承歡走出了一條獨屬於自己的不平凡的成長之路。. 逢星期一至五上午11:10、晚上8:00及翌日凌晨1:27(連播2集).</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/5d8a8d1e8483c4a39e2f87671c35644e.jpg"/>
-  </programme>
-  <programme start="20260616124500 +0800" stop="20260616130000 +0800" channel="8601091">
-    <title lang="zh">江河與共</title>
-    <desc lang="zh">《江河與共》以小切口反映大主題，記錄習近平生態文明思想在長江大保護方面豐碩成果，彰顯中國新型政黨制度的獨特優勢與強大效能。創作團隊歷時一年半深耕細作，組建多支攝製組，足跡遍佈長江沿岸9個省份、40多個縣市區，用鏡頭真實捕捉各民主黨派、無黨派人士深入一線開展調研、精準實施靶向監督、積極建言資政、推動問題整改的履職全過程。《江河與共》以監督者、參與者、見證者的多維視角，對5年實踐進行高度提煉與系統梳理，深入挖掘了約50個鮮活的人物故事，讓觀眾讀懂一江碧水背後凝聚的多方守護合力。本節目由贈播。. 6月1日起，逢星期一晚上9:00(連播兩集)澳門綜藝/6月2日起，逢星期二及三中午12:45澳視澳門/6月6日起，逢星期六凌晨5:20、下午2:30、黃昏6:10、晚上9:30 (連播兩集) 澳門-Macau衛星頻道.</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/435be88638a39e8821e58bfbb795d95e.jpg"/>
-  </programme>
-  <programme start="20260616130000 +0800" stop="20260616131000 +0800" channel="8601091">
-    <title lang="zh">洋腔隊</title>
-  </programme>
-  <programme start="20260616131000 +0800" stop="20260616131200 +0800" channel="8601091">
-    <title lang="zh">TDM 新視點</title>
-  </programme>
-  <programme start="20260616131200 +0800" stop="20260616131700 +0800" channel="8601091">
-    <title lang="zh">趣談唐詩</title>
-    <desc lang="zh">俗語說：「熟讀唐詩三百首，不會吟時也會偷。」 無論是求學時期，或者在日常生活裡，我們都會接觸到唐詩。有見及此，本台製作了一個名為《趣談唐詩》的節目，以有趣和深入淺出的手法，結合現代人的生活趣聞，帶大家去瞭解每一首唐詩背後的歷史淵源和故事。. 《澳視澳門》：逢星期一、三、五 09:25, 13:20, 16:55, 01:55播出.</desc>
-    <credits>
-      <presenter>梁詠欣</presenter>
-      <presenter>布廷欣</presenter>
-      <presenter>陳美渟</presenter>
-    </credits>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/9e4ef83257c4648dae6153cc3cb8459c.jpg"/>
-  </programme>
-  <programme start="20260616131700 +0800" stop="20260616132400 +0800" channel="8601091">
-    <title lang="zh">宇宙更強</title>
-  </programme>
-  <programme start="20260616132400 +0800" stop="20260616133000 +0800" channel="8601091">
-    <title lang="zh">午間天氣報告</title>
-  </programme>
-  <programme start="20260616133000 +0800" stop="20260616140000 +0800" channel="8601091">
-    <title lang="zh">午間新聞</title>
-  </programme>
-  <programme start="20260616140000 +0800" stop="20260616145800 +0800" channel="8601091">
-    <title lang="zh">每日財經</title>
-  </programme>
-  <programme start="20260616145800 +0800" stop="20260616175800 +0800" channel="8601091">
-    <title lang="zh">直播行政長官立法會答問大會</title>
-  </programme>
-  <programme start="20260616175800 +0800" stop="20260616183800 +0800" channel="8601091">
-    <title lang="zh">重播動感教菁</title>
-  </programme>
-  <programme start="20260616183800 +0800" stop="20260616184300 +0800" channel="8601091">
-    <title lang="zh">趣談唐詩</title>
-    <desc lang="zh">俗語說：「熟讀唐詩三百首，不會吟時也會偷。」 無論是求學時期，或者在日常生活裡，我們都會接觸到唐詩。有見及此，本台製作了一個名為《趣談唐詩》的節目，以有趣和深入淺出的手法，結合現代人的生活趣聞，帶大家去瞭解每一首唐詩背後的歷史淵源和故事。. 《澳視澳門》：逢星期一、三、五 09:25, 13:20, 16:55, 01:55播出.</desc>
-    <credits>
-      <presenter>梁詠欣</presenter>
-      <presenter>布廷欣</presenter>
-      <presenter>陳美渟</presenter>
-    </credits>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/9e4ef83257c4648dae6153cc3cb8459c.jpg"/>
-  </programme>
-  <programme start="20260616184300 +0800" stop="20260616185000 +0800" channel="8601091">
-    <title lang="zh">宇宙更強</title>
-  </programme>
-  <programme start="20260616185000 +0800" stop="20260616190000 +0800" channel="8601091">
-    <title lang="zh">新聞提要</title>
-  </programme>
-  <programme start="20260616190000 +0800" stop="20260616195500 +0800" channel="8601091">
-    <title lang="zh">澳視新聞</title>
-    <desc lang="zh">《澳視澳門》《澳門資訊》《澳門-Macau》衛星頻道：每日19:00.</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg"/>
-  </programme>
-  <programme start="20260616195500 +0800" stop="20260616200000 +0800" channel="8601091">
-    <title lang="zh">天氣報告</title>
-  </programme>
-  <programme start="20260616200000 +0800" stop="20260616213300 +0800" channel="8601091">
-    <title lang="zh">承歡記</title>
-    <desc lang="zh">承歡記》改編自亦舒同名小說，由楊紫、許凱主演。故事講述出身於上海普通人家的95後女孩麥承歡，在母親劉婉玉的催促下，與男友辛家亮議婚。但辛家的經濟條件讓這段原本平等的感情關係變得失衡，同時，麥母對女兒終身大事的過度插手，加速了麥承歡和辛家亮的分手。在孝順父母和忠於自我之間，麥承歡艱難求索，她逐步從母親強勢的關愛中掙脫，在工作上更專心進取。麥承歡的蛻變得到了繼祖母的認可，把自己最看重的酒店經營重任託付給她。繼祖母的親孫、職業酒店經理人姚志明在與麥承歡的合作中逐漸對她理解並認同，倆人成為工作夥伴，攜手並進。而在生活中，姚志明被麥家煙火氣之下的真情包圍，與麥承歡的感情逐漸升溫。從“承歡膝下”到“成就自我”，麥承歡走出了一條獨屬於自己的不平凡的成長之路。. 逢星期一至五上午11:10、晚上8:00及翌日凌晨1:27(連播2集).</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/5d8a8d1e8483c4a39e2f87671c35644e.jpg"/>
-  </programme>
-  <programme start="20260616213300 +0800" stop="20260616220000 +0800" channel="8601091">
-    <title lang="zh">澳門人澳門事</title>
-    <desc lang="zh">活在澳門, 感受生活,,探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。. 逢星期二、四，晚上 21:33《澳視澳門》(91台).</desc>
-    <credits>
-      <presenter>區倩欣</presenter>
-      <presenter>陳璟威</presenter>
-      <presenter>馮露沙</presenter>
-    </credits>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/ea61fc8af7964a7bafb909326638dfcd.jpg"/>
-  </programme>
-  <programme start="20260616220000 +0800" stop="20260616223000 +0800" channel="8601091">
-    <title lang="zh">普通話新聞</title>
-    <desc lang="zh">每日22:00《澳視澳門》《澳門資訊》《澳門-Macau》衛星頻道.</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/ff6cb332e565b5c8c671b87889fd294d.jpg"/>
-  </programme>
-  <programme start="20260616223000 +0800" stop="20260616231500 +0800" channel="8601091">
-    <title lang="zh">十點半澳視縱橫︰競健群英 2026</title>
-  </programme>
-  <programme start="20260616231500 +0800" stop="20260616235000 +0800" channel="8601091">
-    <title lang="zh">晚間新聞</title>
-  </programme>
-  <programme start="20260616235000 +0800" stop="20260617000100 +0800" channel="8601091">
-    <title lang="zh">體育新聞</title>
-  </programme>
   <programme start="20260617000100 +0800" stop="20260617002700 +0800" channel="8601091">
     <title lang="zh">灣區全媒睇</title>
   </programme>
@@ -1265,53 +1071,220 @@
   <programme start="20260622044700 +0800" stop="20260622052500 +0800" channel="8601091">
     <title lang="zh">重播中國城市動態</title>
   </programme>
-  <programme start="20260616110000 +0800" stop="20260616120500 +0800" channel="8601092">
-    <title lang="zh">Conferência de Imprensa do Conselho Executivo (Directo)</title>
+  <programme start="20260622052500 +0800" stop="20260622070000 +0800" channel="8601091">
+    <title lang="zh">你的世界我們懂</title>
+    <desc lang="zh">該劇在2023新加坡紅星大獎榮獲六項大獎。包括最佳戲劇、最佳男主角 - 許瑞奇、最吸睛男角色 - 鄭天才(許瑞奇)、最佳女主角 - 黃碧仁、最佳女配角 - 向雲、最佳主題曲- 你的世界（林健輝）。故事發生在一家五口的鄭家，鄭堅強、李家雲兩人有三個孩子，大姐天希、二哥天偉、還有小弟天才。小兒子天才確診是智障兒後，母親近乎崩潰，這個家感覺天就要塌下來，所幸樂觀豁達的父親努力下，一家人維持幸福。不過一家看似和諧，其實家人關係如履薄冰，尤其這家人的一些秘密被掀開之時，整個家變成四分五裂……. 逢星期六,日中午12:00及翌日凌晨5:25(連播2集).</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2024-05/5f56eb58434a74f6a6f1e80a7ff75594.jpg"/>
   </programme>
-  <programme start="20260616120500 +0800" stop="20260616132000 +0800" channel="8601092">
-    <title lang="zh">RTPi Directo</title>
+  <programme start="20260622070000 +0800" stop="20260622080000 +0800" channel="8601091">
+    <title lang="zh">早晨新聞</title>
   </programme>
-  <programme start="20260616132000 +0800" stop="20260616133000 +0800" channel="8601092">
-    <title lang="zh">The Art of Tasting Portugal</title>
+  <programme start="20260622080000 +0800" stop="20260622090000 +0800" channel="8601091">
+    <title lang="zh">澳門早晨</title>
   </programme>
-  <programme start="20260616133000 +0800" stop="20260616143000 +0800" channel="8601092">
-    <title lang="zh">Telejornal RTPi (Diferido)</title>
+  <programme start="20260622090000 +0800" stop="20260622090200 +0800" channel="8601091">
+    <title lang="zh">TDM 新視點</title>
   </programme>
-  <programme start="20260616143000 +0800" stop="20260616145800 +0800" channel="8601092">
-    <title lang="zh">Superstore T3</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/bc6c750a4e81fa69f6cfc06dd31f5415.jpg"/>
+  <programme start="20260622090200 +0800" stop="20260622092500 +0800" channel="8601091">
+    <title lang="zh">趨記茶餐廳</title>
+    <desc lang="zh">一部以澳門茶餐廳為背景的輕鬆幽默連續劇，故事圍繞茶餐廳的日常營運展開，當中穿插生活熱話，搞笑得來又有共鳴，歡迎大家光臨！. 逢星期五 21:33.</desc>
+    <credits>
+      <presenter>莫敬鋒</presenter>
+      <presenter>區倩欣</presenter>
+      <presenter>李立勝</presenter>
+      <presenter>黃嘉燕</presenter>
+      <presenter>陳璟威</presenter>
+    </credits>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/e0526e37ee2455f7bd5b54c5f9b81bb0.jpg"/>
   </programme>
-  <programme start="20260616145800 +0800" stop="20260616191500 +0800" channel="8601092">
-    <title lang="zh">Chefe do Executivo na Assembleia Legislativa (Directo)</title>
+  <programme start="20260622092500 +0800" stop="20260622093000 +0800" channel="8601091">
+    <title lang="zh">趣談唐詩</title>
+    <desc lang="zh">俗語說：「熟讀唐詩三百首，不會吟時也會偷。」 無論是求學時期，或者在日常生活裡，我們都會接觸到唐詩。有見及此，本台製作了一個名為《趣談唐詩》的節目，以有趣和深入淺出的手法，結合現代人的生活趣聞，帶大家去瞭解每一首唐詩背後的歷史淵源和故事。. 《澳視澳門》：逢星期一、三、五 09:25, 13:20, 16:55, 01:55播出.</desc>
+    <credits>
+      <presenter>梁詠欣</presenter>
+      <presenter>布廷欣</presenter>
+      <presenter>陳美渟</presenter>
+    </credits>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/9e4ef83257c4648dae6153cc3cb8459c.jpg"/>
   </programme>
-  <programme start="20260616191500 +0800" stop="20260616200000 +0800" channel="8601092">
-    <title lang="zh">Cacau</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-07/7392a5e853609229615ba80a58d88cab.jpg"/>
+  <programme start="20260622093000 +0800" stop="20260622100000 +0800" channel="8601091">
+    <title lang="zh">廚房裡的桃花源</title>
   </programme>
-  <programme start="20260616200000 +0800" stop="20260616204500 +0800" channel="8601092">
-    <title lang="zh">Telejornal</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/41ef4898f62a137c1f4f67d3f17db135.jpg"/>
+  <programme start="20260622100000 +0800" stop="20260622103000 +0800" channel="8601091">
+    <title lang="zh">新聞報道</title>
   </programme>
-  <programme start="20260616204500 +0800" stop="20260616212500 +0800" channel="8601092">
-    <title lang="zh">TDM Desporto</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2023-01/e83bcdaefadf07958e11dc6f6df32c90.jpg"/>
+  <programme start="20260622103000 +0800" stop="20260622111000 +0800" channel="8601091">
+    <title lang="zh">重播中國城市動態</title>
   </programme>
-  <programme start="20260616212500 +0800" stop="20260616214000 +0800" channel="8601092">
-    <title lang="zh">Faróis de Portugal T1 - Fim</title>
+  <programme start="20260622111000 +0800" stop="20260622124500 +0800" channel="8601091">
+    <title lang="zh">承歡記</title>
+    <desc lang="zh">承歡記》改編自亦舒同名小說，由楊紫、許凱主演。故事講述出身於上海普通人家的95後女孩麥承歡，在母親劉婉玉的催促下，與男友辛家亮議婚。但辛家的經濟條件讓這段原本平等的感情關係變得失衡，同時，麥母對女兒終身大事的過度插手，加速了麥承歡和辛家亮的分手。在孝順父母和忠於自我之間，麥承歡艱難求索，她逐步從母親強勢的關愛中掙脫，在工作上更專心進取。麥承歡的蛻變得到了繼祖母的認可，把自己最看重的酒店經營重任託付給她。繼祖母的親孫、職業酒店經理人姚志明在與麥承歡的合作中逐漸對她理解並認同，倆人成為工作夥伴，攜手並進。而在生活中，姚志明被麥家煙火氣之下的真情包圍，與麥承歡的感情逐漸升溫。從“承歡膝下”到“成就自我”，麥承歡走出了一條獨屬於自己的不平凡的成長之路。. 逢星期一至五上午11:10、晚上8:00及翌日凌晨1:27(連播2集).</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/5d8a8d1e8483c4a39e2f87671c35644e.jpg"/>
   </programme>
-  <programme start="20260616214000 +0800" stop="20260616223000 +0800" channel="8601092">
-    <title lang="zh">Renascer</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-04/3ee5f5acd9a32f2802156dd26983c096.jpg"/>
+  <programme start="20260622124500 +0800" stop="20260622131000 +0800" channel="8601091">
+    <title lang="zh">城市覓食</title>
   </programme>
-  <programme start="20260616223000 +0800" stop="20260616230500 +0800" channel="8601092">
-    <title lang="zh">TDM News</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/449e1787a84188f8816af81754f1618f.jpg"/>
+  <programme start="20260622131000 +0800" stop="20260622131200 +0800" channel="8601091">
+    <title lang="zh">TDM 新視點</title>
   </programme>
-  <programme start="20260616230500 +0800" stop="20260616232500 +0800" channel="8601092">
-    <title lang="zh">Portugal à Vista T1</title>
+  <programme start="20260622131200 +0800" stop="20260622131700 +0800" channel="8601091">
+    <title lang="zh">趣談唐詩</title>
+    <desc lang="zh">俗語說：「熟讀唐詩三百首，不會吟時也會偷。」 無論是求學時期，或者在日常生活裡，我們都會接觸到唐詩。有見及此，本台製作了一個名為《趣談唐詩》的節目，以有趣和深入淺出的手法，結合現代人的生活趣聞，帶大家去瞭解每一首唐詩背後的歷史淵源和故事。. 《澳視澳門》：逢星期一、三、五 09:25, 13:20, 16:55, 01:55播出.</desc>
+    <credits>
+      <presenter>梁詠欣</presenter>
+      <presenter>布廷欣</presenter>
+      <presenter>陳美渟</presenter>
+    </credits>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/9e4ef83257c4648dae6153cc3cb8459c.jpg"/>
   </programme>
-  <programme start="20260616232500 +0800" stop="20260617131500 +0800" channel="8601092">
-    <title lang="zh">RTPi Directo</title>
+  <programme start="20260622131700 +0800" stop="20260622132400 +0800" channel="8601091">
+    <title lang="zh">中國軟實力</title>
+  </programme>
+  <programme start="20260622132400 +0800" stop="20260622133000 +0800" channel="8601091">
+    <title lang="zh">午間天氣報告</title>
+  </programme>
+  <programme start="20260622133000 +0800" stop="20260622140000 +0800" channel="8601091">
+    <title lang="zh">午間新聞</title>
+  </programme>
+  <programme start="20260622140000 +0800" stop="20260622150000 +0800" channel="8601091">
+    <title lang="zh">每日財經</title>
+  </programme>
+  <programme start="20260622150000 +0800" stop="20260622154000 +0800" channel="8601091">
+    <title lang="zh">重播中國城市動態</title>
+  </programme>
+  <programme start="20260622154000 +0800" stop="20260622160000 +0800" channel="8601091">
+    <title lang="zh">澳門早晨精華錄</title>
+  </programme>
+  <programme start="20260622160000 +0800" stop="20260622160500 +0800" channel="8601091">
+    <title lang="zh">趣談唐詩</title>
+    <desc lang="zh">俗語說：「熟讀唐詩三百首，不會吟時也會偷。」 無論是求學時期，或者在日常生活裡，我們都會接觸到唐詩。有見及此，本台製作了一個名為《趣談唐詩》的節目，以有趣和深入淺出的手法，結合現代人的生活趣聞，帶大家去瞭解每一首唐詩背後的歷史淵源和故事。. 《澳視澳門》：逢星期一、三、五 09:25, 13:20, 16:55, 01:55播出.</desc>
+    <credits>
+      <presenter>梁詠欣</presenter>
+      <presenter>布廷欣</presenter>
+      <presenter>陳美渟</presenter>
+    </credits>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/9e4ef83257c4648dae6153cc3cb8459c.jpg"/>
+  </programme>
+  <programme start="20260622160500 +0800" stop="20260622163000 +0800" channel="8601091">
+    <title lang="zh">兒童節目︰節氣小精靈</title>
+    <desc lang="zh">人類世界與二十四節氣精靈所在的精靈節氣基地相互影響。來自精靈節氣基地的年獸作亂，讓人類世界的氣候也受到了影響。年獸逃到人類世界，立春與立夏、立秋、立冬四位節氣精靈組成團隊，追擊年獸，糾正混亂的節氣。他們與少年青仔、少女平度結成搭檔，開始來往於兩個世界，修理節氣儀、糾正混亂的節氣，也對抗年獸，喚醒沉睡的節氣精靈。. 每日下午4:05(連播2集).</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2023-12/db46cb134d1e41bfe237e02638d60e19.jpg"/>
+  </programme>
+  <programme start="20260622163000 +0800" stop="20260622170000 +0800" channel="8601091">
+    <title lang="zh">兒童節目︰新西游歷險記</title>
+  </programme>
+  <programme start="20260622170000 +0800" stop="20260622175800 +0800" channel="8601091">
+    <title lang="zh">兒童節目︰開心超人聯盟 勇敢之城 2  超人計劃 (第十九季)</title>
+  </programme>
+  <programme start="20260622175800 +0800" stop="20260622183800 +0800" channel="8601091">
+    <title lang="zh">動感教菁</title>
+  </programme>
+  <programme start="20260622183800 +0800" stop="20260622184300 +0800" channel="8601091">
+    <title lang="zh">趣談唐詩</title>
+    <desc lang="zh">俗語說：「熟讀唐詩三百首，不會吟時也會偷。」 無論是求學時期，或者在日常生活裡，我們都會接觸到唐詩。有見及此，本台製作了一個名為《趣談唐詩》的節目，以有趣和深入淺出的手法，結合現代人的生活趣聞，帶大家去瞭解每一首唐詩背後的歷史淵源和故事。. 《澳視澳門》：逢星期一、三、五 09:25, 13:20, 16:55, 01:55播出.</desc>
+    <credits>
+      <presenter>梁詠欣</presenter>
+      <presenter>布廷欣</presenter>
+      <presenter>陳美渟</presenter>
+    </credits>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/9e4ef83257c4648dae6153cc3cb8459c.jpg"/>
+  </programme>
+  <programme start="20260622184300 +0800" stop="20260622185000 +0800" channel="8601091">
+    <title lang="zh">中國軟實力</title>
+  </programme>
+  <programme start="20260622185000 +0800" stop="20260622190000 +0800" channel="8601091">
+    <title lang="zh">新聞提要</title>
+  </programme>
+  <programme start="20260622190000 +0800" stop="20260622195500 +0800" channel="8601091">
+    <title lang="zh">澳視新聞</title>
+    <desc lang="zh">《澳視澳門》《澳門資訊》《澳門-Macau》衛星頻道：每日19:00.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg"/>
+  </programme>
+  <programme start="20260622195500 +0800" stop="20260622200000 +0800" channel="8601091">
+    <title lang="zh">天氣報告</title>
+  </programme>
+  <programme start="20260622200000 +0800" stop="20260622213300 +0800" channel="8601091">
+    <title lang="zh">承歡記</title>
+    <desc lang="zh">承歡記》改編自亦舒同名小說，由楊紫、許凱主演。故事講述出身於上海普通人家的95後女孩麥承歡，在母親劉婉玉的催促下，與男友辛家亮議婚。但辛家的經濟條件讓這段原本平等的感情關係變得失衡，同時，麥母對女兒終身大事的過度插手，加速了麥承歡和辛家亮的分手。在孝順父母和忠於自我之間，麥承歡艱難求索，她逐步從母親強勢的關愛中掙脫，在工作上更專心進取。麥承歡的蛻變得到了繼祖母的認可，把自己最看重的酒店經營重任託付給她。繼祖母的親孫、職業酒店經理人姚志明在與麥承歡的合作中逐漸對她理解並認同，倆人成為工作夥伴，攜手並進。而在生活中，姚志明被麥家煙火氣之下的真情包圍，與麥承歡的感情逐漸升溫。從“承歡膝下”到“成就自我”，麥承歡走出了一條獨屬於自己的不平凡的成長之路。. 逢星期一至五上午11:10、晚上8:00及翌日凌晨1:27(連播2集).</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/5d8a8d1e8483c4a39e2f87671c35644e.jpg"/>
+  </programme>
+  <programme start="20260622213300 +0800" stop="20260622220000 +0800" channel="8601091">
+    <title lang="zh">家家有本事</title>
+    <desc lang="zh">《家家有本事》為一個綜合性生活資訊的家庭類節目，邀請相關人士就相關主題提供專業知識，包括日常生活、健康資訊等元素。. 【澳視澳門91台】\r\n逢星期二 21:30 (首播)\r\n\r\n其他重播時段\r\n逢星期三 00:30、05:00、09:30\r\n逢星期日 04:30、07:00\r\n逢星期一 05:30\r\n\r\n【澳門-Macau 96台】\r\n逢星期日 10:00、14:00、21:00\r\n逢星期一 02:50、08:50、21:00.</desc>
+    <credits>
+      <presenter>梁詠欣</presenter>
+      <presenter>區倩欣</presenter>
+      <presenter>馮露沙</presenter>
+    </credits>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/183f9ff4ebfb5a560c7162d96ff7fda0.jpg"/>
+  </programme>
+  <programme start="20260622220000 +0800" stop="20260622223000 +0800" channel="8601091">
+    <title lang="zh">普通話新聞</title>
+    <desc lang="zh">每日22:00《澳視澳門》《澳門資訊》《澳門-Macau》衛星頻道.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/ff6cb332e565b5c8c671b87889fd294d.jpg"/>
+  </programme>
+  <programme start="20260622223000 +0800" stop="20260622230000 +0800" channel="8601091">
+    <title lang="zh">十點半澳視縱橫︰風火台</title>
+  </programme>
+  <programme start="20260622230000 +0800" stop="20260622231500 +0800" channel="8601091">
+    <title lang="zh">“你問我答”粵澳法律直播間</title>
+  </programme>
+  <programme start="20260622231500 +0800" stop="20260622235000 +0800" channel="8601091">
+    <title lang="zh">晚間新聞</title>
+  </programme>
+  <programme start="20260622235000 +0800" stop="20260623000100 +0800" channel="8601091">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20260623000100 +0800" stop="20260623002700 +0800" channel="8601091">
+    <title lang="zh">灣區全媒睇</title>
+  </programme>
+  <programme start="20260623002700 +0800" stop="20260623004900 +0800" channel="8601091">
+    <title lang="zh">家家有本事</title>
+    <desc lang="zh">《家家有本事》為一個綜合性生活資訊的家庭類節目，邀請相關人士就相關主題提供專業知識，包括日常生活、健康資訊等元素。. 【澳視澳門91台】\r\n逢星期二 21:30 (首播)\r\n\r\n其他重播時段\r\n逢星期三 00:30、05:00、09:30\r\n逢星期日 04:30、07:00\r\n逢星期一 05:30\r\n\r\n【澳門-Macau 96台】\r\n逢星期日 10:00、14:00、21:00\r\n逢星期一 02:50、08:50、21:00.</desc>
+    <credits>
+      <presenter>梁詠欣</presenter>
+      <presenter>區倩欣</presenter>
+      <presenter>馮露沙</presenter>
+    </credits>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/183f9ff4ebfb5a560c7162d96ff7fda0.jpg"/>
+  </programme>
+  <programme start="20260623004900 +0800" stop="20260623011900 +0800" channel="8601091">
+    <title lang="zh">重播風火台</title>
+  </programme>
+  <programme start="20260623011900 +0800" stop="20260623012700 +0800" channel="8601091">
+    <title lang="zh">“你問我答”粵澳法律直播間</title>
+  </programme>
+  <programme start="20260623012700 +0800" stop="20260623030000 +0800" channel="8601091">
+    <title lang="zh">承歡記</title>
+    <desc lang="zh">承歡記》改編自亦舒同名小說，由楊紫、許凱主演。故事講述出身於上海普通人家的95後女孩麥承歡，在母親劉婉玉的催促下，與男友辛家亮議婚。但辛家的經濟條件讓這段原本平等的感情關係變得失衡，同時，麥母對女兒終身大事的過度插手，加速了麥承歡和辛家亮的分手。在孝順父母和忠於自我之間，麥承歡艱難求索，她逐步從母親強勢的關愛中掙脫，在工作上更專心進取。麥承歡的蛻變得到了繼祖母的認可，把自己最看重的酒店經營重任託付給她。繼祖母的親孫、職業酒店經理人姚志明在與麥承歡的合作中逐漸對她理解並認同，倆人成為工作夥伴，攜手並進。而在生活中，姚志明被麥家煙火氣之下的真情包圍，與麥承歡的感情逐漸升溫。從“承歡膝下”到“成就自我”，麥承歡走出了一條獨屬於自己的不平凡的成長之路。. 逢星期一至五上午11:10、晚上8:00及翌日凌晨1:27(連播2集).</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/5d8a8d1e8483c4a39e2f87671c35644e.jpg"/>
+  </programme>
+  <programme start="20260623030000 +0800" stop="20260623032500 +0800" channel="8601091">
+    <title lang="zh">錄播普通話新聞</title>
+    <desc lang="zh">每日22:00《澳視澳門》《澳門資訊》《澳門-Macau》衛星頻道.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/ff6cb332e565b5c8c671b87889fd294d.jpg"/>
+  </programme>
+  <programme start="20260623032500 +0800" stop="20260623040000 +0800" channel="8601091">
+    <title lang="zh">錄播晚間新聞</title>
+  </programme>
+  <programme start="20260623040000 +0800" stop="20260623042500 +0800" channel="8601091">
+    <title lang="zh">家家有本事</title>
+    <desc lang="zh">《家家有本事》為一個綜合性生活資訊的家庭類節目，邀請相關人士就相關主題提供專業知識，包括日常生活、健康資訊等元素。. 【澳視澳門91台】\r\n逢星期二 21:30 (首播)\r\n\r\n其他重播時段\r\n逢星期三 00:30、05:00、09:30\r\n逢星期日 04:30、07:00\r\n逢星期一 05:30\r\n\r\n【澳門-Macau 96台】\r\n逢星期日 10:00、14:00、21:00\r\n逢星期一 02:50、08:50、21:00.</desc>
+    <credits>
+      <presenter>梁詠欣</presenter>
+      <presenter>區倩欣</presenter>
+      <presenter>馮露沙</presenter>
+    </credits>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/183f9ff4ebfb5a560c7162d96ff7fda0.jpg"/>
+  </programme>
+  <programme start="20260623042500 +0800" stop="20260623044700 +0800" channel="8601091">
+    <title lang="zh">澳門早晨精華錄</title>
+  </programme>
+  <programme start="20260623044700 +0800" stop="20260623051700 +0800" channel="8601091">
+    <title lang="zh">重播風火台</title>
+  </programme>
+  <programme start="20260623051700 +0800" stop="20260623052500 +0800" channel="8601091">
+    <title lang="zh">“你問我答”粵澳法律直播間</title>
   </programme>
   <programme start="20260617131500 +0800" stop="20260617133000 +0800" channel="8601092">
     <title lang="zh">The Art of Tasting Portugal</title>
@@ -1527,11 +1500,8 @@
     <title lang="zh">Campeonato do Mundo FIFA 2026: Brasil vs Haiti (Directo)</title>
     <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/090a6c0ea480c8985bd10db59f301eb6.png"/>
   </programme>
-  <programme start="20260620103500 +0800" stop="20260620131500 +0800" channel="8601092">
+  <programme start="20260620103500 +0800" stop="20260620133000 +0800" channel="8601092">
     <title lang="zh">RTPi Directo</title>
-  </programme>
-  <programme start="20260620131500 +0800" stop="20260620133000 +0800" channel="8601092">
-    <title lang="zh">The Art of Tasting Portugal - Fim</title>
   </programme>
   <programme start="20260620133000 +0800" stop="20260620143000 +0800" channel="8601092">
     <title lang="zh">Telejornal RTPi (Diferido)</title>
@@ -1657,137 +1627,72 @@
     <title lang="zh">Guest Star</title>
     <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/21e2215cf6546639d070765010d00431.jpg"/>
   </programme>
-  <programme start="20260616000500 +0800" stop="20260616003500 +0800" channel="8601094">
-    <title lang="zh">絲路時間 USilk  -  游走中國</title>
+  <programme start="20260621233000 +0800" stop="20260622060000 +0800" channel="8601092">
+    <title lang="zh">RTPi Directo</title>
   </programme>
-  <programme start="20260616003500 +0800" stop="20260616004500 +0800" channel="8601094">
-    <title lang="zh">澳門早晨精華篇</title>
+  <programme start="20260622060000 +0800" stop="20260622080500 +0800" channel="8601092">
+    <title lang="zh">Campeonato do Mundo FIFA 2026: Uruguai vs Cabo Verde (Directo)</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/090a6c0ea480c8985bd10db59f301eb6.png"/>
   </programme>
-  <programme start="20260616004500 +0800" stop="20260616011500 +0800" channel="8601094">
-    <title lang="zh">錄播普通話新聞</title>
-    <desc lang="zh">每日22:00《澳視澳門》《澳門資訊》《澳門-Macau》衛星頻道.</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/ff6cb332e565b5c8c671b87889fd294d.jpg"/>
+  <programme start="20260622080500 +0800" stop="20260622133000 +0800" channel="8601092">
+    <title lang="zh">RTPi Directo</title>
   </programme>
-  <programme start="20260616011500 +0800" stop="20260616015000 +0800" channel="8601094">
-    <title lang="zh">錄播晚間新聞</title>
+  <programme start="20260622133000 +0800" stop="20260622143000 +0800" channel="8601092">
+    <title lang="zh">Telejornal RTPi (Diferido)</title>
   </programme>
-  <programme start="20260616015000 +0800" stop="20260616020000 +0800" channel="8601094">
-    <title lang="zh">重播體育新聞</title>
+  <programme start="20260622143000 +0800" stop="20260622145500 +0800" channel="8601092">
+    <title lang="zh">Superstore T3</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/bc6c750a4e81fa69f6cfc06dd31f5415.jpg"/>
   </programme>
-  <programme start="20260616020000 +0800" stop="20260616065900 +0800" channel="8601094">
-    <title lang="zh">收台</title>
+  <programme start="20260622145500 +0800" stop="20260622154000 +0800" channel="8601092">
+    <title lang="zh">Queridos Papás</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-12/a47458df03993d66634f1ef31e7c41f6.jpg"/>
   </programme>
-  <programme start="20260616065900 +0800" stop="20260616070000 +0800" channel="8601094">
-    <title lang="zh">開台</title>
+  <programme start="20260622154000 +0800" stop="20260622155500 +0800" channel="8601092">
+    <title lang="zh">RoboCar Poli - Museu das Canções</title>
   </programme>
-  <programme start="20260616070000 +0800" stop="20260616080000 +0800" channel="8601094">
-    <title lang="zh">早晨新聞</title>
+  <programme start="20260622155500 +0800" stop="20260622162000 +0800" channel="8601092">
+    <title lang="zh">Os Smurfs</title>
   </programme>
-  <programme start="20260616080000 +0800" stop="20260616090000 +0800" channel="8601094">
-    <title lang="zh">澳門早晨</title>
+  <programme start="20260622162000 +0800" stop="20260622164500 +0800" channel="8601092">
+    <title lang="zh">O Gato da Cartola</title>
   </programme>
-  <programme start="20260616090000 +0800" stop="20260616093000 +0800" channel="8601094">
-    <title lang="zh">重播早晨新聞</title>
+  <programme start="20260622164500 +0800" stop="20260622170000 +0800" channel="8601092">
+    <title lang="zh">Mensagem Numa Garrafa T1</title>
   </programme>
-  <programme start="20260616093000 +0800" stop="20260616100000 +0800" channel="8601094">
-    <title lang="zh">灣區全媒睇</title>
+  <programme start="20260622170000 +0800" stop="20260622175000 +0800" channel="8601092">
+    <title lang="zh">Renascer (Repetição)</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-04/3ee5f5acd9a32f2802156dd26983c096.jpg"/>
   </programme>
-  <programme start="20260616100000 +0800" stop="20260616103000 +0800" channel="8601094">
-    <title lang="zh">新聞報道</title>
+  <programme start="20260622175000 +0800" stop="20260622180500 +0800" channel="8601092">
+    <title lang="zh">Para Onde As Flores De Pessegueiro Desabrocham</title>
   </programme>
-  <programme start="20260616103000 +0800" stop="20260616110000 +0800" channel="8601094">
-    <title lang="zh">新聞報道</title>
+  <programme start="20260622180500 +0800" stop="20260622191500 +0800" channel="8601092">
+    <title lang="zh">Downton Abbey T4</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/8106e9d93f1d54b8780f3170fc91ab1b.jpg"/>
   </programme>
-  <programme start="20260616110000 +0800" stop="20260616111200 +0800" channel="8601094">
-    <title lang="zh">新聞報道</title>
+  <programme start="20260622191500 +0800" stop="20260622200000 +0800" channel="8601092">
+    <title lang="zh">Cacau</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-07/7392a5e853609229615ba80a58d88cab.jpg"/>
   </programme>
-  <programme start="20260616111200 +0800" stop="20260616112000 +0800" channel="8601094">
-    <title lang="zh">宇宙更強</title>
+  <programme start="20260622200000 +0800" stop="20260622204500 +0800" channel="8601092">
+    <title lang="zh">Telejornal</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/41ef4898f62a137c1f4f67d3f17db135.jpg"/>
   </programme>
-  <programme start="20260616112000 +0800" stop="20260616115000 +0800" channel="8601094">
-    <title lang="zh">重播風火台</title>
+  <programme start="20260622204500 +0800" stop="20260622214000 +0800" channel="8601092">
+    <title lang="zh">Semanário</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-02/c8c813bcd3e824f84a154506140dae7a.jpg"/>
   </programme>
-  <programme start="20260616115000 +0800" stop="20260616120000 +0800" channel="8601094">
-    <title lang="zh">澳門早晨精華篇</title>
+  <programme start="20260622214000 +0800" stop="20260622223000 +0800" channel="8601092">
+    <title lang="zh">Renascer</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-04/3ee5f5acd9a32f2802156dd26983c096.jpg"/>
   </programme>
-  <programme start="20260616120000 +0800" stop="20260616122000 +0800" channel="8601094">
-    <title lang="zh">新聞報道</title>
+  <programme start="20260622223000 +0800" stop="20260622230500 +0800" channel="8601092">
+    <title lang="zh">TDM News</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/449e1787a84188f8816af81754f1618f.jpg"/>
   </programme>
-  <programme start="20260616122000 +0800" stop="20260616122700 +0800" channel="8601094">
-    <title lang="zh">宇宙更強</title>
-  </programme>
-  <programme start="20260616122700 +0800" stop="20260616123000 +0800" channel="8601094">
-    <title lang="zh">街市情報</title>
-  </programme>
-  <programme start="20260616123000 +0800" stop="20260616125000 +0800" channel="8601094">
-    <title lang="zh">新聞報道</title>
-  </programme>
-  <programme start="20260616125000 +0800" stop="20260616130000 +0800" channel="8601094">
-    <title lang="zh">國寶時刻</title>
-    <desc lang="zh">《 國寶時刻》聚焦中國各地珍貴文物，以超高清影像及創新敘事手法，深入呈現文物背後故事、歷史與文化內涵。節目每集拍攝一件文物，推動文物從“館舍展陳”融入“生活場景”，讓廣大人民共用文化遺產保護成果，也為世界人民更好地理解中國、讀懂中國提供了深刻而生動的視窗。首批發佈的50部作品包括新石器時代七孔骨笛、夏代鑲嵌綠松石獸面紋銅牌飾、周代大克鼎、秦代銅車馬、漢代長信宮燈、唐代八曲葵花形螺鈿銅鏡、宋代汝窯天藍釉刻花鵝頸瓶、元代青花蕭何月下追韓信圖梅瓶、明代《坤輿萬國全圖》、清代廣彩人物紋大碗等。本節目由「國家廣播電視總局」贈播。. 5月4日起,逢星期一至六下午5:50.</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-01/7784f883cef68bcdeeaba94a58fba7b6.jpg"/>
-  </programme>
-  <programme start="20260616130000 +0800" stop="20260616131700 +0800" channel="8601094">
-    <title lang="zh">新聞報道</title>
-  </programme>
-  <programme start="20260616131700 +0800" stop="20260616132400 +0800" channel="8601094">
-    <title lang="zh">宇宙更強</title>
-  </programme>
-  <programme start="20260616132400 +0800" stop="20260616133000 +0800" channel="8601094">
-    <title lang="zh">午間天氣報告</title>
-  </programme>
-  <programme start="20260616133000 +0800" stop="20260616140000 +0800" channel="8601094">
-    <title lang="zh">午間新聞</title>
-  </programme>
-  <programme start="20260616140000 +0800" stop="20260616145800 +0800" channel="8601094">
-    <title lang="zh">每日財經</title>
-  </programme>
-  <programme start="20260616145800 +0800" stop="20260616180500 +0800" channel="8601094">
-    <title lang="zh">直播行政長官立法會答問大會</title>
-  </programme>
-  <programme start="20260616180500 +0800" stop="20260616180700 +0800" channel="8601094">
-    <title lang="zh">TDM 新視點</title>
-  </programme>
-  <programme start="20260616180700 +0800" stop="20260616183000 +0800" channel="8601094">
-    <title lang="zh">澳門早晨精華錄</title>
-  </programme>
-  <programme start="20260616183000 +0800" stop="20260616190000 +0800" channel="8601094">
-    <title lang="zh">大灣區經濟新聞</title>
-  </programme>
-  <programme start="20260616190000 +0800" stop="20260616195500 +0800" channel="8601094">
-    <title lang="zh">澳視新聞</title>
-    <desc lang="zh">《澳視澳門》《澳門資訊》《澳門-Macau》衛星頻道：每日19:00.</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg"/>
-  </programme>
-  <programme start="20260616195500 +0800" stop="20260616195800 +0800" channel="8601094">
-    <title lang="zh">天氣報告</title>
-  </programme>
-  <programme start="20260616195800 +0800" stop="20260616200000 +0800" channel="8601094">
-    <title lang="zh">TDM 新視點</title>
-  </programme>
-  <programme start="20260616200000 +0800" stop="20260616210000 +0800" channel="8601094">
-    <title lang="zh">錄播澳視新聞</title>
-    <desc lang="zh">《澳視澳門》《澳門資訊》《澳門-Macau》衛星頻道：每日19:00.</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg"/>
-  </programme>
-  <programme start="20260616210000 +0800" stop="20260616220000 +0800" channel="8601094">
-    <title lang="zh">錄播澳視新聞</title>
-    <desc lang="zh">《澳視澳門》《澳門資訊》《澳門-Macau》衛星頻道：每日19:00.</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg"/>
-  </programme>
-  <programme start="20260616220000 +0800" stop="20260616223000 +0800" channel="8601094">
-    <title lang="zh">普通話新聞</title>
-    <desc lang="zh">每日22:00《澳視澳門》《澳門資訊》《澳門-Macau》衛星頻道.</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/ff6cb332e565b5c8c671b87889fd294d.jpg"/>
-  </programme>
-  <programme start="20260616223000 +0800" stop="20260616231500 +0800" channel="8601094">
-    <title lang="zh">十點半澳視縱橫：競健群英 2026</title>
-  </programme>
-  <programme start="20260616231500 +0800" stop="20260616235000 +0800" channel="8601094">
-    <title lang="zh">晚間新聞</title>
-  </programme>
-  <programme start="20260616235000 +0800" stop="20260617000500 +0800" channel="8601094">
-    <title lang="zh">體育新聞</title>
+  <programme start="20260622230500 +0800" stop="20260623004000 +0800" channel="8601092">
+    <title lang="zh">Cidadãos de Boomtown</title>
   </programme>
   <programme start="20260617000500 +0800" stop="20260617003500 +0800" channel="8601094">
     <title lang="zh">重播大灣區經濟新聞</title>
@@ -2662,89 +2567,168 @@
   <programme start="20260622015000 +0800" stop="20260622020000 +0800" channel="8601094">
     <title lang="zh">重播體育新聞</title>
   </programme>
-  <programme start="20260616020000 +0800" stop="20260616022000 +0800" channel="8601093">
-    <title lang="zh">澳門經典車小百科</title>
-  </programme>
-  <programme start="20260616022000 +0800" stop="20260616025000 +0800" channel="8601093">
-    <title lang="zh">2025勒芒盃雜誌︰第五集  銀石站</title>
-  </programme>
-  <programme start="20260616025000 +0800" stop="20260616050000 +0800" channel="8601093">
-    <title lang="zh">直播2026 FIFA世界盃：比利時 對 埃及</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/090a6c0ea480c8985bd10db59f301eb6.png"/>
-  </programme>
-  <programme start="20260616050000 +0800" stop="20260616052000 +0800" channel="8601093">
-    <title lang="zh">澳門經典車小百科</title>
-  </programme>
-  <programme start="20260616052000 +0800" stop="20260616055000 +0800" channel="8601093">
-    <title lang="zh">2025勒芒盃雜誌︰第六集 波爾堤莫站</title>
-  </programme>
-  <programme start="20260616055000 +0800" stop="20260616080000 +0800" channel="8601093">
-    <title lang="zh">直播2026 FIFA世界盃：沙特阿拉伯  對 烏拉圭</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/090a6c0ea480c8985bd10db59f301eb6.png"/>
-  </programme>
-  <programme start="20260616080000 +0800" stop="20260616084900 +0800" channel="8601093">
+  <programme start="20260622020000 +0800" stop="20260622065900 +0800" channel="8601094">
     <title lang="zh">收台</title>
   </programme>
-  <programme start="20260616084900 +0800" stop="20260616085000 +0800" channel="8601093">
+  <programme start="20260622065900 +0800" stop="20260622070000 +0800" channel="8601094">
     <title lang="zh">開台</title>
   </programme>
-  <programme start="20260616085000 +0800" stop="20260616110000 +0800" channel="8601093">
-    <title lang="zh">直播2026 FIFA世界盃：伊朗 對 新西蘭</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/090a6c0ea480c8985bd10db59f301eb6.png"/>
+  <programme start="20260622070000 +0800" stop="20260622080000 +0800" channel="8601094">
+    <title lang="zh">早晨新聞</title>
   </programme>
-  <programme start="20260616110000 +0800" stop="20260616111500 +0800" channel="8601093">
-    <title lang="zh">澳門經典車小百科</title>
+  <programme start="20260622080000 +0800" stop="20260622090000 +0800" channel="8601094">
+    <title lang="zh">澳門早晨</title>
   </programme>
-  <programme start="20260616111500 +0800" stop="20260616115000 +0800" channel="8601093">
-    <title lang="zh">第25屆冬季奧運會：雪橇女子雙人第1輪及第2輪</title>
+  <programme start="20260622090000 +0800" stop="20260622093000 +0800" channel="8601094">
+    <title lang="zh">重播早晨新聞</title>
   </programme>
-  <programme start="20260616115000 +0800" stop="20260616130000 +0800" channel="8601093">
-    <title lang="zh">2025溫布頓網球錦標賽︰女單4強</title>
+  <programme start="20260622093000 +0800" stop="20260622100000 +0800" channel="8601094">
+    <title lang="zh">灣區全媒睇</title>
   </programme>
-  <programme start="20260616130000 +0800" stop="20260616131500 +0800" channel="8601093">
+  <programme start="20260622100000 +0800" stop="20260622103000 +0800" channel="8601094">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20260622103000 +0800" stop="20260622110000 +0800" channel="8601094">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20260622110000 +0800" stop="20260622111200 +0800" channel="8601094">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20260622111200 +0800" stop="20260622112000 +0800" channel="8601094">
+    <title lang="zh">中國軟實力</title>
+  </programme>
+  <programme start="20260622112000 +0800" stop="20260622120000 +0800" channel="8601094">
+    <title lang="zh">中國城市動態</title>
+  </programme>
+  <programme start="20260622120000 +0800" stop="20260622122000 +0800" channel="8601094">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20260622122000 +0800" stop="20260622122700 +0800" channel="8601094">
+    <title lang="zh">中國軟實力</title>
+  </programme>
+  <programme start="20260622122700 +0800" stop="20260622123000 +0800" channel="8601094">
+    <title lang="zh">街市情報</title>
+  </programme>
+  <programme start="20260622123000 +0800" stop="20260622125000 +0800" channel="8601094">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20260622125000 +0800" stop="20260622130000 +0800" channel="8601094">
+    <title lang="zh">國寶時刻</title>
+    <desc lang="zh">《 國寶時刻》聚焦中國各地珍貴文物，以超高清影像及創新敘事手法，深入呈現文物背後故事、歷史與文化內涵。節目每集拍攝一件文物，推動文物從“館舍展陳”融入“生活場景”，讓廣大人民共用文化遺產保護成果，也為世界人民更好地理解中國、讀懂中國提供了深刻而生動的視窗。首批發佈的50部作品包括新石器時代七孔骨笛、夏代鑲嵌綠松石獸面紋銅牌飾、周代大克鼎、秦代銅車馬、漢代長信宮燈、唐代八曲葵花形螺鈿銅鏡、宋代汝窯天藍釉刻花鵝頸瓶、元代青花蕭何月下追韓信圖梅瓶、明代《坤輿萬國全圖》、清代廣彩人物紋大碗等。本節目由「國家廣播電視總局」贈播。. 5月4日起,逢星期一至六下午5:50.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-01/7784f883cef68bcdeeaba94a58fba7b6.jpg"/>
+  </programme>
+  <programme start="20260622130000 +0800" stop="20260622131700 +0800" channel="8601094">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20260622131700 +0800" stop="20260622132400 +0800" channel="8601094">
+    <title lang="zh">中國軟實力</title>
+  </programme>
+  <programme start="20260622132400 +0800" stop="20260622133000 +0800" channel="8601094">
+    <title lang="zh">午間天氣報告</title>
+  </programme>
+  <programme start="20260622133000 +0800" stop="20260622140000 +0800" channel="8601094">
+    <title lang="zh">午間新聞</title>
+  </programme>
+  <programme start="20260622140000 +0800" stop="20260622150000 +0800" channel="8601094">
+    <title lang="zh">每日財經</title>
+  </programme>
+  <programme start="20260622150000 +0800" stop="20260622152500 +0800" channel="8601094">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20260622152500 +0800" stop="20260622153000 +0800" channel="8601094">
+    <title lang="zh">街市情報</title>
+  </programme>
+  <programme start="20260622153000 +0800" stop="20260622160000 +0800" channel="8601094">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20260622160000 +0800" stop="20260622163000 +0800" channel="8601094">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20260622163000 +0800" stop="20260622170000 +0800" channel="8601094">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20260622170000 +0800" stop="20260622173000 +0800" channel="8601094">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20260622173000 +0800" stop="20260622175000 +0800" channel="8601094">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20260622175000 +0800" stop="20260622180000 +0800" channel="8601094">
+    <title lang="zh">中國軟實力</title>
+  </programme>
+  <programme start="20260622180000 +0800" stop="20260622180500 +0800" channel="8601094">
+    <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20260622180500 +0800" stop="20260622180700 +0800" channel="8601094">
+    <title lang="zh">TDM 新視點</title>
+  </programme>
+  <programme start="20260622180700 +0800" stop="20260622183000 +0800" channel="8601094">
+    <title lang="zh">澳門早晨精華錄</title>
+  </programme>
+  <programme start="20260622183000 +0800" stop="20260622185000 +0800" channel="8601094">
+    <title lang="zh">異國故鄉</title>
+  </programme>
+  <programme start="20260622185000 +0800" stop="20260622190000 +0800" channel="8601094">
+    <title lang="zh">“你問我答”粵澳法律直播間</title>
+  </programme>
+  <programme start="20260622190000 +0800" stop="20260622195500 +0800" channel="8601094">
+    <title lang="zh">澳視新聞</title>
+    <desc lang="zh">《澳視澳門》《澳門資訊》《澳門-Macau》衛星頻道：每日19:00.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg"/>
+  </programme>
+  <programme start="20260622195500 +0800" stop="20260622195800 +0800" channel="8601094">
+    <title lang="zh">天氣報告</title>
+  </programme>
+  <programme start="20260622195800 +0800" stop="20260622200000 +0800" channel="8601094">
+    <title lang="zh">TDM 新視點</title>
+  </programme>
+  <programme start="20260622200000 +0800" stop="20260622210000 +0800" channel="8601094">
+    <title lang="zh">錄播澳視新聞</title>
+    <desc lang="zh">《澳視澳門》《澳門資訊》《澳門-Macau》衛星頻道：每日19:00.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg"/>
+  </programme>
+  <programme start="20260622210000 +0800" stop="20260622220000 +0800" channel="8601094">
+    <title lang="zh">錄播澳視新聞</title>
+    <desc lang="zh">《澳視澳門》《澳門資訊》《澳門-Macau》衛星頻道：每日19:00.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg"/>
+  </programme>
+  <programme start="20260622220000 +0800" stop="20260622223000 +0800" channel="8601094">
+    <title lang="zh">普通話新聞</title>
+    <desc lang="zh">每日22:00《澳視澳門》《澳門資訊》《澳門-Macau》衛星頻道.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/ff6cb332e565b5c8c671b87889fd294d.jpg"/>
+  </programme>
+  <programme start="20260622223000 +0800" stop="20260622230500 +0800" channel="8601094">
+    <title lang="zh">十點半澳視縱橫：風火台</title>
+  </programme>
+  <programme start="20260622230500 +0800" stop="20260622231500 +0800" channel="8601094">
+    <title lang="zh">國寶時刻</title>
+    <desc lang="zh">《 國寶時刻》聚焦中國各地珍貴文物，以超高清影像及創新敘事手法，深入呈現文物背後故事、歷史與文化內涵。節目每集拍攝一件文物，推動文物從“館舍展陳”融入“生活場景”，讓廣大人民共用文化遺產保護成果，也為世界人民更好地理解中國、讀懂中國提供了深刻而生動的視窗。首批發佈的50部作品包括新石器時代七孔骨笛、夏代鑲嵌綠松石獸面紋銅牌飾、周代大克鼎、秦代銅車馬、漢代長信宮燈、唐代八曲葵花形螺鈿銅鏡、宋代汝窯天藍釉刻花鵝頸瓶、元代青花蕭何月下追韓信圖梅瓶、明代《坤輿萬國全圖》、清代廣彩人物紋大碗等。本節目由「國家廣播電視總局」贈播。. 5月4日起,逢星期一至六下午5:50.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-01/7784f883cef68bcdeeaba94a58fba7b6.jpg"/>
+  </programme>
+  <programme start="20260622231500 +0800" stop="20260622235000 +0800" channel="8601094">
+    <title lang="zh">晚間新聞</title>
+  </programme>
+  <programme start="20260622235000 +0800" stop="20260623000500 +0800" channel="8601094">
     <title lang="zh">體育新聞</title>
   </programme>
-  <programme start="20260616131500 +0800" stop="20260616143000 +0800" channel="8601093">
-    <title lang="zh">2025世界羽毛球錦標賽：女雙4強</title>
+  <programme start="20260623000500 +0800" stop="20260623003500 +0800" channel="8601094">
+    <title lang="zh">絲路時間U Silk : 大漠胡楊</title>
+    <desc lang="zh">大漠胡楊》是國家廣播電視總局為慶祝新疆維吾爾自治區成立70周年製作的\"記錄新時代\"紀錄片精品專案，共3集。該片聚焦新疆阿克蘇地區沙雅縣，以世界最大野生胡楊林、塔克拉瑪幹沙漠與塔里木河交匯處的自然生態為背景，展現古絲綢之路的歷史脈絡。紀錄片通過兩年多攝製，記錄民警熱合曼、護林員阿力木、理髮師張高磊等基層人物日常，呈現當地居民與極端環境共生的生存智慧。創作者採用紀實美學手法，捕捉護林員子女的詩意表達、94歲老人熱比耶木的歌聲等生活細節，展現胡楊精神與荒漠生命的多樣性。. 6月21日起，逢星期日上午9:30(星期日黃昏6:07及星期一深夜12:05重播).</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/981fafd9950d8816b1412c704ca6fae6.jpg"/>
   </programme>
-  <programme start="20260616143000 +0800" stop="20260616153000 +0800" channel="8601093">
-    <title lang="zh">2025世界羽毛球錦標賽：混雙4強</title>
+  <programme start="20260623003500 +0800" stop="20260623004500 +0800" channel="8601094">
+    <title lang="zh">澳門早晨精華篇</title>
   </programme>
-  <programme start="20260616153000 +0800" stop="20260616163500 +0800" channel="8601093">
-    <title lang="zh">2025世界羽毛球錦標賽：女單4強</title>
+  <programme start="20260623004500 +0800" stop="20260623011500 +0800" channel="8601094">
+    <title lang="zh">錄播普通話新聞</title>
+    <desc lang="zh">每日22:00《澳視澳門》《澳門資訊》《澳門-Macau》衛星頻道.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/ff6cb332e565b5c8c671b87889fd294d.jpg"/>
   </programme>
-  <programme start="20260616163500 +0800" stop="20260616170500 +0800" channel="8601093">
-    <title lang="zh">2025勒芒盃雜誌︰第七集 賽季回顧</title>
+  <programme start="20260623011500 +0800" stop="20260623015000 +0800" channel="8601094">
+    <title lang="zh">錄播晚間新聞</title>
   </programme>
-  <programme start="20260616170500 +0800" stop="20260616180500 +0800" channel="8601093">
-    <title lang="zh">2026 WTT 重慶乒乓球冠軍賽：女單8強</title>
-  </programme>
-  <programme start="20260616180500 +0800" stop="20260616190000 +0800" channel="8601093">
-    <title lang="zh">2026 WTT 重慶乒乓球冠軍賽：男單8強</title>
-  </programme>
-  <programme start="20260616190000 +0800" stop="20260616210000 +0800" channel="8601093">
-    <title lang="zh">2026 FIFA世界盃：西班牙 對 佛得角</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/090a6c0ea480c8985bd10db59f301eb6.png"/>
-  </programme>
-  <programme start="20260616210000 +0800" stop="20260616210500 +0800" channel="8601093">
-    <title lang="zh">體育新聞</title>
-  </programme>
-  <programme start="20260616210500 +0800" stop="20260616220000 +0800" channel="8601093">
-    <title lang="zh">第25屆冬季奧運會：短道速滑混合團體接力1/4決賽、半決賽、決賽</title>
-  </programme>
-  <programme start="20260616220000 +0800" stop="20260616223000 +0800" channel="8601093">
-    <title lang="zh">Goal舉世界盃</title>
-  </programme>
-  <programme start="20260616223000 +0800" stop="20260616232500 +0800" channel="8601093">
-    <title lang="zh">2026 FIFA世界盃：比利時 對 埃及</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/090a6c0ea480c8985bd10db59f301eb6.png"/>
-  </programme>
-  <programme start="20260616232500 +0800" stop="20260616233000 +0800" channel="8601093">
-    <title lang="zh">體育新聞</title>
-  </programme>
-  <programme start="20260616233000 +0800" stop="20260617003000 +0800" channel="8601093">
-    <title lang="zh">2026 FIFA世界盃：比利時 對 埃及</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/090a6c0ea480c8985bd10db59f301eb6.png"/>
+  <programme start="20260623015000 +0800" stop="20260623020000 +0800" channel="8601094">
+    <title lang="zh">重播體育新聞</title>
   </programme>
   <programme start="20260617003000 +0800" stop="20260617010000 +0800" channel="8601093">
     <title lang="zh">第25屆冬季奧運會：速度滑冰男子追逐</title>
@@ -3091,157 +3075,83 @@
   <programme start="20260622074900 +0800" stop="20260622075000 +0800" channel="8601093">
     <title lang="zh">開台</title>
   </programme>
-  <programme start="20260622075000 +0800" stop="20260622100000 +0800" channel="8601093">
-    <title lang="zh">直播2026 FIFA世界盃：厄瓜多爾  對  庫拉索</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/090a6c0ea480c8985bd10db59f301eb6.png"/>
-  </programme>
-  <programme start="20260622100000 +0800" stop="20260622101000 +0800" channel="8601093">
-    <title lang="zh">澳門經典車小百科</title>
-  </programme>
-  <programme start="20260622101000 +0800" stop="20260622102500 +0800" channel="8601093">
-    <title lang="zh">每周體育精華</title>
-  </programme>
-  <programme start="20260622102500 +0800" stop="20260622115000 +0800" channel="8601093">
-    <title lang="zh">2025溫布頓網球錦標賽︰女單決賽</title>
-  </programme>
-  <programme start="20260622115000 +0800" stop="20260622125500 +0800" channel="8601093">
-    <title lang="zh">直播2026 FIFA世界盃：突尼斯 對 日本</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/090a6c0ea480c8985bd10db59f301eb6.png"/>
-  </programme>
-  <programme start="20260622125500 +0800" stop="20260622130000 +0800" channel="8601093">
-    <title lang="zh">體育新聞</title>
-  </programme>
-  <programme start="20260622130000 +0800" stop="20260622140500 +0800" channel="8601093">
-    <title lang="zh">直播2026 FIFA世界盃：突尼斯 對 日本</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/090a6c0ea480c8985bd10db59f301eb6.png"/>
-  </programme>
-  <programme start="20260622140500 +0800" stop="20260622141500 +0800" channel="8601093">
-    <title lang="zh">澳門經典車小百科</title>
-  </programme>
-  <programme start="20260622141500 +0800" stop="20260622151500 +0800" channel="8601093">
-    <title lang="zh">2026 WTT 重慶乒乓球冠軍賽：女單8強</title>
-  </programme>
-  <programme start="20260622151500 +0800" stop="20260622162500 +0800" channel="8601093">
-    <title lang="zh">2026 WTT 重慶乒乓球冠軍賽：男單8強</title>
-  </programme>
-  <programme start="20260622162500 +0800" stop="20260622163500 +0800" channel="8601093">
-    <title lang="zh">每周體育精華</title>
-  </programme>
-  <programme start="20260622163500 +0800" stop="20260622174000 +0800" channel="8601093">
-    <title lang="zh">2026新加坡羽毛球公開賽：女雙決賽</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/8cd6504712880960aab29f2123daee66.jpg"/>
-  </programme>
-  <programme start="20260622174000 +0800" stop="20260622185000 +0800" channel="8601093">
-    <title lang="zh">2026新加坡羽毛球公開賽：女單決賽</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/8cd6504712880960aab29f2123daee66.jpg"/>
-  </programme>
-  <programme start="20260622185000 +0800" stop="20260622190000 +0800" channel="8601093">
-    <title lang="zh">每周體育精華</title>
-  </programme>
-  <programme start="20260622190000 +0800" stop="20260622210000 +0800" channel="8601093">
-    <title lang="zh">2026 FIFA世界盃：荷蘭 對 瑞典</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/090a6c0ea480c8985bd10db59f301eb6.png"/>
-  </programme>
-  <programme start="20260622210000 +0800" stop="20260622210500 +0800" channel="8601093">
-    <title lang="zh">體育新聞</title>
-  </programme>
-  <programme start="20260622210500 +0800" stop="20260622220000 +0800" channel="8601093">
-    <title lang="zh">2025歐洲勒芒系列賽精華︰第五集 銀石站</title>
-  </programme>
-  <programme start="20260622220000 +0800" stop="20260622223000 +0800" channel="8601093">
-    <title lang="zh">Goal舉世界盃</title>
-  </programme>
-  <programme start="20260622223000 +0800" stop="20260622224000 +0800" channel="8601093">
-    <title lang="zh">體育新聞</title>
-  </programme>
-  <programme start="20260622224000 +0800" stop="20260622225000 +0800" channel="8601093">
-    <title lang="zh">澳門經典車小百科</title>
-  </programme>
-  <programme start="20260622225000 +0800" stop="20260622235000 +0800" channel="8601093">
-    <title lang="zh">2025/2026 滑雪世界盃系列賽：自由式滑雪障礙追逐法國瓦托倫斯站</title>
-  </programme>
-  <programme start="20260622235000 +0800" stop="20260623020000 +0800" channel="8601093">
-    <title lang="zh">直播2026 FIFA世界盃：西班牙 對 沙特阿拉伯</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/090a6c0ea480c8985bd10db59f301eb6.png"/>
-  </programme>
-  <programme start="20260616000100 +0800" stop="20260616095900 +0800" channel="8601095">
+  <programme start="20260622080000 +0800" stop="20260623084900 +0800" channel="8601093">
     <title lang="zh">收台</title>
   </programme>
-  <programme start="20260616095900 +0800" stop="20260616100000 +0800" channel="8601095">
-    <title lang="zh">開台</title>
+  <programme start="20260623020000 +0800" stop="20260623021500 +0800" channel="8601093">
+    <title lang="zh">每周體育精華</title>
   </programme>
-  <programme start="20260616100000 +0800" stop="20260616125300 +0800" channel="8601095">
-    <title lang="zh">好劇連場: 星落凝成糖</title>
+  <programme start="20260623021500 +0800" stop="20260623025000 +0800" channel="8601093">
+    <title lang="zh">2025勒芒盃雜誌︰第六集 波爾堤莫站</title>
   </programme>
-  <programme start="20260616125300 +0800" stop="20260616130000 +0800" channel="8601095">
+  <programme start="20260623025000 +0800" stop="20260623050000 +0800" channel="8601093">
+    <title lang="zh">直播2026 FIFA世界盃：比利時 對 伊朗</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/090a6c0ea480c8985bd10db59f301eb6.png"/>
+  </programme>
+  <programme start="20260623050000 +0800" stop="20260623051500 +0800" channel="8601093">
     <title lang="zh">澳門經典車小百科</title>
   </programme>
-  <programme start="20260616130000 +0800" stop="20260616155300 +0800" channel="8601095">
-    <title lang="zh">好劇連場: 心靈法醫</title>
+  <programme start="20260623051500 +0800" stop="20260623055000 +0800" channel="8601093">
+    <title lang="zh">2025勒芒盃雜誌︰第七集 賽季回顧</title>
   </programme>
-  <programme start="20260616155300 +0800" stop="20260616160500 +0800" channel="8601095">
-    <title lang="zh">世界文化遺產短片</title>
+  <programme start="20260623055000 +0800" stop="20260623080000 +0800" channel="8601093">
+    <title lang="zh">直播2026 FIFA世界盃：烏拉圭 對 佛得角</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/090a6c0ea480c8985bd10db59f301eb6.png"/>
   </programme>
-  <programme start="20260616160500 +0800" stop="20260616173000 +0800" channel="8601095">
-    <title lang="zh">越戰越勇</title>
-    <desc lang="zh">《越戰越勇》為有著歌唱夢想的觀眾開放，關注他們“築夢、追夢、圓夢”的心路歷程，主打“真人、真故事”，所有創作皆以真實為核心。每個登場選手沒有任何劇本，他們只需做到“盡情歌唱”和“實話實說”。每期有6位來自全國各地、各行各業的參賽者登上舞台，通過演唱環節及點評投票對決環節，增加節目的刺激性。. 逢星期二下午4:05.</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-03/2141b7470e555cd4044042cae6f79d1a.jpg"/>
+  <programme start="20260623084900 +0800" stop="20260623085000 +0800" channel="8601093">
+    <title lang="zh">開台</title>
   </programme>
-  <programme start="20260616173000 +0800" stop="20260616175000 +0800" channel="8601095">
-    <title lang="zh">澳門早晨精華錄</title>
+  <programme start="20260623085000 +0800" stop="20260623110000 +0800" channel="8601093">
+    <title lang="zh">直播2026 FIFA世界盃：新西蘭  對 埃及</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/090a6c0ea480c8985bd10db59f301eb6.png"/>
   </programme>
-  <programme start="20260616175000 +0800" stop="20260616175800 +0800" channel="8601095">
-    <title lang="zh">國寶時刻</title>
-    <desc lang="zh">《 國寶時刻》聚焦中國各地珍貴文物，以超高清影像及創新敘事手法，深入呈現文物背後故事、歷史與文化內涵。節目每集拍攝一件文物，推動文物從“館舍展陳”融入“生活場景”，讓廣大人民共用文化遺產保護成果，也為世界人民更好地理解中國、讀懂中國提供了深刻而生動的視窗。首批發佈的50部作品包括新石器時代七孔骨笛、夏代鑲嵌綠松石獸面紋銅牌飾、周代大克鼎、秦代銅車馬、漢代長信宮燈、唐代八曲葵花形螺鈿銅鏡、宋代汝窯天藍釉刻花鵝頸瓶、元代青花蕭何月下追韓信圖梅瓶、明代《坤輿萬國全圖》、清代廣彩人物紋大碗等。本節目由「國家廣播電視總局」贈播。. 5月4日起,逢星期一至六下午5:50.</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-01/7784f883cef68bcdeeaba94a58fba7b6.jpg"/>
+  <programme start="20260623110000 +0800" stop="20260623111000 +0800" channel="8601093">
+    <title lang="zh">澳門經典車小百科</title>
   </programme>
-  <programme start="20260616175800 +0800" stop="20260616180000 +0800" channel="8601095">
-    <title lang="zh">TDM 新視點</title>
+  <programme start="20260623111000 +0800" stop="20260623124500 +0800" channel="8601093">
+    <title lang="zh">2026 WTT 重慶乒乓球冠軍賽：女單4強</title>
   </programme>
-  <programme start="20260616180000 +0800" stop="20260616182500 +0800" channel="8601095">
-    <title lang="zh">棉花糖和雲朵媽媽的快樂生活 2</title>
+  <programme start="20260623124500 +0800" stop="20260623130000 +0800" channel="8601093">
+    <title lang="zh">澳門經典車小百科</title>
   </programme>
-  <programme start="20260616182500 +0800" stop="20260616200000 +0800" channel="8601095">
-    <title lang="zh">熟年</title>
-    <desc lang="zh">《熟年》由郝蕾、王鷗、唐藝昕等主演的都市家庭劇。該劇根據伊北同名小說改編，講述熟年一族(即45歲到65歲之間的中年人)，面臨內外危機和如何妥當處理危機的家庭式溫情與悲喜的故事。中年女人張春梅(郝蕾飾)的生活在外人看來堪稱完美，兒子以優異的成績考上重本；老公是教授、博導，事業有成風頭正健；她自己在雜誌社副主編正有望再升一級，有房有車有存款。可實際上，春梅的苦只有她自己知道。中年毫無徵兆地到來，跟著一起來的，還有危機，丈夫偉強失蹤了。春梅盤點各種蛛絲馬跡，認定偉強出軌，然而當偉強終於好似想通回家的時候，卻向春梅提出離婚。當然，中年的危機可不止這一樁，當重重困難砸在春梅頭上的時候，她開始思考要如何應對生活壓力下的工作與家庭，如何讓自己坦然面對老去。. 逢星期一至四晚上9:25及翌日黃昏6:25 (連播2集).</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/142f9098121a7a644979114100bc73c1.jpg"/>
+  <programme start="20260623130000 +0800" stop="20260623131500 +0800" channel="8601093">
+    <title lang="zh">體育新聞</title>
   </programme>
-  <programme start="20260616200000 +0800" stop="20260616203000 +0800" channel="8601095">
-    <title lang="zh">何以嶺南 古粵探源</title>
-    <desc lang="zh">《何以嶺南 古粵探源》是一部講述“嶺南文化發祥地”的考古紀錄片，廣東省內獨家跟進黃埔、增城兩處先秦遺址的搶救性發掘全過程。該紀錄片講述了廣州最新考古發掘和研究成果，走入一個個考古現場，透過地層堆積、窖穴遺址、貝殼堆積等考古發現，來還原南越先民的生活場景和發展脈絡。正如紀錄片中所說：我們雖不能馬上找到答案，但每一個考古新發現都會讓我們有新的認識，讓我們離找到答案更近一步。無數的考古發現，多學科的研究成果，終將助力我們繪製一幅嶺南先民生產生活、嶺南文化發生發展並融入華夏文明的生動歷史圖景。本節目由贈播。. 星期二晚上8:00澳門綜藝/星期日下午2:00澳門資訊.</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/cdf5c5b9e0112f12c9168cfcf8ccafc3.jpg"/>
+  <programme start="20260623131500 +0800" stop="20260623142500 +0800" channel="8601093">
+    <title lang="zh">2026新加坡羽毛球公開賽：混雙決賽</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/8cd6504712880960aab29f2123daee66.jpg"/>
   </programme>
-  <programme start="20260616203000 +0800" stop="20260616210000 +0800" channel="8601095">
-    <title lang="zh">愛在灣區II</title>
-    <desc lang="zh">《愛在灣區》第二季由五洲傳播有限公司、廣東廣播電視台、澳門廣播電視股份有限公司等聯合出品，並入選第二屆“新時代·新影像”中外聯合創作計畫。《愛在灣區》第一季以細膩的視角、生動的故事，成功展現了粵港澳大灣區的人文風貌與發展活力。第二季在第一季成功的基礎上實現全面升級，以\"浪潮\"為意象，生動展現大灣區在科技創新、產業升級、民生融合、文化交流等關鍵領域迸發的時代活力，聚焦粵港澳大灣區建設縱深推進的新階段，深入挖掘這片熱土上湧現的新氣象、新成就、新故事。第2及3集播放安排:2,9/6，星期二晚上8:30澳門綜藝;4/6，星期四凌晨5:20、上午11:25、下午4:40、晚上7:00(連播2集)澳門-Macau衛星頻道第4集播放安排:16/6，星期二晚上8:30澳門綜藝;11/6，星期四凌晨5:20、上午11:25、下午4:40、晚上7:00澳門-Macau衛星頻道.</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/72b21e854a2f74eaba7b61a86b1413fc.jpg"/>
+  <programme start="20260623142500 +0800" stop="20260623155000 +0800" channel="8601093">
+    <title lang="zh">2026新加坡羽毛球公開賽：男雙決賽</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/8cd6504712880960aab29f2123daee66.jpg"/>
   </programme>
-  <programme start="20260616210000 +0800" stop="20260616212500 +0800" channel="8601095">
-    <title lang="zh">趨記茶餐廳</title>
-    <desc lang="zh">一部以澳門茶餐廳為背景的輕鬆幽默連續劇，故事圍繞茶餐廳的日常營運展開，當中穿插生活熱話，搞笑得來又有共鳴，歡迎大家光臨！. 逢星期五 21:33.</desc>
-    <credits>
-      <presenter>莫敬鋒</presenter>
-      <presenter>區倩欣</presenter>
-      <presenter>李立勝</presenter>
-      <presenter>黃嘉燕</presenter>
-      <presenter>陳璟威</presenter>
-    </credits>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/e0526e37ee2455f7bd5b54c5f9b81bb0.jpg"/>
+  <programme start="20260623155000 +0800" stop="20260623165000 +0800" channel="8601093">
+    <title lang="zh">2026年超級跑車錦標賽精華：第五集 - 陶波站</title>
   </programme>
-  <programme start="20260616212500 +0800" stop="20260616213500 +0800" channel="8601095">
-    <title lang="zh">四川非遺100 - 第四季</title>
-    <desc lang="zh">《四川非遺100》系列短視頻已製作播出多季，每集聚焦一個具體的四川非物質文化遺產項目及其傳承人。第四季共10集，包含峨眉武術、汶川羊皮鼓舞、丹棱嗩呐、喚馬剪紙、丹棱凍粑、德陽潮扇、閬中保寧醋、邛窯燒造、先市醬油、藏文書法（《墨香猶存》）。. 逢星期二及三晚上9:25.</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/42dfa7919a6a0a56ff4aa94d6828b66f.jpg"/>
+  <programme start="20260623165000 +0800" stop="20260623190000 +0800" channel="8601093">
+    <title lang="zh">2025溫布頓網球錦標賽︰女雙決賽</title>
   </programme>
-  <programme start="20260616213500 +0800" stop="20260616231000 +0800" channel="8601095">
-    <title lang="zh">熟年</title>
-    <desc lang="zh">《熟年》由郝蕾、王鷗、唐藝昕等主演的都市家庭劇。該劇根據伊北同名小說改編，講述熟年一族(即45歲到65歲之間的中年人)，面臨內外危機和如何妥當處理危機的家庭式溫情與悲喜的故事。中年女人張春梅(郝蕾飾)的生活在外人看來堪稱完美，兒子以優異的成績考上重本；老公是教授、博導，事業有成風頭正健；她自己在雜誌社副主編正有望再升一級，有房有車有存款。可實際上，春梅的苦只有她自己知道。中年毫無徵兆地到來，跟著一起來的，還有危機，丈夫偉強失蹤了。春梅盤點各種蛛絲馬跡，認定偉強出軌，然而當偉強終於好似想通回家的時候，卻向春梅提出離婚。當然，中年的危機可不止這一樁，當重重困難砸在春梅頭上的時候，她開始思考要如何應對生活壓力下的工作與家庭，如何讓自己坦然面對老去。. 逢星期一至四晚上9:25及翌日黃昏6:25 (連播2集).</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/142f9098121a7a644979114100bc73c1.jpg"/>
+  <programme start="20260623190000 +0800" stop="20260623210000 +0800" channel="8601093">
+    <title lang="zh">2026 FIFA世界盃：西班牙 對 沙特阿拉伯</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/090a6c0ea480c8985bd10db59f301eb6.png"/>
   </programme>
-  <programme start="20260616231000 +0800" stop="20260617000100 +0800" channel="8601095">
-    <title lang="zh">天山腳下</title>
-    <desc lang="zh">新疆涵蓋了中國所有的地貌特徵，又是多民族共存共居之地。新疆的美，隱含著中華文化一些最基本的理念和智慧。紀錄片《天山腳下》從人類的普適視角出發，展示人類普遍的生存狀態和情感狀態，片中的每一個故事都會讓人感受到最樸素卻最動人的力量。. 星期二晚上11:10.</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2023-11/ee73fd9170075e68ac1942e72919f8bc.jpg"/>
+  <programme start="20260623210000 +0800" stop="20260623211000 +0800" channel="8601093">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20260623211000 +0800" stop="20260623220000 +0800" channel="8601093">
+    <title lang="zh">環球體育</title>
+  </programme>
+  <programme start="20260623220000 +0800" stop="20260623223000 +0800" channel="8601093">
+    <title lang="zh">Goal舉世界盃</title>
+  </programme>
+  <programme start="20260623223000 +0800" stop="20260623224000 +0800" channel="8601093">
+    <title lang="zh">體育新聞</title>
+  </programme>
+  <programme start="20260623224000 +0800" stop="20260623235500 +0800" channel="8601093">
+    <title lang="zh">第25屆冬季奧運會：速度滑冰男子1500米</title>
+  </programme>
+  <programme start="20260623235500 +0800" stop="20260624005000 +0800" channel="8601093">
+    <title lang="zh">2025歐洲勒芒系列賽精華︰第六站 波爾提莫站</title>
   </programme>
   <programme start="20260617000100 +0800" stop="20260617095900 +0800" channel="8601095">
     <title lang="zh">收台</title>
@@ -3605,200 +3515,69 @@
     <desc lang="zh">《華山論鑒》是弘揚中華傳統文化的講壇、普及收藏理念與知識的課堂、辨假去偽的試金石。節目由全國知名鑒定專家坐鎮，為藏友辨假識真；並創新引入金牌店主團，彙集了眾多具有收藏經驗和鑒賞能力的古玩店主，帶來接地氣的市場分析和經驗交流。來自文物考古、博物館、拍賣公司及傳統文化研究等領域的專家、學者組成的觀察席進行延伸解讀。以“價格牌”作為創意主元素，同時也作為情節推進線索，分為“藏友預價”、“專家估價”、“店主報價”和“觀察員評價”等四個環節，圍繞藏品的文化價值與市場價格評判，四方展開交流與論辨。. 星期四,五晚上8:30/星期六,日晚上11:00.</desc>
     <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2024-07/85770e1905631d1c747320482b3403d6.jpg"/>
   </programme>
-  <programme start="20260616000200 +0800" stop="20260616005500 +0800" channel="8601096">
-    <title lang="zh">中國擁抱莫拉貝薩群島</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-08/6f2c691513ef610757dadf9741765324.png"/>
+  <programme start="20260622000100 +0800" stop="20260622095900 +0800" channel="8601095">
+    <title lang="zh">收台</title>
   </programme>
-  <programme start="20260616005500 +0800" stop="20260616013000 +0800" channel="8601096">
-    <title lang="zh">澳門經典車小百科</title>
+  <programme start="20260622095900 +0800" stop="20260622100000 +0800" channel="8601095">
+    <title lang="zh">開台</title>
   </programme>
-  <programme start="20260616013000 +0800" stop="20260616020000 +0800" channel="8601096">
-    <title lang="zh">英語新聞</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/449e1787a84188f8816af81754f1618f.jpg"/>
+  <programme start="20260622100000 +0800" stop="20260622125800 +0800" channel="8601095">
+    <title lang="zh">好劇連場: 星落凝成糖</title>
+    <desc lang="zh">由陳星旭和李蘭迪主演。該劇根據作家一度君華的同名小説改編，講述人族皇室中一對性格迥異的雙生姐妹，因一場烏龍導致錯嫁姻緣，不僅鬧出笑話無數，更牽扯出兩段浪漫唯美之戀的古裝神話愛情故事。人族皇后離奇生下了一正一邪雙生姐妹，姐姐青葵溫婉善良，受人族敬仰，被神族冊為天妃；妹妹夜曇(李蘭迪飾)則聰慧狡黠，受盡欺凌，因此被許給魔界做魔妃，神魔兩界迎親時，雙生姐妹花轎意外錯換，夜曇與神君玄商(陳星旭飾)成為歡喜冤家，而青葵入魔成為了三殿下嘲風爭儲的棋子，四界得知雙生姐妹身份關乎四界存亡後，想要殺掉雙生姐妹……. 每日上午10:00(連播4集).</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2024-11/26e17594721054f7cb69ed5cac1684f7.jpg"/>
   </programme>
-  <programme start="20260616020000 +0800" stop="20260616024000 +0800" channel="8601096">
-    <title lang="zh">葡語新聞</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/41ef4898f62a137c1f4f67d3f17db135.jpg"/>
+  <programme start="20260622125800 +0800" stop="20260622155600 +0800" channel="8601095">
+    <title lang="zh">好劇連場: 了不起的女孩</title>
   </programme>
-  <programme start="20260616024000 +0800" stop="20260616025000 +0800" channel="8601096">
-    <title lang="zh">澳門非物質文化遺產</title>
+  <programme start="20260622155600 +0800" stop="20260622160500 +0800" channel="8601095">
+    <title lang="zh">中國風</title>
   </programme>
-  <programme start="20260616025000 +0800" stop="20260616031000 +0800" channel="8601096">
+  <programme start="20260622160500 +0800" stop="20260622173000 +0800" channel="8601095">
+    <title lang="zh">星光大道</title>
+    <desc lang="zh">《星光大道》節目突出大眾參與性、娛樂性，為全國各地，各行各業的觀眾提供一個放聲歌唱，展現自我的舞台。. 逢星期一下午4:05.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-03/59b75207839a1755c4ee6c74901383e8.jpg"/>
+  </programme>
+  <programme start="20260622173000 +0800" stop="20260622175000 +0800" channel="8601095">
     <title lang="zh">澳門早晨精華錄</title>
   </programme>
-  <programme start="20260616031000 +0800" stop="20260616034000 +0800" channel="8601096">
-    <title lang="zh">馬交遊﹕澳門Chill 好玩</title>
+  <programme start="20260622175000 +0800" stop="20260622175800 +0800" channel="8601095">
+    <title lang="zh">國寶時刻</title>
+    <desc lang="zh">《 國寶時刻》聚焦中國各地珍貴文物，以超高清影像及創新敘事手法，深入呈現文物背後故事、歷史與文化內涵。節目每集拍攝一件文物，推動文物從“館舍展陳”融入“生活場景”，讓廣大人民共用文化遺產保護成果，也為世界人民更好地理解中國、讀懂中國提供了深刻而生動的視窗。首批發佈的50部作品包括新石器時代七孔骨笛、夏代鑲嵌綠松石獸面紋銅牌飾、周代大克鼎、秦代銅車馬、漢代長信宮燈、唐代八曲葵花形螺鈿銅鏡、宋代汝窯天藍釉刻花鵝頸瓶、元代青花蕭何月下追韓信圖梅瓶、明代《坤輿萬國全圖》、清代廣彩人物紋大碗等。本節目由「國家廣播電視總局」贈播。. 5月4日起,逢星期一至六下午5:50.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-01/7784f883cef68bcdeeaba94a58fba7b6.jpg"/>
   </programme>
-  <programme start="20260616034000 +0800" stop="20260616041000 +0800" channel="8601096">
-    <title lang="zh">跟我走吧朋友</title>
+  <programme start="20260622175800 +0800" stop="20260622180000 +0800" channel="8601095">
+    <title lang="zh">TDM 新視點</title>
   </programme>
-  <programme start="20260616041000 +0800" stop="20260616044000 +0800" channel="8601096">
-    <title lang="zh">絲路時間USilk - 絲路美食之探尋米踪</title>
+  <programme start="20260622180000 +0800" stop="20260622182600 +0800" channel="8601095">
+    <title lang="zh">棉花糖和雲朵媽媽的快樂生活 2</title>
   </programme>
-  <programme start="20260616044000 +0800" stop="20260616052000 +0800" channel="8601096">
-    <title lang="zh">葡語新聞</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/41ef4898f62a137c1f4f67d3f17db135.jpg"/>
+  <programme start="20260622182600 +0800" stop="20260622200000 +0800" channel="8601095">
+    <title lang="zh">星星的故鄉</title>
+    <desc lang="zh">潘之琳、徐洋、王勁松主演，全劇以寧夏葡萄酒產業的發展、變遷為主線，描寫了兩代葡萄酒人堅守初心所走過的曲折道路與經歷的艱難坎坷、所付出的奉獻與犧牲精神，以葡萄酒產業發展小切口講述了中國對外開放大故事。故事講述2008年奧運前夕，年輕女孩歐陽易星（潘之琳飾）成功晉級成為頂級樂團的大提琴手，圓了音樂夢。但此時她的父親卻突遭橫禍，成了植物人，他傾注了半生心血的酒莊面臨生死存亡之憂。易星在親情與夢想間糾葛，她漸漸感受到了父親當年對“戈壁變綠洲”的創業激情和堅守，酒莊在她心裡成了父親的化身。年輕的天才釀酒師齊路（徐洋飾）為了釀出最好的葡萄酒來到賀蘭山腳下，在這裡跟易星相遇。兩人克服困難保住了酒莊，還代表中國葡萄酒登上了世界舞台。在一系列產業政策支持下，百萬畝葡萄長廊彙聚起越來越多的葡萄酒“追夢人”，葡萄酒產業迎來了新的發展機遇。歷經十五年的拼搏，易星酒莊在兩個年輕人手裡破繭成蝶；經過不懈的治療，在床上躺了十多年的父親也奇跡般蘇醒。一家人的幸福瞬間在綠色的葡萄園裡定格。本節目由「寧夏廣播電視台」贈播。. 逢星期六至一黃昏6:25(連播2集).</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-04/3a43be87e2f5f0c349c7e66ae942522d.jpg"/>
   </programme>
-  <programme start="20260616052000 +0800" stop="20260616054500 +0800" channel="8601096">
-    <title lang="zh">口述澳門歷史名人堂 II</title>
-    <desc lang="zh">澳門，這個座落在南海之濱的小城巿，是祖國的一顆掌上明珠，也是東西方文化交織相融之地，曾有不少歷史名人在此駐足停留，對後世影響深遠。《口述澳門歷史名人堂2》將延續第一季節目的精神，與觀眾一起探尋歷史名人們留下過的足跡，並以光影為墨、以鏡頭為筆，發掘珍貴文獻素材，結合專家學者們的深度分享，記錄先賢們的卓越貢獻，打造值得代代相傳的文化經典。. 澳視澳門91台　5月23日起逢星期六20:00播放　　　　　　　　　　　\r\n澳門-Macau96台　5月26日起逢星期二05:20/11:20/14:30/19:00播放 \r\n澳門綜藝95台　5月27日起逢星期三21:00播放.</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/e3682d777c71692d0a7a8023a8d97237.jpg"/>
+  <programme start="20260622200000 +0800" stop="20260622205000 +0800" channel="8601095">
+    <title lang="zh">動物遊蹤</title>
+    <desc lang="zh">驅車到非洲動物保護區，近距離觀察各種野生動物百態，當中不乏凶猛野獸，一次次冒險之旅，前所未有的野生動物觀察體驗。. 逢星期一晚上8:00.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2024-11/0f72ff290c2303923aece4e31f876135.jpg"/>
   </programme>
-  <programme start="20260616054500 +0800" stop="20260616060000 +0800" channel="8601096">
-    <title lang="zh">家家有餸煮</title>
+  <programme start="20260622205000 +0800" stop="20260622210000 +0800" channel="8601095">
+    <title lang="zh">虹翼行動</title>
+    <desc lang="zh">《虹翼行動》是由香港海關與廣州廣播電視台聯合協拍的首部禁毒微短劇(香港版本名為《糖衣毒約》)。共分為六集，改編自真實案件，講述年輕人因貪圖利益或誤交損友而踏上販毒不歸路的故事，並在第二屆國際微短劇大賽中榮獲優秀作品獎。本節目由贈播。. 6月8日起，逢星期一晚上8:50(星期六下午4:27重播).</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/d61292a5c8bd49ad497c91fe9c0c70ea.jpg"/>
   </programme>
-  <programme start="20260616060000 +0800" stop="20260616065200 +0800" channel="8601096">
-    <title lang="zh">中國擁抱莫拉貝薩群島</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-08/6f2c691513ef610757dadf9741765324.png"/>
+  <programme start="20260622210000 +0800" stop="20260622213500 +0800" channel="8601095">
+    <title lang="zh">江河與共</title>
+    <desc lang="zh">《江河與共》以小切口反映大主題，記錄習近平生態文明思想在長江大保護方面豐碩成果，彰顯中國新型政黨制度的獨特優勢與強大效能。創作團隊歷時一年半深耕細作，組建多支攝製組，足跡遍佈長江沿岸9個省份、40多個縣市區，用鏡頭真實捕捉各民主黨派、無黨派人士深入一線開展調研、精準實施靶向監督、積極建言資政、推動問題整改的履職全過程。《江河與共》以監督者、參與者、見證者的多維視角，對5年實踐進行高度提煉與系統梳理，深入挖掘了約50個鮮活的人物故事，讓觀眾讀懂一江碧水背後凝聚的多方守護合力。本節目由贈播。. 6月1日起，逢星期一晚上9:00(連播兩集)澳門綜藝/6月2日起，逢星期二及三中午12:45澳視澳門/6月6日起，逢星期六凌晨5:20、下午2:30、黃昏6:10、晚上9:30 (連播兩集) 澳門-Macau衛星頻道.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/435be88638a39e8821e58bfbb795d95e.jpg"/>
   </programme>
-  <programme start="20260616065200 +0800" stop="20260616070000 +0800" channel="8601096">
-    <title lang="zh">好書分享</title>
+  <programme start="20260622213500 +0800" stop="20260622231000 +0800" channel="8601095">
+    <title lang="zh">熟年</title>
+    <desc lang="zh">《熟年》由郝蕾、王鷗、唐藝昕等主演的都市家庭劇。該劇根據伊北同名小說改編，講述熟年一族(即45歲到65歲之間的中年人)，面臨內外危機和如何妥當處理危機的家庭式溫情與悲喜的故事。中年女人張春梅(郝蕾飾)的生活在外人看來堪稱完美，兒子以優異的成績考上重本；老公是教授、博導，事業有成風頭正健；她自己在雜誌社副主編正有望再升一級，有房有車有存款。可實際上，春梅的苦只有她自己知道。中年毫無徵兆地到來，跟著一起來的，還有危機，丈夫偉強失蹤了。春梅盤點各種蛛絲馬跡，認定偉強出軌，然而當偉強終於好似想通回家的時候，卻向春梅提出離婚。當然，中年的危機可不止這一樁，當重重困難砸在春梅頭上的時候，她開始思考要如何應對生活壓力下的工作與家庭，如何讓自己坦然面對老去。. 逢星期一至四晚上9:25及翌日黃昏6:25 (連播2集).</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/142f9098121a7a644979114100bc73c1.jpg"/>
   </programme>
-  <programme start="20260616070000 +0800" stop="20260616073000 +0800" channel="8601096">
-    <title lang="zh">美味緣是您</title>
-  </programme>
-  <programme start="20260616073000 +0800" stop="20260616080000 +0800" channel="8601096">
-    <title lang="zh">英語新聞</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/449e1787a84188f8816af81754f1618f.jpg"/>
-  </programme>
-  <programme start="20260616080000 +0800" stop="20260616083000 +0800" channel="8601096">
-    <title lang="zh">馬交遊﹕澳門Chill 好玩</title>
-  </programme>
-  <programme start="20260616083000 +0800" stop="20260616085200 +0800" channel="8601096">
-    <title lang="zh">澳門人澳門事</title>
-    <desc lang="zh">活在澳門, 感受生活,,探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。. 逢星期二、四，晚上 21:33《澳視澳門》(91台).</desc>
-    <credits>
-      <presenter>區倩欣</presenter>
-      <presenter>陳璟威</presenter>
-      <presenter>馮露沙</presenter>
-    </credits>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/ea61fc8af7964a7bafb909326638dfcd.jpg"/>
-  </programme>
-  <programme start="20260616085200 +0800" stop="20260616092000 +0800" channel="8601096">
-    <title lang="zh">灣區全媒睇</title>
-  </programme>
-  <programme start="20260616092000 +0800" stop="20260616095000 +0800" channel="8601096">
-    <title lang="zh">風火台</title>
-  </programme>
-  <programme start="20260616095000 +0800" stop="20260616100000 +0800" channel="8601096">
-    <title lang="zh">澳門非物質文化遺產</title>
-  </programme>
-  <programme start="20260616100000 +0800" stop="20260616103000 +0800" channel="8601096">
-    <title lang="zh">粵語新聞</title>
-  </programme>
-  <programme start="20260616103000 +0800" stop="20260616110000 +0800" channel="8601096">
-    <title lang="zh">跟我走吧朋友</title>
-  </programme>
-  <programme start="20260616110000 +0800" stop="20260616113000 +0800" channel="8601096">
-    <title lang="zh">絲路時間USilk - 絲路美食之探尋米踪</title>
-  </programme>
-  <programme start="20260616113000 +0800" stop="20260616115200 +0800" channel="8601096">
-    <title lang="zh">口述澳門歷史名人堂 II</title>
-    <desc lang="zh">澳門，這個座落在南海之濱的小城巿，是祖國的一顆掌上明珠，也是東西方文化交織相融之地，曾有不少歷史名人在此駐足停留，對後世影響深遠。《口述澳門歷史名人堂2》將延續第一季節目的精神，與觀眾一起探尋歷史名人們留下過的足跡，並以光影為墨、以鏡頭為筆，發掘珍貴文獻素材，結合專家學者們的深度分享，記錄先賢們的卓越貢獻，打造值得代代相傳的文化經典。. 澳視澳門91台　5月23日起逢星期六20:00播放　　　　　　　　　　　\r\n澳門-Macau96台　5月26日起逢星期二05:20/11:20/14:30/19:00播放 \r\n澳門綜藝95台　5月27日起逢星期三21:00播放.</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/e3682d777c71692d0a7a8023a8d97237.jpg"/>
-  </programme>
-  <programme start="20260616115200 +0800" stop="20260616120000 +0800" channel="8601096">
-    <title lang="zh">澳門世遺短片</title>
-  </programme>
-  <programme start="20260616120000 +0800" stop="20260616123000 +0800" channel="8601096">
-    <title lang="zh">馬交遊﹕澳門Chill 好玩</title>
-  </programme>
-  <programme start="20260616123000 +0800" stop="20260616130000 +0800" channel="8601096">
-    <title lang="zh">風火台</title>
-  </programme>
-  <programme start="20260616130000 +0800" stop="20260616133000 +0800" channel="8601096">
-    <title lang="zh">美味緣是您</title>
-  </programme>
-  <programme start="20260616133000 +0800" stop="20260616135200 +0800" channel="8601096">
-    <title lang="zh">澳門人澳門事</title>
-    <desc lang="zh">活在澳門, 感受生活,,探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。. 逢星期二、四，晚上 21:33《澳視澳門》(91台).</desc>
-    <credits>
-      <presenter>區倩欣</presenter>
-      <presenter>陳璟威</presenter>
-      <presenter>馮露沙</presenter>
-    </credits>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/ea61fc8af7964a7bafb909326638dfcd.jpg"/>
-  </programme>
-  <programme start="20260616135200 +0800" stop="20260616140000 +0800" channel="8601096">
-    <title lang="zh">家家有餸煮</title>
-  </programme>
-  <programme start="20260616140000 +0800" stop="20260616143000 +0800" channel="8601096">
-    <title lang="zh">粵語新聞</title>
-  </programme>
-  <programme start="20260616143000 +0800" stop="20260616145200 +0800" channel="8601096">
-    <title lang="zh">口述澳門歷史名人堂 II</title>
-    <desc lang="zh">澳門，這個座落在南海之濱的小城巿，是祖國的一顆掌上明珠，也是東西方文化交織相融之地，曾有不少歷史名人在此駐足停留，對後世影響深遠。《口述澳門歷史名人堂2》將延續第一季節目的精神，與觀眾一起探尋歷史名人們留下過的足跡，並以光影為墨、以鏡頭為筆，發掘珍貴文獻素材，結合專家學者們的深度分享，記錄先賢們的卓越貢獻，打造值得代代相傳的文化經典。. 澳視澳門91台　5月23日起逢星期六20:00播放　　　　　　　　　　　\r\n澳門-Macau96台　5月26日起逢星期二05:20/11:20/14:30/19:00播放 \r\n澳門綜藝95台　5月27日起逢星期三21:00播放.</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/e3682d777c71692d0a7a8023a8d97237.jpg"/>
-  </programme>
-  <programme start="20260616145200 +0800" stop="20260616150000 +0800" channel="8601096">
-    <title lang="zh">澳門世遺短片</title>
-  </programme>
-  <programme start="20260616150000 +0800" stop="20260616154000 +0800" channel="8601096">
-    <title lang="zh">葡語新聞</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/41ef4898f62a137c1f4f67d3f17db135.jpg"/>
-  </programme>
-  <programme start="20260616154000 +0800" stop="20260616161000 +0800" channel="8601096">
-    <title lang="zh">跟我走吧朋友</title>
-  </programme>
-  <programme start="20260616161000 +0800" stop="20260616164000 +0800" channel="8601096">
-    <title lang="zh">絲路時間USilk - 絲路美食之探尋米踪</title>
-  </programme>
-  <programme start="20260616164000 +0800" stop="20260616173200 +0800" channel="8601096">
-    <title lang="zh">中國擁抱莫拉貝薩群島</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-08/6f2c691513ef610757dadf9741765324.png"/>
-  </programme>
-  <programme start="20260616173200 +0800" stop="20260616174000 +0800" channel="8601096">
-    <title lang="zh">好書分享</title>
-  </programme>
-  <programme start="20260616174000 +0800" stop="20260616181000 +0800" channel="8601096">
-    <title lang="zh">馬交遊﹕澳門Chill 好玩</title>
-  </programme>
-  <programme start="20260616181000 +0800" stop="20260616184000 +0800" channel="8601096">
-    <title lang="zh">美味緣是您</title>
-  </programme>
-  <programme start="20260616184000 +0800" stop="20260616190000 +0800" channel="8601096">
-    <title lang="zh">澳門早晨精華錄</title>
-  </programme>
-  <programme start="20260616190000 +0800" stop="20260616192500 +0800" channel="8601096">
-    <title lang="zh">口述澳門歷史名人堂 II</title>
-    <desc lang="zh">澳門，這個座落在南海之濱的小城巿，是祖國的一顆掌上明珠，也是東西方文化交織相融之地，曾有不少歷史名人在此駐足停留，對後世影響深遠。《口述澳門歷史名人堂2》將延續第一季節目的精神，與觀眾一起探尋歷史名人們留下過的足跡，並以光影為墨、以鏡頭為筆，發掘珍貴文獻素材，結合專家學者們的深度分享，記錄先賢們的卓越貢獻，打造值得代代相傳的文化經典。. 澳視澳門91台　5月23日起逢星期六20:00播放　　　　　　　　　　　\r\n澳門-Macau96台　5月26日起逢星期二05:20/11:20/14:30/19:00播放 \r\n澳門綜藝95台　5月27日起逢星期三21:00播放.</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/e3682d777c71692d0a7a8023a8d97237.jpg"/>
-  </programme>
-  <programme start="20260616192500 +0800" stop="20260616200000 +0800" channel="8601096">
-    <title lang="zh">風火台</title>
-  </programme>
-  <programme start="20260616200000 +0800" stop="20260616210000 +0800" channel="8601096">
-    <title lang="zh">粵語新聞</title>
-    <desc lang="zh">《澳視澳門》《澳門資訊》《澳門-Macau》衛星頻道：每日19:00.</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg"/>
-  </programme>
-  <programme start="20260616210000 +0800" stop="20260616212900 +0800" channel="8601096">
-    <title lang="zh">灣區全媒睇</title>
-  </programme>
-  <programme start="20260616212900 +0800" stop="20260616220000 +0800" channel="8601096">
-    <title lang="zh">澳門經典車小百科</title>
-  </programme>
-  <programme start="20260616220000 +0800" stop="20260616225000 +0800" channel="8601096">
-    <title lang="zh">粵語新聞</title>
-    <desc lang="zh">《澳視澳門》《澳門資訊》《澳門-Macau》衛星頻道：每日19:00.</desc>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg"/>
-  </programme>
-  <programme start="20260616225000 +0800" stop="20260616230000 +0800" channel="8601096">
-    <title lang="zh">澳門非物質文化遺產</title>
-  </programme>
-  <programme start="20260616230000 +0800" stop="20260616234000 +0800" channel="8601096">
-    <title lang="zh">葡語新聞</title>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/41ef4898f62a137c1f4f67d3f17db135.jpg"/>
-  </programme>
-  <programme start="20260616234000 +0800" stop="20260617000200 +0800" channel="8601096">
-    <title lang="zh">澳門人澳門事</title>
-    <desc lang="zh">活在澳門, 感受生活,,探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。. 逢星期二、四，晚上 21:33《澳視澳門》(91台).</desc>
-    <credits>
-      <presenter>區倩欣</presenter>
-      <presenter>陳璟威</presenter>
-      <presenter>馮露沙</presenter>
-    </credits>
-    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/ea61fc8af7964a7bafb909326638dfcd.jpg"/>
+  <programme start="20260622231000 +0800" stop="20260623000100 +0800" channel="8601095">
+    <title lang="zh">戰士的道路</title>
   </programme>
   <programme start="20260617000200 +0800" stop="20260617004200 +0800" channel="8601096">
     <title lang="zh">葡語體育</title>
@@ -4789,6 +4568,239 @@
     <title lang="zh">時局綜觀-英文字幕版</title>
   </programme>
   <programme start="20260621230000 +0800" stop="20260621234000 +0800" channel="8601096">
+    <title lang="zh">葡語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/41ef4898f62a137c1f4f67d3f17db135.jpg"/>
+  </programme>
+  <programme start="20260621234000 +0800" stop="20260622000200 +0800" channel="8601096">
+    <title lang="zh">家家有本事</title>
+    <desc lang="zh">《家家有本事》為一個綜合性生活資訊的家庭類節目，邀請相關人士就相關主題提供專業知識，包括日常生活、健康資訊等元素。. 【澳視澳門91台】\r\n逢星期二 21:30 (首播)\r\n\r\n其他重播時段\r\n逢星期三 00:30、05:00、09:30\r\n逢星期日 04:30、07:00\r\n逢星期一 05:30\r\n\r\n【澳門-Macau 96台】\r\n逢星期日 10:00、14:00、21:00\r\n逢星期一 02:50、08:50、21:00.</desc>
+    <credits>
+      <presenter>梁詠欣</presenter>
+      <presenter>區倩欣</presenter>
+      <presenter>馮露沙</presenter>
+    </credits>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/183f9ff4ebfb5a560c7162d96ff7fda0.jpg"/>
+  </programme>
+  <programme start="20260622000200 +0800" stop="20260622004500 +0800" channel="8601096">
+    <title lang="zh">記憶的印記</title>
+  </programme>
+  <programme start="20260622004500 +0800" stop="20260622005500 +0800" channel="8601096">
+    <title lang="zh">家家有餸煮</title>
+  </programme>
+  <programme start="20260622005500 +0800" stop="20260622010000 +0800" channel="8601096">
+    <title lang="zh">世遺City Walk</title>
+  </programme>
+  <programme start="20260622010000 +0800" stop="20260622013000 +0800" channel="8601096">
+    <title lang="zh">唐‧西豐味</title>
+  </programme>
+  <programme start="20260622013000 +0800" stop="20260622020000 +0800" channel="8601096">
+    <title lang="zh">英語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/449e1787a84188f8816af81754f1618f.jpg"/>
+  </programme>
+  <programme start="20260622020000 +0800" stop="20260622024000 +0800" channel="8601096">
+    <title lang="zh">葡語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/41ef4898f62a137c1f4f67d3f17db135.jpg"/>
+  </programme>
+  <programme start="20260622024000 +0800" stop="20260622025000 +0800" channel="8601096">
+    <title lang="zh">澳門非物質文化遺產</title>
+  </programme>
+  <programme start="20260622025000 +0800" stop="20260622031000 +0800" channel="8601096">
+    <title lang="zh">澳門歷史人物</title>
+  </programme>
+  <programme start="20260622031000 +0800" stop="20260622034000 +0800" channel="8601096">
+    <title lang="zh">#文青這樣玩</title>
+    <desc lang="zh">以文青的角度出發，每集精選不同主題，介紹相關之文創產品及打卡熱點，用唯美的畫面帶領觀眾尋找文創寶藏﹑更會介紹文青最愛的網紅美食，展現澳門獨特迷人的一面。. 由7月24日起，逢星期三晚上九時三十分，澳視澳門。.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2024-07/3bfd361587d28fd76066612830a519d5.jpg"/>
+  </programme>
+  <programme start="20260622034000 +0800" stop="20260622042500 +0800" channel="8601096">
+    <title lang="zh">港珠澳大橋</title>
+  </programme>
+  <programme start="20260622042500 +0800" stop="20260622043500 +0800" channel="8601096">
+    <title lang="zh">好書分享</title>
+  </programme>
+  <programme start="20260622043500 +0800" stop="20260622044000 +0800" channel="8601096">
+    <title lang="zh">世遺City Walk</title>
+  </programme>
+  <programme start="20260622044000 +0800" stop="20260622052000 +0800" channel="8601096">
+    <title lang="zh">葡語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/41ef4898f62a137c1f4f67d3f17db135.jpg"/>
+  </programme>
+  <programme start="20260622052000 +0800" stop="20260622055000 +0800" channel="8601096">
+    <title lang="zh">唐‧西豐味</title>
+  </programme>
+  <programme start="20260622055000 +0800" stop="20260622060000 +0800" channel="8601096">
+    <title lang="zh">家家有餸煮</title>
+  </programme>
+  <programme start="20260622060000 +0800" stop="20260622064000 +0800" channel="8601096">
+    <title lang="zh">記憶的印記</title>
+  </programme>
+  <programme start="20260622064000 +0800" stop="20260622065000 +0800" channel="8601096">
+    <title lang="zh">澳門非物質文化遺產</title>
+  </programme>
+  <programme start="20260622065000 +0800" stop="20260622070000 +0800" channel="8601096">
+    <title lang="zh">世遺City Walk</title>
+  </programme>
+  <programme start="20260622070000 +0800" stop="20260622073000 +0800" channel="8601096">
+    <title lang="zh">澳門老店—傳承</title>
+    <desc lang="zh">為慶祝澳門回歸25周年，本次將製作《澳門老店—傳承》節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事。我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式、承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變。訴說眼中的澳門，心中的家國情懷。. 由2024年11月20日開始，逢星期三晚上九點半播出。.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2024-11/c0ed933ba37acbb313b3f24c5b5603aa.jpg"/>
+  </programme>
+  <programme start="20260622073000 +0800" stop="20260622080000 +0800" channel="8601096">
+    <title lang="zh">英語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/449e1787a84188f8816af81754f1618f.jpg"/>
+  </programme>
+  <programme start="20260622080000 +0800" stop="20260622083000 +0800" channel="8601096">
+    <title lang="zh">#文青這樣玩</title>
+    <desc lang="zh">以文青的角度出發，每集精選不同主題，介紹相關之文創產品及打卡熱點，用唯美的畫面帶領觀眾尋找文創寶藏﹑更會介紹文青最愛的網紅美食，展現澳門獨特迷人的一面。. 由7月24日起，逢星期三晚上九時三十分，澳視澳門。.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2024-07/3bfd361587d28fd76066612830a519d5.jpg"/>
+  </programme>
+  <programme start="20260622083000 +0800" stop="20260622085500 +0800" channel="8601096">
+    <title lang="zh">澳門人澳門事</title>
+    <desc lang="zh">活在澳門, 感受生活,,探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。. 逢星期二、四，晚上 21:33《澳視澳門》(91台).</desc>
+    <credits>
+      <presenter>區倩欣</presenter>
+      <presenter>陳璟威</presenter>
+      <presenter>馮露沙</presenter>
+    </credits>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/ea61fc8af7964a7bafb909326638dfcd.jpg"/>
+  </programme>
+  <programme start="20260622085500 +0800" stop="20260622092000 +0800" channel="8601096">
+    <title lang="zh">家家有本事</title>
+    <desc lang="zh">《家家有本事》為一個綜合性生活資訊的家庭類節目，邀請相關人士就相關主題提供專業知識，包括日常生活、健康資訊等元素。. 【澳視澳門91台】\r\n逢星期二 21:30 (首播)\r\n\r\n其他重播時段\r\n逢星期三 00:30、05:00、09:30\r\n逢星期日 04:30、07:00\r\n逢星期一 05:30\r\n\r\n【澳門-Macau 96台】\r\n逢星期日 10:00、14:00、21:00\r\n逢星期一 02:50、08:50、21:00.</desc>
+    <credits>
+      <presenter>梁詠欣</presenter>
+      <presenter>區倩欣</presenter>
+      <presenter>馮露沙</presenter>
+    </credits>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/183f9ff4ebfb5a560c7162d96ff7fda0.jpg"/>
+  </programme>
+  <programme start="20260622092000 +0800" stop="20260622100000 +0800" channel="8601096">
+    <title lang="zh">中國城市動態</title>
+  </programme>
+  <programme start="20260622100000 +0800" stop="20260622103000 +0800" channel="8601096">
+    <title lang="zh">粵語新聞</title>
+  </programme>
+  <programme start="20260622103000 +0800" stop="20260622111300 +0800" channel="8601096">
+    <title lang="zh">港珠澳大橋</title>
+  </programme>
+  <programme start="20260622111300 +0800" stop="20260622112000 +0800" channel="8601096">
+    <title lang="zh">好書分享</title>
+  </programme>
+  <programme start="20260622112000 +0800" stop="20260622115000 +0800" channel="8601096">
+    <title lang="zh">唐‧西豐味</title>
+  </programme>
+  <programme start="20260622115000 +0800" stop="20260622122000 +0800" channel="8601096">
+    <title lang="zh">#文青這樣玩</title>
+    <desc lang="zh">以文青的角度出發，每集精選不同主題，介紹相關之文創產品及打卡熱點，用唯美的畫面帶領觀眾尋找文創寶藏﹑更會介紹文青最愛的網紅美食，展現澳門獨特迷人的一面。. 由7月24日起，逢星期三晚上九時三十分，澳視澳門。.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2024-07/3bfd361587d28fd76066612830a519d5.jpg"/>
+  </programme>
+  <programme start="20260622122000 +0800" stop="20260622130000 +0800" channel="8601096">
+    <title lang="zh">中國城市動態</title>
+  </programme>
+  <programme start="20260622130000 +0800" stop="20260622133000 +0800" channel="8601096">
+    <title lang="zh">澳門老店—傳承</title>
+    <desc lang="zh">為慶祝澳門回歸25周年，本次將製作《澳門老店—傳承》節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事。我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式、承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變。訴說眼中的澳門，心中的家國情懷。. 由2024年11月20日開始，逢星期三晚上九點半播出。.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2024-11/c0ed933ba37acbb313b3f24c5b5603aa.jpg"/>
+  </programme>
+  <programme start="20260622133000 +0800" stop="20260622135200 +0800" channel="8601096">
+    <title lang="zh">澳門人澳門事</title>
+    <desc lang="zh">活在澳門, 感受生活,,探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。. 逢星期二、四，晚上 21:33《澳視澳門》(91台).</desc>
+    <credits>
+      <presenter>區倩欣</presenter>
+      <presenter>陳璟威</presenter>
+      <presenter>馮露沙</presenter>
+    </credits>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/ea61fc8af7964a7bafb909326638dfcd.jpg"/>
+  </programme>
+  <programme start="20260622135200 +0800" stop="20260622140000 +0800" channel="8601096">
+    <title lang="zh">家家有餸煮</title>
+  </programme>
+  <programme start="20260622140000 +0800" stop="20260622143000 +0800" channel="8601096">
+    <title lang="zh">粵語新聞</title>
+  </programme>
+  <programme start="20260622143000 +0800" stop="20260622150000 +0800" channel="8601096">
+    <title lang="zh">唐‧西豐味</title>
+  </programme>
+  <programme start="20260622150000 +0800" stop="20260622154000 +0800" channel="8601096">
+    <title lang="zh">葡語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/41ef4898f62a137c1f4f67d3f17db135.jpg"/>
+  </programme>
+  <programme start="20260622154000 +0800" stop="20260622162500 +0800" channel="8601096">
+    <title lang="zh">港珠澳大橋</title>
+  </programme>
+  <programme start="20260622162500 +0800" stop="20260622163000 +0800" channel="8601096">
+    <title lang="zh">澳門非物質文化遺產</title>
+  </programme>
+  <programme start="20260622163000 +0800" stop="20260622164000 +0800" channel="8601096">
+    <title lang="zh">世遺City Walk</title>
+  </programme>
+  <programme start="20260622164000 +0800" stop="20260622172000 +0800" channel="8601096">
+    <title lang="zh">記憶的印記</title>
+  </programme>
+  <programme start="20260622172000 +0800" stop="20260622173000 +0800" channel="8601096">
+    <title lang="zh">好書分享</title>
+  </programme>
+  <programme start="20260622173000 +0800" stop="20260622174000 +0800" channel="8601096">
+    <title lang="zh">家家有餸煮</title>
+  </programme>
+  <programme start="20260622174000 +0800" stop="20260622181000 +0800" channel="8601096">
+    <title lang="zh">#文青這樣玩</title>
+    <desc lang="zh">以文青的角度出發，每集精選不同主題，介紹相關之文創產品及打卡熱點，用唯美的畫面帶領觀眾尋找文創寶藏﹑更會介紹文青最愛的網紅美食，展現澳門獨特迷人的一面。. 由7月24日起，逢星期三晚上九時三十分，澳視澳門。.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2024-07/3bfd361587d28fd76066612830a519d5.jpg"/>
+  </programme>
+  <programme start="20260622181000 +0800" stop="20260622184000 +0800" channel="8601096">
+    <title lang="zh">澳門老店—傳承</title>
+    <desc lang="zh">為慶祝澳門回歸25周年，本次將製作《澳門老店—傳承》節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事。我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式、承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變。訴說眼中的澳門，心中的家國情懷。. 由2024年11月20日開始，逢星期三晚上九點半播出。.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2024-11/c0ed933ba37acbb313b3f24c5b5603aa.jpg"/>
+  </programme>
+  <programme start="20260622184000 +0800" stop="20260622190000 +0800" channel="8601096">
+    <title lang="zh">澳門早晨精華錄</title>
+  </programme>
+  <programme start="20260622190000 +0800" stop="20260622192200 +0800" channel="8601096">
+    <title lang="zh">趨記茶餐廳</title>
+    <desc lang="zh">一部以澳門茶餐廳為背景的輕鬆幽默連續劇，故事圍繞茶餐廳的日常營運展開，當中穿插生活熱話，搞笑得來又有共鳴，歡迎大家光臨！. 逢星期五 21:33.</desc>
+    <credits>
+      <presenter>莫敬鋒</presenter>
+      <presenter>區倩欣</presenter>
+      <presenter>李立勝</presenter>
+      <presenter>黃嘉燕</presenter>
+      <presenter>陳璟威</presenter>
+    </credits>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/e0526e37ee2455f7bd5b54c5f9b81bb0.jpg"/>
+  </programme>
+  <programme start="20260622192200 +0800" stop="20260622200000 +0800" channel="8601096">
+    <title lang="zh">中國城市動態</title>
+  </programme>
+  <programme start="20260622200000 +0800" stop="20260622210000 +0800" channel="8601096">
+    <title lang="zh">粵語新聞</title>
+    <desc lang="zh">《澳視澳門》《澳門資訊》《澳門-Macau》衛星頻道：每日19:00.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg"/>
+  </programme>
+  <programme start="20260622210000 +0800" stop="20260622212200 +0800" channel="8601096">
+    <title lang="zh">澳門人澳門事</title>
+    <desc lang="zh">活在澳門, 感受生活,,探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。. 逢星期二、四，晚上 21:33《澳視澳門》(91台).</desc>
+    <credits>
+      <presenter>區倩欣</presenter>
+      <presenter>陳璟威</presenter>
+      <presenter>馮露沙</presenter>
+    </credits>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/ea61fc8af7964a7bafb909326638dfcd.jpg"/>
+  </programme>
+  <programme start="20260622212200 +0800" stop="20260622213000 +0800" channel="8601096">
+    <title lang="zh">澳門非物質文化遺產</title>
+  </programme>
+  <programme start="20260622213000 +0800" stop="20260622220000 +0800" channel="8601096">
+    <title lang="zh">唐‧西豐味</title>
+  </programme>
+  <programme start="20260622220000 +0800" stop="20260622225000 +0800" channel="8601096">
+    <title lang="zh">粵語新聞</title>
+    <desc lang="zh">《澳視澳門》《澳門資訊》《澳門-Macau》衛星頻道：每日19:00.</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg"/>
+  </programme>
+  <programme start="20260622225000 +0800" stop="20260622230000 +0800" channel="8601096">
+    <title lang="zh">世遺City Walk</title>
+  </programme>
+  <programme start="20260622230000 +0800" stop="20260622234000 +0800" channel="8601096">
     <title lang="zh">葡語新聞</title>
     <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/41ef4898f62a137c1f4f67d3f17db135.jpg"/>
   </programme>
