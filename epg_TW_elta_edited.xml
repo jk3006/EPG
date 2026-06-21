@@ -86,48 +86,6 @@
     <icon src="https://piceltaott-elta.cdn.hinet.net/upload/channel/549_pic_20260520174426.png"/>
     <url>http://www.eltaott.tv</url>
   </channel>
-  <programme start="20260620003000 +0000" stop="20260620023000 +0000" channel="88601101">
-    <title lang="zh">FIFA世界盃™ 英格蘭 VS 克羅埃西亞 L組第一輪 6/18 #22</title>
-  </programme>
-  <programme start="20260620023000 +0000" stop="20260620053000 +0000" channel="88601101">
-    <title lang="zh">FIFA世界盃™ 土耳其 VS 巴拉圭 D組第二輪 6/20 #31 LIVE</title>
-  </programme>
-  <programme start="20260620053000 +0000" stop="20260620074500 +0000" channel="88601101">
-    <title lang="zh">2026鑽石聯賽 卡達杜哈站 D-LIVE</title>
-  </programme>
-  <programme start="20260620074500 +0000" stop="20260620080000 +0000" channel="88601101">
-    <title lang="zh">中華職棒台鋼主場 澄清湖戰前報 6/20 LIVE</title>
-  </programme>
-  <programme start="20260620080000 +0000" stop="20260620113000 +0000" channel="88601101">
-    <title lang="zh">中華職棒 味全 VS 台鋼 例行賽 6/20 LIVE</title>
-  </programme>
-  <programme start="20260620113000 +0000" stop="20260620131500 +0000" channel="88601101">
-    <title lang="zh">2026鑽石聯賽 卡達杜哈站(精華版) 今日最新</title>
-  </programme>
-  <programme start="20260620131500 +0000" stop="20260620153000 +0000" channel="88601101">
-    <title lang="zh">FIFA世界盃™ 土耳其 VS 巴拉圭 D組第二輪 6/20 #31 今日最新</title>
-  </programme>
-  <programme start="20260620153000 +0000" stop="20260620160000 +0000" channel="88601101">
-    <title lang="zh">30分鐘看個GOAL 6/20 C/D組第二輪回顧 今日最新</title>
-  </programme>
-  <programme start="20260620160000 +0000" stop="20260620163000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 6/20 首播</title>
-  </programme>
-  <programme start="20260620163000 +0000" stop="20260620193000 +0000" channel="88601101">
-    <title lang="zh">FIFA世界盃™ 荷蘭 VS 瑞典 F組第二輪 6/21 #35 LIVE</title>
-  </programme>
-  <programme start="20260620193000 +0000" stop="20260620223000 +0000" channel="88601101">
-    <title lang="zh">FIFA世界盃™ 德國 VS 象牙海岸 E組第二輪 6/21 #33 LIVE</title>
-  </programme>
-  <programme start="20260620223000 +0000" stop="20260620230000 +0000" channel="88601101">
-    <title lang="zh">30分鐘看個GOAL 6/19 A/B組第二輪回顧</title>
-  </programme>
-  <programme start="20260620230000 +0000" stop="20260620233000 +0000" channel="88601101">
-    <title lang="zh">30分鐘看個GOAL 6/20 C/D組第二輪回顧</title>
-  </programme>
-  <programme start="20260620233000 +0000" stop="20260621023000 +0000" channel="88601101">
-    <title lang="zh">FIFA世界盃™ 厄瓜多 VS 古拉索 E組第二輪 6/21 #34 LIVE</title>
-  </programme>
   <programme start="20260621023000 +0000" stop="20260621030000 +0000" channel="88601101">
     <title lang="zh">30分鐘看個GOAL 6/19 A/B組第二輪回顧</title>
   </programme>
@@ -149,14 +107,14 @@
   <programme start="20260621074000 +0000" stop="20260621080000 +0000" channel="88601101">
     <title lang="zh">中華職棒台鋼主場 澄清湖戰前報 6/21 LIVE</title>
   </programme>
-  <programme start="20260621080000 +0000" stop="20260621111500 +0000" channel="88601101">
+  <programme start="20260621080000 +0000" stop="20260621120300 +0000" channel="88601101">
     <title lang="zh">中華職棒 味全 VS 台鋼 例行賽 6/21 LIVE</title>
   </programme>
-  <programme start="20260621111500 +0000" stop="20260621132500 +0000" channel="88601101">
+  <programme start="20260621120300 +0000" stop="20260621142000 +0000" channel="88601101">
     <title lang="zh">FIFA世界盃™ 突尼西亞 VS 日本 F組第二輪 6/21#36 今日最新</title>
   </programme>
-  <programme start="20260621132500 +0000" stop="20260621153000 +0000" channel="88601101">
-    <title lang="zh">FIFA世界盃™ 荷蘭 VS 瑞典 F組第二輪 6/21 #35 今日最新</title>
+  <programme start="20260621142000 +0000" stop="20260621153000 +0000" channel="88601101">
+    <title lang="zh">FIFA世界盃™ 荷蘭 VS 瑞典 F組第二輪 6/21 #35 (精華版) 今日最新</title>
   </programme>
   <programme start="20260621153000 +0000" stop="20260621183000 +0000" channel="88601101">
     <title lang="zh">FIFA世界盃™ 西班牙 VS 沙烏地 H組第二輪 6/22 #38 LIVE</title>
@@ -294,7 +252,7 @@
     <title lang="zh">30分鐘看個GOAL 6/24 L/K組第二輪回顧</title>
   </programme>
   <programme start="20260624163000 +0000" stop="20260624183000 +0000" channel="88601101">
-    <title lang="zh">NBA 尼克 VS 馬刺 總冠軍賽G5 6/14</title>
+    <title lang="zh">FIFA世界盃™ 荷蘭 VS 瑞典 F組第二輪 6/21 #35</title>
   </programme>
   <programme start="20260624183000 +0000" stop="20260624213000 +0000" channel="88601101">
     <title lang="zh">FIFA世界盃™ 瑞士 VS 加拿大 B組第三輪 6/25 #51 LIVE</title>
@@ -353,65 +311,74 @@
   <programme start="20260626013000 +0000" stop="20260626043000 +0000" channel="88601101">
     <title lang="zh">FIFA世界盃™ 土耳其 VS 美國 D組第三輪 6/26 #59 LIVE</title>
   </programme>
-  <programme start="20260626043000 +0000" stop="20260626070000 +0000" channel="88601101">
+  <programme start="20260626043000 +0000" stop="20260626064500 +0000" channel="88601101">
     <title lang="zh">FIFA世界盃™ 古拉索 VS 象牙海岸 E組第三輪 6/26 #55 今日最新</title>
   </programme>
-  <programme start="20260626070000 +0000" stop="20260626073000 +0000" channel="88601101">
+  <programme start="20260626064500 +0000" stop="20260626071500 +0000" channel="88601101">
+    <title lang="zh">體壇最前線 6/25</title>
+  </programme>
+  <programme start="20260626071500 +0000" stop="20260626074500 +0000" channel="88601101">
     <title lang="zh">30分鐘看個GOAL 6/26 D/E/F組第三輪回顧 首播</title>
   </programme>
-  <programme start="20260626073000 +0000" stop="20260626100000 +0000" channel="88601101">
+  <programme start="20260626074500 +0000" stop="20260626100000 +0000" channel="88601101">
     <title lang="zh">FIFA世界盃™ 日本 VS 瑞典 F組第三輪 6/26 #57 今日最新</title>
   </programme>
-  <programme start="20260626100000 +0000" stop="20260626123000 +0000" channel="88601101">
+  <programme start="20260626100000 +0000" stop="20260626121500 +0000" channel="88601101">
     <title lang="zh">FIFA世界盃™ 土耳其 VS 美國 D組第三輪 6/26 #59 今日最新</title>
   </programme>
-  <programme start="20260626123000 +0000" stop="20260626130000 +0000" channel="88601101">
+  <programme start="20260626121500 +0000" stop="20260626124500 +0000" channel="88601101">
     <title lang="zh">30分鐘看個GOAL 6/26 D/E/F組第三輪回顧 今日最新</title>
   </programme>
-  <programme start="20260626130000 +0000" stop="20260626153000 +0000" channel="88601101">
+  <programme start="20260626124500 +0000" stop="20260626150000 +0000" channel="88601101">
     <title lang="zh">FIFA世界盃™ 日本 VS 瑞典 F組第三輪 6/26 #57 今日最新</title>
+  </programme>
+  <programme start="20260626150000 +0000" stop="20260626153000 +0000" channel="88601101">
+    <title lang="zh">30分鐘看個GOAL 6/26 D/E/F組第三輪回顧 今日最新</title>
   </programme>
   <programme start="20260626153000 +0000" stop="20260626160000 +0000" channel="88601101">
     <title lang="zh">體壇最前線 6/26 首播</title>
   </programme>
-  <programme start="20260620000000 +0000" stop="20260620030000 +0000" channel="88601105">
-    <title lang="zh">FIFA世界盃™ 巴西 VS 海地 C組第二輪 6/20 #29 LIVE</title>
+  <programme start="20260626160000 +0000" stop="20260626183000 +0000" channel="88601101">
+    <title lang="zh">MLB 洋基 VS 紅襪 例行賽 6/26 今日最新</title>
   </programme>
-  <programme start="20260620030000 +0000" stop="20260620033000 +0000" channel="88601105">
-    <title lang="zh">體壇最前線 6/19</title>
+  <programme start="20260626183000 +0000" stop="20260626213000 +0000" channel="88601101">
+    <title lang="zh">FIFA世界盃™ 挪威 VS 法國 I組第三輪 6/27 #61 LIVE</title>
   </programme>
-  <programme start="20260620033000 +0000" stop="20260620040000 +0000" channel="88601105">
-    <title lang="zh">2026 BWF世界羽球雜誌#4 Shetty/Rankireddy帶你趴趴走</title>
+  <programme start="20260626213000 +0000" stop="20260626233000 +0000" channel="88601101">
+    <title lang="zh">F1 加泰隆尼亞站 正賽</title>
   </programme>
-  <programme start="20260620040000 +0000" stop="20260620080000 +0000" channel="88601105">
-    <title lang="zh">BWF 澳門公開賽 四強(上) 6/20 LIVE</title>
+  <programme start="20260626233000 +0000" stop="20260627023000 +0000" channel="88601101">
+    <title lang="zh">FIFA世界盃™ 維德角 VS 沙烏地 H組第三輪 6/27 #65 LIVE</title>
   </programme>
-  <programme start="20260620080000 +0000" stop="20260620123000 +0000" channel="88601105">
-    <title lang="zh">BWF 澳門公開賽 四強(下) 6/20 LIVE</title>
+  <programme start="20260627023000 +0000" stop="20260627053000 +0000" channel="88601101">
+    <title lang="zh">FIFA世界盃™ 埃及 VS 伊朗 G組第三輪 6/27 #63 LIVE</title>
   </programme>
-  <programme start="20260620123000 +0000" stop="20260620130000 +0000" channel="88601105">
-    <title lang="zh">2026 BWF世界羽球雜誌#5 冠軍基因 金慧貞/金元昊</title>
+  <programme start="20260627053000 +0000" stop="20260627060000 +0000" channel="88601101">
+    <title lang="zh">NBA動態#35 首播</title>
   </programme>
-  <programme start="20260620130000 +0000" stop="20260620133000 +0000" channel="88601105">
-    <title lang="zh">體壇最前線 6/20 LIVE</title>
+  <programme start="20260627060000 +0000" stop="20260627063000 +0000" channel="88601101">
+    <title lang="zh">30分鐘看個GOAL 6/25 A/B/C組第三輪回顧</title>
   </programme>
-  <programme start="20260620133000 +0000" stop="20260620160000 +0000" channel="88601105">
-    <title lang="zh">MLB 金鶯 VS 道奇 佐佐木朗希先發 例行賽 6/20 今日最新</title>
+  <programme start="20260627063000 +0000" stop="20260627070000 +0000" channel="88601101">
+    <title lang="zh">30分鐘看個GOAL 6/26 D/E/F組第三輪回顧</title>
   </programme>
-  <programme start="20260620160000 +0000" stop="20260620181500 +0000" channel="88601105">
-    <title lang="zh">FIFA世界盃™ 蘇格蘭 VS 摩洛哥 C組第二輪 6/20  #30 今日最新</title>
+  <programme start="20260627070000 +0000" stop="20260627073000 +0000" channel="88601101">
+    <title lang="zh">30分鐘看個GOAL 6/27 G/H/I組第三輪回顧 首播</title>
   </programme>
-  <programme start="20260620181500 +0000" stop="20260620184500 +0000" channel="88601105">
-    <title lang="zh">英超名人堂 #2 熱刺的Pochettino時代</title>
+  <programme start="20260627073000 +0000" stop="20260627080000 +0000" channel="88601101">
+    <title lang="zh">英超名人堂 #3</title>
   </programme>
-  <programme start="20260620184500 +0000" stop="20260620211500 +0000" channel="88601105">
-    <title lang="zh">MLB 白襪 VS 老虎 Skubal先發 例行賽 6/20 今日最新</title>
+  <programme start="20260627080000 +0000" stop="20260627101500 +0000" channel="88601101">
+    <title lang="zh">FIFA世界盃™ 埃及 VS 伊朗 G組第三輪 6/27 #63 今日最新</title>
   </programme>
-  <programme start="20260620211500 +0000" stop="20260620231000 +0000" channel="88601105">
-    <title lang="zh">WTT球星挑戰賽 盧比安納站 單打八強回顧</title>
+  <programme start="20260627101500 +0000" stop="20260627123000 +0000" channel="88601101">
+    <title lang="zh">FIFA世界盃™ 挪威 VS 法國 I組第三輪 6/27 #61 今日最新</title>
   </programme>
-  <programme start="20260620231000 +0000" stop="20260621020000 +0000" channel="88601105">
-    <title lang="zh">MLB 大都會 VS 費城人 Sanchez先發 例行賽 6/21 LIVE</title>
+  <programme start="20260627123000 +0000" stop="20260627144500 +0000" channel="88601101">
+    <title lang="zh">FIFA世界盃™ 維德角 VS 沙烏地 H組第三輪 6/27 #65 今日最新</title>
+  </programme>
+  <programme start="20260627144500 +0000" stop="20260627170000 +0000" channel="88601101">
+    <title lang="zh">FIFA世界盃™ 挪威 VS 法國 I組第三輪 6/27 #61 今日最新</title>
   </programme>
   <programme start="20260621020000 +0000" stop="20260621050000 +0000" channel="88601105">
     <title lang="zh">MLB 金鶯 VS 道奇 山本由伸先發 例行賽 6/21 LIVE</title>
@@ -449,13 +416,19 @@
   <programme start="20260621174500 +0000" stop="20260621180000 +0000" channel="88601105">
     <title lang="zh">世界羽球戰報第八季 #7 周天成再創紀錄 台將展望亞運</title>
   </programme>
-  <programme start="20260621180000 +0000" stop="20260621210000 +0000" channel="88601105">
+  <programme start="20260621180000 +0000" stop="20260621203000 +0000" channel="88601105">
     <title lang="zh">MLB 守護者 VS 太空人 鄧愷威先發 例行賽 6/22 LIVE</title>
+  </programme>
+  <programme start="20260621203000 +0000" stop="20260621210000 +0000" channel="88601105">
+    <title lang="zh">體壇最前線 6/21</title>
   </programme>
   <programme start="20260621210000 +0000" stop="20260621230000 +0000" channel="88601105">
     <title lang="zh">世界田徑巡迴賽 布蘭克-柯恩田徑賽 今日最新</title>
   </programme>
-  <programme start="20260621230000 +0000" stop="20260622020000 +0000" channel="88601105">
+  <programme start="20260621230000 +0000" stop="20260621233000 +0000" channel="88601105">
+    <title lang="zh">體壇最前線 6/21</title>
+  </programme>
+  <programme start="20260621233000 +0000" stop="20260622020000 +0000" channel="88601105">
     <title lang="zh">MLB 守護者 VS 太空人 鄧愷威先發 例行賽 6/22 今日最新</title>
   </programme>
   <programme start="20260622020000 +0000" stop="20260622023000 +0000" channel="88601105">
@@ -489,13 +462,13 @@
     <title lang="zh">體壇最前線 6/22 LIVE</title>
   </programme>
   <programme start="20260622143000 +0000" stop="20260622170000 +0000" channel="88601105">
-    <title lang="zh">MLB 金鶯 VS 道奇 例行賽 6/22 今日最新</title>
+    <title lang="zh">MLB 守護者 VS 太空人 鄧愷威先發 例行賽 6/22 今日最新</title>
   </programme>
   <programme start="20260622170000 +0000" stop="20260622173000 +0000" channel="88601105">
     <title lang="zh">體壇最前線 6/22</title>
   </programme>
   <programme start="20260622173000 +0000" stop="20260622200000 +0000" channel="88601105">
-    <title lang="zh">MLB 守護者 VS 太空人 鄧愷威先發 例行賽 6/22 今日最新</title>
+    <title lang="zh">MLB 金鶯 VS 道奇 例行賽 6/22</title>
   </programme>
   <programme start="20260622200000 +0000" stop="20260622203000 +0000" channel="88601105">
     <title lang="zh">體壇最前線 6/22</title>
@@ -554,13 +527,13 @@
   <programme start="20260623235000 +0000" stop="20260624033000 +0000" channel="88601105">
     <title lang="zh">2026 NBA 年度選秀會 6/24 第一輪 LIVE</title>
   </programme>
-  <programme start="20260624033000 +0000" stop="20260624053000 +0000" channel="88601105">
+  <programme start="20260624033000 +0000" stop="20260624054500 +0000" channel="88601105">
     <title lang="zh">FIFA世界盃™ 英格蘭 VS 迦納 L組第二輪 6/24 #45 今日最新</title>
   </programme>
-  <programme start="20260624053000 +0000" stop="20260624073000 +0000" channel="88601105">
+  <programme start="20260624054500 +0000" stop="20260624074500 +0000" channel="88601105">
     <title lang="zh">2026鑽石聯賽 義大利羅馬站</title>
   </programme>
-  <programme start="20260624073000 +0000" stop="20260624094500 +0000" channel="88601105">
+  <programme start="20260624074500 +0000" stop="20260624094500 +0000" channel="88601105">
     <title lang="zh">MLB 道奇 VS 雙城 例行賽 6/24 今日最新</title>
   </programme>
   <programme start="20260624094500 +0000" stop="20260624101500 +0000" channel="88601105">
@@ -593,13 +566,13 @@
   <programme start="20260625003000 +0000" stop="20260625033000 +0000" channel="88601105">
     <title lang="zh">FIFA世界盃™ 南非 VS 南韓 A組第三輪 6/25 #54 LIVE</title>
   </programme>
-  <programme start="20260625033000 +0000" stop="20260625060000 +0000" channel="88601105">
+  <programme start="20260625033000 +0000" stop="20260625054500 +0000" channel="88601105">
     <title lang="zh">FIFA世界盃™ 波赫 VS 卡達 B組第三輪 6/25 #52 今日最新</title>
   </programme>
-  <programme start="20260625060000 +0000" stop="20260625083000 +0000" channel="88601105">
+  <programme start="20260625054500 +0000" stop="20260625080000 +0000" channel="88601105">
     <title lang="zh">FIFA世界盃™ 摩洛哥 VS 海地 C組第三輪 6/25 #50 今日最新</title>
   </programme>
-  <programme start="20260625083000 +0000" stop="20260625103000 +0000" channel="88601105">
+  <programme start="20260625080000 +0000" stop="20260625103000 +0000" channel="88601105">
     <title lang="zh">MLB 道奇 VS 雙城 例行賽 6/25 今日最新</title>
   </programme>
   <programme start="20260625103000 +0000" stop="20260625140000 +0000" channel="88601105">
@@ -626,10 +599,13 @@
   <programme start="20260626043000 +0000" stop="20260626050000 +0000" channel="88601105">
     <title lang="zh">體壇最前線 6/25</title>
   </programme>
-  <programme start="20260626050000 +0000" stop="20260626073000 +0000" channel="88601105">
+  <programme start="20260626050000 +0000" stop="20260626071500 +0000" channel="88601105">
     <title lang="zh">FIFA世界盃™ 厄瓜多 VS 德國 E組第三輪 6/26 #56 今日最新</title>
   </programme>
-  <programme start="20260626073000 +0000" stop="20260626100000 +0000" channel="88601105">
+  <programme start="20260626071500 +0000" stop="20260626074500 +0000" channel="88601105">
+    <title lang="zh">體壇最前線 6/25</title>
+  </programme>
+  <programme start="20260626074500 +0000" stop="20260626100000 +0000" channel="88601105">
     <title lang="zh">FIFA世界盃™ 突尼西亞 VS 荷蘭 F組第三輪 6/26 #58 今日最新</title>
   </programme>
   <programme start="20260626100000 +0000" stop="20260626103000 +0000" channel="88601105">
@@ -644,47 +620,41 @@
   <programme start="20260626143000 +0000" stop="20260626170000 +0000" channel="88601105">
     <title lang="zh">中華職棒 樂天 VS 富邦 例行賽 6/26(原5/5延賽) 今日最新</title>
   </programme>
-  <programme start="20260620013500 +0000" stop="20260620020500 +0000" channel="88601110">
-    <title lang="zh">MLB好球連發#11 首播</title>
+  <programme start="20260626170000 +0000" stop="20260626180000 +0000" channel="88601105">
+    <title lang="zh">2025 Crufts 與狗共舞賽 精華回顧</title>
   </programme>
-  <programme start="20260620020500 +0000" stop="20260620050000 +0000" channel="88601110">
-    <title lang="zh">MLB 金鶯 VS 道奇 佐佐木朗希先發 例行賽 6/20 LIVE</title>
+  <programme start="20260626180000 +0000" stop="20260626183000 +0000" channel="88601105">
+    <title lang="zh">30分鐘看個GOAL 6/26 D/E/F組第三輪回顧</title>
   </programme>
-  <programme start="20260620050000 +0000" stop="20260620073000 +0000" channel="88601110">
-    <title lang="zh">FIFA世界盃™ 美國 VS 澳大利亞 D組第二輪 6/20 #32 今日最新</title>
+  <programme start="20260626183000 +0000" stop="20260626213000 +0000" channel="88601105">
+    <title lang="zh">FIFA世界盃™ 塞內加爾 VS 伊拉克 I組第三輪 6/27 #62 LIVE</title>
   </programme>
-  <programme start="20260620073000 +0000" stop="20260620080000 +0000" channel="88601110">
-    <title lang="zh">30分鐘看個GOAL 6/20 C/D組第二輪回顧 首播</title>
+  <programme start="20260626213000 +0000" stop="20260626233000 +0000" channel="88601105">
+    <title lang="zh">世界田徑巡迴賽 漢茲科維卡紀念賽 今日最新</title>
   </programme>
-  <programme start="20260620080000 +0000" stop="20260620113000 +0000" channel="88601110">
-    <title lang="zh">中華職棒 中信 VS 統一 例行賽 6/20 LIVE</title>
+  <programme start="20260626233000 +0000" stop="20260627023000 +0000" channel="88601105">
+    <title lang="zh">FIFA世界盃™ 烏拉圭 VS 西班牙 H組第三輪 6/27 #66 LIVE</title>
   </programme>
-  <programme start="20260620113000 +0000" stop="20260620120000 +0000" channel="88601110">
-    <title lang="zh">30分鐘看個GOAL 6/20 C/D組第二輪回顧 今日最新</title>
+  <programme start="20260627023000 +0000" stop="20260627053000 +0000" channel="88601105">
+    <title lang="zh">FIFA世界盃™ 紐西蘭 VS 比利時 G組第三輪 6/27 #64 LIVE</title>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620143000 +0000" channel="88601110">
-    <title lang="zh">FIFA世界盃™ 巴西 VS 海地 C組第二輪 6/20 #29 今日最新</title>
+  <programme start="20260627053000 +0000" stop="20260627074500 +0000" channel="88601105">
+    <title lang="zh">FIFA世界盃™ 塞內加爾 VS 伊拉克 I組第三輪 6/27 #62 今日最新</title>
   </programme>
-  <programme start="20260620143000 +0000" stop="20260620150000 +0000" channel="88601110">
-    <title lang="zh">30分鐘看個GOAL 6/20 C/D組第二輪回顧 今日最新</title>
+  <programme start="20260627074500 +0000" stop="20260627100000 +0000" channel="88601105">
+    <title lang="zh">FIFA世界盃™ 烏拉圭 VS 西班牙 H組第三輪 6/27 #66 今日最新</title>
   </programme>
-  <programme start="20260620150000 +0000" stop="20260620172000 +0000" channel="88601110">
-    <title lang="zh">WTT球星挑戰賽 盧比安納站 單打八強 6/20 LIVE</title>
+  <programme start="20260627100000 +0000" stop="20260627121500 +0000" channel="88601105">
+    <title lang="zh">FIFA世界盃™ 紐西蘭 VS 比利時 G組第三輪 6/27 #64 今日最新</title>
   </programme>
-  <programme start="20260620172000 +0000" stop="20260620193000 +0000" channel="88601110">
-    <title lang="zh">WTT球星挑戰賽 盧比安納站 雙打決賽 6/21 LIVE</title>
+  <programme start="20260627121500 +0000" stop="20260627140000 +0000" channel="88601105">
+    <title lang="zh">MLB 太空人 VS 老虎 例行賽 6/27(精華版) 今日最新</title>
   </programme>
-  <programme start="20260620193000 +0000" stop="20260620200000 +0000" channel="88601110">
-    <title lang="zh">體壇最前線 6/20 首播</title>
+  <programme start="20260627140000 +0000" stop="20260627143000 +0000" channel="88601105">
+    <title lang="zh">體壇最前線 6/27 首播</title>
   </programme>
-  <programme start="20260620200000 +0000" stop="20260620223000 +0000" channel="88601110">
-    <title lang="zh">中華職棒 味全 VS 台鋼 例行賽 6/20</title>
-  </programme>
-  <programme start="20260620223000 +0000" stop="20260620230000 +0000" channel="88601110">
-    <title lang="zh">體壇最前線 6/20</title>
-  </programme>
-  <programme start="20260620230000 +0000" stop="20260621011500 +0000" channel="88601110">
-    <title lang="zh">FIFA世界盃™ 荷蘭 VS 瑞典 F組第二輪 6/21 #35 今日最新</title>
+  <programme start="20260627143000 +0000" stop="20260627164500 +0000" channel="88601105">
+    <title lang="zh">FIFA世界盃™ 烏拉圭 VS 西班牙 H組第三輪 6/27 #66 今日最新</title>
   </programme>
   <programme start="20260621011500 +0000" stop="20260621033000 +0000" channel="88601110">
     <title lang="zh">FIFA世界盃™ 德國 VS 象牙海岸 E組第二輪 6/21 #33 今日最新</title>
@@ -692,26 +662,23 @@
   <programme start="20260621033000 +0000" stop="20260621040000 +0000" channel="88601110">
     <title lang="zh">體壇最前線 6/20</title>
   </programme>
-  <programme start="20260621040000 +0000" stop="20260621100000 +0000" channel="88601110">
+  <programme start="20260621040000 +0000" stop="20260621093700 +0000" channel="88601110">
     <title lang="zh">BWF 澳門公開賽 決賽 6/21 LIVE</title>
   </programme>
-  <programme start="20260621100000 +0000" stop="20260621113000 +0000" channel="88601110">
+  <programme start="20260621093700 +0000" stop="20260621120800 +0000" channel="88601110">
     <title lang="zh">WTT球星挑戰賽 盧比安納站 單打四強 6/21 LIVE</title>
   </programme>
-  <programme start="20260621113000 +0000" stop="20260621123000 +0000" channel="88601110">
+  <programme start="20260621120800 +0000" stop="20260621125000 +0000" channel="88601110">
     <title lang="zh">WTT球星挑戰賽 盧比安納站 混雙決賽 6/21 LIVE</title>
   </programme>
-  <programme start="20260621123000 +0000" stop="20260621150000 +0000" channel="88601110">
+  <programme start="20260621125000 +0000" stop="20260621150000 +0000" channel="88601110">
     <title lang="zh">MLB 金鶯 VS 道奇 山本由伸先發 例行賽 6/21 今日最新</title>
   </programme>
-  <programme start="20260621150000 +0000" stop="20260621160000 +0000" channel="88601110">
+  <programme start="20260621150000 +0000" stop="20260621163500 +0000" channel="88601110">
     <title lang="zh">WTT球星挑戰賽 盧比安納站 女單決賽 6/21 LIVE</title>
   </programme>
-  <programme start="20260621160000 +0000" stop="20260621173000 +0000" channel="88601110">
+  <programme start="20260621163500 +0000" stop="20260621180000 +0000" channel="88601110">
     <title lang="zh">WTT球星挑戰賽 盧比安納站 男單決賽 6/21 LIVE</title>
-  </programme>
-  <programme start="20260621173000 +0000" stop="20260621180000 +0000" channel="88601110">
-    <title lang="zh">體壇最前線 6/21 首播</title>
   </programme>
   <programme start="20260621180000 +0000" stop="20260621203000 +0000" channel="88601110">
     <title lang="zh">中華職棒 中信 VS 統一 例行賽 6/21 今日最新</title>
@@ -719,19 +686,19 @@
   <programme start="20260621203000 +0000" stop="20260621230000 +0000" channel="88601110">
     <title lang="zh">中華職棒 味全 VS 台鋼 例行賽 6/21</title>
   </programme>
-  <programme start="20260621230000 +0000" stop="20260622003000 +0000" channel="88601110">
-    <title lang="zh">WTT球星挑戰賽 盧比安納站 女單決賽 6/21 今日最新</title>
-  </programme>
-  <programme start="20260622003000 +0000" stop="20260622020000 +0000" channel="88601110">
+  <programme start="20260621230000 +0000" stop="20260622000000 +0000" channel="88601110">
     <title lang="zh">WTT球星挑戰賽 盧比安納站 男單決賽 6/21 今日最新</title>
   </programme>
-  <programme start="20260622020000 +0000" stop="20260622050000 +0000" channel="88601110">
-    <title lang="zh">BWF 澳門公開賽 男單/女單/男雙決賽</title>
+  <programme start="20260622000000 +0000" stop="20260622020000 +0000" channel="88601110">
+    <title lang="zh">FIFA世界盃™ 西班牙 VS 沙烏地 H組第二輪 6/22 #38 今日最新</title>
   </programme>
-  <programme start="20260622050000 +0000" stop="20260622060000 +0000" channel="88601110">
+  <programme start="20260622020000 +0000" stop="20260622041500 +0000" channel="88601110">
+    <title lang="zh">BWF 澳門公開賽 男單/女單決賽</title>
+  </programme>
+  <programme start="20260622041500 +0000" stop="20260622054500 +0000" channel="88601110">
     <title lang="zh">WTT球星挑戰賽 盧比安納站 女單決賽 6/21 今日最新</title>
   </programme>
-  <programme start="20260622060000 +0000" stop="20260622070000 +0000" channel="88601110">
+  <programme start="20260622054500 +0000" stop="20260622070000 +0000" channel="88601110">
     <title lang="zh">WTT球星挑戰賽 盧比安納站 男單決賽 6/21 今日最新</title>
   </programme>
   <programme start="20260622070000 +0000" stop="20260622080000 +0000" channel="88601110">
@@ -866,14 +833,17 @@
   <programme start="20260625060000 +0000" stop="20260625083000 +0000" channel="88601110">
     <title lang="zh">中華職棒 味全 VS 台鋼 例行賽 6/23(原6/5延賽)</title>
   </programme>
-  <programme start="20260625083000 +0000" stop="20260625110000 +0000" channel="88601110">
+  <programme start="20260625083000 +0000" stop="20260625104500 +0000" channel="88601110">
     <title lang="zh">FIFA世界盃™ 南非 VS 南韓 A組第三輪 6/25 #54 今日最新</title>
   </programme>
-  <programme start="20260625110000 +0000" stop="20260625133000 +0000" channel="88601110">
+  <programme start="20260625104500 +0000" stop="20260625130000 +0000" channel="88601110">
     <title lang="zh">FIFA世界盃™ 蘇格蘭 VS 巴西 C組第三輪 6/25 #49 今日最新</title>
   </programme>
-  <programme start="20260625133000 +0000" stop="20260625160000 +0000" channel="88601110">
+  <programme start="20260625130000 +0000" stop="20260625153000 +0000" channel="88601110">
     <title lang="zh">MLB 太空人 VS 藍鳥 例行賽 6/25 今日最新</title>
+  </programme>
+  <programme start="20260625153000 +0000" stop="20260625160000 +0000" channel="88601110">
+    <title lang="zh">30分鐘看個GOAL 6/25 A/B/C組第三輪回顧 今日最新</title>
   </programme>
   <programme start="20260625160000 +0000" stop="20260625163000 +0000" channel="88601110">
     <title lang="zh">體壇最前線 6/25 首播</title>
@@ -911,56 +881,56 @@
   <programme start="20260626153000 +0000" stop="20260626160000 +0000" channel="88601110">
     <title lang="zh">30分鐘看個GOAL 6/26 D/E/F組第三輪回顧 今日最新</title>
   </programme>
-  <programme start="20260620000000 +0000" stop="20260620030000 +0000" channel="88601115">
-    <title lang="zh">MLB 教士 VS 遊騎兵 例行賽 6/20(原音) LIVE</title>
+  <programme start="20260626160000 +0000" stop="20260626180000 +0000" channel="88601110">
+    <title lang="zh">世界田徑巡迴賽 漢茲科維卡紀念賽 LIVE</title>
   </programme>
-  <programme start="20260620030000 +0000" stop="20260620033000 +0000" channel="88601115">
-    <title lang="zh">電動方程式 賽道零距離S3 #4 築夢先鋒 首播</title>
+  <programme start="20260626180000 +0000" stop="20260626183000 +0000" channel="88601110">
+    <title lang="zh">體壇最前線 6/26 首播</title>
   </programme>
-  <programme start="20260620033000 +0000" stop="20260620040000 +0000" channel="88601115">
-    <title lang="zh">電動方程式 賽道零距離S3 #5 掌舵初體驗</title>
+  <programme start="20260626183000 +0000" stop="20260626200000 +0000" channel="88601110">
+    <title lang="zh">WTT球星挑戰賽 盧比安納站 男單決賽 6/21</title>
   </programme>
-  <programme start="20260620040000 +0000" stop="20260620043000 +0000" channel="88601115">
-    <title lang="zh">電動方程式 賽道零距離S3 #6 力挽狂瀾</title>
+  <programme start="20260626200000 +0000" stop="20260626224000 +0000" channel="88601110">
+    <title lang="zh">中華職棒 樂天 VS 富邦 例行賽 6/26(原5/5延賽) 今日最新</title>
   </programme>
-  <programme start="20260620043000 +0000" stop="20260620050000 +0000" channel="88601115">
-    <title lang="zh">電動方程式 賽道零距離S3 #7 與豹同行</title>
+  <programme start="20260626224000 +0000" stop="20260627014000 +0000" channel="88601110">
+    <title lang="zh">MLB 太空人 VS 老虎 例行賽 6/27 LIVE</title>
   </programme>
-  <programme start="20260620050000 +0000" stop="20260620060000 +0000" channel="88601115">
-    <title lang="zh">2026 WEC世界耐久錦標賽特輯#2 - 斯帕6小時(原音)</title>
+  <programme start="20260627014000 +0000" stop="20260627021000 +0000" channel="88601110">
+    <title lang="zh">體壇最前線 6/26</title>
   </programme>
-  <programme start="20260620060000 +0000" stop="20260620090000 +0000" channel="88601115">
-    <title lang="zh">玉山盃青棒 臺東縣 VS 臺南市 季軍戰 6/20 LIVE</title>
+  <programme start="20260627021000 +0000" stop="20260627051500 +0000" channel="88601110">
+    <title lang="zh">MLB 勇士 VS 巨人 例行賽 6/27 LIVE</title>
   </programme>
-  <programme start="20260620090000 +0000" stop="20260620093000 +0000" channel="88601115">
-    <title lang="zh">FIFA世界盃™：48強列國誌 摩洛哥/象牙海岸/埃及/塞內加爾</title>
+  <programme start="20260627051500 +0000" stop="20260627053000 +0000" channel="88601110">
+    <title lang="zh">2026 BWF世界羽球週報#21</title>
   </programme>
-  <programme start="20260620093000 +0000" stop="20260620100000 +0000" channel="88601115">
-    <title lang="zh">FIFA世界盃™：48強列國誌 挪威/民主剛果/海地/伊拉克</title>
+  <programme start="20260627053000 +0000" stop="20260627060000 +0000" channel="88601110">
+    <title lang="zh">MLB好球連發#12 首播</title>
   </programme>
-  <programme start="20260620100000 +0000" stop="20260620123000 +0000" channel="88601115">
-    <title lang="zh">玉山盃青棒 高雄市 VS 新北市 冠軍戰 6/20 LIVE</title>
+  <programme start="20260627060000 +0000" stop="20260627063000 +0000" channel="88601110">
+    <title lang="zh">2026 BWF世界羽球雜誌#6 首播</title>
   </programme>
-  <programme start="20260620123000 +0000" stop="20260620130000 +0000" channel="88601115">
-    <title lang="zh">玉山盃全國青棒錦標賽 閉幕典禮 6/20 LIVE</title>
+  <programme start="20260627063000 +0000" stop="20260627090000 +0000" channel="88601110">
+    <title lang="zh">MLB 太空人 VS 老虎 例行賽 6/27 今日最新</title>
   </programme>
-  <programme start="20260620130000 +0000" stop="20260620133000 +0000" channel="88601115">
-    <title lang="zh">電動方程式 賽道零距離S3 #5 掌舵初體驗</title>
+  <programme start="20260627090000 +0000" stop="20260627123000 +0000" channel="88601110">
+    <title lang="zh">中華職棒 樂天 VS 富邦 例行賽 6/27(原4/4延賽) LIVE</title>
   </programme>
-  <programme start="20260620133000 +0000" stop="20260620160000 +0000" channel="88601115">
-    <title lang="zh">玉山盃青棒 臺東縣 VS 臺南市 季軍戰 6/20 今日最新</title>
+  <programme start="20260627123000 +0000" stop="20260627130000 +0000" channel="88601110">
+    <title lang="zh">體壇最前線 6/27 LIVE</title>
   </programme>
-  <programme start="20260620160000 +0000" stop="20260620183000 +0000" channel="88601115">
-    <title lang="zh">玉山盃青棒 高雄市 VS 新北市 冠軍戰 6/20 今日最新</title>
+  <programme start="20260627130000 +0000" stop="20260627133000 +0000" channel="88601110">
+    <title lang="zh">2026 BWF世界羽球雜誌#6</title>
   </programme>
-  <programme start="20260620183000 +0000" stop="20260620213000 +0000" channel="88601115">
-    <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽</title>
+  <programme start="20260627133000 +0000" stop="20260627134500 +0000" channel="88601110">
+    <title lang="zh">2026 BWF世界羽球週報#21</title>
   </programme>
-  <programme start="20260620213000 +0000" stop="20260620234500 +0000" channel="88601115">
-    <title lang="zh">華南金控盃少棒 臺東縣 VS 宜蘭縣 季軍戰 5/31</title>
+  <programme start="20260627134500 +0000" stop="20260627153000 +0000" channel="88601110">
+    <title lang="zh">F1 奧地利站 排位賽 LIVE</title>
   </programme>
-  <programme start="20260620234500 +0000" stop="20260621024500 +0000" channel="88601115">
-    <title lang="zh">華南金控盃少棒 新北市 VS 桃園市 冠軍戰 5/31</title>
+  <programme start="20260627153000 +0000" stop="20260627160000 +0000" channel="88601110">
+    <title lang="zh">2026 BWF世界羽球雜誌#6</title>
   </programme>
   <programme start="20260621024500 +0000" stop="20260621031500 +0000" channel="88601115">
     <title lang="zh">FIFA世界盃™：48強列國誌 哥倫比亞/巴拉圭/厄瓜多/烏拉圭</title>
@@ -983,23 +953,23 @@
   <programme start="20260621100000 +0000" stop="20260621123000 +0000" channel="88601115">
     <title lang="zh">TPVL 台鋼天鷹 VS 桃園雲豹飛將 5/31 總冠軍賽G3</title>
   </programme>
-  <programme start="20260621123000 +0000" stop="20260621130000 +0000" channel="88601115">
-    <title lang="zh">電動方程式 賽道零距離S2 #3 同門對決</title>
-  </programme>
-  <programme start="20260621130000 +0000" stop="20260621153000 +0000" channel="88601115">
+  <programme start="20260621123000 +0000" stop="20260621150000 +0000" channel="88601115">
     <title lang="zh">玉山盃青棒 臺東縣 VS 臺南市 季軍戰 6/20</title>
   </programme>
-  <programme start="20260621153000 +0000" stop="20260621180000 +0000" channel="88601115">
+  <programme start="20260621150000 +0000" stop="20260621173000 +0000" channel="88601115">
     <title lang="zh">玉山盃青棒 高雄市 VS 新北市 冠軍戰 6/20</title>
+  </programme>
+  <programme start="20260621173000 +0000" stop="20260621180000 +0000" channel="88601115">
+    <title lang="zh">電動方程式 賽道零距離S3 #2 德國雄心</title>
   </programme>
   <programme start="20260621180000 +0000" stop="20260621210000 +0000" channel="88601115">
     <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽</title>
   </programme>
   <programme start="20260621210000 +0000" stop="20260621213000 +0000" channel="88601115">
-    <title lang="zh">FIFA世界盃™：48強列國誌 美國/卡達/加拿大/墨西哥</title>
+    <title lang="zh">FIFA世界盃™：48強列國誌 維德角/約旦/古拉索/烏茲別克</title>
   </programme>
   <programme start="20260621213000 +0000" stop="20260621220000 +0000" channel="88601115">
-    <title lang="zh">2026 BWF世界羽球雜誌#5 冠軍基因 金慧貞/金元昊</title>
+    <title lang="zh">FIFA世界盃™：48強列國誌 蘇格蘭/捷克/土耳其/瑞典</title>
   </programme>
   <programme start="20260621220000 +0000" stop="20260622000000 +0000" channel="88601115">
     <title lang="zh">華南金控盃少棒 季軍戰 5/31</title>
@@ -1011,10 +981,13 @@
     <title lang="zh">LLB U13亞洲盃棒球 香港 VS 南韓 6/22 LIVE</title>
   </programme>
   <programme start="20260622043000 +0000" stop="20260622050000 +0000" channel="88601115">
-    <title lang="zh">FIFA世界盃™：48強列國誌 克羅埃西亞/波赫/奧地利/比利時</title>
+    <title lang="zh">FIFA世界盃™：48強列國誌 美國/卡達/加拿大/墨西哥</title>
   </programme>
-  <programme start="20260622050000 +0000" stop="20260622060000 +0000" channel="88601115">
-    <title lang="zh">英超百大進球秀 2025-26賽季</title>
+  <programme start="20260622050000 +0000" stop="20260622053000 +0000" channel="88601115">
+    <title lang="zh">FIFA世界盃™：48強列國誌 南韓/沙烏地/日本/伊朗</title>
+  </programme>
+  <programme start="20260622053000 +0000" stop="20260622060000 +0000" channel="88601115">
+    <title lang="zh">FIFA世界盃™：48強列國誌 哥倫比亞/巴拉圭/厄瓜多/烏拉圭</title>
   </programme>
   <programme start="20260622060000 +0000" stop="20260622083000 +0000" channel="88601115">
     <title lang="zh">LLB U13亞洲盃棒球 日本 VS 菲律賓 6/22 LIVE</title>
@@ -1022,8 +995,11 @@
   <programme start="20260622083000 +0000" stop="20260622090000 +0000" channel="88601115">
     <title lang="zh">2026 BWF世界羽球雜誌#5 冠軍基因 金慧貞/金元昊</title>
   </programme>
-  <programme start="20260622090000 +0000" stop="20260622093000 +0000" channel="88601115">
-    <title lang="zh">FIFA世界盃™：48強列國誌 阿根廷/葡萄牙/法國/西班牙</title>
+  <programme start="20260622090000 +0000" stop="20260622091500 +0000" channel="88601115">
+    <title lang="zh">2026 BWF世界羽球週報#18 新加坡公開賽回顧</title>
+  </programme>
+  <programme start="20260622091500 +0000" stop="20260622093000 +0000" channel="88601115">
+    <title lang="zh">體育班#1 首播</title>
   </programme>
   <programme start="20260622093000 +0000" stop="20260622100000 +0000" channel="88601115">
     <title lang="zh">2026 LLB U13亞洲盃棒球錦標賽 開幕典禮 6/22 LIVE</title>
@@ -1032,7 +1008,7 @@
     <title lang="zh">LLB U13亞洲盃棒球 印尼 VS 中華 6/22 LIVE</title>
   </programme>
   <programme start="20260622123000 +0000" stop="20260622130000 +0000" channel="88601115">
-    <title lang="zh">FIFA世界盃™：48強列國誌 巴西/英格蘭/德國/荷蘭</title>
+    <title lang="zh">團長會客室#10 陳致傑(上)</title>
   </programme>
   <programme start="20260622130000 +0000" stop="20260622153000 +0000" channel="88601115">
     <title lang="zh">LLB U13亞洲盃棒球 香港 VS 南韓 6/22 今日最新</title>
@@ -1040,38 +1016,32 @@
   <programme start="20260622153000 +0000" stop="20260622180000 +0000" channel="88601115">
     <title lang="zh">LLB U13亞洲盃棒球 日本 VS 菲律賓 6/22 今日最新</title>
   </programme>
-  <programme start="20260622180000 +0000" stop="20260622183000 +0000" channel="88601115">
-    <title lang="zh">FIFA世界盃™：48強列國誌 南韓/沙烏地/日本/伊朗</title>
-  </programme>
-  <programme start="20260622183000 +0000" stop="20260622213000 +0000" channel="88601115">
+  <programme start="20260622180000 +0000" stop="20260622210000 +0000" channel="88601115">
     <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽</title>
   </programme>
-  <programme start="20260622213000 +0000" stop="20260622220000 +0000" channel="88601115">
-    <title lang="zh">FIFA世界盃™：48強列國誌 哥倫比亞/巴拉圭/厄瓜多/烏拉圭</title>
-  </programme>
-  <programme start="20260622220000 +0000" stop="20260622230000 +0000" channel="88601115">
-    <title lang="zh">英超精華 2025-26賽季回顧</title>
-  </programme>
-  <programme start="20260622230000 +0000" stop="20260622233000 +0000" channel="88601115">
-    <title lang="zh">FIFA世界盃™：48強列國誌 蘇格蘭/捷克/土耳其/瑞典</title>
+  <programme start="20260622210000 +0000" stop="20260622233000 +0000" channel="88601115">
+    <title lang="zh">華南金控盃全國青少棒 臺北市 VS 臺東縣 6/5</title>
   </programme>
   <programme start="20260622233000 +0000" stop="20260623020000 +0000" channel="88601115">
-    <title lang="zh">LLB U13亞洲盃棒球 印尼 VS 中華 6/22</title>
+    <title lang="zh">華南金控盃全國青少棒 臺東縣 VS 新北市 6/6</title>
   </programme>
   <programme start="20260623020000 +0000" stop="20260623043000 +0000" channel="88601115">
     <title lang="zh">LLB U13亞洲盃棒球 菲律賓 VS 香港 6/23 LIVE</title>
   </programme>
   <programme start="20260623043000 +0000" stop="20260623050000 +0000" channel="88601115">
-    <title lang="zh">FIFA世界盃™：48強列國誌 巴西/英格蘭/德國/荷蘭</title>
+    <title lang="zh">排排戰#28</title>
   </programme>
-  <programme start="20260623050000 +0000" stop="20260623060000 +0000" channel="88601115">
-    <title lang="zh">英超精華 2025-26賽季回顧</title>
+  <programme start="20260623050000 +0000" stop="20260623053000 +0000" channel="88601115">
+    <title lang="zh">電動方程式 賽道零距離S3 #1 美國夢</title>
+  </programme>
+  <programme start="20260623053000 +0000" stop="20260623060000 +0000" channel="88601115">
+    <title lang="zh">電動方程式 賽道零距離S3 #2 德國雄心</title>
   </programme>
   <programme start="20260623060000 +0000" stop="20260623083000 +0000" channel="88601115">
     <title lang="zh">LLB U13亞洲盃棒球 印尼 VS 日本 6/23 LIVE</title>
   </programme>
   <programme start="20260623083000 +0000" stop="20260623090000 +0000" channel="88601115">
-    <title lang="zh">FIFA世界盃™：48強列國誌 哥倫比亞/巴拉圭/厄瓜多/烏拉圭</title>
+    <title lang="zh">FIFA世界盃™：48強列國誌 巴西/英格蘭/德國/荷蘭</title>
   </programme>
   <programme start="20260623090000 +0000" stop="20260623100000 +0000" channel="88601115">
     <title lang="zh">英超精華 2025-26賽季回顧</title>
@@ -1080,7 +1050,7 @@
     <title lang="zh">LLB U13亞洲盃棒球 中華 VS 南韓 6/23 LIVE</title>
   </programme>
   <programme start="20260623123000 +0000" stop="20260623130000 +0000" channel="88601115">
-    <title lang="zh">FIFA世界盃™：48強列國誌 南韓/沙烏地/日本/伊朗</title>
+    <title lang="zh">團長會客室#12 葛吳諺明</title>
   </programme>
   <programme start="20260623130000 +0000" stop="20260623153000 +0000" channel="88601115">
     <title lang="zh">LLB U13亞洲盃棒球 菲律賓 VS 香港 6/23 今日最新</title>
@@ -1223,29 +1193,47 @@
   <programme start="20260626153000 +0000" stop="20260626180000 +0000" channel="88601115">
     <title lang="zh">LLB U13亞洲盃棒球 菲律賓 VS 南韓 6/26 今日最新</title>
   </programme>
-  <programme start="20260620013000 +0000" stop="20260620023000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
+  <programme start="20260626180000 +0000" stop="20260626203000 +0000" channel="88601115">
+    <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽</title>
   </programme>
-  <programme start="20260620023000 +0000" stop="20260620080000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
+  <programme start="20260626203000 +0000" stop="20260626230500 +0000" channel="88601115">
+    <title lang="zh">LLB U13亞洲盃棒球 日本 VS 中華 6/26</title>
   </programme>
-  <programme start="20260620080000 +0000" stop="20260620113000 +0000" channel="88601540">
-    <title lang="zh">ELTA GO! 中華職棒台鋼雄鷹沉浸式多視角直播 LIVE</title>
+  <programme start="20260626230500 +0000" stop="20260627020000 +0000" channel="88601115">
+    <title lang="zh">MLB 洋基 VS 紅襪 例行賽 6/27(原音) LIVE</title>
   </programme>
-  <programme start="20260620113000 +0000" stop="20260620120000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
+  <programme start="20260627020000 +0000" stop="20260627023000 +0000" channel="88601115">
+    <title lang="zh">2026 BWF世界羽球雜誌#5 冠軍基因 金慧貞/金元昊</title>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620160000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
+  <programme start="20260627023000 +0000" stop="20260627050000 +0000" channel="88601115">
+    <title lang="zh">LLB U13亞洲盃棒球 日本 VS 中華 6/26</title>
   </programme>
-  <programme start="20260620160000 +0000" stop="20260620212000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
+  <programme start="20260627050000 +0000" stop="20260627060000 +0000" channel="88601115">
+    <title lang="zh">英超精華 2025-26賽季回顧</title>
   </programme>
-  <programme start="20260620212000 +0000" stop="20260620231000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
+  <programme start="20260627060000 +0000" stop="20260627083000 +0000" channel="88601115">
+    <title lang="zh">LLB U13亞洲盃棒球 預賽第四 VS 預賽第三 季軍戰6/27 LIVE</title>
   </programme>
-  <programme start="20260620231000 +0000" stop="20260621020000 +0000" channel="88601540">
-    <title lang="zh">MLB 大都會 VS 費城人 例行賽 6/21(原音) LIVE</title>
+  <programme start="20260627083000 +0000" stop="20260627090000 +0000" channel="88601115">
+    <title lang="zh">電動方程式 賽道零距離S3 #1 美國夢</title>
+  </programme>
+  <programme start="20260627090000 +0000" stop="20260627093000 +0000" channel="88601115">
+    <title lang="zh">2026 BWF世界羽球雜誌#4 Shetty/Rankireddy帶你趴趴走</title>
+  </programme>
+  <programme start="20260627093000 +0000" stop="20260627100000 +0000" channel="88601115">
+    <title lang="zh">2026 BWF世界羽球雜誌#5 冠軍基因 金慧貞/金元昊</title>
+  </programme>
+  <programme start="20260627100000 +0000" stop="20260627123000 +0000" channel="88601115">
+    <title lang="zh">LLB U13亞洲盃棒球 預賽第二 VS 預賽第一 冠軍戰6/27 LIVE</title>
+  </programme>
+  <programme start="20260627123000 +0000" stop="20260627130000 +0000" channel="88601115">
+    <title lang="zh">2026 LLB U13亞洲盃棒球錦標賽 閉幕典禮 6/27 LIVE</title>
+  </programme>
+  <programme start="20260627130000 +0000" stop="20260627133000 +0000" channel="88601115">
+    <title lang="zh">電動方程式 賽道零距離S3 #2 德國雄心 首播</title>
+  </programme>
+  <programme start="20260627133000 +0000" stop="20260627160000 +0000" channel="88601115">
+    <title lang="zh">LLB U13亞洲盃棒球 預賽第四 VS 預賽第三 季軍戰6/27 今日最新</title>
   </programme>
   <programme start="20260621020000 +0000" stop="20260621030000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
@@ -1343,10 +1331,13 @@
   <programme start="20260624160000 +0000" stop="20260624200000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260624200000 +0000" stop="20260625000000 +0000" channel="88601540">
+  <programme start="20260624200000 +0000" stop="20260624235500 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260625000000 +0000" stop="20260625040000 +0000" channel="88601540">
+  <programme start="20260624235500 +0000" stop="20260625025500 +0000" channel="88601540">
+    <title lang="zh">MLB 勇士 VS 教士 例行賽 6/25(原音) LIVE</title>
+  </programme>
+  <programme start="20260625025500 +0000" stop="20260625040000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
   <programme start="20260625040000 +0000" stop="20260625080000 +0000" channel="88601540">
@@ -1382,31 +1373,25 @@
   <programme start="20260626120000 +0000" stop="20260626160000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620020000 +0000" stop="20260620030000 +0000" channel="88601541">
+  <programme start="20260626160000 +0000" stop="20260626200000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620030000 +0000" stop="20260620080000 +0000" channel="88601541">
+  <programme start="20260626200000 +0000" stop="20260626230700 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620080000 +0000" stop="20260620114500 +0000" channel="88601541">
-    <title lang="zh">ELTA GO! 中華職棒台鋼雄鷹熱情應援視角直播(第2~8局提供) LIVE</title>
+  <programme start="20260626230700 +0000" stop="20260627020700 +0000" channel="88601540">
+    <title lang="zh">MLB 遊騎兵 VS 藍鳥 例行賽 6/27(原音) LIVE</title>
   </programme>
-  <programme start="20260620114500 +0000" stop="20260620120000 +0000" channel="88601541">
+  <programme start="20260627020700 +0000" stop="20260627040000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620160000 +0000" channel="88601541">
+  <programme start="20260627040000 +0000" stop="20260627080000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620160000 +0000" stop="20260620173000 +0000" channel="88601541">
+  <programme start="20260627080000 +0000" stop="20260627120000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620173000 +0000" stop="20260620203000 +0000" channel="88601541">
-    <title lang="zh">MLB 紅人 VS 洋基 例行賽 6/21(原音) LIVE</title>
-  </programme>
-  <programme start="20260620203000 +0000" stop="20260620213000 +0000" channel="88601541">
-    <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
-  </programme>
-  <programme start="20260620213000 +0000" stop="20260621040000 +0000" channel="88601541">
+  <programme start="20260627120000 +0000" stop="20260627160000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
   <programme start="20260621040000 +0000" stop="20260621080000 +0000" channel="88601541">
@@ -1535,31 +1520,25 @@
   <programme start="20260626120000 +0000" stop="20260626160000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620013000 +0000" stop="20260620043000 +0000" channel="88601542">
-    <title lang="zh">MLB 天使 VS 運動家 例行賽 6/20(原音) LIVE</title>
-  </programme>
-  <programme start="20260620043000 +0000" stop="20260620053000 +0000" channel="88601542">
-    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
-  </programme>
-  <programme start="20260620053000 +0000" stop="20260620075500 +0000" channel="88601542">
+  <programme start="20260626160000 +0000" stop="20260626200000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620075500 +0000" stop="20260620093000 +0000" channel="88601542">
-    <title lang="zh">世界鐵人三項系列賽 基伯龍站 菁英男子賽(原音) LIVE</title>
-  </programme>
-  <programme start="20260620093000 +0000" stop="20260620095500 +0000" channel="88601542">
+  <programme start="20260626200000 +0000" stop="20260626231000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620095500 +0000" stop="20260620113000 +0000" channel="88601542">
-    <title lang="zh">世界鐵人三項系列賽 基伯龍站 菁英女子賽(原音) LIVE</title>
+  <programme start="20260626231000 +0000" stop="20260627021000 +0000" channel="88601541">
+    <title lang="zh">MLB 水手 VS 守護者 例行賽 6/27(原音) LIVE</title>
   </programme>
-  <programme start="20260620113000 +0000" stop="20260620160000 +0000" channel="88601542">
+  <programme start="20260627021000 +0000" stop="20260627040000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620160000 +0000" stop="20260620201000 +0000" channel="88601542">
+  <programme start="20260627040000 +0000" stop="20260627080000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620201000 +0000" stop="20260621005000 +0000" channel="88601542">
+  <programme start="20260627080000 +0000" stop="20260627120000 +0000" channel="88601541">
+    <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
+  </programme>
+  <programme start="20260627120000 +0000" stop="20260627160000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
   <programme start="20260621005000 +0000" stop="20260621050500 +0000" channel="88601542">
@@ -1571,10 +1550,10 @@
   <programme start="20260621080000 +0000" stop="20260621090000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260621090000 +0000" stop="20260621113000 +0000" channel="88601542">
+  <programme start="20260621090000 +0000" stop="20260621120800 +0000" channel="88601542">
     <title lang="zh">WTT球星挑戰賽 盧比安納站 單打四強 6/21 LIVE</title>
   </programme>
-  <programme start="20260621113000 +0000" stop="20260621160000 +0000" channel="88601542">
+  <programme start="20260621120800 +0000" stop="20260621160000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
   <programme start="20260621160000 +0000" stop="20260621173000 +0000" channel="88601542">
@@ -1661,13 +1640,13 @@
   <programme start="20260625120000 +0000" stop="20260625160000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260625160000 +0000" stop="20260625170000 +0000" channel="88601542">
+  <programme start="20260625160000 +0000" stop="20260625174500 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260625170000 +0000" stop="20260625190000 +0000" channel="88601542">
+  <programme start="20260625174500 +0000" stop="20260625194500 +0000" channel="88601542">
     <title lang="zh">世界田徑巡迴賽 漢茲科維卡紀念賽 鉛球(原音) LIVE</title>
   </programme>
-  <programme start="20260625190000 +0000" stop="20260625230700 +0000" channel="88601542">
+  <programme start="20260625194500 +0000" stop="20260625230700 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
   <programme start="20260625230700 +0000" stop="20260626020700 +0000" channel="88601542">
@@ -1685,37 +1664,25 @@
   <programme start="20260626120000 +0000" stop="20260626160000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620020000 +0000" stop="20260620030000 +0000" channel="88601543">
+  <programme start="20260626160000 +0000" stop="20260626200000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620030000 +0000" stop="20260620053000 +0000" channel="88601543">
+  <programme start="20260626200000 +0000" stop="20260626230500 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620053000 +0000" stop="20260620063000 +0000" channel="88601543">
-    <title lang="zh">FE電動方程式賽車 三亞站 排位賽 D-LIVE</title>
+  <programme start="20260626230500 +0000" stop="20260627020500 +0000" channel="88601542">
+    <title lang="zh">MLB 國民 VS 金鶯 例行賽 6/27(原音) LIVE</title>
   </programme>
-  <programme start="20260620063000 +0000" stop="20260620083000 +0000" channel="88601543">
-    <title lang="zh">FE電動方程式賽車 三亞站 正賽 LIVE</title>
-  </programme>
-  <programme start="20260620083000 +0000" stop="20260620090000 +0000" channel="88601543">
+  <programme start="20260627020500 +0000" stop="20260627040000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620090000 +0000" stop="20260620112000 +0000" channel="88601543">
-    <title lang="zh">WTT球星挑戰賽 盧比安納站 單打16強 6/20 LIVE</title>
-  </programme>
-  <programme start="20260620112000 +0000" stop="20260620123000 +0000" channel="88601543">
-    <title lang="zh">WTT球星挑戰賽 盧比安納站 混雙四強 6/20 LIVE</title>
-  </programme>
-  <programme start="20260620123000 +0000" stop="20260620160000 +0000" channel="88601543">
+  <programme start="20260627040000 +0000" stop="20260627080000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620160000 +0000" stop="20260620200000 +0000" channel="88601543">
+  <programme start="20260627080000 +0000" stop="20260627120000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620200000 +0000" stop="20260620230000 +0000" channel="88601543">
-    <title lang="zh">MLB 巨人 VS 馬林魚 例行賽 6/21(原音) LIVE</title>
-  </programme>
-  <programme start="20260620230000 +0000" stop="20260621000000 +0000" channel="88601543">
+  <programme start="20260627120000 +0000" stop="20260627160000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
   <programme start="20260621000000 +0000" stop="20260621051000 +0000" channel="88601543">
@@ -1838,41 +1805,23 @@
   <programme start="20260626120000 +0000" stop="20260626160000 +0000" channel="88601543">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620003000 +0000" stop="20260620014500 +0000" channel="88601544">
-    <title lang="zh">FE電動方程式賽車 三亞站 自由練習2(英文講評原音) LIVE</title>
-  </programme>
-  <programme start="20260620014500 +0000" stop="20260620023000 +0000" channel="88601544">
+  <programme start="20260626160000 +0000" stop="20260626200000 +0000" channel="88601543">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620023000 +0000" stop="20260620040000 +0000" channel="88601544">
-    <title lang="zh">FE電動方程式賽車 三亞站 排位賽(英文講評原音) LIVE</title>
-  </programme>
-  <programme start="20260620040000 +0000" stop="20260620063000 +0000" channel="88601544">
+  <programme start="20260626200000 +0000" stop="20260626231000 +0000" channel="88601543">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620063000 +0000" stop="20260620083000 +0000" channel="88601544">
-    <title lang="zh">FE電動方程式賽車 三亞站 正賽(英文講評原音) LIVE</title>
+  <programme start="20260626231000 +0000" stop="20260627021000 +0000" channel="88601543">
+    <title lang="zh">MLB 費城人 VS 大都會 例行賽 6/27(原音) LIVE</title>
   </programme>
-  <programme start="20260620083000 +0000" stop="20260620120000 +0000" channel="88601544">
+  <programme start="20260627021000 +0000" stop="20260627080000 +0000" channel="88601543">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620160000 +0000" channel="88601544">
+  <programme start="20260627080000 +0000" stop="20260627120000 +0000" channel="88601543">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620160000 +0000" stop="20260620170000 +0000" channel="88601544">
+  <programme start="20260627120000 +0000" stop="20260627160000 +0000" channel="88601543">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
-  </programme>
-  <programme start="20260620170000 +0000" stop="20260620200000 +0000" channel="88601544">
-    <title lang="zh">MLB 白襪 VS 老虎 例行賽 6/21(原音) LIVE</title>
-  </programme>
-  <programme start="20260620200000 +0000" stop="20260620210000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
-  </programme>
-  <programme start="20260620210000 +0000" stop="20260620231000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
-  </programme>
-  <programme start="20260620231000 +0000" stop="20260621020000 +0000" channel="88601544">
-    <title lang="zh">MLB 守護者 VS 太空人 例行賽 6/21(原音) LIVE</title>
   </programme>
   <programme start="20260621020000 +0000" stop="20260621030000 +0000" channel="88601544">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
@@ -2012,28 +1961,34 @@
   <programme start="20260626144500 +0000" stop="20260626163000 +0000" channel="88601544">
     <title lang="zh">F1 奧地利站 第2節自由練習 (英文解說原音) LIVE</title>
   </programme>
-  <programme start="20260620020000 +0000" stop="20260620030000 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
-  </programme>
-  <programme start="20260620030000 +0000" stop="20260620074500 +0000" channel="88601545">
+  <programme start="20260626163000 +0000" stop="20260626200000 +0000" channel="88601544">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620074500 +0000" stop="20260620113000 +0000" channel="88601545">
-    <title lang="zh">中華職棒 味全 VS 台鋼 例行賽 6/20(無廣告) LIVE</title>
-  </programme>
-  <programme start="20260620113000 +0000" stop="20260620160000 +0000" channel="88601545">
+  <programme start="20260626200000 +0000" stop="20260626224000 +0000" channel="88601544">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620160000 +0000" stop="20260620181500 +0000" channel="88601545">
+  <programme start="20260626224000 +0000" stop="20260627013800 +0000" channel="88601544">
+    <title lang="zh">MLB 響尾蛇 VS 光芒 例行賽 6/27(原音) LIVE</title>
+  </programme>
+  <programme start="20260627013800 +0000" stop="20260627044500 +0000" channel="88601544">
+    <title lang="zh">MLB 運動家 VS 天使 例行賽 6/27(原音) LIVE</title>
+  </programme>
+  <programme start="20260627044500 +0000" stop="20260627080000 +0000" channel="88601544">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620181500 +0000" stop="20260620213000 +0000" channel="88601545">
-    <title lang="zh">MLB 藍鳥 VS 小熊 例行賽 6/21(原音) LIVE</title>
+  <programme start="20260627080000 +0000" stop="20260627101500 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620213000 +0000" stop="20260620223000 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
+  <programme start="20260627101500 +0000" stop="20260627120000 +0000" channel="88601544">
+    <title lang="zh">F1 奧地利站 第3節自由練習 (英文解說原音) LIVE</title>
   </programme>
-  <programme start="20260620223000 +0000" stop="20260621010000 +0000" channel="88601545">
+  <programme start="20260627120000 +0000" stop="20260627134500 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
+  </programme>
+  <programme start="20260627134500 +0000" stop="20260627153000 +0000" channel="88601544">
+    <title lang="zh">F1 奧地利站 排位賽 (英文解說原音) LIVE</title>
+  </programme>
+  <programme start="20260627153000 +0000" stop="20260627160000 +0000" channel="88601544">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
   <programme start="20260621010000 +0000" stop="20260621040000 +0000" channel="88601545">
@@ -2159,32 +2114,32 @@
   <programme start="20260626140000 +0000" stop="20260626160000 +0000" channel="88601545">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620000000 +0000" stop="20260620030000 +0000" channel="88601546">
-    <title lang="zh">MLB 守護者 VS 太空人 例行賽 6/20(原音) LIVE</title>
-  </programme>
-  <programme start="20260620030000 +0000" stop="20260620040000 +0000" channel="88601546">
+  <programme start="20260626160000 +0000" stop="20260626213000 +0000" channel="88601545">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620040000 +0000" stop="20260620080000 +0000" channel="88601546">
+  <programme start="20260626213000 +0000" stop="20260626222500 +0000" channel="88601545">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620080000 +0000" stop="20260620113000 +0000" channel="88601546">
-    <title lang="zh">中華職棒 中信 VS 統一 例行賽 6/20(無廣告) LIVE</title>
+  <programme start="20260626222500 +0000" stop="20260627012500 +0000" channel="88601545">
+    <title lang="zh">MLB 紅人 VS 海盜 例行賽 6/27(原音) LIVE</title>
   </programme>
-  <programme start="20260620113000 +0000" stop="20260620120000 +0000" channel="88601546">
+  <programme start="20260627012500 +0000" stop="20260627040000 +0000" channel="88601545">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620160000 +0000" channel="88601546">
+  <programme start="20260627040000 +0000" stop="20260627080000 +0000" channel="88601545">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620160000 +0000" stop="20260620200000 +0000" channel="88601546">
+  <programme start="20260627080000 +0000" stop="20260627120000 +0000" channel="88601545">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620200000 +0000" stop="20260620230000 +0000" channel="88601546">
-    <title lang="zh">MLB 釀酒人 VS 勇士 例行賽 6/21(原音) LIVE</title>
+  <programme start="20260627120000 +0000" stop="20260627134500 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620230000 +0000" stop="20260621000000 +0000" channel="88601546">
-    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
+  <programme start="20260627134500 +0000" stop="20260627153000 +0000" channel="88601545">
+    <title lang="zh">F1 奧地利站 排位賽 (中文解說無廣告) LIVE</title>
+  </programme>
+  <programme start="20260627153000 +0000" stop="20260627171000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
   <programme start="20260621000000 +0000" stop="20260621020000 +0000" channel="88601546">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
@@ -2204,16 +2159,10 @@
   <programme start="20260621120000 +0000" stop="20260621160000 +0000" channel="88601546">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260621160000 +0000" stop="20260621181500 +0000" channel="88601546">
+  <programme start="20260621160000 +0000" stop="20260621220000 +0000" channel="88601546">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260621181500 +0000" stop="20260621213000 +0000" channel="88601546">
-    <title lang="zh">MLB 藍鳥 VS 小熊 例行賽 6/22(原音) LIVE</title>
-  </programme>
-  <programme start="20260621213000 +0000" stop="20260621223000 +0000" channel="88601546">
-    <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
-  </programme>
-  <programme start="20260621223000 +0000" stop="20260622040000 +0000" channel="88601546">
+  <programme start="20260621220000 +0000" stop="20260622040000 +0000" channel="88601546">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
   <programme start="20260622040000 +0000" stop="20260622080000 +0000" channel="88601546">
@@ -2309,25 +2258,25 @@
   <programme start="20260626120000 +0000" stop="20260626160000 +0000" channel="88601546">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620020000 +0000" stop="20260620050000 +0000" channel="88601547">
-    <title lang="zh">MLB 紅襪 VS 水手 例行賽 6/20(原音) LIVE</title>
-  </programme>
-  <programme start="20260620050000 +0000" stop="20260620060000 +0000" channel="88601547">
+  <programme start="20260626160000 +0000" stop="20260626220000 +0000" channel="88601546">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620060000 +0000" stop="20260620080000 +0000" channel="88601547">
+  <programme start="20260626220000 +0000" stop="20260627014000 +0000" channel="88601546">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620080000 +0000" stop="20260620120000 +0000" channel="88601547">
+  <programme start="20260627014000 +0000" stop="20260627053000 +0000" channel="88601546">
+    <title lang="zh">FIFA世界盃™ 加長無廣告版 埃及 VS 伊朗 G組第三輪 6/27 #63 LIVE</title>
+  </programme>
+  <programme start="20260627053000 +0000" stop="20260627080000 +0000" channel="88601546">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620160000 +0000" channel="88601547">
+  <programme start="20260627080000 +0000" stop="20260627090000 +0000" channel="88601546">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620160000 +0000" stop="20260620220000 +0000" channel="88601547">
-    <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
+  <programme start="20260627090000 +0000" stop="20260627123000 +0000" channel="88601546">
+    <title lang="zh">中華職棒 樂天 VS 富邦 例行賽 6/27 (無廣告-愛爾達播報組/原4/4延賽) LIVE</title>
   </programme>
-  <programme start="20260620220000 +0000" stop="20260621040000 +0000" channel="88601547">
+  <programme start="20260627123000 +0000" stop="20260627160000 +0000" channel="88601546">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
   <programme start="20260621040000 +0000" stop="20260621080000 +0000" channel="88601547">
@@ -2441,26 +2390,23 @@
   <programme start="20260626120000 +0000" stop="20260626160000 +0000" channel="88601547">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620030000 +0000" stop="20260620044500 +0000" channel="88601548">
+  <programme start="20260626160000 +0000" stop="20260626220000 +0000" channel="88601547">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620044500 +0000" stop="20260620080000 +0000" channel="88601548">
+  <programme start="20260626220000 +0000" stop="20260627014000 +0000" channel="88601547">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620080000 +0000" stop="20260620120000 +0000" channel="88601548">
+  <programme start="20260627014000 +0000" stop="20260627053000 +0000" channel="88601547">
+    <title lang="zh">FIFA世界盃™ 加長無廣告版 紐西蘭 VS 比利時 G組第三輪 6/27 #64 LIVE</title>
+  </programme>
+  <programme start="20260627053000 +0000" stop="20260627080000 +0000" channel="88601547">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620154000 +0000" channel="88601548">
+  <programme start="20260627080000 +0000" stop="20260627120000 +0000" channel="88601547">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620154000 +0000" stop="20260620193000 +0000" channel="88601548">
-    <title lang="zh">FIFA世界盃™ 加長無廣告版 荷蘭 VS 瑞典 F組第二輪 6/21 #35 LIVE</title>
-  </programme>
-  <programme start="20260620193000 +0000" stop="20260620224000 +0000" channel="88601548">
+  <programme start="20260627120000 +0000" stop="20260627160000 +0000" channel="88601547">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
-  </programme>
-  <programme start="20260620224000 +0000" stop="20260621023000 +0000" channel="88601548">
-    <title lang="zh">FIFA世界盃™ 加長無廣告版 厄瓜多 VS 古拉索 E組第二輪 6/21 #34 LIVE</title>
   </programme>
   <programme start="20260621023000 +0000" stop="20260621080000 +0000" channel="88601548">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
@@ -2567,28 +2513,25 @@
   <programme start="20260626120000 +0000" stop="20260626160000 +0000" channel="88601548">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620003000 +0000" stop="20260620014000 +0000" channel="88601549">
+  <programme start="20260626160000 +0000" stop="20260626174000 +0000" channel="88601548">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620014000 +0000" stop="20260620053000 +0000" channel="88601549">
-    <title lang="zh">FIFA世界盃™ 加長無廣告版 土耳其 VS 巴拉圭 D組第二輪 6/20 #31 LIVE</title>
+  <programme start="20260626174000 +0000" stop="20260626213000 +0000" channel="88601548">
+    <title lang="zh">FIFA世界盃™ 加長無廣告版 挪威 VS 法國 I組第三輪 6/27 #61 LIVE</title>
   </programme>
-  <programme start="20260620053000 +0000" stop="20260620080000 +0000" channel="88601549">
+  <programme start="20260626213000 +0000" stop="20260626224000 +0000" channel="88601548">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620080000 +0000" stop="20260620120000 +0000" channel="88601549">
+  <programme start="20260626224000 +0000" stop="20260627023000 +0000" channel="88601548">
+    <title lang="zh">FIFA世界盃™ 加長無廣告版 維德角 VS 沙烏地 H組第三輪 6/27 #65 LIVE</title>
+  </programme>
+  <programme start="20260627023000 +0000" stop="20260627080000 +0000" channel="88601548">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620160000 +0000" channel="88601549">
+  <programme start="20260627080000 +0000" stop="20260627120000 +0000" channel="88601548">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
-  <programme start="20260620160000 +0000" stop="20260620184000 +0000" channel="88601549">
-    <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
-  </programme>
-  <programme start="20260620184000 +0000" stop="20260620223000 +0000" channel="88601549">
-    <title lang="zh">FIFA世界盃™ 加長無廣告版 德國 VS 象牙海岸 E組第二輪 6/21 #33 LIVE</title>
-  </programme>
-  <programme start="20260620223000 +0000" stop="20260621024000 +0000" channel="88601549">
+  <programme start="20260627120000 +0000" stop="20260627160000 +0000" channel="88601548">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
   <programme start="20260621024000 +0000" stop="20260621063000 +0000" channel="88601549">
@@ -2703,6 +2646,30 @@
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
   <programme start="20260626120000 +0000" stop="20260626160000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
+  </programme>
+  <programme start="20260626160000 +0000" stop="20260626174000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
+  </programme>
+  <programme start="20260626174000 +0000" stop="20260626213000 +0000" channel="88601549">
+    <title lang="zh">FIFA世界盃™ 加長無廣告版 塞內加爾 VS 伊拉克 I組第三輪 6/27 #62 LIVE</title>
+  </programme>
+  <programme start="20260626213000 +0000" stop="20260626224000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
+  </programme>
+  <programme start="20260626224000 +0000" stop="20260627023000 +0000" channel="88601549">
+    <title lang="zh">FIFA世界盃™ 加長無廣告版 烏拉圭 VS 西班牙 H組第三輪 6/27 #66 LIVE</title>
+  </programme>
+  <programme start="20260627023000 +0000" stop="20260627043000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
+  </programme>
+  <programme start="20260627043000 +0000" stop="20260627080000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
+  </programme>
+  <programme start="20260627080000 +0000" stop="20260627120000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
+  </programme>
+  <programme start="20260627120000 +0000" stop="20260627160000 +0000" channel="88601549">
     <title lang="zh">【非賽事直播時段】 2026 FIFA 世界盃™  6/12-7/21</title>
   </programme>
 </tv>
