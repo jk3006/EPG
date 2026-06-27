@@ -4209,7 +4209,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627093000 +0000" stop="20260627120000 +0000" channel="6401007">
+  <programme start="20260627093000 +0000" stop="20260627121500 +0000" channel="6401007">
     <title lang="en">PAHO MATAORA: Japan XV v Opango Maori</title>
     <desc lang="en">Ko te pahotanga MATAORA i a Japan XV e whakauwhi ana i te kapa Opango Maori ki te Taiwhanga Paloma Mizuho, Nagoya.</desc>
     <category lang="en">Show</category>
@@ -4218,16 +4218,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627120000 +0000" stop="20260627123000 +0000" channel="6401007">
-    <title lang="en">World Series Darts: US Hls</title>
-    <desc lang="en">Highlights of World Series Darts : US Masters. The tournament will see eight PDC superstars battling it out against eight North American representatives at the Infosys Theatre at Madison Square Garden, New York.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260627123000 +0000" stop="20260627131500 +0000" channel="6401007">
+  <programme start="20260627121500 +0000" stop="20260627131500 +0000" channel="6401007">
     <title lang="en">The Bowls Show</title>
     <desc lang="en">MON JUN 22 - The Bowls Show features a mix of highlights of the sport’s biggest events, with segments on coaching, clubs, social bowls, and high-performance aspects; featuring the biggest names in the sport.</desc>
     <category lang="en">Show</category>
@@ -4272,7 +4263,34 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627162000 +0000" stop="20260627183000 +0000" channel="6401007">
+  <programme start="20260627162000 +0000" stop="20260627163500 +0000" channel="6401007">
+    <title lang="en">NRL: Dolphins v Warriors Hls</title>
+    <desc lang="en">Highlights of the NRL game between the Dolphins and the Warriors at Suncorp Stadium, Brisbane.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260627163500 +0000" stop="20260627165000 +0000" channel="6401007">
+    <title lang="en">NRL: Cowboys v Panthers Hls</title>
+    <desc lang="en">Highlights of the NRL game between the Cowboys and the Panthers at Qld Country Bank Stadium, Townsville.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260627165000 +0000" stop="20260627171000 +0000" channel="6401007">
+    <title lang="en">NRL: Sea Eagles v Storm Hls</title>
+    <desc lang="en">Highlights of the NRL game between the Sea Eagles and the Storm at 4 Pines Park, Sydney.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260627171000 +0000" stop="20260627193000 +0000" channel="6401007">
     <title lang="en">JWC: Australia v Spain</title>
     <desc lang="en">LIVE coverage from the World Rugby Junior World Championships between Australia and Spain at AIA Arena, Kutaisi.</desc>
     <category lang="en">Show</category>
@@ -4281,7 +4299,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627183000 +0000" stop="20260627203000 +0000" channel="6401007">
+  <programme start="20260627193000 +0000" stop="20260627213500 +0000" channel="6401007">
     <title lang="en">NRL: Dolphins v Warriors</title>
     <desc lang="en">Coverage of the NRL game between the Dolphins and the Warriors at Suncorp Stadium, Brisbane.</desc>
     <category lang="en">Show</category>
@@ -4290,7 +4308,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627203000 +0000" stop="20260627223000 +0000" channel="6401007">
+  <programme start="20260627213500 +0000" stop="20260627233500 +0000" channel="6401007">
     <title lang="en">NRL: Cowboys v Panthers</title>
     <desc lang="en">Coverage of the NRL game between the Cowboys and the Panthers at Qld Country Bank Stadium, Townsville.</desc>
     <category lang="en">Show</category>
@@ -4299,9 +4317,27 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627223000 +0000" stop="20260628003000 +0000" channel="6401007">
-    <title lang="en">NRL: Sea Eagles v Storm</title>
-    <desc lang="en">Coverage of the NRL game between the Sea Eagles and the Storm at 4 Pines Park, Sydney.</desc>
+  <programme start="20260627233500 +0000" stop="20260627235000 +0000" channel="6401007">
+    <title lang="en">NRL: Dolphins v Warriors Hls</title>
+    <desc lang="en">Highlights of the NRL game between the Dolphins and the Warriors at Suncorp Stadium, Brisbane.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260627235000 +0000" stop="20260628000500 +0000" channel="6401007">
+    <title lang="en">NRL: Cowboys v Panthers Hls</title>
+    <desc lang="en">Highlights of the NRL game between the Cowboys and the Panthers at Qld Country Bank Stadium, Townsville.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260628000500 +0000" stop="20260628003000 +0000" channel="6401007">
+    <title lang="en">NRL: Sea Eagles v Storm Hls</title>
+    <desc lang="en">Highlights of the NRL game between the Sea Eagles and the Storm at 4 Pines Park, Sydney.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -4452,7 +4488,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260628164500 +0000" stop="20260628170000 +0000" channel="6401007">
+  <programme start="20260628164500 +0000" stop="20260628170500 +0000" channel="6401007">
     <title lang="en">NRL: Knights v Wests Tigers Hls</title>
     <desc lang="en">Highlights of the NRL game between the Knights and the Wests Tigers at the McDonald Jones Stadium, Newcastle.</desc>
     <category lang="en">Show</category>
@@ -4461,7 +4497,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260628170000 +0000" stop="20260628180000 +0000" channel="6401007">
+  <programme start="20260628170500 +0000" stop="20260628180000 +0000" channel="6401007">
     <title lang="en">Sunday Night With Matty Johns</title>
     <desc lang="en">SUN 28 JUN - Matty, Fletch &amp; Hindy present the ideal way to unwind on Sunday. They’ll be joined by players for a unique &amp; entertaining recap of the round.</desc>
     <category lang="en">Show</category>
@@ -5582,7 +5618,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627073000 +0000" stop="20260627093000 +0000" channel="6401008">
+  <programme start="20260627073000 +0000" stop="20260627092500 +0000" channel="6401008">
     <title lang="en">NRL: Cowboys v Panthers</title>
     <desc lang="en">Live coverage of the NRL game between the Cowboys and the Panthers at Qld Country Bank Stadium, Townsville. Kick-off at 7:30 pm.</desc>
     <category lang="en">Show</category>
@@ -5591,9 +5627,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627093000 +0000" stop="20260627180000 +0000" channel="6401008">
+  <programme start="20260627092500 +0000" stop="20260627174500 +0000" channel="6401008">
     <title lang="en">England v BLACKCAPS: 3rd Test D3</title>
     <desc lang="en">LIVE coverage from Day 3 of the third Test match between England and the BLACKCAPS at Trent Bridge, Nottingham.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260627174500 +0000" stop="20260627180000 +0000" channel="6401008">
+    <title lang="en">1st XV: Whanagrei v Massey Hls</title>
+    <desc lang="en">Highlights from the North Harbour 1A 1st XV competition between Whangarei Boys High School and Massey High School at Whangarei Boys High School.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -6684,7 +6729,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260627000000 +0000" stop="20260627003000 +0000" channel="6401009">
+  <programme start="20260627000500 +0000" stop="20260627003000 +0000" channel="6401009">
     <title lang="en">DP World Tour: Round 2 Hls</title>
     <desc lang="en">Highlights of Round 2 of the DP World Tour: Open d'Italia Championship held at Circolo Golf Torino, Fiano, Torino, Italy.</desc>
     <category lang="en">Show</category>
@@ -6855,18 +6900,9 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627170000 +0000" stop="20260627210000 +0000" channel="6401009">
+  <programme start="20260627170000 +0000" stop="20260627211500 +0000" channel="6401009">
     <title lang="en">ICC T20WC: England v White Ferns</title>
     <desc lang="en">LIVE coverage of the ICC Women's T20 World Cup match between England and the White Ferns at the Oval, London.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260627210000 +0000" stop="20260627211500 +0000" channel="6401009">
-    <title lang="en">SRA: Blues v Matatu Hls</title>
-    <desc lang="en">Highlights from Round 3 of Super Rugby Aupiki between the Blues and Matatu at Navigation Homes Stadium, Pukekohe.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -8053,7 +8089,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627023000 +0000" stop="20260627043000 +0000" channel="6401010">
+  <programme start="20260627023000 +0000" stop="20260627044500 +0000" channel="6401010">
     <title lang="en">Sal's NBL: Saints v Giants</title>
     <desc lang="en">LIVE coverage from the 78th match of Sal's National Basketball League between the Wellington Saints and Nelson Giants at Te Rauparaha Arena, Porirua.</desc>
     <category lang="en">Show</category>
@@ -8062,18 +8098,9 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627043000 +0000" stop="20260627053000 +0000" channel="6401010">
+  <programme start="20260627044500 +0000" stop="20260627054500 +0000" channel="6401010">
     <title lang="en">Porsche Supercup Rd3 Practice Replay</title>
     <desc lang="en">Coverage of the Porsche Supercup, Spielberg practice Round 3 from Austria Circuit,  Spielberg.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260627053000 +0000" stop="20260627054500 +0000" channel="6401010">
-    <title lang="en">AFL: Brisbane Lions v Sydney Swans Hls</title>
-    <desc lang="en">Highlights of the AFL Round 16  as Brisbane Lions take on Sydney Swans from the Turrbal, Yuggera, Brisbane.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -8143,45 +8170,9 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627135000 +0000" stop="20260627160000 +0000" channel="6401010">
+  <programme start="20260627135000 +0000" stop="20260627170000 +0000" channel="6401010">
     <title lang="en">JWC: France v Fiji</title>
     <desc lang="en">LIVE coverage from the World Rugby Junior World Championships between France and Fiji at AIA Arena, Kutaisi.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260627160000 +0000" stop="20260627161500 +0000" channel="6401010">
-    <title lang="en">SRA: Blues v Matatu Hls</title>
-    <desc lang="en">Highlights from Round 3 of Super Rugby Aupiki between the Blues and Matatu at Navigation Homes Stadium, Pukekohe.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260627161500 +0000" stop="20260627163000 +0000" channel="6401010">
-    <title lang="en">SRA: Manawa v Poua Hls</title>
-    <desc lang="en">Highlights from Round 3 of Super Rugby Aupiki between the Chiefs Manawa and Hurricanes Poua at Navigation Homes Stadium, Pukekohe.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260627163000 +0000" stop="20260627164500 +0000" channel="6401010">
-    <title lang="en">Japan XV v Maori All Blacks Hls</title>
-    <desc lang="en">Highlights as Japan XV host the Maori All Blacks at Paloma Mizuho Stadium, Nagoya.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260627164500 +0000" stop="20260627170000 +0000" channel="6401010">
-    <title lang="en">NRL: Dolphins v Warriors Hls</title>
-    <desc lang="en">Highlights of the NRL game between the Dolphins and the Warriors at Suncorp Stadium, Brisbane.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -9449,7 +9440,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627131500 +0000" stop="20260627160000 +0000" channel="6401011">
+  <programme start="20260627131500 +0000" stop="20260627161500 +0000" channel="6401011">
     <title lang="en">FIA Formula 1: Austria GP Qual</title>
     <desc lang="en">LIVE coverage of the FIA Formula 1, Austria Grand Prix, Qualifying. From Red Bull Ring, Spielberg, Austria.</desc>
     <category lang="en">Show</category>
@@ -9458,7 +9449,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627160000 +0000" stop="20260627163000 +0000" channel="6401011">
+  <programme start="20260627161500 +0000" stop="20260627164500 +0000" channel="6401011">
     <title lang="en">Ted's Notebook: Austria Quali</title>
     <desc lang="en">Ted Kravitz is back in the paddock as he reviews all the biggest stories from the qualifying session at the 2026 Austria Grand Prix.</desc>
     <category lang="en">Show</category>
@@ -9467,7 +9458,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627163000 +0000" stop="20260627173000 +0000" channel="6401011">
+  <programme start="20260627164500 +0000" stop="20260627173000 +0000" channel="6401011">
     <title lang="en">NZ Rally Championship:Rd2 Canterbury Hls</title>
     <desc lang="en">Highlights from the New Zealand Rally Championship. Round 2, Canterbury Rally.</desc>
     <category lang="en">Show</category>
@@ -9494,7 +9485,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627180000 +0000" stop="20260627200000 +0000" channel="6401011">
+  <programme start="20260627180000 +0000" stop="20260627195500 +0000" channel="6401011">
     <title lang="en">FIA Formula One World Championship</title>
     <desc lang="en">Coverage of the FIA Formula 1, Austria Grand Prix, Practice 3. From Red Bull Ring, Spielberg, Austria.</desc>
     <category lang="en">Show</category>
@@ -9503,7 +9494,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627200000 +0000" stop="20260627224500 +0000" channel="6401011">
+  <programme start="20260627195500 +0000" stop="20260627224500 +0000" channel="6401011">
     <title lang="en">FIA Formula 1: Austria GP Qual</title>
     <desc lang="en">Coverage of the FIA Formula 1, Austria Grand Prix, Qualifying. From Red Bull Ring, Spielberg, Austria.</desc>
     <category lang="en">Show</category>
@@ -10345,9 +10336,9 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627033000 +0000" stop="20260627040000 +0000" channel="6401012">
-    <title lang="en">England v BLACKCAPS: 3rd Test D2 Ext Hls</title>
-    <desc lang="en">Highlights from Day 2 of the third Test match between England and the BLACKCAPS at Trent Bridge, Nottingham.</desc>
+  <programme start="20260627034500 +0000" stop="20260627040000 +0000" channel="6401012">
+    <title lang="en">ICC T20WC: S Africa v Netherlands Hls</title>
+    <desc lang="en">Highlights of the ICC Women's T20 World Cup match between South Africa and Netherlands at the Bristol County Ground, Bristol.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -10408,7 +10399,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627112000 +0000" stop="20260627133000 +0000" channel="6401012">
+  <programme start="20260627112000 +0000" stop="20260627134500 +0000" channel="6401012">
     <title lang="en">JWC: New Zealand v Japan</title>
     <desc lang="en">LIVE coverage from the World Rugby Junior World Championships between New Zealand and Japan at AIA Arena, Kutaisi.</desc>
     <category lang="en">Show</category>
@@ -10417,36 +10408,27 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627133000 +0000" stop="20260627140000 +0000" channel="6401012">
-    <title lang="en">LPGA: Round 2 Hls</title>
-    <desc lang="en">Highlights of Round 2 of Kpmg Womens PGA Championship from Hazeltine National Golf Club in Chaska, Minnesota.</desc>
+  <programme start="20260627134500 +0000" stop="20260627140000 +0000" channel="6401012">
+    <title lang="en">Japan XV v Maori All Blacks Hls</title>
+    <desc lang="en">Highlights as Japan XV host the Maori All Blacks at Paloma Mizuho Stadium, Nagoya.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627140000 +0000" stop="20260627210000 +0000" channel="6401012">
+  <programme start="20260627140000 +0000" stop="20260627211500 +0000" channel="6401012">
     <title lang="en">LPGA: Round 3</title>
-    <desc lang="en">LIVE coverage of Round 3 of Kpmg Womens PGA Championship from Hazeltine National Golf Club in Chaska, Minnesota.</desc>
+    <desc lang="en">LIVE coverage of Round 3 of KPMG Womens PGA Championship from Hazeltine National Golf Club in Chaska, Minnesota.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627210000 +0000" stop="20260627230000 +0000" channel="6401012">
+  <programme start="20260627211500 +0000" stop="20260627231500 +0000" channel="6401012">
     <title lang="en">JWC: New Zealand v Japan</title>
     <desc lang="en">Coverage from the World Rugby Junior World Championships between New Zealand and Japan at AIA Arena, Kutaisi.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260627230000 +0000" stop="20260627231500 +0000" channel="6401012">
-    <title lang="en">NRL: Dolphins v Warriors Hls</title>
-    <desc lang="en">Highlights of the NRL game between the Dolphins and the Warriors at Suncorp Stadium, Brisbane.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -10472,6 +10454,15 @@
     </rating>
   </programme>
   <programme start="20260627234500 +0000" stop="20260628000000 +0000" channel="6401012">
+    <title lang="en">NRL: Sea Eagles v Storm Hls</title>
+    <desc lang="en">Highlights of the NRL game between the Sea Eagles and the Storm at 4 Pines Park, Sydney.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260628000000 +0000" stop="20260628001500 +0000" channel="6401012">
     <title lang="en">FIA Formula1: Austria GP Qual Hls</title>
     <desc lang="en">Highlights of FIA Formula 1, Austria Grand Prix, Qualifying. From Red Bull Ring, Spielberg, Austria.</desc>
     <category lang="en">Show</category>
@@ -10480,7 +10471,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260628000000 +0000" stop="20260628010000 +0000" channel="6401012">
+  <programme start="20260628001500 +0000" stop="20260628011500 +0000" channel="6401012">
     <title lang="en">FIA Formula 2: Rd6 Sprint Race</title>
     <desc lang="en">Coverage of the FIA Formula 2 Championship, Round 6, Sprint Race. From Red Bull Ring Circuit, Spielberg, Austria.</desc>
     <category lang="en">Show</category>
@@ -10489,7 +10480,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260628010000 +0000" stop="20260628020000 +0000" channel="6401012">
+  <programme start="20260628011500 +0000" stop="20260628021500 +0000" channel="6401012">
     <title lang="en">FIA Formula 3: Rd4 Sprint Race</title>
     <desc lang="en">Coverage of the FIA Formula 3 Championship, Round 4, Sprint Race. From Red Bull Ring, Spielberg, Austria.</desc>
     <category lang="en">Show</category>
@@ -10498,7 +10489,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260628020000 +0000" stop="20260628030000 +0000" channel="6401012">
+  <programme start="20260628021500 +0000" stop="20260628030000 +0000" channel="6401012">
     <title lang="en">Porsche Supercup Rd3 Qualifying Replay</title>
     <desc lang="en">Coverage of the Porsche Supercup, Spielberg Qualifying Round 3 from Austria Circuit,  Spielberg.</desc>
     <category lang="en">Show</category>
@@ -11316,7 +11307,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627130000 +0000" stop="20260627160000 +0000" channel="6401013">
+  <programme start="20260627130000 +0000" stop="20260627161000 +0000" channel="6401013">
     <title lang="en">Women's Amateur Championship F R2</title>
     <desc lang="en">LIVE coverage from the second round of the final of the Women's Amateur Championship at Muirfield, Gullane.</desc>
     <category lang="en">Show</category>
@@ -11325,7 +11316,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627160000 +0000" stop="20260627180000 +0000" channel="6401013">
+  <programme start="20260627161000 +0000" stop="20260627180000 +0000" channel="6401013">
     <title lang="en">SRA: Blues v Matatu</title>
     <desc lang="en">Coverage from Round 3 of Super Rugby Aupiki between the Blues and Matatu at Navigation Homes Stadium, Pukekohe.</desc>
     <category lang="en">Show</category>
@@ -12383,16 +12374,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627060000 +0000" stop="20260627080000 +0000" channel="6401014">
-    <title lang="en">PGA Champions Tour: R1</title>
-    <desc lang="en">Coverage of Round 1 of the PGA Champions Tour: Dick's Open from En-Joie Golf Club , Endicott, New York.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260627080000 +0000" stop="20260627083000 +0000" channel="6401014">
+  <programme start="20260627060000 +0000" stop="20260627063000 +0000" channel="6401014">
     <title lang="en">PGA Tour: Round 2 Hls</title>
     <desc lang="en">Highlights of Round 2 of the PGA Tour: Travelers Championship held at TPC River Highlands, Cromwell, Connecticut.</desc>
     <category lang="en">Show</category>
@@ -12401,9 +12383,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627083000 +0000" stop="20260627090000 +0000" channel="6401014">
+  <programme start="20260627063000 +0000" stop="20260627070000 +0000" channel="6401014">
     <title lang="en">DP World Tour: Round 2 Hls</title>
     <desc lang="en">Highlights of Round 2 of the DP World Tour: Open d'Italia Championship held at Circolo Golf Torino, Fiano, Torino, Italy.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260627070000 +0000" stop="20260627090000 +0000" channel="6401014">
+    <title lang="en">PGA Champions Tour: R1</title>
+    <desc lang="en">Coverage of Round 1 of the PGA Champions Tour: Dick's Open from En-Joie Golf Club , Endicott, New York.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -12419,7 +12410,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627115000 +0000" stop="20260627143000 +0000" channel="6401014">
+  <programme start="20260627115000 +0000" stop="20260627135000 +0000" channel="6401014">
     <title lang="en">CLS Ranking: D6 Aft</title>
     <desc lang="en">LIVE coverage of Day 6, afternoon session of Championship League Snooker Ranking 2026 from the Mattioli Arena, Leicester, England.</desc>
     <category lang="en">Show</category>
@@ -12428,7 +12419,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627143000 +0000" stop="20260627153000 +0000" channel="6401014">
+  <programme start="20260627135000 +0000" stop="20260627145000 +0000" channel="6401014">
     <title lang="en">Game of 2 Halves</title>
     <desc lang="en">S2 EP9. Aotearoa’s favourite sports quiz, Game of 2 Halves, returns as Kiwi sporting legends and New Zealand’s funniest people enter a brutal battle arena of sporting trivia and comedic chaos. Guests: Lima Sopoaga, Jason Gunn, Dame Valerie Adams &amp; more!</desc>
     <category lang="en">Show</category>
@@ -12437,7 +12428,25 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20260627153000 +0000" stop="20260627160000 +0000" channel="6401014">
+  <programme start="20260627145000 +0000" stop="20260627150500 +0000" channel="6401014">
+    <title lang="en">NRL: Sea Eagles v Storm Hls</title>
+    <desc lang="en">Highlights of the NRL game between the Sea Eagles and the Storm at 4 Pines Park, Sydney.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260627150500 +0000" stop="20260627152000 +0000" channel="6401014">
+    <title lang="en">NRL: Dolphins v Warriors Hls</title>
+    <desc lang="en">Highlights of the NRL game between the Dolphins and the Warriors at Suncorp Stadium, Brisbane.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260627152000 +0000" stop="20260627155000 +0000" channel="6401014">
     <title lang="en">World Series Darts: US Hls</title>
     <desc lang="en">Highlights of World Series Darts : US Masters. The tournament will see eight PDC superstars battling it out against eight North American representatives at the Infosys Theatre at Madison Square Garden, New York.</desc>
     <category lang="en">Show</category>
@@ -12446,7 +12455,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627160000 +0000" stop="20260627162000 +0000" channel="6401014">
+  <programme start="20260627155000 +0000" stop="20260627162000 +0000" channel="6401014">
     <title lang="en">1st XV: Whanagrei v Massey Hls</title>
     <desc lang="en">Highlights from the North Harbour 1A 1st XV competition between Whangarei Boys High School and Massey High School at Whangarei Boys High School.</desc>
     <category lang="en">Show</category>
@@ -15425,7 +15434,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627113000 +0000" stop="20260627160000 +0000" channel="6401016">
+  <programme start="20260627113000 +0000" stop="20260627160500 +0000" channel="6401016">
     <title lang="en">DP World Tour: Round 3</title>
     <desc lang="en">LIVE coverage of Round 3 of the DP World Tour: Open d'Italia Championship held at Circolo Golf Torino, Fiano, Torino, Italy.</desc>
     <category lang="en">Show</category>
@@ -15434,9 +15443,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627160000 +0000" stop="20260627200000 +0000" channel="6401016">
+  <programme start="20260627160500 +0000" stop="20260627184500 +0000" channel="6401016">
     <title lang="en">CLS Ranking: D6 Eve</title>
     <desc lang="en">LIVE coverage of Day 6, evening session of Championship League Snooker Ranking 2026 from the Mattioli Arena, Leicester, England.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260627184500 +0000" stop="20260627200000 +0000" channel="6401016">
+    <title lang="en">FIA Formula 2: Rd6 Sprint Race</title>
+    <desc lang="en">Coverage of the FIA Formula 2 Championship, Round 6, Sprint Race. From Red Bull Ring Circuit, Spielberg, Austria.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -16279,7 +16297,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627010000 +0000" stop="20260627050000 +0000" channel="6401017">
+  <programme start="20260627010000 +0000" stop="20260627043000 +0000" channel="6401017">
     <title lang="en">ONE Fight Night</title>
     <desc lang="en">Live: ONE Fight Night.</desc>
     <category lang="en">Show</category>
@@ -16288,7 +16306,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260627050000 +0000" stop="20260627070000 +0000" channel="6401017">
+  <programme start="20260627043000 +0000" stop="20260627070000 +0000" channel="6401017">
     <title lang="en">Athletes Unlimited Softball</title>
     <desc lang="en">Blaze v Talons: The Athletes Unlimited Softball League is the premier professional women's softball league in the United States, featuring six teams competing for the AUSL Championship.</desc>
     <category lang="en">Show</category>
