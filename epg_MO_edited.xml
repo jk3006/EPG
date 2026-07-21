@@ -1265,11 +1265,11 @@
   <programme start="20260726111000 +0800" stop="20260726124500 +0800" channel="8601091">
     <title lang="zh">歐巴，我愛你</title>
   </programme>
-  <programme start="20260726124500 +0800" stop="20260726130500 +0800" channel="8601091">
+  <programme start="20260726124500 +0800" stop="20260726130100 +0800" channel="8601091">
     <title lang="zh">茶館·川人與茶</title>
   </programme>
-  <programme start="20260726130500 +0800" stop="20260726131000 +0800" channel="8601091">
-    <title lang="zh">蟲出江湖</title>
+  <programme start="20260726130100 +0800" stop="20260726131000 +0800" channel="8601091">
+    <title lang="zh">生於斯 長於斯</title>
   </programme>
   <programme start="20260726131000 +0800" stop="20260726131200 +0800" channel="8601091">
     <title lang="zh">TDM 新視點</title>
@@ -1742,7 +1742,7 @@
     <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/18c72e26535647c2ef018131cdc99711.jpg"/>
   </programme>
   <programme start="20260726174000 +0800" stop="20260726181500 +0800" channel="8601092">
-    <title lang="zh">Passado em Foco: Um Dia na Vida de um Vendedor de Pássaros</title>
+    <title lang="zh">Um Dia na Vida de um Constructor de Juncos</title>
   </programme>
   <programme start="20260726181500 +0800" stop="20260726190500 +0800" channel="8601092">
     <title lang="zh">Patrões Fora T1</title>
