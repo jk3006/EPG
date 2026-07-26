@@ -4238,24 +4238,27 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726180000 +0000" stop="20260726200000 +0000" channel="6401007">
+  <programme start="20260726180000 +0000" stop="20260726195500 +0000" channel="6401007">
     <title lang="en">Glasgow - Weightlifting D3 S3</title>
     <desc lang="en">LIVE Coverage of the Glasgow Commonwealth Games, Weightlifting Day 3 Evening Session. From SEC Armadillo.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-  </programme>
-  <programme start="20260726200000 +0000" stop="20260726220000 +0000" channel="6401007">
-    <title lang="en">FIA F1: Hungary Grand Prix</title>
-    <desc lang="en">Coverage of FIA Formula 1, Hungary Grand Prix. From Hungaroring Circuit, Pest County, Hungary.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726220000 +0000" stop="20260726230000 +0000" channel="6401007">
+  <programme start="20260726195500 +0000" stop="20260726221000 +0000" channel="6401007">
+    <title lang="en">FIA F1: Hungary Grand Prix</title>
+    <desc lang="en">Coverage of FIA Formula 1, Hungary Grand Prix. From Hungaroring Circuit,  Budapest, Hungary.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260726221000 +0000" stop="20260726230000 +0000" channel="6401007">
     <title lang="en">FIA F1: Hungary GP Chequered Flag</title>
-    <desc lang="en">Coverage of FIA Formula 1, Hungary Grand Prix, Chequered Flag. From Hungaroring Circuit, Pest County, Hungary.</desc>
+    <desc lang="en">Coverage of FIA Formula 1, Hungary Grand Prix, Chequered Flag. From Hungaroring Circuit, Budapest, Hungary.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -4359,8 +4362,8 @@
     </rating>
   </programme>
   <programme start="20260727081500 +0000" stop="20260727083000 +0000" channel="6401007">
-    <title lang="en">Hundred W: Super Giants v Phoenix Hls</title>
-    <desc lang="en">Highlights from the Women's Hundred between the Manchester Super Giants and Birmingham Phoenix at Emirates Old Trafford, Manchester.</desc>
+    <title lang="en">SRA: Matatu v Blues Final Hls</title>
+    <desc lang="en">Highlights from the Super Rugby Aupiki Final between the Matatu and Blues at One NZ Stadium, Christchurch.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -5395,16 +5398,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726080000 +0000" stop="20260726090000 +0000" channel="6401008">
+  <programme start="20260726080000 +0000" stop="20260726091000 +0000" channel="6401008">
     <title lang="en">Sunday Night With Matty Johns</title>
-    <desc lang="en">Matty, Fletch &amp; Hindy present the ideal way to unwind on Sunday. They’ll be joined by players for a unique &amp; entertaining recap of the round.</desc>
+    <desc lang="en">Sun 26 Jul - Matty, Fletch &amp; Hindy present the ideal way to unwind on Sunday. They'll be joined by players for a unique &amp; entertaining recap of the round.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20260726090000 +0000" stop="20260726091500 +0000" channel="6401008">
+  <programme start="20260726091000 +0000" stop="20260726092500 +0000" channel="6401008">
     <title lang="en">NRL: Bulldogs v Warriors Hls</title>
     <desc lang="en">Highlights of the NRL game between the Bulldogs and the Warriors at Accor Stadium, Sydney.</desc>
     <category lang="en">Show</category>
@@ -5413,7 +5416,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726091500 +0000" stop="20260726093000 +0000" channel="6401008">
+  <programme start="20260726092500 +0000" stop="20260726094000 +0000" channel="6401008">
     <title lang="en">NRLW: Eels v Warriors Hls R4</title>
     <desc lang="en">Highlights of 2026 NRL Women's Premiership as Eels takes on Warriors at Eric Tweedale Stadium, Sydney.</desc>
     <category lang="en">Show</category>
@@ -5422,7 +5425,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726093000 +0000" stop="20260726094500 +0000" channel="6401008">
+  <programme start="20260726094000 +0000" stop="20260726095500 +0000" channel="6401008">
     <title lang="en">NRL: Dragons v Titans Hls</title>
     <desc lang="en">Highlights of the NRL game between the Dragons and the Titans at the Netstrata Jubilee Stadium, Sydney.</desc>
     <category lang="en">Show</category>
@@ -5431,7 +5434,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726094500 +0000" stop="20260726100000 +0000" channel="6401008">
+  <programme start="20260726095500 +0000" stop="20260726101000 +0000" channel="6401008">
     <title lang="en">Hundred M: Sunrisers v Brave Hls</title>
     <desc lang="en">Highlights from the Men's Hundred between Sunrisers Leeds and Southern Brave at Headingley, Leeds.</desc>
     <category lang="en">Show</category>
@@ -5440,7 +5443,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726100000 +0000" stop="20260726101500 +0000" channel="6401008">
+  <programme start="20260726101000 +0000" stop="20260726102500 +0000" channel="6401008">
     <title lang="en">Hundred M: Fire v MI London Hls</title>
     <desc lang="en">Highlights from the Men's Hundred between the Welsh Fire and MI London at Sophia Gardens, Cardiff.</desc>
     <category lang="en">Show</category>
@@ -5449,7 +5452,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726101500 +0000" stop="20260726103000 +0000" channel="6401008">
+  <programme start="20260726102500 +0000" stop="20260726104000 +0000" channel="6401008">
     <title lang="en">Hundred W: Sunrisers v Brave Hls</title>
     <desc lang="en">Highlights from the Women's Hundred between Sunrisers Leeds and Southern Brave at Headingley, Leeds.</desc>
     <category lang="en">Show</category>
@@ -5458,7 +5461,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726103000 +0000" stop="20260726104500 +0000" channel="6401008">
+  <programme start="20260726104000 +0000" stop="20260726105500 +0000" channel="6401008">
     <title lang="en">Hundred W: Fire v MI London Hls</title>
     <desc lang="en">Highlights from the Women's Hundred between the Welsh Fire and MI London at Sophia Gardens, Cardiff.</desc>
     <category lang="en">Show</category>
@@ -5467,7 +5470,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726104500 +0000" stop="20260726111000 +0000" channel="6401008">
+  <programme start="20260726105500 +0000" stop="20260726111000 +0000" channel="6401008">
     <title lang="en">GSL: Warriors v Desert Vipers Ext Hls</title>
     <desc lang="en">Extended highlights from match 4 of the Global Super League T20 cricket between the Guyana Amazon Warriors and Desert Vipers at Providence Stadium, Guyana.</desc>
     <category lang="en">Show</category>
@@ -5503,27 +5506,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726150000 +0000" stop="20260726160000 +0000" channel="6401008">
+  <programme start="20260726150000 +0000" stop="20260726161000 +0000" channel="6401008">
     <title lang="en">FIA F1: Hungary GP Chequered Flag</title>
-    <desc lang="en">LIVE coverage of FIA Formula 1, Hungary Grand Prix, Chequered Flag. From Hungaroring Circuit, Pest County, Hungary.</desc>
+    <desc lang="en">LIVE coverage of FIA Formula 1, Hungary Grand Prix, Chequered Flag. From Hungaroring Circuit, Budapest, Hungary.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726160000 +0000" stop="20260726163000 +0000" channel="6401008">
+  <programme start="20260726161000 +0000" stop="20260726170000 +0000" channel="6401008">
     <title lang="en">Ted's Notebook: Hungary</title>
     <desc lang="en">Ted Kravitz is live following the season-opening Grand Prix in Hungary, as he shares his thoughts on the race while gathering reaction from the paddock.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260726163000 +0000" stop="20260726170000 +0000" channel="6401008">
-    <title lang="en">GSL: Warriors v Desert Vipers Ext Hls</title>
-    <desc lang="en">Extended highlights from match 4 of the Global Super League T20 cricket between Warriors and Desert Vipers at the Providence Stadium, Guyana.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -5737,9 +5731,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727160000 +0000" stop="20260727181000 +0000" channel="6401008">
+  <programme start="20260727160000 +0000" stop="20260727174000 +0000" channel="6401008">
     <title lang="en">NRLW: Broncos v Knights R4</title>
     <desc lang="en">Coverage of the 2026 NRL Women's Premiership as Broncos takes on Knights at Totally Workwear Stadium, Brisbane.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260727174000 +0000" stop="20260727181000 +0000" channel="6401008">
+    <title lang="en">Matty &amp; Cronk</title>
+    <desc lang="en">MON 27 JUL - Matty Johns &amp; Cooper Cronk break down the crucial moments &amp; react to storylines from the round throughout the 2026 season.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -6086,10 +6089,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260729133000 +0000" stop="20260729133500 +0000" channel="6401008">
-    <title lang="en">Programme Information Unavailable</title>
-  </programme>
-  <programme start="20260729133500 +0000" stop="20260729170500 +0000" channel="6401008">
+  <programme start="20260729133000 +0000" stop="20260729170000 +0000" channel="6401008">
     <title lang="en">Hundred M: Fire v Rockets</title>
     <desc lang="en">LIVE coverage from the Men's Hundred between the Welsh Fire and Trent Rockets at Sophia Gardens, Cardiff.</desc>
     <category lang="en">Show</category>
@@ -6098,7 +6098,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260729170500 +0000" stop="20260729210000 +0000" channel="6401008">
+  <programme start="20260729170000 +0000" stop="20260729210000 +0000" channel="6401008">
     <title lang="en">Hundred M: MI London v Spirit</title>
     <desc lang="en">LIVE coverage from the Men's Hundred between MI London and London Spirit at The Kia Oval, London.</desc>
     <category lang="en">Show</category>
@@ -6607,18 +6607,9 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726100000 +0000" stop="20260726123500 +0000" channel="6401009">
+  <programme start="20260726100000 +0000" stop="20260726125000 +0000" channel="6401009">
     <title lang="en">FIA Formula E: Round 15</title>
     <desc lang="en">LIVE coverage of the FIA Formula E Championship. Round 15. From Tokyo street circuit, Koto City, Tokyo.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260726123500 +0000" stop="20260726125000 +0000" channel="6401009">
-    <title lang="en">NRLW: Eels v Warriors Hls R4</title>
-    <desc lang="en">Highlights of 2026 NRL Women's Premiership as Eels takes on Warriors at Eric Tweedale Stadium, Sydney.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -6652,7 +6643,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726140500 +0000" stop="20260726183000 +0000" channel="6401009">
+  <programme start="20260726140500 +0000" stop="20260726190500 +0000" channel="6401009">
     <title lang="en">Tour de France Stage 21</title>
     <desc lang="en">LIVE coverage from Stage 21 of the Tour de France, covering 130km from Thoiry to Paris Champs-Elysees.</desc>
     <category lang="en">Show</category>
@@ -6661,7 +6652,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726183000 +0000" stop="20260726210000 +0000" channel="6401009">
+  <programme start="20260726190500 +0000" stop="20260726203500 +0000" channel="6401009">
     <title lang="en">World Matchplay Darts: Day 9 F</title>
     <desc lang="en">LIVE coverage of Day 9 of the 2026 World Matchplay Darts, featuring the final from the summer's biggest darts tournament at the Winter Gardens in Blackpool, England.</desc>
     <category lang="en">Show</category>
@@ -6670,7 +6661,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726210000 +0000" stop="20260726230000 +0000" channel="6401009">
+  <programme start="20260726203500 +0000" stop="20260726224000 +0000" channel="6401009">
     <title lang="en">Tour de France Stage 21 L2H</title>
     <desc lang="en">Coverage of the last 2 hours from Stage 21 of Tour de France, covering 130km from Thoiry to Paris Champs-Elysees.</desc>
     <category lang="en">Show</category>
@@ -6679,7 +6670,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726230000 +0000" stop="20260726231500 +0000" channel="6401009">
+  <programme start="20260726224000 +0000" stop="20260726225500 +0000" channel="6401009">
     <title lang="en">SRA: Matatu v Blues Final Hls</title>
     <desc lang="en">Highlights from the Super Rugby Aupiki Final between the Matatu and Blues at One NZ Stadium, Christchurch.</desc>
     <category lang="en">Show</category>
@@ -6688,7 +6679,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726231500 +0000" stop="20260727011500 +0000" channel="6401009">
+  <programme start="20260726225500 +0000" stop="20260727005500 +0000" channel="6401009">
     <title lang="en">NRL: Dragons v Titans</title>
     <desc lang="en">Coverage of the NRL game between the Dragons and the Titans at the Netstrata Jubilee Stadium, Sydney.</desc>
     <category lang="en">Show</category>
@@ -6697,7 +6688,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727011500 +0000" stop="20260727031500 +0000" channel="6401009">
+  <programme start="20260727005500 +0000" stop="20260727025500 +0000" channel="6401009">
     <title lang="en">NRL: Sea Eagles v Sharks</title>
     <desc lang="en">Coverage of the NRL game between the Sea Eagles and the Sharks at 4 Pines Park, Sydney.</desc>
     <category lang="en">Show</category>
@@ -6706,16 +6697,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727031500 +0000" stop="20260727041500 +0000" channel="6401009">
+  <programme start="20260727025500 +0000" stop="20260727035500 +0000" channel="6401009">
     <title lang="en">Sunday Night With Matty Johns</title>
-    <desc lang="en">Matty, Fletch &amp; Hindy present the ideal way to unwind on Sunday. They’ll be joined by players for a unique &amp; entertaining recap of the round.</desc>
+    <desc lang="en">Sun 26 Jul - Matty, Fletch &amp; Hindy present the ideal way to unwind on Sunday. They'll be joined by players for a unique &amp; entertaining recap of the round.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20260727041500 +0000" stop="20260727044500 +0000" channel="6401009">
+  <programme start="20260727035500 +0000" stop="20260727042500 +0000" channel="6401009">
     <title lang="en">Golf: The Senior Open Championship Hls</title>
     <desc lang="en">Highlight of Round 4 of The ISPS Handa Senior Open Championship presented by Rolex from Gleneagles Scotland.</desc>
     <category lang="en">Show</category>
@@ -6724,7 +6715,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727044500 +0000" stop="20260727051500 +0000" channel="6401009">
+  <programme start="20260727042500 +0000" stop="20260727045500 +0000" channel="6401009">
     <title lang="en">Tour de France Stage 21 Hls</title>
     <desc lang="en">Highlights from Stage 21 of the Tour de France, covering 130km from Thoiry to Paris Champs-Elysees.</desc>
     <category lang="en">Show</category>
@@ -6733,7 +6724,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727051500 +0000" stop="20260727053000 +0000" channel="6401009">
+  <programme start="20260727045500 +0000" stop="20260727051000 +0000" channel="6401009">
     <title lang="en">NRLW: Eels v Warriors Hls R4</title>
     <desc lang="en">Highlights of 2026 NRL Women's Premiership as Eels takes on Warriors at Eric Tweedale Stadium, Sydney.</desc>
     <category lang="en">Show</category>
@@ -6742,7 +6733,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727053000 +0000" stop="20260727054500 +0000" channel="6401009">
+  <programme start="20260727051000 +0000" stop="20260727052500 +0000" channel="6401009">
     <title lang="en">NRLW: Broncos v Knights Hls R4</title>
     <desc lang="en">Highlights of 2026 NRL Women's Premiership as Broncos takes on Knights at Totally Workwear Stadium, Brisbane.</desc>
     <category lang="en">Show</category>
@@ -6751,7 +6742,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727054500 +0000" stop="20260727060000 +0000" channel="6401009">
+  <programme start="20260727052500 +0000" stop="20260727054000 +0000" channel="6401009">
     <title lang="en">NRLW: Tigers v Roosters Hls R4</title>
     <desc lang="en">Highlights of 2026 NRL Women's Premiership as Tigers takes on Roosters at Leichhardt Oval, Sydney.</desc>
     <category lang="en">Show</category>
@@ -6760,7 +6751,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727060000 +0000" stop="20260727061500 +0000" channel="6401009">
+  <programme start="20260727054000 +0000" stop="20260727055500 +0000" channel="6401009">
     <title lang="en">FIA Formula 2: Rd9 Feature Race Hls</title>
     <desc lang="en">Highlights of the FIA Formula 2 Championship, Round 9, Feature Race. From Hungaroring Circuit, Mogyorod (Budapest), Hungary.</desc>
     <category lang="en">Show</category>
@@ -6769,7 +6760,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727061500 +0000" stop="20260727063000 +0000" channel="6401009">
+  <programme start="20260727055500 +0000" stop="20260727061000 +0000" channel="6401009">
     <title lang="en">FIA Formula 3: Rd7 Feature Race Hls</title>
     <desc lang="en">Highlights of the FIA Formula 3 Championship, Round 7, Feature Race. From Hungaroring Circuit, Pest County, Hungary.</desc>
     <category lang="en">Show</category>
@@ -6778,9 +6769,9 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727063000 +0000" stop="20260727083000 +0000" channel="6401009">
+  <programme start="20260727061000 +0000" stop="20260727083000 +0000" channel="6401009">
     <title lang="en">FIA F1: Hungary Grand Prix</title>
-    <desc lang="en">Coverage of FIA Formula 1, Hungary Grand Prix. From Hungaroring Circuit, Pest County, Hungary.</desc>
+    <desc lang="en">Coverage of FIA Formula 1, Hungary Grand Prix. From Hungaroring Circuit,  Budapest, Hungary.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -6851,8 +6842,8 @@
     </rating>
   </programme>
   <programme start="20260727124500 +0000" stop="20260727130000 +0000" channel="6401009">
-    <title lang="en">Hundred W: Rockets v Spirit Hls</title>
-    <desc lang="en">Highlights from the Women's Hundred between the Trent Rockets and London Spirit at Trent Bridge, Nottingham.</desc>
+    <title lang="en">FIA Formula E: Round 15 Hls</title>
+    <desc lang="en">Highlights of the FIA Formula E Championship. Round 15. From Tokyo street circuit, Koto City, Tokyo.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -7859,7 +7850,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726030000 +0000" stop="20260726050000 +0000" channel="6401010">
+  <programme start="20260726030000 +0000" stop="20260726050500 +0000" channel="6401010">
     <title lang="en">Sal's NBL: Tuatara v Airs</title>
     <desc lang="en">LIVE coverage from the 109th match of Sal's National Basketball League between the Auckland Tuatara and Taranaki Airs at Eventfinda Stadium, Auckland.</desc>
     <category lang="en">Show</category>
@@ -7868,7 +7859,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726050000 +0000" stop="20260726060000 +0000" channel="6401010">
+  <programme start="20260726050500 +0000" stop="20260726060000 +0000" channel="6401010">
     <title lang="en">Rapid League: Rams v Bulls</title>
     <desc lang="en">LIVE coverage from the 110th match of the Rapid League between the Canterbury Rams and Franklin Bulls at Parakiore Recreation and Sport Centre, Christchurch.</desc>
     <category lang="en">Show</category>
@@ -7886,7 +7877,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726081000 +0000" stop="20260726100000 +0000" channel="6401010">
+  <programme start="20260726081000 +0000" stop="20260726101500 +0000" channel="6401010">
     <title lang="en">NRLW: Tigers v Roosters R4</title>
     <desc lang="en">LIVE coverage of the 2026 NRL Women's Premiership as Tigers takes on Roosters at Leichhardt Oval, Sydney.</desc>
     <category lang="en">Show</category>
@@ -7895,9 +7886,9 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726100000 +0000" stop="20260726103000 +0000" channel="6401010">
-    <title lang="en">PGA Tour: Round 3 Hls</title>
-    <desc lang="en">Highlights of Round 3 of the PGA Tour: 3M Open held at TPC Twin Cities, Blaine, Minnesota.</desc>
+  <programme start="20260726101500 +0000" stop="20260726103000 +0000" channel="6401010">
+    <title lang="en">NRL: Dragons v Titans Hls</title>
+    <desc lang="en">Highlights of the NRL game between the Dragons and the Titans at the Netstrata Jubilee Stadium, Sydney.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -7913,7 +7904,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726110000 +0000" stop="20260726150000 +0000" channel="6401010">
+  <programme start="20260726110000 +0000" stop="20260726144500 +0000" channel="6401010">
     <title lang="en">LPGA: Round 4</title>
     <desc lang="en">LIVE coverage of Round 4 of the ISPS Handa Women's Scottish Open from Gailes, Dundonald Links, North Ayrshire, Scotland.</desc>
     <category lang="en">Show</category>
@@ -7922,9 +7913,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726150000 +0000" stop="20260726153000 +0000" channel="6401010">
+  <programme start="20260726144500 +0000" stop="20260726151500 +0000" channel="6401010">
     <title lang="en">PGA Tour: Round 3 Hls</title>
     <desc lang="en">Highlights of Round 3 of the PGA Tour: 3M Open held at TPC Twin Cities, Blaine, Minnesota.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260726151500 +0000" stop="20260726153000 +0000" channel="6401010">
+    <title lang="en">Porsche Supercup Rd5 Race Hls</title>
+    <desc lang="en">Highlights of the Porsche Supercup, Budapest Race Round 5 from Hungary Circuit,  Budapest.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -7967,7 +7967,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726165000 +0000" stop="20260726204500 +0000" channel="6401010">
+  <programme start="20260726165000 +0000" stop="20260726203000 +0000" channel="6401010">
     <title lang="en">Boxing Day: D3 S2 (NZ)</title>
     <desc lang="en">LIVE coverage of the Glasgow Commonwealth Games, Day 3 Boxing Day Afternoon Session. From SEC Centre. Session includes Alex Mukuka - Bout 57 v Fabrice Karl Valerie (MRI) in Men's Bantamweight 55kg - Round of 16.</desc>
     <category lang="en">Show</category>
@@ -7976,7 +7976,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726204500 +0000" stop="20260726210000 +0000" channel="6401010">
+  <programme start="20260726203000 +0000" stop="20260726204500 +0000" channel="6401010">
     <title lang="en">FIA Formula 2: Rd9 Feature Race Hls</title>
     <desc lang="en">Highlights of the FIA Formula 2 Championship, Round 9, Feature Race. From Hungaroring Circuit, Mogyorod (Budapest), Hungary.</desc>
     <category lang="en">Show</category>
@@ -7985,9 +7985,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726210000 +0000" stop="20260726211500 +0000" channel="6401010">
+  <programme start="20260726204500 +0000" stop="20260726210000 +0000" channel="6401010">
     <title lang="en">FIA Formula 1: Hungary Grand Prix Hls</title>
-    <desc lang="en">Highlights of FIA Formula 1, Hungary Grand Prix. From Hungaroring Circuit, Pest County, Hungary.</desc>
+    <desc lang="en">Highlights of FIA Formula 1, Hungary Grand Prix. From Hungaroring Circuit,  Budapest, Hungary.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260726210000 +0000" stop="20260726211500 +0000" channel="6401010">
+    <title lang="en">NRL: Bulldogs v Warriors Hls</title>
+    <desc lang="en">Highlights of the NRL game between the Bulldogs and the Warriors at Accor Stadium, Sydney.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -8076,8 +8085,8 @@
     </rating>
   </programme>
   <programme start="20260727034500 +0000" stop="20260727040000 +0000" channel="6401010">
-    <title lang="en">Hundred W: Super Giants v Phoenix Hls</title>
-    <desc lang="en">Highlights from the Women's Hundred between the Manchester Super Giants and Birmingham Phoenix at Emirates Old Trafford, Manchester.</desc>
+    <title lang="en">Porsche Supercup Rd5 Race Hls</title>
+    <desc lang="en">Highlights of the Porsche Supercup, Budapest Race Round 5 from Hungary Circuit,  Budapest.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -8147,7 +8156,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727064500 +0000" stop="20260727084500 +0000" channel="6401010">
+  <programme start="20260727064500 +0000" stop="20260727085000 +0000" channel="6401010">
     <title lang="en">Tour de France Stage 21 L2H</title>
     <desc lang="en">Coverage of the last 2 hours from Stage 21 of Tour de France, covering 130km from Thoiry to Paris Champs-Elysees.</desc>
     <category lang="en">Show</category>
@@ -8156,7 +8165,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727084500 +0000" stop="20260727095000 +0000" channel="6401010">
+  <programme start="20260727085000 +0000" stop="20260727095000 +0000" channel="6401010">
     <title lang="en">UCI BMX Racing WCHS Hls</title>
     <desc lang="en">Highlights from the 2026 UCI BMX Racing World Championships in Brisbane, showcasing the best moments as the world’s top riders deliver thrilling action, fierce competition, and race-defining performances on the global stage.</desc>
     <category lang="en">Show</category>
@@ -8219,16 +8228,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727161500 +0000" stop="20260727163000 +0000" channel="6401010">
-    <title lang="en">NRLW: Eels v Warriors Hls R4</title>
-    <desc lang="en">Highlights of 2026 NRL Women's Premiership as Eels takes on Warriors at Eric Tweedale Stadium, Sydney.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260727163000 +0000" stop="20260727170000 +0000" channel="6401010">
+  <programme start="20260727161500 +0000" stop="20260727164500 +0000" channel="6401010">
     <title lang="en">League Lounge With Shaun Johnson</title>
     <desc lang="en">Mon 27 Jul - Shaun Johnson like you've never seen before! Join SJ and his mates in the Ford League Lounge for expert analysis, player insights, and everything Warriors and Rugby League—the league show Kiwis have been dreaming about.</desc>
     <category lang="en">Show</category>
@@ -8237,7 +8237,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727170000 +0000" stop="20260727180000 +0000" channel="6401010">
+  <programme start="20260727164500 +0000" stop="20260727174500 +0000" channel="6401010">
     <title lang="en">NRL 360</title>
     <desc lang="en">MON 27 JUL Braith Anasta &amp; Gorden Tallis set the agenda during 2026, with breaking news &amp; opinions. Plus journalists, players &amp; coaches with views on what’s topical.</desc>
     <category lang="en">Show</category>
@@ -8246,7 +8246,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727180000 +0000" stop="20260727183000 +0000" channel="6401010">
+  <programme start="20260727174500 +0000" stop="20260727181500 +0000" channel="6401010">
     <title lang="en">The Breakdown: All Blacks Squad Special</title>
     <desc lang="en">MON 27 JUL - Join the Breakdown as they look at the All Blacks squad to travel to South Africa for the Greatest Rivalry Tour.</desc>
     <category lang="en">Show</category>
@@ -8255,7 +8255,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727183000 +0000" stop="20260727190500 +0000" channel="6401010">
+  <programme start="20260727181500 +0000" stop="20260727185000 +0000" channel="6401010">
     <title lang="en">League Lounge With Shaun Johnson</title>
     <desc lang="en">Mon 27 Jul - Shaun Johnson like you've never seen before! Join SJ and his mates in the Ford League Lounge for expert analysis, player insights, and everything Warriors and Rugby League—the league show Kiwis have been dreaming about.</desc>
     <category lang="en">Show</category>
@@ -8264,7 +8264,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727190500 +0000" stop="20260727213000 +0000" channel="6401010">
+  <programme start="20260727185000 +0000" stop="20260727213000 +0000" channel="6401010">
     <title lang="en">Glasgow - Weightlifting D4 S3</title>
     <desc lang="en">LIVE Coverage of the Glasgow Commonwealth Games, Weightlifting Day 4 Evening Session. From SEC Armadillo.</desc>
     <category lang="en">Show</category>
@@ -10378,8 +10378,8 @@
     </rating>
   </programme>
   <programme start="20260726002500 +0000" stop="20260726022000 +0000" channel="6401012">
-    <title lang="en">Lawn Bowls D2 S2 (NZ)</title>
-    <desc lang="en">Coverage of the Glasgow Commonwealth Games, Day 2 Lawn Bowls Afternoon Session. From SEC Centre. Session includes Katelyn Inch, Selina Goddard (NZL v CAN) in Women's Pairs, and Wheeler, Woodrow + Wheeler,Carraher (AUS v NZL) in Para Mixed Pair B2- B3.</desc>
+    <title lang="en">Lawn Bowls D2 S2</title>
+    <desc lang="en">Coverage of the Glasgow Commonwealth Games, Day 2 Lawn Bowls Afternoon Session. From SEC Centre.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -10440,7 +10440,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260726092000 +0000" stop="20260726113000 +0000" channel="6401012">
+  <programme start="20260726092000 +0000" stop="20260726114500 +0000" channel="6401012">
     <title lang="en">Swimming: D3 S1 (NZ)</title>
     <desc lang="en">LIVE coverage of the Glasgow Commonwealth Games, Day 3 Swimming Morning Session. From Tollcross International Swimming Centre. Session includes Chelsey Edwards (W's 100m Freestyle), Zoe Pedersen (W's 100m Freestyle), Hazel Ouwehand (W's 100m Butterfly).</desc>
     <category lang="en">Show</category>
@@ -10449,18 +10449,9 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726113000 +0000" stop="20260726120000 +0000" channel="6401012">
+  <programme start="20260726114500 +0000" stop="20260726121500 +0000" channel="6401012">
     <title lang="en">Swimming: D2 S1 (NZ) Hls</title>
     <desc lang="en">Highlight of the Glasgow Commonwealth Games, Day 2 Swimming Morning Session. From Tollcross International Swimming Centre. Erika Fairweather (W 200m), Amber George &amp; Savannah-Eve Martin (W 100m), plus Fairweather, Edwards, Gray &amp; Swift in Mixed 4x100m Rel.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260726120000 +0000" stop="20260726121500 +0000" channel="6401012">
-    <title lang="en">Glasgow 2026 - Netball: AUS v TGA Hls</title>
-    <desc lang="en">Highlights of the Glasgow Commonwealth Games Netball, Australia v Tonga. From The OVO Hydro, Scottish Event Campus, Glasgow.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -10509,7 +10500,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726175500 +0000" stop="20260726210000 +0000" channel="6401012">
+  <programme start="20260726175500 +0000" stop="20260726210500 +0000" channel="6401012">
     <title lang="en">Swimming: D3 S2 (NZ)</title>
     <desc lang="en">LIVE coverage of the Glasgow Commonwealth Games, Day 3 Swimming Afternoon Session. From Tollcross International Swimming Centre. Session includes Caitlin Deans , Eve Thomas, Erika Fairweather in  Women's 1500m Freestyle - Final.</desc>
     <category lang="en">Show</category>
@@ -10518,13 +10509,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726210000 +0000" stop="20260726230000 +0000" channel="6401012">
-    <title lang="en">Boxing Day: D3 S1</title>
-    <desc lang="en">Coverage of the Glasgow Commonwealth Games, Day 3 Boxing Day Morning Session. From SEC Centre.</desc>
+  <programme start="20260726210500 +0000" stop="20260726230500 +0000" channel="6401012">
+    <title lang="en">Boxing Day: D3 S1 (NZ)</title>
+    <desc lang="en">Coverage of the Glasgow Commonwealth Games, Day 3 Boxing Day Morning Session. From SEC Centre. Session includes Kiwis Greer Hall v Keatlaretse Modise (BOT) in Women's Bantamweight 54kg, and Connor Campbell v Jacob Cassar (AUS) in Men's Welterweight 65kg.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme start="20260726230000 +0000" stop="20260727020000 +0000" channel="6401012">
+  <programme start="20260726230500 +0000" stop="20260727020000 +0000" channel="6401012">
     <title lang="en">Lawn Bowls D3 S1 (NZ)</title>
     <desc lang="en">Coverage of the Glasgow Commonwealth Games, Day 3 Lawn Bowls Morning Session. From SEC Centre. Session includes Katelyn Inch, Selina Goddard -  NZL v FIJ in Women's Pairs - Sectional Play.</desc>
     <category lang="en">Show</category>
@@ -10593,7 +10587,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260727092000 +0000" stop="20260727120000 +0000" channel="6401012">
+  <programme start="20260727092000 +0000" stop="20260727111000 +0000" channel="6401012">
     <title lang="en">Swimming: D4 S1</title>
     <desc lang="en">LIVE coverage of the Glasgow Commonwealth Games, Day 4 Swimming Morning Session. From Tollcross International Swimming Centre.</desc>
     <category lang="en">Show</category>
@@ -10602,11 +10596,32 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727120000 +0000" stop="20260727163000 +0000" channel="6401012">
+  <programme start="20260727111000 +0000" stop="20260727112500 +0000" channel="6401012">
+    <title lang="en">Glasgow 2026 - Netball: NZL v JAM Hls</title>
+    <desc lang="en">Highlights of the Glasgow Commonwealth Games Netball, New Zealand v Jamaica. From The OVO Hydro, Scottish Event Campus, Glasgow.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260727112500 +0000" stop="20260727115500 +0000" channel="6401012">
+    <title lang="en">The Crowd Goes Wild</title>
+    <desc lang="en">THU 27 JUL-  Join the team for an alternative dose of sports news, delivering the best (and worst) sporting moments the only way they know how, with a little cheek!</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260727115500 +0000" stop="20260727163000 +0000" channel="6401012">
     <title lang="en">Artistic Gymnastics: D4</title>
     <desc lang="en">LIVE coverage of the Glasgow Commonwealth Games, Day 4 Artistic Gymnastics. From The Arena.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
   </programme>
   <programme start="20260727163000 +0000" stop="20260727164500 +0000" channel="6401012">
     <title lang="en">Glasgow 2026 - Netball: NZL v JAM Hls</title>
@@ -10635,7 +10650,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727172000 +0000" stop="20260727175000 +0000" channel="6401012">
+  <programme start="20260727172000 +0000" stop="20260727175500 +0000" channel="6401012">
     <title lang="en">Swimming: D4 S1 Hls</title>
     <desc lang="en">Highlights of the Glasgow Commonwealth Games, Day 4 Swimming Morning Session. From Tollcross International Swimming Centre.</desc>
     <category lang="en">Show</category>
@@ -10644,7 +10659,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727175000 +0000" stop="20260727211500 +0000" channel="6401012">
+  <programme start="20260727175500 +0000" stop="20260727211500 +0000" channel="6401012">
     <title lang="en">Swimming: D4 S2</title>
     <desc lang="en">LIVE coverage of the Glasgow Commonwealth Games, Day 4 Swimming Afternoon Session. From Tollcross International Swimming Centre.</desc>
     <category lang="en">Show</category>
@@ -11334,22 +11349,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726094500 +0000" stop="20260726113000 +0000" channel="6401013">
+  <programme start="20260726094500 +0000" stop="20260726114000 +0000" channel="6401013">
     <title lang="en">Glasgow 2026 - Netball: AUS v ENG</title>
     <desc lang="en">LIVE coverage of the Glasgow Commonwealth Games Netball, Australia v England. From The OVO Hydro, Scottish Event Campus, Glasgow.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-  </programme>
-  <programme start="20260726113000 +0000" stop="20260726114500 +0000" channel="6401013">
-    <title lang="en">Glasgow 2026 - Netball: NZL v SCO Hls</title>
-    <desc lang="en">Highlights of the Glasgow Commonwealth Games Netball, New Zealand v Scotland. From The OVO Hydro, Scottish Event Campus, Glasgow.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726114500 +0000" stop="20260726125000 +0000" channel="6401013">
+  <programme start="20260726114000 +0000" stop="20260726123500 +0000" channel="6401013">
     <title lang="en">Lawn Bowls D2 Hls</title>
     <desc lang="en">Day 2 highlights from the Glasgow Commonwealth Games.</desc>
     <category lang="en">Show</category>
@@ -11358,7 +11367,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726125000 +0000" stop="20260726153000 +0000" channel="6401013">
+  <programme start="20260726123500 +0000" stop="20260726130500 +0000" channel="6401013">
+    <title lang="en">Glasgow 2026 - Netball: NZL v SCO Hls</title>
+    <desc lang="en">Highlights of the Glasgow Commonwealth Games Netball, New Zealand v Scotland. From The OVO Hydro, Scottish Event Campus, Glasgow.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260726130500 +0000" stop="20260726153000 +0000" channel="6401013">
     <title lang="en">Glasgow - Weightlifting D3 S2</title>
     <desc lang="en">LIVE Coverage of the Glasgow Commonwealth Games, Weightlifting Day 3 Afternoon Session. From SEC Armadillo.</desc>
     <category lang="en">Show</category>
@@ -11376,7 +11394,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726175000 +0000" stop="20260726194500 +0000" channel="6401013">
+  <programme start="20260726175000 +0000" stop="20260726195000 +0000" channel="6401013">
     <title lang="en">Glasgow 2026 - Netball: UGA v TTO</title>
     <desc lang="en">LIVE coverage of the Glasgow Commonwealth Games Netball, Uganda v Trinidad And Tobago. From The OVO Hydro, Scottish Event Campus, Glasgow.</desc>
     <category lang="en">Show</category>
@@ -11385,17 +11403,23 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726194500 +0000" stop="20260726213000 +0000" channel="6401013">
+  <programme start="20260726195000 +0000" stop="20260726213500 +0000" channel="6401013">
     <title lang="en">Glasgow 2026 - Netball: NZL v JAM</title>
     <desc lang="en">LIVE coverage of the Glasgow Commonwealth Games Netball, New Zealand v Jamaica. From The OVO Hydro, Scottish Event Campus, Glasgow.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme start="20260726213000 +0000" stop="20260726231500 +0000" channel="6401013">
+  <programme start="20260726213500 +0000" stop="20260726231500 +0000" channel="6401013">
     <title lang="en">Glasgow 2026 - Netball: AUS v ENG</title>
     <desc lang="en">Coverage of the Glasgow Commonwealth Games Netball, Australia v England. From The OVO Hydro, Scottish Event Campus, Glasgow.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
   </programme>
   <programme start="20260726231500 +0000" stop="20260727010000 +0000" channel="6401013">
     <title lang="en">Glasgow 2026 - Netball: RSA v TGA</title>
@@ -11451,7 +11475,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727125000 +0000" stop="20260727144500 +0000" channel="6401013">
+  <programme start="20260727125000 +0000" stop="20260727145000 +0000" channel="6401013">
     <title lang="en">Glasgow 2026 - Netball: ENG v MAW</title>
     <desc lang="en">LIVE coverage of the Glasgow Commonwealth Games Netball, England v Malawi. From The OVO Hydro, Scottish Event Campus, Glasgow.</desc>
     <category lang="en">Show</category>
@@ -11460,11 +11484,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727144500 +0000" stop="20260727163000 +0000" channel="6401013">
+  <programme start="20260727145000 +0000" stop="20260727163000 +0000" channel="6401013">
     <title lang="en">Glasgow 2026 - Netball: TGA v NIR</title>
     <desc lang="en">LIVE coverage of the Glasgow Commonwealth Games Netball, New Zealand v Scotland. From The OVO Hydro, Scottish Event Campus, Glasgow.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
   </programme>
   <programme start="20260727163000 +0000" stop="20260727170000 +0000" channel="6401013">
     <title lang="en">The Crowd Goes Wild</title>
@@ -12081,7 +12108,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726072000 +0000" stop="20260726082000 +0000" channel="6401014">
+  <programme start="20260726072000 +0000" stop="20260726083500 +0000" channel="6401014">
     <title lang="en">Swimming: D2 S2 (NZ) Hls</title>
     <desc lang="en">Highlight of the Glasgow Commonwealth Games, Day 2 Swimming Afternoon Session. From Tollcross International Swimming Centre. Session includes Fairweather, Edwards, Gray, Swift, Zoe Pedersen, Hazel Ouwehand in W 50m, 100m &amp; 200m SF, Final &amp; Medal Ceremony.</desc>
     <category lang="en">Show</category>
@@ -12090,7 +12117,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726082000 +0000" stop="20260726110000 +0000" channel="6401014">
+  <programme start="20260726083500 +0000" stop="20260726110000 +0000" channel="6401014">
     <title lang="en">Glasgow - Weightlifting D3 S1</title>
     <desc lang="en">LIVE Coverage of the Glasgow Commonwealth Games, Weightlifting Day 3 Morning Session. From SEC Armadillo.</desc>
     <category lang="en">Show</category>
@@ -12961,8 +12988,8 @@
     </rating>
   </programme>
   <programme start="20260726042500 +0000" stop="20260726052000 +0000" channel="6401015">
-    <title lang="en">FIA Formula E: Rd15 P3</title>
-    <desc lang="en">LIVE coverage of the FIA Formula E Championship, Round 15, Practice 3. From Tokyo street circuit, Koto City, Tokyo.</desc>
+    <title lang="en">CANCELLED FIA Formula E: Rd15 P3</title>
+    <desc lang="en">CANCELLED coverage of the FIA Formula E Championship, Round 15, Practice 3. From Tokyo street circuit, Koto City, Tokyo.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -13005,7 +13032,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726080500 +0000" stop="20260726085500 +0000" channel="6401015">
+  <programme start="20260726080500 +0000" stop="20260726090000 +0000" channel="6401015">
     <title lang="en">Porsche Supercup: Rd5 Race</title>
     <desc lang="en">LIVE coverage of the Porsche Supercup, Budapest Race Round 5 from Hungary Circuit,  Budapest.</desc>
     <category lang="en">Show</category>
@@ -13014,7 +13041,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726085500 +0000" stop="20260726092000 +0000" channel="6401015">
+  <programme start="20260726090000 +0000" stop="20260726092000 +0000" channel="6401015">
     <title lang="en">Glasgow 2026 - Netball: NZL v SCO Hls</title>
     <desc lang="en">Highlights of the Glasgow Commonwealth Games Netball, New Zealand v Scotland. From The OVO Hydro, Scottish Event Campus, Glasgow.</desc>
     <category lang="en">Show</category>
@@ -13023,7 +13050,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726092000 +0000" stop="20260726104000 +0000" channel="6401015">
+  <programme start="20260726092000 +0000" stop="20260726104500 +0000" channel="6401015">
     <title lang="en">FIA Formula 2: Rd9 Feature Race</title>
     <desc lang="en">LIVE Coverage of the FIA Formula 2 Championship, Round 9, Feature Race. From Hungaroring Circuit, Mogyorod (Budapest), Hungary.</desc>
     <category lang="en">Show</category>
@@ -13032,11 +13059,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726104000 +0000" stop="20260726144500 +0000" channel="6401015">
-    <title lang="en">3x3 Basketball: D3 S1</title>
-    <desc lang="en">LIVE coverage of the Glasgow Commonwealth Games, Day 3 3x3 Basketball Morning Session. From SEC Centre.</desc>
+  <programme start="20260726104500 +0000" stop="20260726144500 +0000" channel="6401015">
+    <title lang="en">3x3 Basketball: D3 S1 (NZ)</title>
+    <desc lang="en">LIVE coverage of the Glasgow Commonwealth Games, Day 3 3x3 Basketball Morning Session. From SEC Centre. Session includes team New Zealand v Cayman Island in Men's 3x3 Basketball - Group Match.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
   </programme>
   <programme start="20260726144500 +0000" stop="20260726155000 +0000" channel="6401015">
     <title lang="en">Glasgow 2026 Day 2 Hls</title>
@@ -13062,25 +13092,34 @@
     <category lang="en">Show</category>
     <category lang="en">Series</category>
   </programme>
-  <programme start="20260726224500 +0000" stop="20260727011500 +0000" channel="6401015">
+  <programme start="20260726224500 +0000" stop="20260727005000 +0000" channel="6401015">
     <title lang="en">Glasgow - Weightlifting D3 S2</title>
     <desc lang="en">Coverage of the Glasgow Commonwealth Games, Weightlifting Day 3 Afternoon Session. From SEC Armadillo.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme start="20260727011500 +0000" stop="20260727021500 +0000" channel="6401015">
-    <title lang="en">Swimming: D3 S2 Hls</title>
-    <desc lang="en">Highlights of the Glasgow Commonwealth Games, Day 3 Swimming Afternoon Session. From Tollcross International Swimming Centre.</desc>
+  <programme start="20260727005000 +0000" stop="20260727015000 +0000" channel="6401015">
+    <title lang="en">Swimming: D3 S2 (NZ) Hls</title>
+    <desc lang="en">Highlights of the Glasgow Commonwealth Games, Day 3 Swimming Afternoon Session. From Tollcross International Swimming Centre. Session includes Caitlin Deans , Eve Thomas, Erika Fairweather in  Women's 1500m Freestyle - Final.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme start="20260727021500 +0000" stop="20260727063000 +0000" channel="6401015">
-    <title lang="en">3x3 Basketball: D3 S2</title>
-    <desc lang="en">Coverage of the Glasgow Commonwealth Games, Day 3 3x3 Basketball Afternoon Session. From SEC Centre.</desc>
+  <programme start="20260727015000 +0000" stop="20260727062000 +0000" channel="6401015">
+    <title lang="en">3x3 Basketball: D3 S2 (NZ)</title>
+    <desc lang="en">Coverage of the Glasgow Commonwealth Games, Day 3 3x3 Basketball Afternoon Session. From SEC Centre. Session includes team New Zealand v Scotland in Men's 3x3 Basketball - Group Match.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme start="20260727063000 +0000" stop="20260727073000 +0000" channel="6401015">
+  <programme start="20260727062000 +0000" stop="20260727072000 +0000" channel="6401015">
     <title lang="en">Lawn Bowls D3 (NZ) Hls</title>
     <desc lang="en">Day 3 highlights from the Glasgow Commonwealth Games. Session includes Katelyn Inch, Selina Goddard -  NZL v FIJ, Shannon Mcilroy - RSA v NZL and Wheeler, Woodrow + Wheeler,Carraher - RSA v NZL.</desc>
     <category lang="en">Show</category>
@@ -13089,13 +13128,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727073000 +0000" stop="20260727074500 +0000" channel="6401015">
+  <programme start="20260727072000 +0000" stop="20260727073500 +0000" channel="6401015">
     <title lang="en">Glasgow - Weightlifting D3 48kg W Hls</title>
     <desc lang="en">Highlights from the Glasgow Commonwealth Games, Weightlifting Day 3 Women's 48 Kg Final. From SEC Armadillo.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme start="20260727074500 +0000" stop="20260727080500 +0000" channel="6401015">
+  <programme start="20260727073500 +0000" stop="20260727075000 +0000" channel="6401015">
     <title lang="en">Glasgow - Weightlifting D3 60kg M Hls</title>
     <desc lang="en">Highlights from the Glasgow Commonwealth Games, Weightlifting Day 3 Men's 60 Kg Final. From SEC Armadillo.</desc>
     <category lang="en">Show</category>
@@ -13104,7 +13146,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727080500 +0000" stop="20260727103500 +0000" channel="6401015">
+  <programme start="20260727075000 +0000" stop="20260727103500 +0000" channel="6401015">
     <title lang="en">Glasgow - Weightlifting D4 S1</title>
     <desc lang="en">LIVE Coverage of the Glasgow Commonwealth Games, Weightlifting Day 4 Morning Session. From SEC Armadillo.</desc>
     <category lang="en">Show</category>
@@ -13131,16 +13173,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260727115000 +0000" stop="20260727120500 +0000" channel="6401015">
-    <title lang="en">Glasgow 2026 - Netball: AUS v ENG Hls</title>
-    <desc lang="en">Highlights of the Glasgow Commonwealth Games Netball, Australia v England. From The OVO Hydro, Scottish Event Campus, Glasgow.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260727120500 +0000" stop="20260727164500 +0000" channel="6401015">
+  <programme start="20260727115000 +0000" stop="20260727164500 +0000" channel="6401015">
     <title lang="en">Glasgow - Weightlifting D4 S2</title>
     <desc lang="en">LIVE Coverage of the Glasgow Commonwealth Games, Weightlifting Day 4 Afternoon Session. From SEC Armadillo.</desc>
     <category lang="en">Show</category>
@@ -13854,9 +13887,27 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726095000 +0000" stop="20260726140000 +0000" channel="6401016">
+  <programme start="20260726095000 +0000" stop="20260726130000 +0000" channel="6401016">
     <title lang="en">Boxing Day: D3 S1 (NZ)</title>
     <desc lang="en">LIVE coverage of the Glasgow Commonwealth Games, Day 3 Boxing Day Morning Session. From SEC Centre. Session includes Greer Hall v Keatlaretse Modise (BOT) in Women's Bantamweight 54kg and Connor Campbell v Jacob Cassar (AUS) in Men's Welterweight 65kg.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260726130000 +0000" stop="20260726133000 +0000" channel="6401016">
+    <title lang="en">Tour de France Stage 20 Hls</title>
+    <desc lang="en">Highlights from Stage 20 of the Tour de France, covering 171km from LE Bourg D'Oisans to Alpe D'Huez.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260726133000 +0000" stop="20260726140000 +0000" channel="6401016">
+    <title lang="en">GSL: Warriors v Unicorns Ext Hls</title>
+    <desc lang="en">Extended highlights from match 2 of the Global Super League T20 cricket between the Guyana Amazon Warriors and San Francisco Unicorns at Providence Stadium, Guyana.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -13890,7 +13941,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726165500 +0000" stop="20260726200000 +0000" channel="6401016">
+  <programme start="20260726165500 +0000" stop="20260726201000 +0000" channel="6401016">
     <title lang="en">Artistic Gymnastics: D3 S2 (NZ)</title>
     <desc lang="en">LIVE coverage of the Glasgow Commonwealth Games, Day 3 Artistic Gymnastics Afternoon Session. From The Arena. Session includes Courtney McGregor in Women's Individual All-Around Final.</desc>
     <category lang="en">Show</category>
@@ -13899,13 +13950,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726200000 +0000" stop="20260726210000 +0000" channel="6401016">
-    <title lang="en">Artistic Gymnastics: D3 S1 Hls</title>
-    <desc lang="en">Highlights of the Glasgow Commonwealth Games, Day 3 Artistic Gymnastics Morning Session. From The Arena.</desc>
+  <programme start="20260726201000 +0000" stop="20260726211000 +0000" channel="6401016">
+    <title lang="en">Artistic Gymnastics: D3 S1 (NZ) Hls</title>
+    <desc lang="en">Highlights of the Glasgow Commonwealth Games, Day 3 Artistic Gymnastics Morning Session. From The Arena. Session includes Daniel Stoddart in Men's Individual All-Around Final.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme start="20260726210000 +0000" stop="20260726223000 +0000" channel="6401016">
+  <programme start="20260726211000 +0000" stop="20260726223500 +0000" channel="6401016">
     <title lang="en">FIA Formula 2: Rd9 Feature Race</title>
     <desc lang="en">Coverage of the FIA Formula 2 Championship, Round 9, Feature Race. From Hungaroring Circuit, Mogyorod (Budapest), Hungary.</desc>
     <category lang="en">Show</category>
@@ -13914,7 +13968,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726223000 +0000" stop="20260726234500 +0000" channel="6401016">
+  <programme start="20260726223500 +0000" stop="20260726234000 +0000" channel="6401016">
     <title lang="en">FIA Formula 3: Rd7 Feature Race</title>
     <desc lang="en">Coverage of the FIA Formula 3 Championship, Round 7, Feature Race. From Hungaroring Circuit, Pest County, Hungary.</desc>
     <category lang="en">Show</category>
@@ -13923,7 +13977,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726234500 +0000" stop="20260727003000 +0000" channel="6401016">
+  <programme start="20260726234000 +0000" stop="20260727003000 +0000" channel="6401016">
     <title lang="en">Porsche Supercup Rd5 Race Replay</title>
     <desc lang="en">Coverage of the Porsche Supercup, Budapest Race Round 5 from Hungary Circuit,  Budapest.</desc>
     <category lang="en">Show</category>
@@ -14679,25 +14733,25 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726200000 +0000" stop="20260726210000 +0000" channel="6401017">
+  <programme start="20260726200000 +0000" stop="20260726210500 +0000" channel="6401017">
     <title lang="en">NFL FLAG Championships</title>
-    <desc lang="en">Boys 14U Championship: The NFL is introducing a NEW, first-of-its-kind Championship Tournament to celebrate the best of the best across the youth Flag Football world!</desc>
+    <desc lang="en">Boys 14U Championship: The NFL is introducing a NEW, first-of-its-kind Championship Tournament to celebrate the best of the best across the youth flag gridiron world.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726210000 +0000" stop="20260726220000 +0000" channel="6401017">
+  <programme start="20260726210500 +0000" stop="20260726221500 +0000" channel="6401017">
     <title lang="en">NFL FLAG Championships</title>
-    <desc lang="en">High School Girls Division Championship: The NFL is introducing a NEW, first-of-its-kind Championship Tournament to celebrate the best of the best across the youth Flag Football world!</desc>
+    <desc lang="en">High School Girls Division Championship: The NFL is introducing a NEW, first-of-its-kind Championship Tournament to celebrate the best of the best across the youth flag gridiron world.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726220000 +0000" stop="20260726230000 +0000" channel="6401017">
+  <programme start="20260726221500 +0000" stop="20260726230000 +0000" channel="6401017">
     <title lang="en">Derek Jeter: A Tribute</title>
     <desc lang="en">Derek Jeter: A Tribute.</desc>
     <category lang="en">Show</category>
@@ -15867,7 +15921,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726180000 +0000" stop="20260726200000 +0000" channel="6401018">
+  <programme start="20260726180000 +0000" stop="20260726203000 +0000" channel="6401018">
     <title lang="en">Athletes Unlimited Softball</title>
     <desc lang="en">The Athletes Unlimited Softball League is the premier professional women's softball league in the United States, featuring six teams competing for the AUSL Championship.</desc>
     <category lang="en">Show</category>
@@ -15876,18 +15930,9 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260726200000 +0000" stop="20260726210000 +0000" channel="6401018">
+  <programme start="20260726203000 +0000" stop="20260726212000 +0000" channel="6401018">
     <title lang="en">The Day Diego Returned to the Azteca</title>
     <desc lang="en">ESPN's original documentaries offer a wide range of compelling stories from the world of sports.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260726210000 +0000" stop="20260726212000 +0000" channel="6401018">
-    <title lang="en">ESPN FC Shorts</title>
-    <desc lang="en">Best We've Played With, Toughest To Defend, Finest Forwards: Global football news, interviews, analysis and debates from the world's biggest teams and leagues.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">

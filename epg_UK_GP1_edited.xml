@@ -260,18 +260,7 @@
     <episode-num system="onscreen">S2026 E72664</episode-num>
     <premiere lang="en"/>
   </programme>
-  <programme start="20260726130000 +0000" stop="20260726133000 +0000" channel="4401158">
-    <title lang="en">Tour de France Femmes</title>
-    <sub-title lang="en">Preview: Road to Yellow</sub-title>
-    <desc lang="en">We preview the 2026 Tour de France Women, which will feature a record-breaking 18,795 metres of climbing and the debut of the legendary Mont Ventoux.</desc>
-    <date>2026</date>
-    <category lang="en">Sports Show</category>
-    <category lang="en">Cycling</category>
-    <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33500528~~2FEP043594330125,imi:b0c8cf9a273056d033b8acc8879ddee079940c43/posterTile?imageVersion=YIxZeA&amp;w=200"/>
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E71525</episode-num>
-  </programme>
-  <programme start="20260726133000 +0000" stop="20260726153000 +0000" channel="4401158">
+  <programme start="20260726130000 +0000" stop="20260726153000 +0000" channel="4401158">
     <title lang="en">Live: Test Cricket</title>
     <sub-title lang="en">1st Test, Day 2: West Indies v Pakistan</sub-title>
     <desc lang="en">Action from day two of the first Test between West Indies and Pakistan at the Brian Lara Cricket Academy in Trinidad and Tobago.</desc>
@@ -26655,7 +26644,7 @@
       <value>1</value>
     </rating>
   </programme>
-  <programme start="20260726070000 +0000" stop="20260726083000 +0000" channel="4401156">
+  <programme start="20260726070000 +0000" stop="20260726094500 +0000" channel="4401156">
     <title lang="en">Tennis: Day Highlights</title>
     <desc lang="en">Revisit a standout match from yesterday's action on the ATP and WTA Tours.</desc>
     <date>2026</date>
@@ -26664,16 +26653,7 @@
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33568502~~2FEP050796480578,imi:5a0e68456d604cba8cb3c2b5f35ba052232e6bb9/posterTile?imageVersion=QZtDGw&amp;w=200"/>
     <country lang="en">GB</country>
   </programme>
-  <programme start="20260726083000 +0000" stop="20260726100000 +0000" channel="4401156">
-    <title lang="en">Tennis: Day Highlights</title>
-    <desc lang="en">Revisit a standout match from yesterday's action on the ATP and WTA Tours.</desc>
-    <date>2026</date>
-    <category lang="en">Sports Show</category>
-    <category lang="en">Tennis</category>
-    <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33568510~~2FEP050796480579,imi:f28fc5068e87f5c241b08961805898d49d549922/posterTile?imageVersion=QZtDGw&amp;w=200"/>
-    <country lang="en">GB</country>
-  </programme>
-  <programme start="20260726100000 +0000" stop="20260726113000 +0000" channel="4401156">
+  <programme start="20260726094500 +0000" stop="20260726123000 +0000" channel="4401156">
     <title lang="en">Tennis: Day Highlights</title>
     <desc lang="en">Revisit a standout match from yesterday's action on the ATP and WTA Tours.</desc>
     <date>2026</date>
@@ -26682,14 +26662,12 @@
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33568502~~2FEP050796480578,imi:7034b28ee9b2f05eff010ec420b8c2248a6b1272/posterTile?imageVersion=QZtDGw&amp;w=200"/>
     <country lang="en">GB</country>
   </programme>
-  <programme start="20260726113000 +0000" stop="20260726130000 +0000" channel="4401156">
-    <title lang="en">Tennis: Day Highlights</title>
-    <desc lang="en">Revisit a standout match from yesterday's action on the ATP and WTA Tours.</desc>
-    <date>2026</date>
+  <programme start="20260726123000 +0000" stop="20260726130000 +0000" channel="4401156">
+    <title lang="en">Andrey Rublev: Breaking Back</title>
+    <desc lang="en">Experience Andrey Rublev like you've never seen him before with a raw, honest look at the man behind the racquet.</desc>
     <category lang="en">Sports Show</category>
     <category lang="en">Tennis</category>
-    <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33568510~~2FEP050796480579,imi:5fb2f22a8292f4b8c40790115380a8e9bd1bce22/posterTile?imageVersion=QZtDGw&amp;w=200"/>
-    <country lang="en">GB</country>
+    <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F32342518~~2FSH062909780000~~2Fspecial,imi:2660dfaf46c8a9d0f698efd0a38c76420c90ea0c/posterTile?imageVersion=vubbyQ&amp;w=200"/>
   </programme>
   <programme start="20260726130000 +0000" stop="20260726150000 +0000" channel="4401156">
     <title lang="en">Live Tennis</title>
