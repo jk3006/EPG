@@ -86,48 +86,6 @@
     <icon src="https://piceltaott-elta.cdn.hinet.net/upload/channel/549_pic_20260520174426.png"/>
     <url>http://www.eltaott.tv</url>
   </channel>
-  <programme start="20260803000000 +0000" stop="20260803023000 +0000" channel="88601101">
-    <title lang="zh">MLB 老虎 VS 運動家 例行賽 8/3 今日最新</title>
-  </programme>
-  <programme start="20260803023000 +0000" stop="20260803050000 +0000" channel="88601101">
-    <title lang="zh">中華職棒 台鋼 VS 富邦 例行賽 8/2</title>
-  </programme>
-  <programme start="20260803050000 +0000" stop="20260803073000 +0000" channel="88601101">
-    <title lang="zh">MLB 洋基 VS 小熊 例行賽 8/2</title>
-  </programme>
-  <programme start="20260803073000 +0000" stop="20260803100000 +0000" channel="88601101">
-    <title lang="zh">中華職棒 中信 VS 味全 例行賽 8/2</title>
-  </programme>
-  <programme start="20260803100000 +0000" stop="20260803123000 +0000" channel="88601101">
-    <title lang="zh">MLB 老虎 VS 運動家 例行賽 8/3 今日最新</title>
-  </programme>
-  <programme start="20260803123000 +0000" stop="20260803130000 +0000" channel="88601101">
-    <title lang="zh">英超名人堂 #8 曼聯大家庭</title>
-  </programme>
-  <programme start="20260803130000 +0000" stop="20260803153000 +0000" channel="88601101">
-    <title lang="zh">中華職棒 樂天 VS 統一 例行賽 8/2</title>
-  </programme>
-  <programme start="20260803153000 +0000" stop="20260803160000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 8/3 首播</title>
-  </programme>
-  <programme start="20260803160000 +0000" stop="20260803183000 +0000" channel="88601101">
-    <title lang="zh">MLB 老虎 VS 運動家 例行賽 8/3</title>
-  </programme>
-  <programme start="20260803183000 +0000" stop="20260803190000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 8/3</title>
-  </programme>
-  <programme start="20260803190000 +0000" stop="20260803213000 +0000" channel="88601101">
-    <title lang="zh">MLB 紅襪 VS 道奇 例行賽 8/3</title>
-  </programme>
-  <programme start="20260803213000 +0000" stop="20260803220000 +0000" channel="88601101">
-    <title lang="zh">英超名人堂 #8 曼聯大家庭</title>
-  </programme>
-  <programme start="20260803220000 +0000" stop="20260803223500 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 8/3</title>
-  </programme>
-  <programme start="20260803223500 +0000" stop="20260804013500 +0000" channel="88601101">
-    <title lang="zh">MLB 國民 VS 費城人 例行賽 8/4(原音) LIVE</title>
-  </programme>
   <programme start="20260804013500 +0000" stop="20260804043000 +0000" channel="88601101">
     <title lang="zh">MLB 教士 VS 響尾蛇 例行賽 8/4(原音) LIVE</title>
   </programme>
@@ -143,14 +101,8 @@
   <programme start="20260804101500 +0000" stop="20260804103000 +0000" channel="88601101">
     <title lang="zh">中華職棒台鋼主場 嘉義戰前報 8/4 LIVE</title>
   </programme>
-  <programme start="20260804103000 +0000" stop="20260804140000 +0000" channel="88601101">
+  <programme start="20260804103000 +0000" stop="20260804150000 +0000" channel="88601101">
     <title lang="zh">中華職棒 樂天 VS 台鋼 例行賽 8/4 LIVE</title>
-  </programme>
-  <programme start="20260804140000 +0000" stop="20260804143000 +0000" channel="88601101">
-    <title lang="zh">30分鐘看個GOAL 7/16 四強回顧(英格蘭阿根廷)</title>
-  </programme>
-  <programme start="20260804143000 +0000" stop="20260804150000 +0000" channel="88601101">
-    <title lang="zh">30分鐘看個GOAL 7/19 季軍戰回顧(法國英格蘭)</title>
   </programme>
   <programme start="20260804150000 +0000" stop="20260804153000 +0000" channel="88601101">
     <title lang="zh">30分鐘看個GOAL 7/20 冠軍戰回顧(西班牙阿根廷)</title>
@@ -249,7 +201,7 @@
     <title lang="zh">體壇最前線 8/6 首播</title>
   </programme>
   <programme start="20260806160000 +0000" stop="20260806183000 +0000" channel="88601101">
-    <title lang="zh">MLB 道奇 VS 小熊 今永昇太先發 例行賽 8/6</title>
+    <title lang="zh">MLB 道奇 VS 小熊 Skubal先發 例行賽 8/5</title>
   </programme>
   <programme start="20260806183000 +0000" stop="20260806190000 +0000" channel="88601101">
     <title lang="zh">體壇最前線 8/6</title>
@@ -303,7 +255,7 @@
     <title lang="zh">體壇最前線 8/7</title>
   </programme>
   <programme start="20260807190000 +0000" stop="20260807213000 +0000" channel="88601101">
-    <title lang="zh">【MLB on ELTA 8月】</title>
+    <title lang="zh">MLB 白襪 VS 紅襪 Castillo先發 例行賽 8/7</title>
   </programme>
   <programme start="20260807213000 +0000" stop="20260807220000 +0000" channel="88601101">
     <title lang="zh">英超名人堂 #9 Kevin Keegan</title>
@@ -312,10 +264,10 @@
     <title lang="zh">體壇最前線 8/7</title>
   </programme>
   <programme start="20260807223000 +0000" stop="20260808013000 +0000" channel="88601101">
-    <title lang="zh">【MLB on ELTA 8月】 LIVE</title>
+    <title lang="zh">MLB 藍鳥 VS 費城人 例行賽 8/8 LIVE</title>
   </programme>
   <programme start="20260808013000 +0000" stop="20260808043000 +0000" channel="88601101">
-    <title lang="zh">【MLB on ELTA 8月】 LIVE</title>
+    <title lang="zh">MLB 道奇 VS 響尾蛇 例行賽 8/8 LIVE</title>
   </programme>
   <programme start="20260808043000 +0000" stop="20260808050000 +0000" channel="88601101">
     <title lang="zh">MLB好球連發#18 首播</title>
@@ -336,7 +288,7 @@
     <title lang="zh">台鋼雄鷹 王彩樺/應援曲搖滾串燒/朱盟/林家鋐/紀慶然 鷹樂祭 8/8 中華職棒 LIVE</title>
   </programme>
   <programme start="20260808130000 +0000" stop="20260808153000 +0000" channel="88601101">
-    <title lang="zh">【MLB on ELTA 8月】 今日最新</title>
+    <title lang="zh">MLB 道奇 VS 響尾蛇 例行賽 8/8 今日最新</title>
   </programme>
   <programme start="20260808153000 +0000" stop="20260808160000 +0000" channel="88601101">
     <title lang="zh">體壇最前線 8/8 首播</title>
@@ -354,10 +306,10 @@
     <title lang="zh">【MLB on ELTA 8月】</title>
   </programme>
   <programme start="20260809000000 +0000" stop="20260809030000 +0000" channel="88601101">
-    <title lang="zh">【MLB on ELTA 8月】 LIVE</title>
+    <title lang="zh">MLB 道奇 VS 響尾蛇 例行賽 8/9 LIVE</title>
   </programme>
   <programme start="20260809030000 +0000" stop="20260809060000 +0000" channel="88601101">
-    <title lang="zh">【MLB on ELTA 8月】 D-LIVE</title>
+    <title lang="zh">MLB 勇士 VS 洋基 例行賽 8/9 D-LIVE</title>
   </programme>
   <programme start="20260809060000 +0000" stop="20260809063000 +0000" channel="88601101">
     <title lang="zh">體壇最前線 8/8</title>
@@ -375,46 +327,58 @@
     <title lang="zh">台鋼雄鷹 宇宙人/林詩媛Kiko·Akimi/ET/JC/顏采丞/雄鷹男團 鷹樂祭 8/9 中華職棒 LIVE</title>
   </programme>
   <programme start="20260809130000 +0000" stop="20260809153000 +0000" channel="88601101">
-    <title lang="zh">【MLB on ELTA 8月】 今日最新</title>
+    <title lang="zh">MLB 道奇 VS 響尾蛇 例行賽 8/9 今日最新</title>
   </programme>
   <programme start="20260809153000 +0000" stop="20260809160000 +0000" channel="88601101">
     <title lang="zh">體壇最前線 8/9 首播</title>
   </programme>
-  <programme start="20260803021500 +0000" stop="20260803024500 +0000" channel="88601105">
-    <title lang="zh">體壇最前線 8/2</title>
+  <programme start="20260809160000 +0000" stop="20260809183000 +0000" channel="88601101">
+    <title lang="zh">MLB 勇士 VS 洋基 例行賽 8/9</title>
   </programme>
-  <programme start="20260803024500 +0000" stop="20260803051500 +0000" channel="88601105">
-    <title lang="zh">MLB 紅襪 VS 道奇 例行賽 8/3 今日最新</title>
+  <programme start="20260809183000 +0000" stop="20260809190000 +0000" channel="88601101">
+    <title lang="zh">體壇最前線 8/9</title>
   </programme>
-  <programme start="20260803051500 +0000" stop="20260803054500 +0000" channel="88601105">
-    <title lang="zh">MLB好球連發#16</title>
+  <programme start="20260809190000 +0000" stop="20260809200000 +0000" channel="88601101">
+    <title lang="zh">英超百大進球秀 2025-26賽季</title>
   </programme>
-  <programme start="20260803054500 +0000" stop="20260803083000 +0000" channel="88601105">
-    <title lang="zh">MLB 老虎 VS 運動家 例行賽 8/3 今日最新</title>
+  <programme start="20260809200000 +0000" stop="20260809231000 +0000" channel="88601101">
+    <title lang="zh">MLB 道奇 VS 響尾蛇 例行賽 8/10 LIVE</title>
   </programme>
-  <programme start="20260803083000 +0000" stop="20260803110000 +0000" channel="88601105">
-    <title lang="zh">MLB 紅襪 VS 道奇 例行賽 8/2</title>
+  <programme start="20260809231000 +0000" stop="20260809234000 +0000" channel="88601101">
+    <title lang="zh">MLB好球連發#17</title>
   </programme>
-  <programme start="20260803110000 +0000" stop="20260803133000 +0000" channel="88601105">
-    <title lang="zh">MLB 紅襪 VS 道奇 例行賽 8/3 今日最新</title>
+  <programme start="20260809234000 +0000" stop="20260810001000 +0000" channel="88601101">
+    <title lang="zh">MLB好球連發#18</title>
   </programme>
-  <programme start="20260803133000 +0000" stop="20260803140000 +0000" channel="88601105">
-    <title lang="zh">英超名人堂 #8 曼聯大家庭</title>
+  <programme start="20260810001000 +0000" stop="20260810031000 +0000" channel="88601101">
+    <title lang="zh">MLB 太空人 VS 教士 例行賽 8/10 LIVE</title>
   </programme>
-  <programme start="20260803140000 +0000" stop="20260803143000 +0000" channel="88601105">
-    <title lang="zh">體壇最前線 8/3 LIVE</title>
+  <programme start="20260810031000 +0000" stop="20260810034000 +0000" channel="88601101">
+    <title lang="zh">體壇最前線 8/9</title>
   </programme>
-  <programme start="20260803143000 +0000" stop="20260803170000 +0000" channel="88601105">
-    <title lang="zh">MLB 紅襪 VS 道奇 例行賽 8/3 今日最新</title>
+  <programme start="20260810034000 +0000" stop="20260810063000 +0000" channel="88601101">
+    <title lang="zh">MLB 道奇 VS 響尾蛇 例行賽 8/10 今日最新</title>
   </programme>
-  <programme start="20260803170000 +0000" stop="20260803193000 +0000" channel="88601105">
-    <title lang="zh">MLB 洋基 VS 小熊 例行賽 8/2</title>
+  <programme start="20260810063000 +0000" stop="20260810070000 +0000" channel="88601101">
+    <title lang="zh">體壇最前線 8/9</title>
   </programme>
-  <programme start="20260803193000 +0000" stop="20260803220000 +0000" channel="88601105">
-    <title lang="zh">MLB 老虎 VS 運動家 例行賽 8/3</title>
+  <programme start="20260810070000 +0000" stop="20260810093000 +0000" channel="88601101">
+    <title lang="zh">MLB 太空人 VS 教士 例行賽 8/10 今日最新</title>
   </programme>
-  <programme start="20260803220000 +0000" stop="20260804000000 +0000" channel="88601105">
-    <title lang="zh">英超 水晶宮 VS 兵工廠 第38輪</title>
+  <programme start="20260810093000 +0000" stop="20260810100000 +0000" channel="88601101">
+    <title lang="zh">英超名人堂 #9 Kevin Keegan</title>
+  </programme>
+  <programme start="20260810100000 +0000" stop="20260810123000 +0000" channel="88601101">
+    <title lang="zh">MLB 道奇 VS 響尾蛇 例行賽 8/10 今日最新</title>
+  </programme>
+  <programme start="20260810123000 +0000" stop="20260810130000 +0000" channel="88601101">
+    <title lang="zh">MLB好球連發#18</title>
+  </programme>
+  <programme start="20260810130000 +0000" stop="20260810153000 +0000" channel="88601101">
+    <title lang="zh">MLB 道奇 VS 響尾蛇 例行賽 8/10 今日最新</title>
+  </programme>
+  <programme start="20260810153000 +0000" stop="20260810160000 +0000" channel="88601101">
+    <title lang="zh">體壇最前線 8/10 首播</title>
   </programme>
   <programme start="20260804000000 +0000" stop="20260804030000 +0000" channel="88601105">
     <title lang="zh">MLB 道奇 VS 小熊 例行賽 8/4 LIVE</title>
@@ -432,7 +396,7 @@
     <title lang="zh">MLB 藍鳥 VS 太空人 例行賽 8/4 今日最新</title>
   </programme>
   <programme start="20260804133000 +0000" stop="20260804160000 +0000" channel="88601105">
-    <title lang="zh">MLB 道奇 VS 小熊 例行賽 8/4</title>
+    <title lang="zh">MLB 道奇 VS 小熊 例行賽 8/4 今日最新</title>
   </programme>
   <programme start="20260804160000 +0000" stop="20260804180000 +0000" channel="88601105">
     <title lang="zh">2026鑽石聯賽 英國倫敦站</title>
@@ -510,7 +474,7 @@
     <title lang="zh">中華職棒 統一 VS 味全 例行賽 8/6 今日最新</title>
   </programme>
   <programme start="20260806170000 +0000" stop="20260806193000 +0000" channel="88601105">
-    <title lang="zh">【MLB on ELTA 8月】</title>
+    <title lang="zh">MLB 白襪 VS 紅襪 例行賽 8/5</title>
   </programme>
   <programme start="20260806193000 +0000" stop="20260806200000 +0000" channel="88601105">
     <title lang="zh">體壇最前線 8/6</title>
@@ -549,13 +513,13 @@
     <title lang="zh">體壇最前線 8/7</title>
   </programme>
   <programme start="20260807173000 +0000" stop="20260807200000 +0000" channel="88601105">
-    <title lang="zh">【MLB on ELTA 8月】</title>
+    <title lang="zh">MLB 老虎 VS 水手 例行賽 8/7</title>
   </programme>
   <programme start="20260807200000 +0000" stop="20260807203000 +0000" channel="88601105">
     <title lang="zh">體壇最前線 8/7</title>
   </programme>
   <programme start="20260807203000 +0000" stop="20260807230000 +0000" channel="88601105">
-    <title lang="zh">【MLB on ELTA 8月】</title>
+    <title lang="zh">MLB 老虎 VS 水手 例行賽 8/7</title>
   </programme>
   <programme start="20260807230000 +0000" stop="20260808013000 +0000" channel="88601105">
     <title lang="zh">中華職棒 統一 VS 富邦 例行賽 8/7</title>
@@ -570,7 +534,7 @@
     <title lang="zh">英超百大進球秀 2025-26賽季</title>
   </programme>
   <programme start="20260808070000 +0000" stop="20260808090000 +0000" channel="88601105">
-    <title lang="zh">WTT冠軍賽 橫濱站 精彩賽況回顧</title>
+    <title lang="zh">WTT冠軍賽 橫濱站 精彩賽況回顧 今日最新</title>
   </programme>
   <programme start="20260808090000 +0000" stop="20260808123000 +0000" channel="88601105">
     <title lang="zh">中華職棒 統一 VS 富邦 例行賽 8/8 LIVE</title>
@@ -585,22 +549,25 @@
     <title lang="zh">中華職棒 統一 VS 富邦 例行賽 8/8 今日最新</title>
   </programme>
   <programme start="20260808160000 +0000" stop="20260808183000 +0000" channel="88601105">
-    <title lang="zh">【MLB on ELTA 8月】</title>
-  </programme>
-  <programme start="20260808183000 +0000" stop="20260808210000 +0000" channel="88601105">
     <title lang="zh">中華職棒 中信 VS 台鋼 例行賽 8/8</title>
   </programme>
-  <programme start="20260808210000 +0000" stop="20260808233000 +0000" channel="88601105">
+  <programme start="20260808183000 +0000" stop="20260808210000 +0000" channel="88601105">
     <title lang="zh">中華職棒 統一 VS 富邦 例行賽 8/8</title>
   </programme>
-  <programme start="20260808233000 +0000" stop="20260809023000 +0000" channel="88601105">
-    <title lang="zh">【MLB on ELTA 8月】 LIVE</title>
+  <programme start="20260808210000 +0000" stop="20260808231000 +0000" channel="88601105">
+    <title lang="zh">FIFA世界盃™ 法國 VS 英格蘭 季軍戰 7/19 #103</title>
+  </programme>
+  <programme start="20260808231000 +0000" stop="20260809021000 +0000" channel="88601105">
+    <title lang="zh">MLB 老虎 VS 巨人 例行賽 8/9(原音) LIVE</title>
+  </programme>
+  <programme start="20260809021000 +0000" stop="20260809023000 +0000" channel="88601105">
+    <title lang="zh">MLB好球連發#18</title>
   </programme>
   <programme start="20260809023000 +0000" stop="20260809063000 +0000" channel="88601105">
     <title lang="zh">WTT冠軍賽 橫濱站 單打四強 8/9 LIVE</title>
   </programme>
   <programme start="20260809063000 +0000" stop="20260809090000 +0000" channel="88601105">
-    <title lang="zh">【MLB on ELTA 8月】 今日最新</title>
+    <title lang="zh">MLB 道奇 VS 響尾蛇 例行賽 8/9 今日最新</title>
   </programme>
   <programme start="20260809090000 +0000" stop="20260809123000 +0000" channel="88601105">
     <title lang="zh">中華職棒 統一 VS 富邦 例行賽 8/9 LIVE</title>
@@ -614,59 +581,38 @@
   <programme start="20260809133000 +0000" stop="20260809160000 +0000" channel="88601105">
     <title lang="zh">中華職棒 中信 VS 台鋼 例行賽 8/9 今日最新</title>
   </programme>
-  <programme start="20260803020000 +0000" stop="20260803030500 +0000" channel="88601110">
-    <title lang="zh">BWF 中國公開賽 男單八強 周天成對石宇奇</title>
+  <programme start="20260809160000 +0000" stop="20260809193000 +0000" channel="88601105">
+    <title lang="zh">溫網 男單決賽 7/12 Sinner對Zverev</title>
   </programme>
-  <programme start="20260803030500 +0000" stop="20260803040000 +0000" channel="88601110">
-    <title lang="zh">BWF 中國公開賽 男單四強 周天成對林俊易</title>
+  <programme start="20260809193000 +0000" stop="20260809200000 +0000" channel="88601105">
+    <title lang="zh">體壇最前線 8/9</title>
   </programme>
-  <programme start="20260803040000 +0000" stop="20260803051500 +0000" channel="88601110">
-    <title lang="zh">BWF 中國公開賽 男單決賽 周天成對T.Popov</title>
+  <programme start="20260809200000 +0000" stop="20260809230000 +0000" channel="88601105">
+    <title lang="zh">MLB 老虎 VS 巨人 例行賽 8/10(原音) LIVE</title>
   </programme>
-  <programme start="20260803051500 +0000" stop="20260803060000 +0000" channel="88601110">
-    <title lang="zh">WTT球星挑戰賽 聖若澤杜斯坎普斯站 混雙決賽 7/27</title>
+  <programme start="20260809230000 +0000" stop="20260810013000 +0000" channel="88601105">
+    <title lang="zh">中華職棒 統一 VS 富邦 例行賽 8/9</title>
   </programme>
-  <programme start="20260803060000 +0000" stop="20260803070000 +0000" channel="88601110">
-    <title lang="zh">WTT球星挑戰賽 聖若澤杜斯坎普斯站 女單決賽 7/27</title>
+  <programme start="20260810013000 +0000" stop="20260810040000 +0000" channel="88601105">
+    <title lang="zh">中華職棒 中信 VS 台鋼 例行賽 8/9</title>
   </programme>
-  <programme start="20260803070000 +0000" stop="20260803080000 +0000" channel="88601110">
-    <title lang="zh">WTT球星挑戰賽 聖若澤杜斯坎普斯站 男單決賽 7/27</title>
+  <programme start="20260810040000 +0000" stop="20260810063000 +0000" channel="88601105">
+    <title lang="zh">中華職棒 統一 VS 富邦 例行賽 8/9</title>
   </programme>
-  <programme start="20260803080000 +0000" stop="20260803081500 +0000" channel="88601110">
-    <title lang="zh">世界羽球戰報第八季 #7 周天成再創紀錄 台將展望亞運</title>
+  <programme start="20260810063000 +0000" stop="20260810090000 +0000" channel="88601105">
+    <title lang="zh">溫網 男單決賽 7/12 Sinner對Zverev</title>
   </programme>
-  <programme start="20260803081500 +0000" stop="20260803083000 +0000" channel="88601110">
-    <title lang="zh">世界羽球戰報第八季 #8</title>
+  <programme start="20260810090000 +0000" stop="20260810113000 +0000" channel="88601105">
+    <title lang="zh">中華職棒 統一 VS 富邦 例行賽 8/9</title>
   </programme>
-  <programme start="20260803083000 +0000" stop="20260803094000 +0000" channel="88601110">
-    <title lang="zh">BWF 中國公開賽 男單八強 周天成對石宇奇</title>
+  <programme start="20260810113000 +0000" stop="20260810140000 +0000" channel="88601105">
+    <title lang="zh">中華職棒 中信 VS 台鋼 例行賽 8/9</title>
   </programme>
-  <programme start="20260803094000 +0000" stop="20260803104000 +0000" channel="88601110">
-    <title lang="zh">BWF 中國公開賽 男單四強 周天成對林俊易</title>
+  <programme start="20260810140000 +0000" stop="20260810143000 +0000" channel="88601105">
+    <title lang="zh">體壇最前線 8/10 LIVE</title>
   </programme>
-  <programme start="20260803104000 +0000" stop="20260803120000 +0000" channel="88601110">
-    <title lang="zh">BWF 中國公開賽 男單決賽 周天成對T.Popov</title>
-  </programme>
-  <programme start="20260803120000 +0000" stop="20260803160000 +0000" channel="88601110">
-    <title lang="zh">FIFA世界盃™ 西班牙 VS 阿根廷 冠軍戰</title>
-  </programme>
-  <programme start="20260803160000 +0000" stop="20260803163000 +0000" channel="88601110">
-    <title lang="zh">體壇最前線 8/3 首播</title>
-  </programme>
-  <programme start="20260803163000 +0000" stop="20260803183000 +0000" channel="88601110">
-    <title lang="zh">BWF 中國公開賽 周天成 男單/女單決賽</title>
-  </programme>
-  <programme start="20260803183000 +0000" stop="20260803203000 +0000" channel="88601110">
-    <title lang="zh">BWF 日本公開賽 決賽 7/19</title>
-  </programme>
-  <programme start="20260803203000 +0000" stop="20260803210000 +0000" channel="88601110">
-    <title lang="zh">體壇最前線 8/3</title>
-  </programme>
-  <programme start="20260803210000 +0000" stop="20260803233000 +0000" channel="88601110">
-    <title lang="zh">溫網 男單八強 Cobolli對Fery</title>
-  </programme>
-  <programme start="20260803233000 +0000" stop="20260804020000 +0000" channel="88601110">
-    <title lang="zh">溫網 女單四強 Muchova對Gauff</title>
+  <programme start="20260810143000 +0000" stop="20260810170000 +0000" channel="88601105">
+    <title lang="zh">溫網 Sinner對Djokovic 男單四強</title>
   </programme>
   <programme start="20260804020000 +0000" stop="20260804070000 +0000" channel="88601110">
     <title lang="zh">WTT冠軍賽 橫濱站 郭冠宏 單打32強(上) 8/4 LIVE</title>
@@ -678,7 +624,7 @@
     <title lang="zh">世界羽球戰報第八季 #8</title>
   </programme>
   <programme start="20260804073000 +0000" stop="20260804083000 +0000" channel="88601110">
-    <title lang="zh">WTT冠軍賽 橫濱站 精彩賽況回顧</title>
+    <title lang="zh">WTT冠軍賽 橫濱站 精彩賽況回顧 今日最新</title>
   </programme>
   <programme start="20260804083000 +0000" stop="20260804120000 +0000" channel="88601110">
     <title lang="zh">WTT冠軍賽 橫濱站 單打32強(下) 8/4 LIVE</title>
@@ -690,7 +636,7 @@
     <title lang="zh">2026 BWF世界羽球雜誌#7</title>
   </programme>
   <programme start="20260804130000 +0000" stop="20260804160000 +0000" channel="88601110">
-    <title lang="zh">WTT冠軍賽 橫濱站 單打32強第一日回顧 郭冠宏</title>
+    <title lang="zh">WTT冠軍賽 橫濱站 單打32強第一日回顧 郭冠宏 今日最新</title>
   </programme>
   <programme start="20260804160000 +0000" stop="20260804163000 +0000" channel="88601110">
     <title lang="zh">體壇最前線 8/4 首播</title>
@@ -714,10 +660,10 @@
     <title lang="zh">溫網 男單四強 Fery對Zverev</title>
   </programme>
   <programme start="20260805000000 +0000" stop="20260805020000 +0000" channel="88601110">
-    <title lang="zh">WTT冠軍賽 橫濱站 單打32強第一日回顧 郭冠宏 今日最新</title>
+    <title lang="zh">WTT冠軍賽 橫濱站 單打32強第一日回顧 郭冠宏</title>
   </programme>
   <programme start="20260805020000 +0000" stop="20260805070000 +0000" channel="88601110">
-    <title lang="zh">WTT冠軍賽 橫濱站 單打32強(上) 8/5 LIVE</title>
+    <title lang="zh">WTT冠軍賽 橫濱站 林昀儒 單打32強(上) 8/5 LIVE</title>
   </programme>
   <programme start="20260805070000 +0000" stop="20260805071500 +0000" channel="88601110">
     <title lang="zh">世界羽球戰報第八季 #7 周天成再創紀錄 台將展望亞運</title>
@@ -726,10 +672,10 @@
     <title lang="zh">世界羽球戰報第八季 #8</title>
   </programme>
   <programme start="20260805073000 +0000" stop="20260805083000 +0000" channel="88601110">
-    <title lang="zh">WTT冠軍賽 橫濱站 精彩賽況回顧</title>
+    <title lang="zh">WTT冠軍賽 橫濱站 精彩賽況回顧 今日最新</title>
   </programme>
   <programme start="20260805083000 +0000" stop="20260805120000 +0000" channel="88601110">
-    <title lang="zh">WTT冠軍賽 橫濱站 單打32強(下) 8/5 LIVE</title>
+    <title lang="zh">WTT冠軍賽 橫濱站 鄭怡靜 單打32強(下) 8/5 LIVE</title>
   </programme>
   <programme start="20260805120000 +0000" stop="20260805121500 +0000" channel="88601110">
     <title lang="zh">2026 BWF世界羽球週報#25 日本公開賽回顧</title>
@@ -738,19 +684,19 @@
     <title lang="zh">2026 BWF世界羽球週報#26 周天成 中國公開賽</title>
   </programme>
   <programme start="20260805123000 +0000" stop="20260805160000 +0000" channel="88601110">
-    <title lang="zh">WTT冠軍賽 橫濱站 單打32強第二日回顧</title>
+    <title lang="zh">WTT冠軍賽 橫濱站 單打32強第二日回顧 林昀儒 鄭怡靜 今日最新</title>
   </programme>
   <programme start="20260805160000 +0000" stop="20260805163000 +0000" channel="88601110">
     <title lang="zh">體壇最前線 8/5 首播</title>
   </programme>
   <programme start="20260805163000 +0000" stop="20260805193000 +0000" channel="88601110">
-    <title lang="zh">WTT冠軍賽 橫濱站 單打32強第二日回顧 今日最新</title>
+    <title lang="zh">WTT冠軍賽 橫濱站 單打32強第二日回顧 林昀儒 鄭怡靜 今日最新</title>
   </programme>
   <programme start="20260805193000 +0000" stop="20260805220000 +0000" channel="88601110">
     <title lang="zh">溫網 男單四強 Sinner對Djokovic</title>
   </programme>
   <programme start="20260805220000 +0000" stop="20260806010000 +0000" channel="88601110">
-    <title lang="zh">WTT冠軍賽 橫濱站 單打32強第二日回顧 今日最新</title>
+    <title lang="zh">WTT冠軍賽 橫濱站 單打32強第二日回顧 林昀儒 鄭怡靜</title>
   </programme>
   <programme start="20260806010000 +0000" stop="20260806013000 +0000" channel="88601110">
     <title lang="zh">體壇最前線 8/5</title>
@@ -771,7 +717,7 @@
     <title lang="zh">2026 BWF世界羽球週報#27</title>
   </programme>
   <programme start="20260806063000 +0000" stop="20260806083000 +0000" channel="88601110">
-    <title lang="zh">WTT冠軍賽 橫濱站 精彩賽況回顧</title>
+    <title lang="zh">WTT冠軍賽 橫濱站 精彩賽況回顧 今日最新</title>
   </programme>
   <programme start="20260806083000 +0000" stop="20260806123000 +0000" channel="88601110">
     <title lang="zh">WTT冠軍賽 橫濱站 單打16強 8/6 LIVE</title>
@@ -783,7 +729,7 @@
     <title lang="zh">世界羽球戰報第八季 #8</title>
   </programme>
   <programme start="20260806130000 +0000" stop="20260806160000 +0000" channel="88601110">
-    <title lang="zh">WTT冠軍賽 橫濱站 單打32/16強回顧</title>
+    <title lang="zh">WTT冠軍賽 橫濱站 單打32/16強回顧 今日最新</title>
   </programme>
   <programme start="20260806160000 +0000" stop="20260806163000 +0000" channel="88601110">
     <title lang="zh">體壇最前線 8/6 首播</title>
@@ -798,7 +744,7 @@
     <title lang="zh">體壇最前線 8/6</title>
   </programme>
   <programme start="20260806230000 +0000" stop="20260807020000 +0000" channel="88601110">
-    <title lang="zh">WTT冠軍賽 橫濱站 單打32/16強回顧 今日最新</title>
+    <title lang="zh">WTT冠軍賽 橫濱站 單打32/16強回顧</title>
   </programme>
   <programme start="20260807020000 +0000" stop="20260807060000 +0000" channel="88601110">
     <title lang="zh">WTT冠軍賽 橫濱站 單打16強(上) 8/7 LIVE</title>
@@ -810,7 +756,7 @@
     <title lang="zh">世界羽球戰報第八季 #8</title>
   </programme>
   <programme start="20260807063000 +0000" stop="20260807083000 +0000" channel="88601110">
-    <title lang="zh">WTT冠軍賽 橫濱站 精彩賽況回顧</title>
+    <title lang="zh">WTT冠軍賽 橫濱站 精彩賽況回顧 今日最新</title>
   </programme>
   <programme start="20260807083000 +0000" stop="20260807123000 +0000" channel="88601110">
     <title lang="zh">WTT冠軍賽 橫濱站 單打16強(下) 8/7 LIVE</title>
@@ -822,7 +768,7 @@
     <title lang="zh">2026 BWF世界羽球週報#27</title>
   </programme>
   <programme start="20260807130000 +0000" stop="20260807160000 +0000" channel="88601110">
-    <title lang="zh">WTT冠軍賽 橫濱站 單打16強回顧</title>
+    <title lang="zh">WTT冠軍賽 橫濱站 單打16強回顧 今日最新</title>
   </programme>
   <programme start="20260807160000 +0000" stop="20260807163000 +0000" channel="88601110">
     <title lang="zh">體壇最前線 8/7 首播</title>
@@ -840,7 +786,7 @@
     <title lang="zh">2026 BWF世界羽球週報#27</title>
   </programme>
   <programme start="20260808000000 +0000" stop="20260808020000 +0000" channel="88601110">
-    <title lang="zh">WTT冠軍賽 橫濱站 單打16強回顧 今日最新</title>
+    <title lang="zh">WTT冠軍賽 橫濱站 單打16強回顧</title>
   </programme>
   <programme start="20260808020000 +0000" stop="20260808060000 +0000" channel="88601110">
     <title lang="zh">BWF 韓國名人賽 四強(上) 8/8 LIVE</title>
@@ -879,13 +825,13 @@
     <title lang="zh">WTT冠軍賽 橫濱站 單打八強回顧 今日最新</title>
   </programme>
   <programme start="20260808193000 +0000" stop="20260808213000 +0000" channel="88601110">
-    <title lang="zh">BWF 韓國名人賽 四強回顧 今日最新</title>
+    <title lang="zh">BWF 韓國名人賽 四強回顧</title>
   </programme>
   <programme start="20260808213000 +0000" stop="20260809000000 +0000" channel="88601110">
-    <title lang="zh">WTT冠軍賽 橫濱站 單打八強回顧 今日最新</title>
+    <title lang="zh">WTT冠軍賽 橫濱站 單打八強回顧</title>
   </programme>
   <programme start="20260809000000 +0000" stop="20260809020000 +0000" channel="88601110">
-    <title lang="zh">BWF 韓國名人賽 四強回顧 今日最新</title>
+    <title lang="zh">BWF 韓國名人賽 四強回顧</title>
   </programme>
   <programme start="20260809020000 +0000" stop="20260809080000 +0000" channel="88601110">
     <title lang="zh">BWF 韓國名人賽 決賽 8/9 LIVE</title>
@@ -914,65 +860,44 @@
   <programme start="20260809140000 +0000" stop="20260809160000 +0000" channel="88601110">
     <title lang="zh">WTT冠軍賽 橫濱站 單打決賽 8/9 今日最新</title>
   </programme>
-  <programme start="20260803000000 +0000" stop="20260803001500 +0000" channel="88601115">
-    <title lang="zh">體育班#3</title>
+  <programme start="20260809160000 +0000" stop="20260809163000 +0000" channel="88601110">
+    <title lang="zh">體壇最前線 8/9 首播</title>
   </programme>
-  <programme start="20260803001500 +0000" stop="20260803004500 +0000" channel="88601115">
-    <title lang="zh">2026 BWF世界羽球雜誌#6 女王特集 伊瑟儂/奧原希望/辛度</title>
+  <programme start="20260809163000 +0000" stop="20260809193000 +0000" channel="88601110">
+    <title lang="zh">BWF 韓國名人賽 決賽 8/9 今日最新</title>
   </programme>
-  <programme start="20260803004500 +0000" stop="20260803031500 +0000" channel="88601115">
-    <title lang="zh">日本職業桌球T.League 琦玉T.T彩球 VS 東京木下大師 7/25 開幕戰</title>
+  <programme start="20260809193000 +0000" stop="20260809223000 +0000" channel="88601110">
+    <title lang="zh">溫網 女單決賽 Muchova對Noskova</title>
   </programme>
-  <programme start="20260803031500 +0000" stop="20260803045500 +0000" channel="88601115">
-    <title lang="zh">佛光盃大學籃球 臺灣師大 VS 馬來西亞代表隊 7/28</title>
+  <programme start="20260809223000 +0000" stop="20260810003000 +0000" channel="88601110">
+    <title lang="zh">WTT冠軍賽 橫濱站 單打決賽 8/9</title>
   </programme>
-  <programme start="20260803045500 +0000" stop="20260803065000 +0000" channel="88601115">
-    <title lang="zh">佛光盃大學籃球 筑波大學 VS 澳門昊駿 7/28</title>
+  <programme start="20260810003000 +0000" stop="20260810033000 +0000" channel="88601110">
+    <title lang="zh">BWF 韓國名人賽 決賽 8/9</title>
   </programme>
-  <programme start="20260803065000 +0000" stop="20260803083000 +0000" channel="88601115">
-    <title lang="zh">佛光盃大學籃球 佛光大學 VS 東北學院大學 7/28</title>
+  <programme start="20260810033000 +0000" stop="20260810040000 +0000" channel="88601110">
+    <title lang="zh">體壇最前線 8/9</title>
   </programme>
-  <programme start="20260803083000 +0000" stop="20260803102000 +0000" channel="88601115">
-    <title lang="zh">全國社區學生棒球 崇明社區 VS 火星小子 7/18 首播</title>
+  <programme start="20260810040000 +0000" stop="20260810060000 +0000" channel="88601110">
+    <title lang="zh">WTT冠軍賽 橫濱站 單打決賽 8/9</title>
   </programme>
-  <programme start="20260803102000 +0000" stop="20260803115000 +0000" channel="88601115">
-    <title lang="zh">全國社區學生棒球 親子勇士 VS TBA 7/18 首播</title>
+  <programme start="20260810060000 +0000" stop="20260810063000 +0000" channel="88601110">
+    <title lang="zh">體壇最前線 8/10</title>
   </programme>
-  <programme start="20260803115000 +0000" stop="20260803133000 +0000" channel="88601115">
-    <title lang="zh">全國社區學生棒球 野牛男孩 VS 崇明社區 7/18 首播</title>
+  <programme start="20260810063000 +0000" stop="20260810064500 +0000" channel="88601110">
+    <title lang="zh">世界羽球戰報第八季 #7 周天成再創紀錄 台將展望亞運</title>
   </programme>
-  <programme start="20260803133000 +0000" stop="20260803150000 +0000" channel="88601115">
-    <title lang="zh">全國社區學生棒球 小馬親子棒球 VS 親子勇士 7/18 首播</title>
+  <programme start="20260810064500 +0000" stop="20260810070000 +0000" channel="88601110">
+    <title lang="zh">世界羽球戰報第八季 #8</title>
   </programme>
-  <programme start="20260803150000 +0000" stop="20260803153000 +0000" channel="88601115">
-    <title lang="zh">英超名人堂 #4 我們是布萊頓</title>
+  <programme start="20260810070000 +0000" stop="20260810100000 +0000" channel="88601110">
+    <title lang="zh">BWF 韓國名人賽 決賽 8/9</title>
   </programme>
-  <programme start="20260803153000 +0000" stop="20260803154500 +0000" channel="88601115">
-    <title lang="zh">體育班#3</title>
+  <programme start="20260810100000 +0000" stop="20260810140000 +0000" channel="88601110">
+    <title lang="zh">WTT大滿貫賽 瑞典站 第一日 8/10 LIVE</title>
   </programme>
-  <programme start="20260803154500 +0000" stop="20260803160000 +0000" channel="88601115">
-    <title lang="zh">2026 BWF世界羽球週報#24 日本公開賽前瞻</title>
-  </programme>
-  <programme start="20260803160000 +0000" stop="20260803163000 +0000" channel="88601115">
-    <title lang="zh">2026 BWF世界羽球雜誌#6 女王特集 伊瑟儂/奧原希望/辛度</title>
-  </programme>
-  <programme start="20260803163000 +0000" stop="20260803170000 +0000" channel="88601115">
-    <title lang="zh">電動方程式 賽道零距離S2 #1 重返賽場</title>
-  </programme>
-  <programme start="20260803170000 +0000" stop="20260803173000 +0000" channel="88601115">
-    <title lang="zh">電動方程式 賽道零距離S2 #2 重整旗鼓</title>
-  </programme>
-  <programme start="20260803173000 +0000" stop="20260803180000 +0000" channel="88601115">
-    <title lang="zh">電動方程式 賽道零距離S2 #3 同門對決</title>
-  </programme>
-  <programme start="20260803180000 +0000" stop="20260803210000 +0000" channel="88601115">
-    <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽</title>
-  </programme>
-  <programme start="20260803210000 +0000" stop="20260803230000 +0000" channel="88601115">
-    <title lang="zh">IFSC世界運動攀登系列賽 抱石賽 柯橋站 女子組決賽(原音)</title>
-  </programme>
-  <programme start="20260803230000 +0000" stop="20260804020000 +0000" channel="88601115">
-    <title lang="zh">MLB 紅雀 VS 洋基 例行賽 8/4(原音) LIVE</title>
+  <programme start="20260810140000 +0000" stop="20260810160000 +0000" channel="88601110">
+    <title lang="zh">2026鑽石聯賽 卡達杜哈站</title>
   </programme>
   <programme start="20260804020000 +0000" stop="20260804023000 +0000" channel="88601115">
     <title lang="zh">英超名人堂 #4 我們是布萊頓</title>
@@ -1187,31 +1112,55 @@
   <programme start="20260809133000 +0000" stop="20260809160000 +0000" channel="88601115">
     <title lang="zh">U12亞洲少棒錦標賽 香港 VS 中華 B組預賽 8/9 今日最新</title>
   </programme>
-  <programme start="20260803040000 +0000" stop="20260803100000 +0000" channel="88601540">
+  <programme start="20260809160000 +0000" stop="20260809170000 +0000" channel="88601115">
+    <title lang="zh">2026 WEC世界耐久錦標賽特輯#4 - 聖保羅6小時(原音)</title>
+  </programme>
+  <programme start="20260809170000 +0000" stop="20260809180000 +0000" channel="88601115">
+    <title lang="zh">2026 WEC世界耐久錦標賽特輯#4 - 聖保羅6小時(原音)</title>
+  </programme>
+  <programme start="20260809180000 +0000" stop="20260809213000 +0000" channel="88601115">
+    <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽</title>
+  </programme>
+  <programme start="20260809213000 +0000" stop="20260809220000 +0000" channel="88601115">
+    <title lang="zh">2026 BWF世界羽球雜誌#7</title>
+  </programme>
+  <programme start="20260809220000 +0000" stop="20260810000000 +0000" channel="88601115">
+    <title lang="zh">IFSC世界運動攀登系列賽 速度賽 吳江站 決賽(原音)</title>
+  </programme>
+  <programme start="20260810000000 +0000" stop="20260810020000 +0000" channel="88601115">
+    <title lang="zh">IFSC世界運動攀登系列賽 先鋒賽 吳江站 決賽(原音)</title>
+  </programme>
+  <programme start="20260810020000 +0000" stop="20260810043000 +0000" channel="88601115">
+    <title lang="zh">U12亞洲少棒錦標賽 香港 VS 中華 B組預賽 8/9</title>
+  </programme>
+  <programme start="20260810043000 +0000" stop="20260810050000 +0000" channel="88601115">
+    <title lang="zh">電動方程式 賽道零距離S3 #1 美國夢</title>
+  </programme>
+  <programme start="20260810050000 +0000" stop="20260810073000 +0000" channel="88601115">
+    <title lang="zh">世界少棒聯盟50/70大賽 世界冠軍戰 8/10 D-LIVE</title>
+  </programme>
+  <programme start="20260810073000 +0000" stop="20260810080000 +0000" channel="88601115">
+    <title lang="zh">電動方程式 賽道零距離S3 #2 德國雄心</title>
+  </programme>
+  <programme start="20260810080000 +0000" stop="20260810103000 +0000" channel="88601115">
+    <title lang="zh">世界少棒聯盟50/70大賽 世界冠軍戰 8/10</title>
+  </programme>
+  <programme start="20260810103000 +0000" stop="20260810130000 +0000" channel="88601115">
+    <title lang="zh">U12亞洲少棒錦標賽 南韓 VS 中華 B組預賽 8/10 LIVE</title>
+  </programme>
+  <programme start="20260810130000 +0000" stop="20260810140000 +0000" channel="88601115">
+    <title lang="zh">2026 WEC世界耐久錦標賽特輯#4 - 聖保羅6小時(原音)</title>
+  </programme>
+  <programme start="20260810140000 +0000" stop="20260810163000 +0000" channel="88601115">
+    <title lang="zh">LLB世界次青少棒(U14) 勝者組 8/10 LIVE</title>
+  </programme>
+  <programme start="20260804013000 +0000" stop="20260804103000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
-  <programme start="20260803100000 +0000" stop="20260803160000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
-  </programme>
-  <programme start="20260803160000 +0000" stop="20260803170000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
-  </programme>
-  <programme start="20260803170000 +0000" stop="20260803203000 +0000" channel="88601540">
-    <title lang="zh">終極撞球系列賽 男子冠軍聯賽 小組賽第8週 8/4(原音) LIVE</title>
-  </programme>
-  <programme start="20260803203000 +0000" stop="20260803223500 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
-  </programme>
-  <programme start="20260803223500 +0000" stop="20260804023000 +0000" channel="88601540">
-    <title lang="zh">MLB 國民 VS 費城人 例行賽 8/4(原音) LIVE</title>
-  </programme>
-  <programme start="20260804023000 +0000" stop="20260804103000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
-  </programme>
-  <programme start="20260804103000 +0000" stop="20260804140000 +0000" channel="88601540">
+  <programme start="20260804103000 +0000" stop="20260804150000 +0000" channel="88601540">
     <title lang="zh">ELTA GO! 中華職棒台鋼雄鷹沉浸式多視角直播 LIVE</title>
   </programme>
-  <programme start="20260804140000 +0000" stop="20260804160000 +0000" channel="88601540">
+  <programme start="20260804150000 +0000" stop="20260804160000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
   <programme start="20260804160000 +0000" stop="20260804223000 +0000" channel="88601540">
@@ -1301,28 +1250,28 @@
   <programme start="20260809113000 +0000" stop="20260809160000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
-  <programme start="20260803040000 +0000" stop="20260803100000 +0000" channel="88601541">
+  <programme start="20260809160000 +0000" stop="20260809173000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
-  <programme start="20260803100000 +0000" stop="20260803160000 +0000" channel="88601541">
+  <programme start="20260809173000 +0000" stop="20260809213000 +0000" channel="88601540">
+    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV LIVE</title>
+  </programme>
+  <programme start="20260809213000 +0000" stop="20260810040000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
-  <programme start="20260803160000 +0000" stop="20260803220000 +0000" channel="88601541">
+  <programme start="20260810040000 +0000" stop="20260810100000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
-  <programme start="20260803220000 +0000" stop="20260803233000 +0000" channel="88601541">
+  <programme start="20260810100000 +0000" stop="20260810160000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
-  <programme start="20260803233000 +0000" stop="20260804033000 +0000" channel="88601541">
-    <title lang="zh">MLB 海盜 VS 釀酒人 例行賽 8/4(原音) LIVE</title>
-  </programme>
-  <programme start="20260804033000 +0000" stop="20260804103000 +0000" channel="88601541">
+  <programme start="20260804024500 +0000" stop="20260804103000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
-  <programme start="20260804103000 +0000" stop="20260804141500 +0000" channel="88601541">
+  <programme start="20260804103000 +0000" stop="20260804150000 +0000" channel="88601541">
     <title lang="zh">ELTA GO! 中華職棒台鋼雄鷹熱情應援視角直播(第2~8局提供) LIVE</title>
   </programme>
-  <programme start="20260804141500 +0000" stop="20260804160000 +0000" channel="88601541">
+  <programme start="20260804150000 +0000" stop="20260804160000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
   <programme start="20260804160000 +0000" stop="20260804223000 +0000" channel="88601541">
@@ -1412,22 +1361,25 @@
   <programme start="20260809114500 +0000" stop="20260809160000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
-  <programme start="20260803040000 +0000" stop="20260803100000 +0000" channel="88601542">
+  <programme start="20260809160000 +0000" stop="20260809173000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
-  <programme start="20260803100000 +0000" stop="20260803160000 +0000" channel="88601542">
+  <programme start="20260809173000 +0000" stop="20260809213000 +0000" channel="88601541">
+    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV LIVE</title>
+  </programme>
+  <programme start="20260809213000 +0000" stop="20260810040000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
-  <programme start="20260803160000 +0000" stop="20260803220000 +0000" channel="88601542">
+  <programme start="20260810040000 +0000" stop="20260810100000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
-  <programme start="20260803220000 +0000" stop="20260804000000 +0000" channel="88601542">
+  <programme start="20260810100000 +0000" stop="20260810160000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
-  <programme start="20260804000000 +0000" stop="20260804040000 +0000" channel="88601542">
+  <programme start="20260804000000 +0000" stop="20260804031500 +0000" channel="88601542">
     <title lang="zh">MLB 巨人 VS 遊騎兵 例行賽 8/4(原音) LIVE</title>
   </programme>
-  <programme start="20260804040000 +0000" stop="20260804100000 +0000" channel="88601542">
+  <programme start="20260804031500 +0000" stop="20260804100000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
   <programme start="20260804100000 +0000" stop="20260804160000 +0000" channel="88601542">
@@ -1505,25 +1457,25 @@
   <programme start="20260809100000 +0000" stop="20260809160000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
-  <programme start="20260803000000 +0000" stop="20260803040000 +0000" channel="88601543">
+  <programme start="20260809160000 +0000" stop="20260809173000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
-  <programme start="20260803040000 +0000" stop="20260803100000 +0000" channel="88601543">
+  <programme start="20260809173000 +0000" stop="20260809213000 +0000" channel="88601542">
+    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV LIVE</title>
+  </programme>
+  <programme start="20260809213000 +0000" stop="20260810040000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
-  <programme start="20260803100000 +0000" stop="20260803160000 +0000" channel="88601543">
+  <programme start="20260810040000 +0000" stop="20260810100000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
-  <programme start="20260803160000 +0000" stop="20260803220000 +0000" channel="88601543">
+  <programme start="20260810100000 +0000" stop="20260810160000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
-  <programme start="20260803220000 +0000" stop="20260804003000 +0000" channel="88601543">
-    <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
-  </programme>
-  <programme start="20260804003000 +0000" stop="20260804043000 +0000" channel="88601543">
+  <programme start="20260804003000 +0000" stop="20260804040000 +0000" channel="88601543">
     <title lang="zh">MLB 光芒 VS 洛磯 例行賽 8/4(原音) LIVE</title>
   </programme>
-  <programme start="20260804043000 +0000" stop="20260804100000 +0000" channel="88601543">
+  <programme start="20260804040000 +0000" stop="20260804100000 +0000" channel="88601543">
     <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
   <programme start="20260804100000 +0000" stop="20260804160000 +0000" channel="88601543">
@@ -1598,31 +1550,31 @@
   <programme start="20260809100000 +0000" stop="20260809160000 +0000" channel="88601543">
     <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
-  <programme start="20260803040000 +0000" stop="20260803100000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
+  <programme start="20260809160000 +0000" stop="20260809173000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
-  <programme start="20260803100000 +0000" stop="20260803160000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
+  <programme start="20260809173000 +0000" stop="20260809213000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV LIVE</title>
   </programme>
-  <programme start="20260803160000 +0000" stop="20260803182000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
+  <programme start="20260809213000 +0000" stop="20260810040000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
-  <programme start="20260803182000 +0000" stop="20260803203500 +0000" channel="88601544">
-    <title lang="zh">蘇超 塞爾特人 VS 鄧迪FC 第1輪(原音) LIVE</title>
+  <programme start="20260810040000 +0000" stop="20260810100000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
-  <programme start="20260803203500 +0000" stop="20260804000000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
+  <programme start="20260810100000 +0000" stop="20260810160000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】2026愛知-名古屋亞運 9月鎖定愛爾達</title>
   </programme>
-  <programme start="20260804000000 +0000" stop="20260804040000 +0000" channel="88601544">
+  <programme start="20260804000000 +0000" stop="20260804031500 +0000" channel="88601544">
     <title lang="zh">MLB 藍鳥 VS 太空人 例行賽 8/4(原音) LIVE</title>
   </programme>
-  <programme start="20260804040000 +0000" stop="20260804101500 +0000" channel="88601544">
+  <programme start="20260804031500 +0000" stop="20260804101500 +0000" channel="88601544">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
-  <programme start="20260804101500 +0000" stop="20260804140000 +0000" channel="88601544">
+  <programme start="20260804101500 +0000" stop="20260804150000 +0000" channel="88601544">
     <title lang="zh">中華職棒 樂天 VS 台鋼 例行賽 8/4(雙語/無廣告) LIVE</title>
   </programme>
-  <programme start="20260804140000 +0000" stop="20260804160000 +0000" channel="88601544">
+  <programme start="20260804150000 +0000" stop="20260804160000 +0000" channel="88601544">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
   <programme start="20260804160000 +0000" stop="20260804230000 +0000" channel="88601544">
@@ -1712,16 +1664,19 @@
   <programme start="20260809130000 +0000" stop="20260809160000 +0000" channel="88601544">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
-  <programme start="20260803040000 +0000" stop="20260803100000 +0000" channel="88601545">
+  <programme start="20260809160000 +0000" stop="20260809180000 +0000" channel="88601544">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
-  <programme start="20260803100000 +0000" stop="20260803160000 +0000" channel="88601545">
+  <programme start="20260809180000 +0000" stop="20260809220000 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV LIVE</title>
+  </programme>
+  <programme start="20260809220000 +0000" stop="20260810040000 +0000" channel="88601544">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
-  <programme start="20260803160000 +0000" stop="20260803220000 +0000" channel="88601545">
+  <programme start="20260810040000 +0000" stop="20260810100000 +0000" channel="88601544">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
-  <programme start="20260803220000 +0000" stop="20260804040000 +0000" channel="88601545">
+  <programme start="20260810100000 +0000" stop="20260810160000 +0000" channel="88601544">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
   <programme start="20260804040000 +0000" stop="20260804100000 +0000" channel="88601545">
@@ -1808,16 +1763,19 @@
   <programme start="20260809123000 +0000" stop="20260809160000 +0000" channel="88601545">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
-  <programme start="20260803040000 +0000" stop="20260803100000 +0000" channel="88601546">
+  <programme start="20260809160000 +0000" stop="20260809180000 +0000" channel="88601545">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
-  <programme start="20260803100000 +0000" stop="20260803160000 +0000" channel="88601546">
+  <programme start="20260809180000 +0000" stop="20260809220000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV LIVE</title>
+  </programme>
+  <programme start="20260809220000 +0000" stop="20260810040000 +0000" channel="88601545">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
-  <programme start="20260803160000 +0000" stop="20260803220000 +0000" channel="88601546">
+  <programme start="20260810040000 +0000" stop="20260810100000 +0000" channel="88601545">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
-  <programme start="20260803220000 +0000" stop="20260804040000 +0000" channel="88601546">
+  <programme start="20260810100000 +0000" stop="20260810160000 +0000" channel="88601545">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
   <programme start="20260804040000 +0000" stop="20260804100000 +0000" channel="88601546">
@@ -1892,16 +1850,19 @@
   <programme start="20260809143500 +0000" stop="20260809160000 +0000" channel="88601546">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
-  <programme start="20260803040000 +0000" stop="20260803100000 +0000" channel="88601547">
+  <programme start="20260809160000 +0000" stop="20260809183000 +0000" channel="88601546">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
-  <programme start="20260803100000 +0000" stop="20260803160000 +0000" channel="88601547">
+  <programme start="20260809183000 +0000" stop="20260809223000 +0000" channel="88601546">
+    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV LIVE</title>
+  </programme>
+  <programme start="20260809223000 +0000" stop="20260810040000 +0000" channel="88601546">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
-  <programme start="20260803160000 +0000" stop="20260803220000 +0000" channel="88601547">
+  <programme start="20260810040000 +0000" stop="20260810100000 +0000" channel="88601546">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
-  <programme start="20260803220000 +0000" stop="20260804040000 +0000" channel="88601547">
+  <programme start="20260810100000 +0000" stop="20260810160000 +0000" channel="88601546">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
   <programme start="20260804040000 +0000" stop="20260804100000 +0000" channel="88601547">
@@ -1976,16 +1937,19 @@
   <programme start="20260809145000 +0000" stop="20260809170500 +0000" channel="88601547">
     <title lang="zh">蘇超 格拉斯哥流浪者 VS 希伯尼恩 第2輪(原音) LIVE</title>
   </programme>
-  <programme start="20260803040000 +0000" stop="20260803100000 +0000" channel="88601548">
+  <programme start="20260809170500 +0000" stop="20260809190000 +0000" channel="88601547">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
-  <programme start="20260803100000 +0000" stop="20260803160000 +0000" channel="88601548">
+  <programme start="20260809190000 +0000" stop="20260809230000 +0000" channel="88601547">
+    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV LIVE</title>
+  </programme>
+  <programme start="20260809230000 +0000" stop="20260810040000 +0000" channel="88601547">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
-  <programme start="20260803160000 +0000" stop="20260803220000 +0000" channel="88601548">
+  <programme start="20260810040000 +0000" stop="20260810100000 +0000" channel="88601547">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
-  <programme start="20260803220000 +0000" stop="20260804040000 +0000" channel="88601548">
+  <programme start="20260810100000 +0000" stop="20260810160000 +0000" channel="88601547">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
   <programme start="20260804040000 +0000" stop="20260804100000 +0000" channel="88601548">
@@ -2057,19 +2021,19 @@
   <programme start="20260809100000 +0000" stop="20260809160000 +0000" channel="88601548">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
-  <programme start="20260803000000 +0000" stop="20260803040000 +0000" channel="88601549">
+  <programme start="20260809160000 +0000" stop="20260809200000 +0000" channel="88601548">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
-  <programme start="20260803040000 +0000" stop="20260803100000 +0000" channel="88601549">
+  <programme start="20260809200000 +0000" stop="20260810000000 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV LIVE</title>
+  </programme>
+  <programme start="20260810000000 +0000" stop="20260810040000 +0000" channel="88601548">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
-  <programme start="20260803100000 +0000" stop="20260803160000 +0000" channel="88601549">
+  <programme start="20260810040000 +0000" stop="20260810100000 +0000" channel="88601548">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
-  <programme start="20260803160000 +0000" stop="20260803220000 +0000" channel="88601549">
-    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
-  </programme>
-  <programme start="20260803220000 +0000" stop="20260804040000 +0000" channel="88601549">
+  <programme start="20260810100000 +0000" stop="20260810160000 +0000" channel="88601548">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
   <programme start="20260804040000 +0000" stop="20260804100000 +0000" channel="88601549">
@@ -2139,6 +2103,21 @@
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
   <programme start="20260809100000 +0000" stop="20260809160000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
+  </programme>
+  <programme start="20260809160000 +0000" stop="20260809200000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
+  </programme>
+  <programme start="20260809200000 +0000" stop="20260810000000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV LIVE</title>
+  </programme>
+  <programme start="20260810000000 +0000" stop="20260810040000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
+  </programme>
+  <programme start="20260810040000 +0000" stop="20260810100000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
+  </programme>
+  <programme start="20260810100000 +0000" stop="20260810160000 +0000" channel="88601549">
     <title lang="zh">【非賽事直播時段】 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
 </tv>
