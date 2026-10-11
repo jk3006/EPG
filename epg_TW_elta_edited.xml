@@ -86,287 +86,14 @@
     <icon src="https://piceltaott-elta.cdn.hinet.net/upload/channel/549_pic_20260520174426.png"/>
     <url>http://www.eltaott.tv</url>
   </channel>
-  <programme start="20261006013000 +0000" stop="20261006020000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/5 首播</title>
-  </programme>
-  <programme start="20261006020000 +0000" stop="20261006021500 +0000" channel="88601101">
-    <title lang="zh">歐國聯精華 第4比賽日 10/6 首播</title>
-  </programme>
-  <programme start="20261006021500 +0000" stop="20261006023000 +0000" channel="88601101">
-    <title lang="zh">歐國聯精華 第4比賽日 10/5</title>
-  </programme>
-  <programme start="20261006023000 +0000" stop="20261006043000 +0000" channel="88601101">
-    <title lang="zh">NBA 尼克 VS 76人 10/6 熱身賽 今日最新</title>
-  </programme>
-  <programme start="20261006043000 +0000" stop="20261006044500 +0000" channel="88601101">
-    <title lang="zh">歐國聯精華 第3比賽日 10/4</title>
-  </programme>
-  <programme start="20261006044500 +0000" stop="20261006050000 +0000" channel="88601101">
-    <title lang="zh">歐國聯精華 第4比賽日 10/5</title>
-  </programme>
-  <programme start="20261006050000 +0000" stop="20261006070000 +0000" channel="88601101">
-    <title lang="zh">UEFA歐國聯 法國 VS 比利時 第4輪 今日最新</title>
-  </programme>
-  <programme start="20261006070000 +0000" stop="20261006090000 +0000" channel="88601101">
-    <title lang="zh">UEFA歐國聯 義大利 VS 土耳其 第4輪 今日最新</title>
-  </programme>
-  <programme start="20261006090000 +0000" stop="20261006093000 +0000" channel="88601101">
-    <title lang="zh">歐冠足球誌#5 首播</title>
-  </programme>
-  <programme start="20261006093000 +0000" stop="20261006113000 +0000" channel="88601101">
-    <title lang="zh">NBA 尼克 VS 76人 10/6 熱身賽 今日最新</title>
-  </programme>
-  <programme start="20261006113000 +0000" stop="20261006133000 +0000" channel="88601101">
-    <title lang="zh">UEFA歐國聯 法國 VS 比利時 第4輪 今日最新</title>
-  </programme>
-  <programme start="20261006133000 +0000" stop="20261006153000 +0000" channel="88601101">
-    <title lang="zh">NBA 尼克 VS 76人 10/6 熱身賽 今日最新</title>
-  </programme>
-  <programme start="20261006153000 +0000" stop="20261006160000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/6 首播</title>
-  </programme>
-  <programme start="20261006160000 +0000" stop="20261006180000 +0000" channel="88601101">
-    <title lang="zh">WTT大滿貫賽 中國站 鄭怡靜 林昀儒 單打32強回顧 今日最新</title>
-  </programme>
-  <programme start="20261006180000 +0000" stop="20261006182000 +0000" channel="88601101">
-    <title lang="zh">歐國聯精華 第4比賽日 10/5</title>
-  </programme>
-  <programme start="20261006182000 +0000" stop="20261006183500 +0000" channel="88601101">
-    <title lang="zh">歐國聯精華 第4比賽日 10/6</title>
-  </programme>
-  <programme start="20261006183500 +0000" stop="20261006205000 +0000" channel="88601101">
-    <title lang="zh">UEFA歐國聯 克羅埃西亞 VS 西班牙 第4輪 LIVE</title>
-  </programme>
-  <programme start="20261006205000 +0000" stop="20261006230000 +0000" channel="88601101">
-    <title lang="zh">UEFA歐國聯 英格蘭 VS 捷克 第4輪 D-LIVE</title>
-  </programme>
-  <programme start="20261006230000 +0000" stop="20261006233000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/6 首播</title>
-  </programme>
-  <programme start="20261006233000 +0000" stop="20261007013000 +0000" channel="88601101">
-    <title lang="zh">WTT大滿貫賽 中國站 鄭怡靜 林昀儒 單打32強回顧 今日最新</title>
-  </programme>
-  <programme start="20261007013000 +0000" stop="20261007014500 +0000" channel="88601101">
-    <title lang="zh">歐國聯精華 第4比賽日 10/6</title>
-  </programme>
-  <programme start="20261007014500 +0000" stop="20261007020000 +0000" channel="88601101">
-    <title lang="zh">歐國聯精華 第4比賽日 10/7 首播</title>
-  </programme>
-  <programme start="20261007020000 +0000" stop="20261007043000 +0000" channel="88601101">
-    <title lang="zh">NBA 湖人 VS 勇士 10/7 熱身賽 LIVE</title>
-  </programme>
-  <programme start="20261007043000 +0000" stop="20261007050000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/6</title>
-  </programme>
-  <programme start="20261007050000 +0000" stop="20261007070000 +0000" channel="88601101">
-    <title lang="zh">UEFA歐國聯 克羅埃西亞 VS 西班牙 第4輪 今日最新</title>
-  </programme>
-  <programme start="20261007070000 +0000" stop="20261007073000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/6</title>
-  </programme>
-  <programme start="20261007073000 +0000" stop="20261007093000 +0000" channel="88601101">
-    <title lang="zh">UEFA歐國聯 英格蘭 VS 捷克 第4輪 今日最新</title>
-  </programme>
-  <programme start="20261007093000 +0000" stop="20261007100000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/6</title>
-  </programme>
-  <programme start="20261007100000 +0000" stop="20261007123000 +0000" channel="88601101">
-    <title lang="zh">MLB 道奇 VS 勇士 國聯分區賽G3 10/7 今日最新</title>
-  </programme>
-  <programme start="20261007123000 +0000" stop="20261007124500 +0000" channel="88601101">
-    <title lang="zh">歐國聯精華 第4比賽日 10/7 今日最新</title>
-  </programme>
-  <programme start="20261007124500 +0000" stop="20261007130000 +0000" channel="88601101">
-    <title lang="zh">歐國聯精華 第4比賽日 10/6</title>
-  </programme>
-  <programme start="20261007130000 +0000" stop="20261007153000 +0000" channel="88601101">
-    <title lang="zh">MLB 道奇 VS 勇士 國聯分區賽G3 10/7 今日最新</title>
-  </programme>
-  <programme start="20261007153000 +0000" stop="20261007160000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/7 首播</title>
-  </programme>
-  <programme start="20261007160000 +0000" stop="20261007180000 +0000" channel="88601101">
-    <title lang="zh">UEFA歐國聯 比利時 VS 法國 第2輪</title>
-  </programme>
-  <programme start="20261007180000 +0000" stop="20261007181500 +0000" channel="88601101">
-    <title lang="zh">歐國聯精華 第4比賽日 10/6</title>
-  </programme>
-  <programme start="20261007181500 +0000" stop="20261007183000 +0000" channel="88601101">
-    <title lang="zh">歐國聯精華 第4比賽日 10/7</title>
-  </programme>
-  <programme start="20261007183000 +0000" stop="20261007190000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/7</title>
-  </programme>
-  <programme start="20261007190000 +0000" stop="20261007210000 +0000" channel="88601101">
-    <title lang="zh">UEFA歐國聯 葡萄牙 VS 挪威 第4輪</title>
-  </programme>
-  <programme start="20261007210000 +0000" stop="20261007230000 +0000" channel="88601101">
-    <title lang="zh">UEFA歐國聯 義大利 VS 土耳其 第4輪</title>
-  </programme>
-  <programme start="20261007230000 +0000" stop="20261007233000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/7</title>
-  </programme>
-  <programme start="20261007233000 +0000" stop="20261008013000 +0000" channel="88601101">
-    <title lang="zh">WTT大滿貫賽 中國站 郭冠宏/馮翊新 雙打16強/單打32強回顧 今日最新</title>
-  </programme>
-  <programme start="20261008013000 +0000" stop="20261008020000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/7</title>
-  </programme>
-  <programme start="20261008020000 +0000" stop="20261008043000 +0000" channel="88601101">
-    <title lang="zh">NBA 勇士 VS 拓荒者 10/8 熱身賽 LIVE</title>
-  </programme>
-  <programme start="20261008043000 +0000" stop="20261008070000 +0000" channel="88601101">
-    <title lang="zh">MLB 道奇 VS 勇士 國聯分區賽G4 10/8 今日最新</title>
-  </programme>
-  <programme start="20261008070000 +0000" stop="20261008090000 +0000" channel="88601101">
-    <title lang="zh">NBA 勇士 VS 拓荒者 10/8 熱身賽 今日最新</title>
-  </programme>
-  <programme start="20261008090000 +0000" stop="20261008113000 +0000" channel="88601101">
-    <title lang="zh">MLB 道奇 VS 勇士 國聯分區賽G4 10/8 今日最新</title>
-  </programme>
-  <programme start="20261008113000 +0000" stop="20261008133000 +0000" channel="88601101">
-    <title lang="zh">NBA 勇士 VS 拓荒者 10/8 熱身賽 今日最新</title>
-  </programme>
-  <programme start="20261008133000 +0000" stop="20261008140000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/8 LIVE</title>
-  </programme>
-  <programme start="20261008140000 +0000" stop="20261008163000 +0000" channel="88601101">
-    <title lang="zh">MLB 光芒 VS 洋基 美聯分區賽G3 10/8 今日最新</title>
-  </programme>
-  <programme start="20261008163000 +0000" stop="20261008183000 +0000" channel="88601101">
-    <title lang="zh">CEV男排歐錦賽 芬蘭 VS 斯洛維尼亞 銅牌戰</title>
-  </programme>
-  <programme start="20261008183000 +0000" stop="20261008203000 +0000" channel="88601101">
-    <title lang="zh">UEFA歐國聯 荷蘭 VS 希臘 第5輪</title>
-  </programme>
-  <programme start="20261008203000 +0000" stop="20261008210000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/8</title>
-  </programme>
-  <programme start="20261008210000 +0000" stop="20261008230000 +0000" channel="88601101">
-    <title lang="zh">UEFA歐國聯 英格蘭 VS 克羅埃西亞 第5輪</title>
-  </programme>
-  <programme start="20261008230000 +0000" stop="20261008233000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/8</title>
-  </programme>
-  <programme start="20261008233000 +0000" stop="20261009000000 +0000" channel="88601101">
-    <title lang="zh">MLB好球連發#26</title>
-  </programme>
-  <programme start="20261009000000 +0000" stop="20261009033000 +0000" channel="88601101">
-    <title lang="zh">MLB 光芒 VS 洋基 美聯分區賽G4(如有需要) 10/9 LIVE</title>
-  </programme>
-  <programme start="20261009033000 +0000" stop="20261009040000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/8</title>
-  </programme>
-  <programme start="20261009040000 +0000" stop="20261009063000 +0000" channel="88601101">
-    <title lang="zh">MLB 光芒 VS 洋基 美聯分區賽G4(如有需要) 10/9 今日最新</title>
-  </programme>
-  <programme start="20261009063000 +0000" stop="20261009070000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/8</title>
-  </programme>
-  <programme start="20261009070000 +0000" stop="20261009073000 +0000" channel="88601101">
-    <title lang="zh">MLB好球連發#25</title>
-  </programme>
-  <programme start="20261009073000 +0000" stop="20261009093000 +0000" channel="88601101">
-    <title lang="zh">UEFA歐國聯 英格蘭 VS 克羅埃西亞 第5輪</title>
-  </programme>
-  <programme start="20261009093000 +0000" stop="20261009120000 +0000" channel="88601101">
-    <title lang="zh">MLB 光芒 VS 洋基 美聯分區賽G4(如有需要) 10/9 今日最新</title>
-  </programme>
-  <programme start="20261009120000 +0000" stop="20261009143000 +0000" channel="88601101">
-    <title lang="zh">NBA 火箭 VS 獨行俠 10/9 熱身賽中國賽 LIVE</title>
-  </programme>
-  <programme start="20261009143000 +0000" stop="20261009150000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/9 LIVE</title>
-  </programme>
-  <programme start="20261009150000 +0000" stop="20261009173000 +0000" channel="88601101">
-    <title lang="zh">MLB 光芒 VS 洋基 美聯分區賽G4(如有需要) 10/9 今日最新</title>
-  </programme>
-  <programme start="20261009173000 +0000" stop="20261009180000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/9</title>
-  </programme>
-  <programme start="20261009180000 +0000" stop="20261009182000 +0000" channel="88601101">
-    <title lang="zh">德甲精華 第4輪</title>
-  </programme>
-  <programme start="20261009182000 +0000" stop="20261009203500 +0000" channel="88601101">
-    <title lang="zh">德甲 多特蒙德 VS 文達布萊梅 第5輪(原音) LIVE</title>
-  </programme>
-  <programme start="20261009203500 +0000" stop="20261009204500 +0000" channel="88601101">
-    <title lang="zh">歐國聯精華 第4比賽日 10/6</title>
-  </programme>
-  <programme start="20261009204500 +0000" stop="20261009210000 +0000" channel="88601101">
-    <title lang="zh">歐國聯精華 第4比賽日 10/7</title>
-  </programme>
-  <programme start="20261009210000 +0000" stop="20261009213000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/9 首播</title>
-  </programme>
-  <programme start="20261009213000 +0000" stop="20261009233000 +0000" channel="88601101">
-    <title lang="zh">UEFA歐國聯 荷蘭 VS 希臘 第5輪</title>
-  </programme>
-  <programme start="20261009233000 +0000" stop="20261010000000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/9</title>
-  </programme>
-  <programme start="20261010000000 +0000" stop="20261010013000 +0000" channel="88601101">
-    <title lang="zh">亞運 辜泳諺 滑板 男子公園賽決賽 9/25</title>
-  </programme>
-  <programme start="20261010013000 +0000" stop="20261010040000 +0000" channel="88601101">
-    <title lang="zh">MLB 教士 VS 釀酒人 國聯分區賽G5(如有需要) 10/10 今日最新</title>
-  </programme>
-  <programme start="20261010040000 +0000" stop="20261010043000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/9</title>
-  </programme>
-  <programme start="20261010043000 +0000" stop="20261010070000 +0000" channel="88601101">
-    <title lang="zh">MLB 勇士 VS 道奇 國聯分區賽G5(如有需要) 10/10 今日最新</title>
-  </programme>
-  <programme start="20261010070000 +0000" stop="20261010073000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/9</title>
-  </programme>
-  <programme start="20261010073000 +0000" stop="20261010084500 +0000" channel="88601101">
-    <title lang="zh">F1 新加坡站 衝刺排位賽 D-LIVE</title>
-  </programme>
-  <programme start="20261010084500 +0000" stop="20261010100000 +0000" channel="88601101">
-    <title lang="zh">F1 新加坡站 衝刺賽 LIVE</title>
-  </programme>
-  <programme start="20261010100000 +0000" stop="20261010112000 +0000" channel="88601101">
-    <title lang="zh">MLB 勇士 VS 道奇 國聯分區賽G5(如有需要) 10/10(精華版) 今日最新</title>
-  </programme>
-  <programme start="20261010112000 +0000" stop="20261010133500 +0000" channel="88601101">
-    <title lang="zh">英超 兵工廠 VS 里茲聯 第6輪 LIVE</title>
-  </programme>
-  <programme start="20261010133500 +0000" stop="20261010135000 +0000" channel="88601101">
-    <title lang="zh">歐國聯精華 第3比賽日 10/4</title>
-  </programme>
-  <programme start="20261010135000 +0000" stop="20261010160500 +0000" channel="88601101">
-    <title lang="zh">英超 切爾西 VS 伯恩茅斯 第6輪 LIVE</title>
-  </programme>
-  <programme start="20261010160500 +0000" stop="20261010163000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/10 首播</title>
-  </programme>
-  <programme start="20261010163000 +0000" stop="20261010180000 +0000" channel="88601101">
-    <title lang="zh">F1 新加坡站 排位賽 今日最新</title>
-  </programme>
-  <programme start="20261010180000 +0000" stop="20261010183000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/10</title>
-  </programme>
-  <programme start="20261010183000 +0000" stop="20261010205000 +0000" channel="88601101">
-    <title lang="zh">義甲 拿坡里 VS 佛洛西諾尼 第6輪(原音) LIVE</title>
-  </programme>
-  <programme start="20261010205000 +0000" stop="20261010230000 +0000" channel="88601101">
-    <title lang="zh">UEFA歐國聯 比利時 VS 義大利 第6輪</title>
-  </programme>
-  <programme start="20261010230000 +0000" stop="20261010233000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/10</title>
-  </programme>
-  <programme start="20261010233000 +0000" stop="20261011000000 +0000" channel="88601101">
-    <title lang="zh">MLB好球連發#26</title>
-  </programme>
   <programme start="20261011000000 +0000" stop="20261011033000 +0000" channel="88601101">
-    <title lang="zh">MLB 洋基 VS 光芒 美聯分區賽G5(如有需要) 10/11 LIVE</title>
+    <title lang="zh">MLB 白襪 VS 守護者 美聯分區賽G5 10/11 LIVE</title>
   </programme>
   <programme start="20261011033000 +0000" stop="20261011040000 +0000" channel="88601101">
-    <title lang="zh">體壇最前線 10/10</title>
+    <title lang="zh">亞運英雄 榮耀回顧#1 首播</title>
   </programme>
   <programme start="20261011040000 +0000" stop="20261011063000 +0000" channel="88601101">
-    <title lang="zh">MLB 白襪 VS 守護者 美聯分區賽G5(如有需要) 10/11 今日最新</title>
+    <title lang="zh">MLB 白襪 VS 守護者 美聯分區賽G5 10/11 今日最新</title>
   </programme>
   <programme start="20261011063000 +0000" stop="20261011070000 +0000" channel="88601101">
     <title lang="zh">體壇最前線 10/10</title>
@@ -411,7 +138,7 @@
     <title lang="zh">體壇最前線 10/11</title>
   </programme>
   <programme start="20261012020000 +0000" stop="20261012040000 +0000" channel="88601101">
-    <title lang="zh">UEFA歐國聯 比利時 VS 義大利 第6輪</title>
+    <title lang="zh">UEFA歐國聯 法國 VS 比利時 第4輪</title>
   </programme>
   <programme start="20261012040000 +0000" stop="20261012060000 +0000" channel="88601101">
     <title lang="zh">F1 新加坡站 正賽</title>
@@ -437,221 +164,230 @@
   <programme start="20261012153000 +0000" stop="20261012160000 +0000" channel="88601101">
     <title lang="zh">體壇最前線 10/12 首播</title>
   </programme>
-  <programme start="20261006000000 +0000" stop="20261006033000 +0000" channel="88601105">
-    <title lang="zh">MLB 洋基 VS 光芒 美聯分區賽G2 10/6 LIVE</title>
+  <programme start="20261012160000 +0000" stop="20261012182000 +0000" channel="88601101">
+    <title lang="zh">MLB 道奇 VS 釀酒人 國聯冠軍賽G1 10/12 今日最新</title>
   </programme>
-  <programme start="20261006033000 +0000" stop="20261006040000 +0000" channel="88601105">
-    <title lang="zh">體壇最前線 10/5</title>
+  <programme start="20261012182000 +0000" stop="20261012185000 +0000" channel="88601101">
+    <title lang="zh">體壇最前線 10/12</title>
   </programme>
-  <programme start="20261006040000 +0000" stop="20261006063000 +0000" channel="88601105">
-    <title lang="zh">MLB 洋基 VS 光芒 美聯分區賽G2 10/6 今日最新</title>
+  <programme start="20261012185000 +0000" stop="20261012210500 +0000" channel="88601101">
+    <title lang="zh">英超 科文垂城 VS 紐卡索聯 第6輪(原音) LIVE</title>
   </programme>
-  <programme start="20261006063000 +0000" stop="20261006070000 +0000" channel="88601105">
-    <title lang="zh">體壇最前線 10/5</title>
+  <programme start="20261012210500 +0000" stop="20261012233000 +0000" channel="88601101">
+    <title lang="zh">世界鐵人三項系列賽 總決賽 菁英女子賽</title>
   </programme>
-  <programme start="20261006070000 +0000" stop="20261006090000 +0000" channel="88601105">
-    <title lang="zh">F1 巴林站(馬來西亞雪邦賽道) 正賽</title>
+  <programme start="20261012233000 +0000" stop="20261013020000 +0000" channel="88601101">
+    <title lang="zh">NBA 灰狼 VS 尼克 10/13 熱身賽 LIVE</title>
   </programme>
-  <programme start="20261006090000 +0000" stop="20261006091500 +0000" channel="88601105">
-    <title lang="zh">歐國聯精華 第4比賽日 10/6 今日最新</title>
+  <programme start="20261013020000 +0000" stop="20261013043000 +0000" channel="88601101">
+    <title lang="zh">MLB 道奇 VS 釀酒人 國聯冠軍賽G2 10/13 今日最新</title>
   </programme>
-  <programme start="20261006091500 +0000" stop="20261006114500 +0000" channel="88601105">
-    <title lang="zh">MLB 洋基 VS 光芒 美聯分區賽G2 10/6 今日最新</title>
+  <programme start="20261013043000 +0000" stop="20261013063000 +0000" channel="88601101">
+    <title lang="zh">NBA 灰狼 VS 尼克 10/13 熱身賽 今日最新</title>
   </programme>
-  <programme start="20261006114500 +0000" stop="20261006141500 +0000" channel="88601105">
-    <title lang="zh">MLB 白襪 VS 守護者 美聯分區賽G2 10/6 今日最新</title>
+  <programme start="20261013063000 +0000" stop="20261013073000 +0000" channel="88601101">
+    <title lang="zh">亞運 林逸凡 滑板 女子公園賽決賽 9/25</title>
   </programme>
-  <programme start="20261006141500 +0000" stop="20261006143000 +0000" channel="88601105">
-    <title lang="zh">歐國聯精華 第4比賽日 10/6 今日最新</title>
+  <programme start="20261013073000 +0000" stop="20261013100000 +0000" channel="88601101">
+    <title lang="zh">MLB 守護者/白襪 VS 光芒 美聯冠軍賽G1 10/13 今日最新</title>
   </programme>
-  <programme start="20261006143000 +0000" stop="20261006170000 +0000" channel="88601105">
-    <title lang="zh">MLB 洋基 VS 光芒 美聯分區賽G2 10/6 今日最新</title>
+  <programme start="20261013100000 +0000" stop="20261013103000 +0000" channel="88601101">
+    <title lang="zh">歐冠足球誌#6 首播</title>
   </programme>
-  <programme start="20261006170000 +0000" stop="20261006173000 +0000" channel="88601105">
-    <title lang="zh">體壇最前線 10/6</title>
+  <programme start="20261013103000 +0000" stop="20261013123000 +0000" channel="88601101">
+    <title lang="zh">NBA 灰狼 VS 尼克 10/13 熱身賽 今日最新</title>
   </programme>
-  <programme start="20261006173000 +0000" stop="20261006174500 +0000" channel="88601105">
-    <title lang="zh">歐國聯精華 第4比賽日 10/5</title>
+  <programme start="20261013123000 +0000" stop="20261013150000 +0000" channel="88601101">
+    <title lang="zh">MLB 道奇 VS 釀酒人 國聯冠軍賽G2 10/13 今日最新</title>
   </programme>
-  <programme start="20261006174500 +0000" stop="20261006180000 +0000" channel="88601105">
-    <title lang="zh">歐國聯精華 第4比賽日 10/6</title>
+  <programme start="20261013150000 +0000" stop="20261013153000 +0000" channel="88601101">
+    <title lang="zh">歐冠足球誌#6</title>
   </programme>
-  <programme start="20261006180000 +0000" stop="20261006183000 +0000" channel="88601105">
+  <programme start="20261013153000 +0000" stop="20261013160000 +0000" channel="88601101">
+    <title lang="zh">體壇最前線 10/13 首播</title>
+  </programme>
+  <programme start="20261013160000 +0000" stop="20261013163500 +0000" channel="88601101">
+    <title lang="zh">歐冠足球誌#6</title>
+  </programme>
+  <programme start="20261013163500 +0000" stop="20261013185000 +0000" channel="88601101">
+    <title lang="zh">UEFA歐冠 朗斯 VS 里斯本競技 第2比賽日(原音) LIVE</title>
+  </programme>
+  <programme start="20261013185000 +0000" stop="20261013210500 +0000" channel="88601101">
+    <title lang="zh">UEFA歐冠 馬德里競技 VS 曼聯 第2比賽日(原音) LIVE</title>
+  </programme>
+  <programme start="20261013210500 +0000" stop="20261013233000 +0000" channel="88601101">
+    <title lang="zh">世界鐵人三項系列賽 總決賽 菁英男子賽</title>
+  </programme>
+  <programme start="20261013233000 +0000" stop="20261014020000 +0000" channel="88601101">
+    <title lang="zh">中華職棒 中信 VS 統一 季後挑戰賽G2 10/10</title>
+  </programme>
+  <programme start="20261014020000 +0000" stop="20261014043000 +0000" channel="88601101">
+    <title lang="zh">NBA 勇士 VS 湖人 10/14 熱身賽 LIVE</title>
+  </programme>
+  <programme start="20261014043000 +0000" stop="20261014050000 +0000" channel="88601101">
+    <title lang="zh">體壇最前線 10/13</title>
+  </programme>
+  <programme start="20261014050000 +0000" stop="20261014070000 +0000" channel="88601101">
+    <title lang="zh">NBA 勇士 VS 湖人 10/14 熱身賽 今日最新</title>
+  </programme>
+  <programme start="20261014070000 +0000" stop="20261014093000 +0000" channel="88601101">
+    <title lang="zh">MLB 道奇 VS 釀酒人 國聯冠軍賽G2 10/13</title>
+  </programme>
+  <programme start="20261014093000 +0000" stop="20261014103000 +0000" channel="88601101">
+    <title lang="zh">歐冠精華 第2比賽日 10/14 首播</title>
+  </programme>
+  <programme start="20261014103000 +0000" stop="20261014104500 +0000" channel="88601101">
+    <title lang="zh">德甲精華 第5輪 首播</title>
+  </programme>
+  <programme start="20261014104500 +0000" stop="20261014124500 +0000" channel="88601101">
+    <title lang="zh">NBA 勇士 VS 湖人 10/14 熱身賽 今日最新</title>
+  </programme>
+  <programme start="20261014124500 +0000" stop="20261014131500 +0000" channel="88601101">
+    <title lang="zh">英超名人堂 #19 首播</title>
+  </programme>
+  <programme start="20261014131500 +0000" stop="20261014150000 +0000" channel="88601101">
+    <title lang="zh">MLB 道奇 VS 釀酒人 國聯冠軍賽G2 10/13(精華版)</title>
+  </programme>
+  <programme start="20261014150000 +0000" stop="20261014153000 +0000" channel="88601101">
+    <title lang="zh">體壇最前線 10/14 首播</title>
+  </programme>
+  <programme start="20261014153000 +0000" stop="20261014163500 +0000" channel="88601101">
+    <title lang="zh">歐冠精華 第2比賽日 10/14 今日最新</title>
+  </programme>
+  <programme start="20261014163500 +0000" stop="20261014185000 +0000" channel="88601101">
+    <title lang="zh">UEFA歐冠 林茲競技 VS 利物浦 第2比賽日(原音) LIVE</title>
+  </programme>
+  <programme start="20261014185000 +0000" stop="20261014210500 +0000" channel="88601101">
+    <title lang="zh">UEFA歐冠 曼城 VS 巴黎聖日耳曼 第2比賽日(原音) LIVE</title>
+  </programme>
+  <programme start="20261014210500 +0000" stop="20261014233000 +0000" channel="88601101">
+    <title lang="zh">世界鐵人三項系列賽 總決賽 菁英女子賽</title>
+  </programme>
+  <programme start="20261014233000 +0000" stop="20261015000000 +0000" channel="88601101">
+    <title lang="zh">體壇最前線 10/14</title>
+  </programme>
+  <programme start="20261015000000 +0000" stop="20261015023000 +0000" channel="88601101">
+    <title lang="zh">NBA 太陽 VS 馬刺 10/15 熱身賽 LIVE</title>
+  </programme>
+  <programme start="20261015023000 +0000" stop="20261015030000 +0000" channel="88601101">
+    <title lang="zh">體壇最前線 10/14</title>
+  </programme>
+  <programme start="20261015030000 +0000" stop="20261015050000 +0000" channel="88601101">
+    <title lang="zh">NBA 太陽 VS 馬刺 10/15 熱身賽 今日最新</title>
+  </programme>
+  <programme start="20261015050000 +0000" stop="20261015060000 +0000" channel="88601101">
+    <title lang="zh">亞運 中華隊 游泳 決賽 9/25</title>
+  </programme>
+  <programme start="20261015060000 +0000" stop="20261015070000 +0000" channel="88601101">
+    <title lang="zh">英超精華 第6輪</title>
+  </programme>
+  <programme start="20261015070000 +0000" stop="20261015090000 +0000" channel="88601101">
+    <title lang="zh">NBA 太陽 VS 馬刺 10/15 熱身賽 今日最新</title>
+  </programme>
+  <programme start="20261015090000 +0000" stop="20261015100000 +0000" channel="88601101">
+    <title lang="zh">歐冠精華 第2比賽日 10/15 首播</title>
+  </programme>
+  <programme start="20261015100000 +0000" stop="20261015101500 +0000" channel="88601101">
+    <title lang="zh">德甲精華 第5輪</title>
+  </programme>
+  <programme start="20261015101500 +0000" stop="20261015103000 +0000" channel="88601101">
+    <title lang="zh">義甲精華 第6輪 首播</title>
+  </programme>
+  <programme start="20261015103000 +0000" stop="20261015130000 +0000" channel="88601101">
+    <title lang="zh">MLB 釀酒人 VS 道奇 國聯冠軍賽G4 10/16 今日最新</title>
+  </programme>
+  <programme start="20261015130000 +0000" stop="20261015140000 +0000" channel="88601101">
+    <title lang="zh">歐霸戰國誌#2 首播</title>
+  </programme>
+  <programme start="20261015140000 +0000" stop="20261015143000 +0000" channel="88601101">
+    <title lang="zh">體壇最前線 10/15 LIVE</title>
+  </programme>
+  <programme start="20261015143000 +0000" stop="20261015163000 +0000" channel="88601101">
+    <title lang="zh">NBA 太陽 VS 馬刺 10/15 熱身賽 今日最新</title>
+  </programme>
+  <programme start="20261015163000 +0000" stop="20261015170000 +0000" channel="88601101">
+    <title lang="zh">英超名人堂 #19</title>
+  </programme>
+  <programme start="20261015170000 +0000" stop="20261015185000 +0000" channel="88601101">
+    <title lang="zh">亞運 中華VS越南 排球 男子9-10排名賽 10/3</title>
+  </programme>
+  <programme start="20261015185000 +0000" stop="20261015210500 +0000" channel="88601101">
+    <title lang="zh">UEFA歐霸 伯恩茅斯 VS 格拉茲風暴 第2比賽日(原音) LIVE</title>
+  </programme>
+  <programme start="20261015210500 +0000" stop="20261015233000 +0000" channel="88601101">
+    <title lang="zh">世界鐵人三項系列賽 總決賽 菁英男子賽</title>
+  </programme>
+  <programme start="20261015233000 +0000" stop="20261016003000 +0000" channel="88601101">
+    <title lang="zh">英超精華 第6輪</title>
+  </programme>
+  <programme start="20261016003000 +0000" stop="20261016030000 +0000" channel="88601101">
+    <title lang="zh">NBA 雷霆 VS 火箭 10/16 熱身賽 LIVE</title>
+  </programme>
+  <programme start="20261016030000 +0000" stop="20261016053000 +0000" channel="88601101">
+    <title lang="zh">MLB 釀酒人 VS 道奇 國聯冠軍賽G4 10/16 今日最新</title>
+  </programme>
+  <programme start="20261016053000 +0000" stop="20261016110000 +0000" channel="88601101">
+    <title lang="zh">2026 愛知-名古屋亞帕運 LIVE</title>
+  </programme>
+  <programme start="20261016110000 +0000" stop="20261016133000 +0000" channel="88601101">
+    <title lang="zh">MLB 釀酒人 VS 道奇 國聯冠軍賽G4 10/16 今日最新</title>
+  </programme>
+  <programme start="20261016133000 +0000" stop="20261016140000 +0000" channel="88601101">
     <title lang="zh">MLB好球連發#26</title>
   </programme>
-  <programme start="20261006183000 +0000" stop="20261006213000 +0000" channel="88601105">
-    <title lang="zh">MLB 勇士 VS 道奇 國聯分區賽G2 10/5</title>
+  <programme start="20261016140000 +0000" stop="20261016143000 +0000" channel="88601101">
+    <title lang="zh">體壇最前線 10/16 LIVE</title>
   </programme>
-  <programme start="20261006213000 +0000" stop="20261006220000 +0000" channel="88601105">
-    <title lang="zh">體壇最前線 10/6</title>
+  <programme start="20261016143000 +0000" stop="20261016170000 +0000" channel="88601101">
+    <title lang="zh">MLB 釀酒人 VS 道奇 國聯冠軍賽G4 10/16 今日最新</title>
   </programme>
-  <programme start="20261006220000 +0000" stop="20261007013000 +0000" channel="88601105">
-    <title lang="zh">MLB 道奇 VS 勇士 國聯分區賽G3 10/7 LIVE</title>
+  <programme start="20261016170000 +0000" stop="20261016180000 +0000" channel="88601101">
+    <title lang="zh">英超精華 第6輪</title>
   </programme>
-  <programme start="20261007013000 +0000" stop="20261007023000 +0000" channel="88601105">
-    <title lang="zh">WTT大滿貫賽 中國站 林昀儒 單打32強回顧</title>
+  <programme start="20261016180000 +0000" stop="20261016201500 +0000" channel="88601101">
+    <title lang="zh">F1 新加坡站 正賽</title>
   </programme>
-  <programme start="20261007023000 +0000" stop="20261007030000 +0000" channel="88601105">
-    <title lang="zh">體壇最前線 10/6</title>
+  <programme start="20261016201500 +0000" stop="20261016220000 +0000" channel="88601101">
+    <title lang="zh">亞運 張正韋/陳界綸 射箭 男子個人複合弓八強/四強/決賽 10/1</title>
   </programme>
-  <programme start="20261007030000 +0000" stop="20261007080000 +0000" channel="88601105">
-    <title lang="zh">WTT大滿貫賽 中國站 馮翊新/郭冠宏 單打32強/雙打16強 10/7 LIVE</title>
+  <programme start="20261016220000 +0000" stop="20261017013000 +0000" channel="88601101">
+    <title lang="zh">MLB 光芒 VS 守護者/白襪 美聯冠軍賽G4 10/17 LIVE</title>
   </programme>
-  <programme start="20261007080000 +0000" stop="20261007090000 +0000" channel="88601105">
-    <title lang="zh">英超名人堂 #18 Roberto Mancini 首播</title>
+  <programme start="20261017013000 +0000" stop="20261017020000 +0000" channel="88601101">
+    <title lang="zh">體壇最前線 10/16</title>
   </programme>
-  <programme start="20261007090000 +0000" stop="20261007100000 +0000" channel="88601105">
-    <title lang="zh">WTT大滿貫賽 中國站 郭冠宏/馮翊新 雙打16強/單打32強回顧</title>
+  <programme start="20261017020000 +0000" stop="20261017023000 +0000" channel="88601101">
+    <title lang="zh">亞運英雄 榮耀回顧#1</title>
   </programme>
-  <programme start="20261007100000 +0000" stop="20261007150000 +0000" channel="88601105">
-    <title lang="zh">WTT大滿貫賽 中國站 單打32強/女雙16強/混雙八強 10/7 LIVE</title>
+  <programme start="20261017023000 +0000" stop="20261017050000 +0000" channel="88601101">
+    <title lang="zh">NBA 金塊 VS 湖人 10/17 熱身賽 LIVE</title>
   </programme>
-  <programme start="20261007150000 +0000" stop="20261007153000 +0000" channel="88601105">
-    <title lang="zh">體壇最前線 10/7 LIVE</title>
+  <programme start="20261017050000 +0000" stop="20261017053000 +0000" channel="88601101">
+    <title lang="zh">體壇最前線 10/16</title>
   </programme>
-  <programme start="20261007153000 +0000" stop="20261007154500 +0000" channel="88601105">
-    <title lang="zh">歐國聯精華 第4比賽日 10/7 今日最新</title>
+  <programme start="20261017053000 +0000" stop="20261017110000 +0000" channel="88601101">
+    <title lang="zh">2026 愛知-名古屋亞帕運 LIVE</title>
   </programme>
-  <programme start="20261007154500 +0000" stop="20261007160000 +0000" channel="88601105">
-    <title lang="zh">歐國聯精華 第4比賽日 10/6</title>
+  <programme start="20261017110000 +0000" stop="20261017112000 +0000" channel="88601101">
+    <title lang="zh">德甲精華 第5輪</title>
   </programme>
-  <programme start="20261007160000 +0000" stop="20261007183000 +0000" channel="88601105">
-    <title lang="zh">MLB 釀酒人 VS 教士 國聯分區賽G3 10/7</title>
+  <programme start="20261017112000 +0000" stop="20261017133500 +0000" channel="88601101">
+    <title lang="zh">英超 艾佛頓 VS 切爾西 第7輪 LIVE</title>
   </programme>
-  <programme start="20261007183000 +0000" stop="20261007190000 +0000" channel="88601105">
-    <title lang="zh">體壇最前線 10/7</title>
+  <programme start="20261017133500 +0000" stop="20261017135000 +0000" channel="88601101">
+    <title lang="zh">義甲精華 第6輪</title>
   </programme>
-  <programme start="20261007190000 +0000" stop="20261007193000 +0000" channel="88601105">
-    <title lang="zh">MLB好球連發#26</title>
+  <programme start="20261017135000 +0000" stop="20261017160500 +0000" channel="88601101">
+    <title lang="zh">英超 曼城 VS 伊普斯維奇鎮 第7輪 LIVE</title>
   </programme>
-  <programme start="20261007193000 +0000" stop="20261007200000 +0000" channel="88601105">
-    <title lang="zh">體壇最前線 10/7</title>
-  </programme>
-  <programme start="20261007200000 +0000" stop="20261007233000 +0000" channel="88601105">
-    <title lang="zh">MLB 守護者 VS 白襪 美聯分區賽G3 10/8 LIVE</title>
-  </programme>
-  <programme start="20261007233000 +0000" stop="20261007234500 +0000" channel="88601105">
-    <title lang="zh">歐國聯精華 第4比賽日 10/6</title>
-  </programme>
-  <programme start="20261007234500 +0000" stop="20261008000000 +0000" channel="88601105">
-    <title lang="zh">歐國聯精華 第4比賽日 10/7</title>
-  </programme>
-  <programme start="20261008000000 +0000" stop="20261008030000 +0000" channel="88601105">
-    <title lang="zh">MLB 光芒 VS 洋基 美聯分區賽G3 10/8 LIVE</title>
-  </programme>
-  <programme start="20261008030000 +0000" stop="20261008080000 +0000" channel="88601105">
-    <title lang="zh">WTT大滿貫賽 中國站 男雙八強/單打16強/混雙四強(上) 10/8 LIVE</title>
-  </programme>
-  <programme start="20261008080000 +0000" stop="20261008090000 +0000" channel="88601105">
-    <title lang="zh">英超名人堂 #18 Roberto Mancini</title>
-  </programme>
-  <programme start="20261008090000 +0000" stop="20261008100000 +0000" channel="88601105">
-    <title lang="zh">WTT大滿貫賽 中國站 雙打八強/單打16強/混雙四強回顧</title>
-  </programme>
-  <programme start="20261008100000 +0000" stop="20261008150000 +0000" channel="88601105">
-    <title lang="zh">WTT大滿貫賽 中國站 女雙八強/單打16強/混雙四強(下) 10/8 LIVE</title>
-  </programme>
-  <programme start="20261008150000 +0000" stop="20261008153000 +0000" channel="88601105">
-    <title lang="zh">英超名人堂 #17 Granite Xhaka</title>
-  </programme>
-  <programme start="20261008153000 +0000" stop="20261008160000 +0000" channel="88601105">
-    <title lang="zh">體壇最前線 10/8 首播</title>
-  </programme>
-  <programme start="20261008160000 +0000" stop="20261008183000 +0000" channel="88601105">
-    <title lang="zh">MLB 光芒 VS 洋基 美聯分區賽G3 10/8</title>
-  </programme>
-  <programme start="20261008183000 +0000" stop="20261008210000 +0000" channel="88601105">
-    <title lang="zh">MLB 釀酒人 VS 教士 國聯分區賽G3 10/7</title>
-  </programme>
-  <programme start="20261008210000 +0000" stop="20261009003000 +0000" channel="88601105">
-    <title lang="zh">MLB 守護者 VS 白襪 美聯分區賽G4(如有需要) 10/9 LIVE</title>
-  </programme>
-  <programme start="20261009003000 +0000" stop="20261009010000 +0000" channel="88601105">
-    <title lang="zh">體壇最前線 10/8</title>
-  </programme>
-  <programme start="20261009010000 +0000" stop="20261009033000 +0000" channel="88601105">
-    <title lang="zh">MLB 守護者 VS 白襪 美聯分區賽G4(如有需要) 10/9 今日最新</title>
-  </programme>
-  <programme start="20261009033000 +0000" stop="20261009053000 +0000" channel="88601105">
-    <title lang="zh">UEFA歐國聯 英格蘭 VS 克羅埃西亞 第5輪</title>
-  </programme>
-  <programme start="20261009053000 +0000" stop="20261009073000 +0000" channel="88601105">
-    <title lang="zh">2026愛知-名古屋亞運 閉幕典禮</title>
-  </programme>
-  <programme start="20261009073000 +0000" stop="20261009100000 +0000" channel="88601105">
-    <title lang="zh">MLB 守護者 VS 白襪 美聯分區賽G4(如有需要) 10/9 今日最新</title>
-  </programme>
-  <programme start="20261009100000 +0000" stop="20261009121500 +0000" channel="88601105">
-    <title lang="zh">WTT大滿貫賽 中國站 單打八強 10/9 LIVE</title>
-  </programme>
-  <programme start="20261009121500 +0000" stop="20261009140000 +0000" channel="88601105">
-    <title lang="zh">WTT大滿貫賽 中國站 混雙決賽 10/9 LIVE</title>
-  </programme>
-  <programme start="20261009140000 +0000" stop="20261009163000 +0000" channel="88601105">
-    <title lang="zh">WTT大滿貫賽 中國站 單打八強 10/9 今日最新</title>
-  </programme>
-  <programme start="20261009163000 +0000" stop="20261009173000 +0000" channel="88601105">
-    <title lang="zh">英超精華 第5輪</title>
-  </programme>
-  <programme start="20261009173000 +0000" stop="20261009200000 +0000" channel="88601105">
-    <title lang="zh">MLB 守護者 VS 白襪 美聯分區賽G4(如有需要) 10/9</title>
-  </programme>
-  <programme start="20261009200000 +0000" stop="20261009203000 +0000" channel="88601105">
-    <title lang="zh">體壇最前線 10/9</title>
-  </programme>
-  <programme start="20261009203000 +0000" stop="20261010000000 +0000" channel="88601105">
-    <title lang="zh">MLB 教士 VS 釀酒人 國聯分區賽G5(如有需要) 10/10 LIVE</title>
-  </programme>
-  <programme start="20261010000000 +0000" stop="20261010033000 +0000" channel="88601105">
-    <title lang="zh">MLB 勇士 VS 道奇 國聯分區賽G5(如有需要) 10/10 LIVE</title>
-  </programme>
-  <programme start="20261010033000 +0000" stop="20261010040000 +0000" channel="88601105">
-    <title lang="zh">MLB好球連發#27 首播</title>
-  </programme>
-  <programme start="20261010040000 +0000" stop="20261010050000 +0000" channel="88601105">
-    <title lang="zh">WTT大滿貫賽 中國站 女雙決賽 10/10 LIVE</title>
-  </programme>
-  <programme start="20261010050000 +0000" stop="20261010070000 +0000" channel="88601105">
-    <title lang="zh">WTT大滿貫賽 中國站 男單八強 10/10 LIVE</title>
-  </programme>
-  <programme start="20261010070000 +0000" stop="20261010073000 +0000" channel="88601105">
-    <title lang="zh">MLB好球連發#27</title>
-  </programme>
-  <programme start="20261010073000 +0000" stop="20261010090000 +0000" channel="88601105">
-    <title lang="zh">WTT大滿貫賽 中國站 單打八強 10/9 今日最新</title>
-  </programme>
-  <programme start="20261010090000 +0000" stop="20261010123000 +0000" channel="88601105">
-    <title lang="zh">中華職棒 中信 VS 統一 季後挑戰賽G2 10/10 LIVE</title>
-  </programme>
-  <programme start="20261010123000 +0000" stop="20261010130000 +0000" channel="88601105">
-    <title lang="zh">MLB好球連發#27</title>
-  </programme>
-  <programme start="20261010130000 +0000" stop="20261010133000 +0000" channel="88601105">
-    <title lang="zh">體壇最前線 10/10 LIVE</title>
-  </programme>
-  <programme start="20261010133000 +0000" stop="20261010162000 +0000" channel="88601105">
-    <title lang="zh">中華職棒 中信 VS 統一 季後挑戰賽G2 10/10 今日最新</title>
-  </programme>
-  <programme start="20261010162000 +0000" stop="20261010183500 +0000" channel="88601105">
-    <title lang="zh">英超 曼聯 VS 托特納姆熱刺 第6輪 LIVE</title>
-  </programme>
-  <programme start="20261010183500 +0000" stop="20261010210000 +0000" channel="88601105">
-    <title lang="zh">MLB 教士 VS 釀酒人 國聯分區賽G5(如有需要) 10/10</title>
-  </programme>
-  <programme start="20261010210000 +0000" stop="20261011003000 +0000" channel="88601105">
-    <title lang="zh">MLB 白襪 VS 守護者 美聯分區賽G5(如有需要) 10/11 LIVE</title>
-  </programme>
-  <programme start="20261011003000 +0000" stop="20261011010000 +0000" channel="88601105">
-    <title lang="zh">體壇最前線 10/10</title>
-  </programme>
-  <programme start="20261011010000 +0000" stop="20261011030000 +0000" channel="88601105">
+  <programme start="20261011003000 +0000" stop="20261011023000 +0000" channel="88601105">
     <title lang="zh">英超 曼聯 VS 托特納姆熱刺 第6輪 今日最新</title>
   </programme>
-  <programme start="20261011030000 +0000" stop="20261011051500 +0000" channel="88601105">
+  <programme start="20261011023000 +0000" stop="20261011051500 +0000" channel="88601105">
     <title lang="zh">CEV男排歐錦賽 法國 VS 波蘭 金牌戰 D-LIVE</title>
   </programme>
   <programme start="20261011051500 +0000" stop="20261011074500 +0000" channel="88601105">
-    <title lang="zh">MLB 洋基 VS 光芒 美聯分區賽G5(如有需要) 10/11 今日最新</title>
+    <title lang="zh">MLB 道奇 VS 勇士 國聯分區賽G4 10/8</title>
   </programme>
   <programme start="20261011074500 +0000" stop="20261011090000 +0000" channel="88601105">
     <title lang="zh">F1 新加坡站 排位賽</title>
@@ -663,7 +399,7 @@
     <title lang="zh">WTT大滿貫賽 中國站 男單決賽 10/11 LIVE</title>
   </programme>
   <programme start="20261011113000 +0000" stop="20261011125000 +0000" channel="88601105">
-    <title lang="zh">MLB 洋基 VS 光芒 美聯分區賽G5(如有需要) 10/11(精華版)</title>
+    <title lang="zh">MLB 白襪 VS 守護者 美聯分區賽G5 10/11(精華版)</title>
   </programme>
   <programme start="20261011125000 +0000" stop="20261011150500 +0000" channel="88601105">
     <title lang="zh">英超 赫爾城 VS 艾佛頓 第6輪(原音) LIVE</title>
@@ -672,28 +408,28 @@
     <title lang="zh">體壇最前線 10/11 LIVE</title>
   </programme>
   <programme start="20261011153000 +0000" stop="20261011180000 +0000" channel="88601105">
-    <title lang="zh">MLB 洋基 VS 光芒 美聯分區賽G5(如有需要) 10/11 今日最新</title>
+    <title lang="zh">MLB 道奇 VS 勇士 國聯分區賽G4 10/8</title>
   </programme>
   <programme start="20261011180000 +0000" stop="20261011203000 +0000" channel="88601105">
-    <title lang="zh">MLB 白襪 VS 守護者 美聯分區賽G5(如有需要) 10/11</title>
+    <title lang="zh">MLB 白襪 VS 守護者 美聯分區賽G5 10/11</title>
   </programme>
   <programme start="20261011203000 +0000" stop="20261011210000 +0000" channel="88601105">
     <title lang="zh">體壇最前線 10/11</title>
   </programme>
   <programme start="20261011210000 +0000" stop="20261011233000 +0000" channel="88601105">
-    <title lang="zh">MLB 洋基 VS 光芒 美聯分區賽G5(如有需要) 10/11</title>
+    <title lang="zh">MLB 道奇 VS 勇士 國聯分區賽G4 10/8</title>
   </programme>
   <programme start="20261011233000 +0000" stop="20261012000000 +0000" channel="88601105">
     <title lang="zh">體壇最前線 10/11</title>
   </programme>
   <programme start="20261012000000 +0000" stop="20261012033000 +0000" channel="88601105">
-    <title lang="zh">【MLB on ELTA 季後賽】 LIVE</title>
+    <title lang="zh">MLB 道奇 VS 釀酒人 國聯冠軍賽G1 10/12 LIVE</title>
   </programme>
   <programme start="20261012033000 +0000" stop="20261012040000 +0000" channel="88601105">
     <title lang="zh">體壇最前線 10/11</title>
   </programme>
   <programme start="20261012040000 +0000" stop="20261012063000 +0000" channel="88601105">
-    <title lang="zh">【MLB on ELTA 季後賽】</title>
+    <title lang="zh">MLB 道奇 VS 釀酒人 國聯冠軍賽G1 10/12 今日最新</title>
   </programme>
   <programme start="20261012063000 +0000" stop="20261012070000 +0000" channel="88601105">
     <title lang="zh">體壇最前線 10/11</title>
@@ -705,7 +441,7 @@
     <title lang="zh">中華職棒 中信 VS 統一 季後挑戰賽G2 10/10</title>
   </programme>
   <programme start="20261012103000 +0000" stop="20261012130000 +0000" channel="88601105">
-    <title lang="zh">【MLB on ELTA 季後賽】</title>
+    <title lang="zh">MLB 道奇 VS 釀酒人 國聯冠軍賽G1 10/12 今日最新</title>
   </programme>
   <programme start="20261012130000 +0000" stop="20261012133000 +0000" channel="88601105">
     <title lang="zh">體壇最前線 10/12 LIVE</title>
@@ -713,224 +449,215 @@
   <programme start="20261012133000 +0000" stop="20261012160000 +0000" channel="88601105">
     <title lang="zh">中華職棒 中信 VS 統一 季後挑戰賽G2 10/10</title>
   </programme>
-  <programme start="20261006003000 +0000" stop="20261006010000 +0000" channel="88601110">
-    <title lang="zh">體壇最前線 10/5</title>
+  <programme start="20261012160000 +0000" stop="20261012220000 +0000" channel="88601105">
+    <title lang="zh">亞運 中華隊 高爾夫 男子個人/團體第四輪 10/3</title>
   </programme>
-  <programme start="20261006010000 +0000" stop="20261006030000 +0000" channel="88601110">
-    <title lang="zh">WTT大滿貫賽 中國站 葉伊恬 第二日回顧 今日最新</title>
+  <programme start="20261012220000 +0000" stop="20261012233000 +0000" channel="88601105">
+    <title lang="zh">亞運 中華VS吉爾吉斯 排球 女子預賽 9/16</title>
   </programme>
-  <programme start="20261006030000 +0000" stop="20261006080000 +0000" channel="88601110">
-    <title lang="zh">WTT大滿貫賽 中國站 鄭怡靜 林昀儒 混雙16強/單打32強(上) 10/6 LIVE</title>
+  <programme start="20261012233000 +0000" stop="20261013000000 +0000" channel="88601105">
+    <title lang="zh">體壇最前線 10/12</title>
   </programme>
-  <programme start="20261006080000 +0000" stop="20261006083000 +0000" channel="88601110">
-    <title lang="zh">體壇最前線 10/5</title>
+  <programme start="20261013000000 +0000" stop="20261013033000 +0000" channel="88601105">
+    <title lang="zh">MLB 守護者/白襪 VS 光芒 美聯冠軍賽G1 10/13 LIVE</title>
   </programme>
-  <programme start="20261006083000 +0000" stop="20261006100000 +0000" channel="88601110">
-    <title lang="zh">WTT大滿貫賽 中國站 鄭怡靜 林昀儒 單打32強 10/6 今日最新</title>
+  <programme start="20261013033000 +0000" stop="20261013040000 +0000" channel="88601105">
+    <title lang="zh">體壇最前線 10/12</title>
   </programme>
-  <programme start="20261006100000 +0000" stop="20261006150000 +0000" channel="88601110">
-    <title lang="zh">WTT大滿貫賽 中國站 混雙16強/單打32強(下) 10/6 LIVE</title>
-  </programme>
-  <programme start="20261006150000 +0000" stop="20261006153000 +0000" channel="88601110">
-    <title lang="zh">體壇最前線 10/6 LIVE</title>
-  </programme>
-  <programme start="20261006153000 +0000" stop="20261006154500 +0000" channel="88601110">
-    <title lang="zh">歐國聯精華 第4比賽日 10/5</title>
-  </programme>
-  <programme start="20261006154500 +0000" stop="20261006160000 +0000" channel="88601110">
-    <title lang="zh">歐國聯精華 第4比賽日 10/6 今日最新</title>
-  </programme>
-  <programme start="20261006160000 +0000" stop="20261006163000 +0000" channel="88601110">
-    <title lang="zh">體壇最前線 10/6</title>
-  </programme>
-  <programme start="20261006163000 +0000" stop="20261006193000 +0000" channel="88601110">
-    <title lang="zh">MLB 白襪 VS 守護者 美聯分區賽G2 10/6</title>
-  </programme>
-  <programme start="20261006193000 +0000" stop="20261006200000 +0000" channel="88601110">
+  <programme start="20261013040000 +0000" stop="20261013043000 +0000" channel="88601105">
     <title lang="zh">MLB好球連發#26</title>
   </programme>
-  <programme start="20261006200000 +0000" stop="20261006210000 +0000" channel="88601110">
-    <title lang="zh">2026 Crufts 敏捷障礙賽 非牧羊犬組 精華回顧</title>
+  <programme start="20261013043000 +0000" stop="20261013070000 +0000" channel="88601105">
+    <title lang="zh">MLB 道奇 VS 釀酒人 國聯冠軍賽G2 10/13 今日最新</title>
   </programme>
-  <programme start="20261006210000 +0000" stop="20261006213000 +0000" channel="88601110">
-    <title lang="zh">體壇最前線 10/6</title>
+  <programme start="20261013070000 +0000" stop="20261013090000 +0000" channel="88601105">
+    <title lang="zh">亞運 日本VS南韓 籃球 男子金牌戰 9/20</title>
   </programme>
-  <programme start="20261006213000 +0000" stop="20261006233000 +0000" channel="88601110">
-    <title lang="zh">WTT大滿貫賽 中國站 鄭怡靜 林昀儒 單打32強回顧 今日最新</title>
+  <programme start="20261013090000 +0000" stop="20261013113000 +0000" channel="88601105">
+    <title lang="zh">MLB 道奇 VS 釀酒人 國聯冠軍賽G2 10/13 今日最新</title>
   </programme>
-  <programme start="20261006233000 +0000" stop="20261007000000 +0000" channel="88601110">
-    <title lang="zh">體壇最前線 10/6</title>
+  <programme start="20261013113000 +0000" stop="20261013140000 +0000" channel="88601105">
+    <title lang="zh">MLB 守護者/白襪 VS 光芒 美聯冠軍賽G1 10/13 今日最新</title>
   </programme>
-  <programme start="20261007000000 +0000" stop="20261007010000 +0000" channel="88601110">
-    <title lang="zh">英超精華 第5輪</title>
+  <programme start="20261013140000 +0000" stop="20261013143000 +0000" channel="88601105">
+    <title lang="zh">體壇最前線 10/13 LIVE</title>
   </programme>
-  <programme start="20261007010000 +0000" stop="20261007013000 +0000" channel="88601110">
-    <title lang="zh">體壇最前線 10/6</title>
+  <programme start="20261013143000 +0000" stop="20261013163500 +0000" channel="88601105">
+    <title lang="zh">MLB 守護者/白襪 VS 光芒 美聯冠軍賽G1 10/13 今日最新</title>
   </programme>
-  <programme start="20261007013000 +0000" stop="20261007050000 +0000" channel="88601110">
-    <title lang="zh">MLB 釀酒人 VS 教士 國聯分區賽G3 10/7 LIVE</title>
+  <programme start="20261013163500 +0000" stop="20261013185000 +0000" channel="88601105">
+    <title lang="zh">UEFA歐冠 薩巴 VS 布拉格斯拉夫 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261007050000 +0000" stop="20261007053000 +0000" channel="88601110">
-    <title lang="zh">體壇最前線 10/6</title>
+  <programme start="20261013185000 +0000" stop="20261013210500 +0000" channel="88601105">
+    <title lang="zh">UEFA歐冠 兵工廠 VS 里爾 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261007053000 +0000" stop="20261007080000 +0000" channel="88601110">
-    <title lang="zh">MLB 道奇 VS 勇士 國聯分區賽G3 10/7 今日最新</title>
+  <programme start="20261013210500 +0000" stop="20261013213000 +0000" channel="88601105">
+    <title lang="zh">體壇最前線 10/13</title>
   </programme>
-  <programme start="20261007080000 +0000" stop="20261007103000 +0000" channel="88601110">
-    <title lang="zh">MLB 釀酒人 VS 教士 國聯分區賽G3 10/7 今日最新</title>
+  <programme start="20261013213000 +0000" stop="20261014000000 +0000" channel="88601105">
+    <title lang="zh">MLB 守護者/白襪 VS 光芒 美聯冠軍賽G1 10/13</title>
   </programme>
-  <programme start="20261007103000 +0000" stop="20261007133000 +0000" channel="88601110">
-    <title lang="zh">亞運 中華隊 田徑 預賽/決賽 9/27</title>
+  <programme start="20261014000000 +0000" stop="20261014033000 +0000" channel="88601105">
+    <title lang="zh">MLB 守護者/白襪 VS 光芒 美聯冠軍賽G2 10/14 LIVE</title>
   </programme>
-  <programme start="20261007133000 +0000" stop="20261007160000 +0000" channel="88601110">
-    <title lang="zh">MLB 釀酒人 VS 教士 國聯分區賽G3 10/7 今日最新</title>
+  <programme start="20261014033000 +0000" stop="20261014040000 +0000" channel="88601105">
+    <title lang="zh">體壇最前線 10/13</title>
   </programme>
-  <programme start="20261007160000 +0000" stop="20261007163000 +0000" channel="88601110">
-    <title lang="zh">體壇最前線 10/7 首播</title>
+  <programme start="20261014040000 +0000" stop="20261014063000 +0000" channel="88601105">
+    <title lang="zh">MLB 守護者/白襪 VS 光芒 美聯冠軍賽G2 10/14 今日最新</title>
   </programme>
-  <programme start="20261007163000 +0000" stop="20261007173000 +0000" channel="88601110">
-    <title lang="zh">2026 Crufts 與狗共舞賽 精華回顧</title>
+  <programme start="20261014063000 +0000" stop="20261014064500 +0000" channel="88601105">
+    <title lang="zh">歐國聯精華 第4比賽日 10/6</title>
   </programme>
-  <programme start="20261007173000 +0000" stop="20261007180000 +0000" channel="88601110">
-    <title lang="zh">體壇最前線 10/7</title>
+  <programme start="20261014064500 +0000" stop="20261014070000 +0000" channel="88601105">
+    <title lang="zh">法甲精華 第5輪</title>
   </programme>
-  <programme start="20261007180000 +0000" stop="20261007200000 +0000" channel="88601110">
-    <title lang="zh">WTT大滿貫賽 中國站 郭冠宏/馮翊新 雙打16強/單打32強回顧 今日最新</title>
+  <programme start="20261014070000 +0000" stop="20261014093000 +0000" channel="88601105">
+    <title lang="zh">中華職棒 中信 VS 統一 季後挑戰賽G2 10/10</title>
   </programme>
-  <programme start="20261007200000 +0000" stop="20261007203000 +0000" channel="88601110">
-    <title lang="zh">體壇最前線 10/7</title>
+  <programme start="20261014093000 +0000" stop="20261014120000 +0000" channel="88601105">
+    <title lang="zh">MLB 守護者/白襪 VS 光芒 美聯冠軍賽G2 10/14 今日最新</title>
   </programme>
-  <programme start="20261007203000 +0000" stop="20261007213000 +0000" channel="88601110">
-    <title lang="zh">2026 Crufts 與狗共舞賽 精華回顧</title>
+  <programme start="20261014120000 +0000" stop="20261014130000 +0000" channel="88601105">
+    <title lang="zh">英超精華 第6輪 首播</title>
   </programme>
-  <programme start="20261007213000 +0000" stop="20261007220000 +0000" channel="88601110">
-    <title lang="zh">體壇最前線 10/7</title>
+  <programme start="20261014130000 +0000" stop="20261014140000 +0000" channel="88601105">
+    <title lang="zh">歐冠精華 第2比賽日 10/14</title>
   </programme>
-  <programme start="20261007220000 +0000" stop="20261008013000 +0000" channel="88601110">
-    <title lang="zh">MLB 道奇 VS 勇士 國聯分區賽G4 10/8 LIVE</title>
+  <programme start="20261014140000 +0000" stop="20261014143000 +0000" channel="88601105">
+    <title lang="zh">體壇最前線 10/14 LIVE</title>
   </programme>
-  <programme start="20261008013000 +0000" stop="20261008014500 +0000" channel="88601110">
-    <title lang="zh">BWF世界羽球週報#31 中國名人賽回顧</title>
+  <programme start="20261014143000 +0000" stop="20261014163500 +0000" channel="88601105">
+    <title lang="zh">MLB 守護者/白襪 VS 光芒 美聯冠軍賽G2 10/14 今日最新</title>
   </programme>
-  <programme start="20261008014500 +0000" stop="20261008020000 +0000" channel="88601110">
-    <title lang="zh">BWF世界羽球週報#32 首播</title>
+  <programme start="20261014163500 +0000" stop="20261014185000 +0000" channel="88601105">
+    <title lang="zh">UEFA歐冠 飛燕諾 VS 科莫 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261008020000 +0000" stop="20261008053000 +0000" channel="88601110">
-    <title lang="zh">MLB 釀酒人 VS 教士 國聯分區賽G4(如有需要) 10/8 LIVE</title>
+  <programme start="20261014185000 +0000" stop="20261014210500 +0000" channel="88601105">
+    <title lang="zh">UEFA歐冠 AS羅馬 VS 皇家馬德里 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261008053000 +0000" stop="20261008070000 +0000" channel="88601110">
-    <title lang="zh">2026愛知-名古屋亞運 閉幕典禮</title>
+  <programme start="20261014210500 +0000" stop="20261014213000 +0000" channel="88601105">
+    <title lang="zh">體壇最前線 10/14</title>
   </programme>
-  <programme start="20261008070000 +0000" stop="20261008110000 +0000" channel="88601110">
-    <title lang="zh">BWF 芬蘭公開賽 16強(上) 10/8 LIVE</title>
+  <programme start="20261014213000 +0000" stop="20261015000000 +0000" channel="88601105">
+    <title lang="zh">MLB 道奇 VS 釀酒人 國聯冠軍賽G2 10/13</title>
   </programme>
-  <programme start="20261008110000 +0000" stop="20261008150000 +0000" channel="88601110">
-    <title lang="zh">BWF 芬蘭公開賽 16強(下) 10/8 LIVE</title>
+  <programme start="20261015000000 +0000" stop="20261015033000 +0000" channel="88601105">
+    <title lang="zh">MLB 釀酒人 VS 道奇 國聯冠軍賽G3 10/15 LIVE</title>
   </programme>
-  <programme start="20261008150000 +0000" stop="20261008151500 +0000" channel="88601110">
-    <title lang="zh">BWF世界羽球週報#31 中國名人賽回顧</title>
+  <programme start="20261015033000 +0000" stop="20261015040000 +0000" channel="88601105">
+    <title lang="zh">體壇最前線 10/14</title>
   </programme>
-  <programme start="20261008151500 +0000" stop="20261008153000 +0000" channel="88601110">
-    <title lang="zh">BWF世界羽球週報#32</title>
+  <programme start="20261015040000 +0000" stop="20261015063000 +0000" channel="88601105">
+    <title lang="zh">MLB 釀酒人 VS 道奇 國聯冠軍賽G3 10/15 今日最新</title>
   </programme>
-  <programme start="20261008153000 +0000" stop="20261008160000 +0000" channel="88601110">
-    <title lang="zh">2026 BWF世界羽球雜誌#9 世錦賽五大難忘時刻</title>
+  <programme start="20261015063000 +0000" stop="20261015070000 +0000" channel="88601105">
+    <title lang="zh">體壇最前線 10/14</title>
   </programme>
-  <programme start="20261008160000 +0000" stop="20261008163000 +0000" channel="88601110">
-    <title lang="zh">體壇最前線 10/8 首播</title>
+  <programme start="20261015070000 +0000" stop="20261015110000 +0000" channel="88601105">
+    <title lang="zh">BWF 丹麥公開賽 16強(上) 場2 10/15 LIVE</title>
   </programme>
-  <programme start="20261008163000 +0000" stop="20261008183000 +0000" channel="88601110">
-    <title lang="zh">WTT大滿貫賽 中國站 雙打八強/單打16強/混雙四強回顧 今日最新</title>
+  <programme start="20261015110000 +0000" stop="20261015150000 +0000" channel="88601105">
+    <title lang="zh">BWF 丹麥公開賽 16強(下) 場2 10/15 LIVE</title>
   </programme>
-  <programme start="20261008183000 +0000" stop="20261008203000 +0000" channel="88601110">
-    <title lang="zh">BWF 芬蘭公開賽 16強回顧 今日最新</title>
+  <programme start="20261015150000 +0000" stop="20261015151500 +0000" channel="88601105">
+    <title lang="zh">德甲精華 第5輪</title>
   </programme>
-  <programme start="20261008203000 +0000" stop="20261008223000 +0000" channel="88601110">
-    <title lang="zh">WTT大滿貫賽 中國站 雙打八強/單打16強/混雙四強回顧 今日最新</title>
+  <programme start="20261015151500 +0000" stop="20261015153000 +0000" channel="88601105">
+    <title lang="zh">義甲精華 第6輪</title>
   </programme>
-  <programme start="20261008223000 +0000" stop="20261008230000 +0000" channel="88601110">
-    <title lang="zh">體壇最前線 10/8</title>
+  <programme start="20261015153000 +0000" stop="20261015160000 +0000" channel="88601105">
+    <title lang="zh">體壇最前線 10/15 首播</title>
   </programme>
-  <programme start="20261008230000 +0000" stop="20261009010000 +0000" channel="88601110">
-    <title lang="zh">BWF 芬蘭公開賽 16強回顧 今日最新</title>
+  <programme start="20261015160000 +0000" stop="20261015163500 +0000" channel="88601105">
+    <title lang="zh">歐霸戰國誌#2</title>
   </programme>
-  <programme start="20261009010000 +0000" stop="20261009030000 +0000" channel="88601110">
-    <title lang="zh">WTT大滿貫賽 中國站 雙打八強/單打16強/混雙四強回顧 今日最新</title>
+  <programme start="20261015163500 +0000" stop="20261015185000 +0000" channel="88601105">
+    <title lang="zh">UEFA歐霸 里昂 VS 水晶宮 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261009030000 +0000" stop="20261009060000 +0000" channel="88601110">
-    <title lang="zh">WTT大滿貫賽 中國站 雙打四強/單打八強 10/9 LIVE</title>
+  <programme start="20261015185000 +0000" stop="20261015213000 +0000" channel="88601105">
+    <title lang="zh">【MLB on ELTA 季後賽】</title>
   </programme>
-  <programme start="20261009060000 +0000" stop="20261009080000 +0000" channel="88601110">
-    <title lang="zh">BWF 芬蘭公開賽 16強回顧 今日最新</title>
+  <programme start="20261015213000 +0000" stop="20261015220000 +0000" channel="88601105">
+    <title lang="zh">體壇最前線 10/15</title>
   </programme>
-  <programme start="20261009080000 +0000" stop="20261009100000 +0000" channel="88601110">
-    <title lang="zh">WTT大滿貫賽 中國站 雙打四強/單打八強回顧 今日最新</title>
+  <programme start="20261015220000 +0000" stop="20261016010000 +0000" channel="88601105">
+    <title lang="zh">MLB 釀酒人 VS 道奇 國聯冠軍賽G4 10/16 LIVE</title>
   </programme>
-  <programme start="20261009100000 +0000" stop="20261009140000 +0000" channel="88601110">
-    <title lang="zh">BWF 芬蘭公開賽 八強(上) 10/9 LIVE</title>
+  <programme start="20261016010000 +0000" stop="20261016043000 +0000" channel="88601105">
+    <title lang="zh">MLB 光芒 VS 守護者/白襪 美聯冠軍賽G3 10/16 LIVE</title>
   </programme>
-  <programme start="20261009140000 +0000" stop="20261009180000 +0000" channel="88601110">
-    <title lang="zh">BWF 芬蘭公開賽 八強(下) 10/9 LIVE</title>
+  <programme start="20261016043000 +0000" stop="20261016044500 +0000" channel="88601105">
+    <title lang="zh">義甲精華 第6輪</title>
   </programme>
-  <programme start="20261009180000 +0000" stop="20261009183000 +0000" channel="88601110">
-    <title lang="zh">2026 BWF世界羽球雜誌#9 世錦賽五大難忘時刻</title>
+  <programme start="20261016044500 +0000" stop="20261016050000 +0000" channel="88601105">
+    <title lang="zh">法甲精華 第6輪 首播</title>
   </programme>
-  <programme start="20261009183000 +0000" stop="20261009190000 +0000" channel="88601110">
-    <title lang="zh">體壇最前線 10/9 首播</title>
+  <programme start="20261016050000 +0000" stop="20261016073000 +0000" channel="88601105">
+    <title lang="zh">MLB 光芒 VS 守護者/白襪 美聯冠軍賽G3 10/16 今日最新</title>
   </programme>
-  <programme start="20261009190000 +0000" stop="20261009214500 +0000" channel="88601110">
-    <title lang="zh">亞運 中華隊 馬術 馬場馬術個人賽決賽 9/27</title>
+  <programme start="20261016073000 +0000" stop="20261016100000 +0000" channel="88601105">
+    <title lang="zh">MLB 釀酒人 VS 道奇 國聯冠軍賽G4 10/16 今日最新</title>
   </programme>
-  <programme start="20261009214500 +0000" stop="20261009220000 +0000" channel="88601110">
-    <title lang="zh">BWF世界羽球週報#31 中國名人賽回顧</title>
+  <programme start="20261016100000 +0000" stop="20261016140000 +0000" channel="88601105">
+    <title lang="zh">BWF 丹麥公開賽 八強(上) 場2 10/16 LIVE</title>
   </programme>
-  <programme start="20261009220000 +0000" stop="20261010000000 +0000" channel="88601110">
-    <title lang="zh">WTT大滿貫賽 中國站 雙打四強/單打八強回顧 今日最新</title>
+  <programme start="20261016140000 +0000" stop="20261016183000 +0000" channel="88601105">
+    <title lang="zh">BWF 丹麥公開賽 八強(下) 場2 10/16 LIVE</title>
   </programme>
-  <programme start="20261010000000 +0000" stop="20261010020000 +0000" channel="88601110">
-    <title lang="zh">BWF 芬蘭公開賽 八強回顧 今日最新</title>
+  <programme start="20261016183000 +0000" stop="20261016190000 +0000" channel="88601105">
+    <title lang="zh">體壇最前線 10/16 首播</title>
   </programme>
-  <programme start="20261010020000 +0000" stop="20261010040000 +0000" channel="88601110">
-    <title lang="zh">WTT大滿貫賽 中國站 雙打四強/單打八強回顧 今日最新</title>
+  <programme start="20261016190000 +0000" stop="20261016213000 +0000" channel="88601105">
+    <title lang="zh">MLB 光芒 VS 守護者/白襪 美聯冠軍賽G3 10/16</title>
   </programme>
-  <programme start="20261010040000 +0000" stop="20261010060000 +0000" channel="88601110">
-    <title lang="zh">CEV男排歐錦賽 芬蘭 VS 斯洛維尼亞 銅牌戰 D-LIVE</title>
+  <programme start="20261016213000 +0000" stop="20261016220000 +0000" channel="88601105">
+    <title lang="zh">體壇最前線 10/16</title>
   </programme>
-  <programme start="20261010060000 +0000" stop="20261010080000 +0000" channel="88601110">
-    <title lang="zh">BWF 芬蘭公開賽 八強回顧 今日最新</title>
+  <programme start="20261016220000 +0000" stop="20261016230000 +0000" channel="88601105">
+    <title lang="zh">英超精華 第6輪</title>
   </programme>
-  <programme start="20261010080000 +0000" stop="20261010130000 +0000" channel="88601110">
-    <title lang="zh">BWF 芬蘭公開賽 四強(上)  10/10 LIVE</title>
+  <programme start="20261016230000 +0000" stop="20261017010000 +0000" channel="88601105">
+    <title lang="zh">F1 新加坡站 正賽</title>
   </programme>
-  <programme start="20261010130000 +0000" stop="20261010133000 +0000" channel="88601110">
-    <title lang="zh">2026 BWF世界羽球雜誌#8 宮崎友花&amp;Alwi Farhan 羽壇新勢力</title>
+  <programme start="20261017010000 +0000" stop="20261017043000 +0000" channel="88601105">
+    <title lang="zh">MLB 釀酒人 VS 道奇 國聯冠軍賽G5 10/17(如有需要) LIVE</title>
   </programme>
-  <programme start="20261010133000 +0000" stop="20261010140000 +0000" channel="88601110">
-    <title lang="zh">2026 BWF世界羽球雜誌#9 世錦賽五大難忘時刻</title>
+  <programme start="20261017043000 +0000" stop="20261017070000 +0000" channel="88601105">
+    <title lang="zh">MLB 釀酒人 VS 道奇 國聯冠軍賽G5 10/17(如有需要) 今日最新</title>
   </programme>
-  <programme start="20261010140000 +0000" stop="20261010170000 +0000" channel="88601110">
-    <title lang="zh">BWF 芬蘭公開賽 四強(下)  10/10 LIVE</title>
+  <programme start="20261017070000 +0000" stop="20261017090000 +0000" channel="88601105">
+    <title lang="zh">NBA 金塊 VS 湖人 10/17 熱身賽 今日最新</title>
   </programme>
-  <programme start="20261010170000 +0000" stop="20261010173000 +0000" channel="88601110">
-    <title lang="zh">體壇最前線 10/10 首播</title>
+  <programme start="20261017090000 +0000" stop="20261017123000 +0000" channel="88601105">
+    <title lang="zh">中華職棒 中信/統一 VS 味全 台灣大賽G1 10/17 LIVE</title>
   </programme>
-  <programme start="20261010173000 +0000" stop="20261010200000 +0000" channel="88601110">
-    <title lang="zh">中華職棒 中信 VS 統一 季後挑戰賽G2 10/10 今日最新</title>
+  <programme start="20261017123000 +0000" stop="20261017124500 +0000" channel="88601105">
+    <title lang="zh">德甲精華 第5輪</title>
   </programme>
-  <programme start="20261010200000 +0000" stop="20261010220000 +0000" channel="88601110">
-    <title lang="zh">BWF 芬蘭公開賽 四強回顧 今日最新</title>
+  <programme start="20261017124500 +0000" stop="20261017130000 +0000" channel="88601105">
+    <title lang="zh">義甲精華 第6輪</title>
   </programme>
-  <programme start="20261010220000 +0000" stop="20261011000000 +0000" channel="88601110">
-    <title lang="zh">WTT中國大滿貫 男單八強回顧 今日最新</title>
+  <programme start="20261017130000 +0000" stop="20261017133000 +0000" channel="88601105">
+    <title lang="zh">體壇最前線 10/17 LIVE</title>
+  </programme>
+  <programme start="20261017133000 +0000" stop="20261017135000 +0000" channel="88601105">
+    <title lang="zh">法甲精華 第6輪</title>
+  </programme>
+  <programme start="20261017135000 +0000" stop="20261017160500 +0000" channel="88601105">
+    <title lang="zh">英超 布蘭特福德 VS 利物浦 第7輪(原音) LIVE</title>
   </programme>
   <programme start="20261011000000 +0000" stop="20261011020000 +0000" channel="88601110">
-    <title lang="zh">BWF 芬蘭公開賽 四強回顧 今日最新</title>
+    <title lang="zh">BWF 芬蘭公開賽 中華隊 四強回顧 今日最新</title>
   </programme>
-  <programme start="20261011020000 +0000" stop="20261011040000 +0000" channel="88601110">
-    <title lang="zh">WTT中國大滿貫 男單八強回顧 今日最新</title>
+  <programme start="20261011020000 +0000" stop="20261011023000 +0000" channel="88601110">
+    <title lang="zh">2026 BWF世界羽球雜誌#9 世錦賽五大難忘時刻</title>
+  </programme>
+  <programme start="20261011023000 +0000" stop="20261011040000 +0000" channel="88601110">
+    <title lang="zh">WTT中國大滿貫 林昀儒 男單八強回顧 今日最新</title>
   </programme>
   <programme start="20261011040000 +0000" stop="20261011070000 +0000" channel="88601110">
-    <title lang="zh">WTT大滿貫賽 中國站 男單四強 10/11 LIVE</title>
+    <title lang="zh">WTT大滿貫賽 中國站 林昀儒 男單四強 10/11 LIVE</title>
   </programme>
   <programme start="20261011070000 +0000" stop="20261011073000 +0000" channel="88601110">
     <title lang="zh">體壇最前線 10/10</title>
@@ -1013,296 +740,416 @@
   <programme start="20261012150000 +0000" stop="20261012170000 +0000" channel="88601110">
     <title lang="zh">F1 新加坡站 正賽</title>
   </programme>
-  <programme start="20261006001500 +0000" stop="20261006021500 +0000" channel="88601115">
-    <title lang="zh">亞運 跆拳道 女子49/67/男子58/80公斤級四強 10/2</title>
+  <programme start="20261012170000 +0000" stop="20261012173000 +0000" channel="88601110">
+    <title lang="zh">體壇最前線 10/12 首播</title>
   </programme>
-  <programme start="20261006021500 +0000" stop="20261006043000 +0000" channel="88601115">
-    <title lang="zh">亞運 跆拳道 女子49/67/男子58/80公斤級金牌戰 10/2</title>
+  <programme start="20261012173000 +0000" stop="20261012200000 +0000" channel="88601110">
+    <title lang="zh">中華職棒 中信 VS 統一 季後挑戰賽G2 10/10</title>
   </programme>
-  <programme start="20261006043000 +0000" stop="20261006064500 +0000" channel="88601115">
-    <title lang="zh">U15棒球世界盃 尼加拉瓜 VS 中華 預賽 9/25</title>
+  <programme start="20261012200000 +0000" stop="20261012210000 +0000" channel="88601110">
+    <title lang="zh">BWF 芬蘭公開賽 男單/女單決賽</title>
   </programme>
-  <programme start="20261006064500 +0000" stop="20261006083000 +0000" channel="88601115">
-    <title lang="zh">U15棒球世界盃 委內瑞拉 VS 中華 預賽 9/27</title>
+  <programme start="20261012210000 +0000" stop="20261013003000 +0000" channel="88601110">
+    <title lang="zh">MLB 道奇 VS 釀酒人 國聯冠軍賽G2 10/13 LIVE</title>
   </programme>
-  <programme start="20261006083000 +0000" stop="20261006102000 +0000" channel="88601115">
-    <title lang="zh">登峰造極排球 東山高中 VS 內湖高中 首播</title>
+  <programme start="20261013003000 +0000" stop="20261013030000 +0000" channel="88601110">
+    <title lang="zh">中華職棒 中信 VS 統一 季後挑戰賽G2 10/10</title>
   </programme>
-  <programme start="20261006102000 +0000" stop="20261006114500 +0000" channel="88601115">
-    <title lang="zh">登峰造極排球 華僑高中 VS 鶯歌工商 首播</title>
+  <programme start="20261013030000 +0000" stop="20261013050000 +0000" channel="88601110">
+    <title lang="zh">BWF 芬蘭公開賽 男單/女單決賽</title>
   </programme>
-  <programme start="20261006114500 +0000" stop="20261006132000 +0000" channel="88601115">
-    <title lang="zh">登峰造極排球 福誠高中 VS 苑裡高中 首播</title>
+  <programme start="20261013050000 +0000" stop="20261013060000 +0000" channel="88601110">
+    <title lang="zh">WTT大滿貫賽 中國站 男單決賽 10/11</title>
   </programme>
-  <programme start="20261006132000 +0000" stop="20261006144500 +0000" channel="88601115">
-    <title lang="zh">登峰造極排球 建國中學 VS 內湖高工 首播</title>
+  <programme start="20261013060000 +0000" stop="20261013080000 +0000" channel="88601110">
+    <title lang="zh">BWF 芬蘭公開賽 男單/女單決賽</title>
   </programme>
-  <programme start="20261006144500 +0000" stop="20261006172000 +0000" channel="88601115">
-    <title lang="zh">U15棒球世界盃 中華 VS 捷克 預賽 9/28</title>
+  <programme start="20261013080000 +0000" stop="20261013090000 +0000" channel="88601110">
+    <title lang="zh">WTT大滿貫賽 中國站 女單決賽 10/11</title>
   </programme>
-  <programme start="20261006172000 +0000" stop="20261006180000 +0000" channel="88601115">
-    <title lang="zh">2026 環法第21日精華</title>
+  <programme start="20261013090000 +0000" stop="20261013100000 +0000" channel="88601110">
+    <title lang="zh">WTT大滿貫賽 中國站 男單決賽 10/11</title>
   </programme>
-  <programme start="20261006180000 +0000" stop="20261006205000 +0000" channel="88601115">
-    <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽</title>
+  <programme start="20261013100000 +0000" stop="20261013120000 +0000" channel="88601110">
+    <title lang="zh">BWF 芬蘭公開賽 男單/女單決賽</title>
   </programme>
-  <programme start="20261006205000 +0000" stop="20261007000000 +0000" channel="88601115">
-    <title lang="zh">亞運 中國VS日本 桌球 男團金牌戰 9/24</title>
+  <programme start="20261013120000 +0000" stop="20261013130000 +0000" channel="88601110">
+    <title lang="zh">WTT大滿貫賽 中國站 男單決賽 10/11</title>
   </programme>
-  <programme start="20261007000000 +0000" stop="20261007030000 +0000" channel="88601115">
-    <title lang="zh">亞運 林唯均 跆拳道 女子57/67公斤以上/男子68/80公斤以上級四強/金牌戰 10/3</title>
+  <programme start="20261013130000 +0000" stop="20261013140000 +0000" channel="88601110">
+    <title lang="zh">WTT大滿貫賽 中國站 女單決賽 10/11</title>
   </programme>
-  <programme start="20261007030000 +0000" stop="20261007051500 +0000" channel="88601115">
-    <title lang="zh">亞運 中華隊 韻律體操 團體全能決賽 10/3</title>
+  <programme start="20261013140000 +0000" stop="20261013160000 +0000" channel="88601110">
+    <title lang="zh">BWF 芬蘭公開賽 男單/女單決賽</title>
   </programme>
-  <programme start="20261007051500 +0000" stop="20261007073000 +0000" channel="88601115">
-    <title lang="zh">U15棒球世界盃 中華 VS 澳大利亞 預賽 9/30</title>
+  <programme start="20261013160000 +0000" stop="20261013163000 +0000" channel="88601110">
+    <title lang="zh">體壇最前線 10/13 首播</title>
   </programme>
-  <programme start="20261007073000 +0000" stop="20261007083000 +0000" channel="88601115">
-    <title lang="zh">2026 WEC世界耐久錦標賽特輯#6 - 富士6小時(原音) 首播</title>
+  <programme start="20261013163000 +0000" stop="20261013190000 +0000" channel="88601110">
+    <title lang="zh">中華職棒 中信 VS 統一 季後挑戰賽G2 10/10</title>
   </programme>
-  <programme start="20261007083000 +0000" stop="20261007100000 +0000" channel="88601115">
-    <title lang="zh">登峰造極排球 布吉中學 VS 豐原高商 首播</title>
+  <programme start="20261013190000 +0000" stop="20261013210000 +0000" channel="88601110">
+    <title lang="zh">BWF 芬蘭公開賽 男單/女單決賽</title>
   </programme>
-  <programme start="20261007100000 +0000" stop="20261007112000 +0000" channel="88601115">
-    <title lang="zh">登峰造極排球 屏榮高中 VS 華僑高中 首播</title>
+  <programme start="20261013210000 +0000" stop="20261013230000 +0000" channel="88601110">
+    <title lang="zh">亞運 中華VS蒙古 排球 女子預賽 9/17</title>
   </programme>
-  <programme start="20261007112000 +0000" stop="20261007125000 +0000" channel="88601115">
-    <title lang="zh">登峰造極排球 中山工商 VS 格致中學 首播</title>
+  <programme start="20261013230000 +0000" stop="20261014010000 +0000" channel="88601110">
+    <title lang="zh">BWF 芬蘭公開賽 男單/女單決賽</title>
   </programme>
-  <programme start="20261007125000 +0000" stop="20261007143000 +0000" channel="88601115">
-    <title lang="zh">登峰造極排球 華僑高中 VS 東山高中 首播</title>
-  </programme>
-  <programme start="20261007143000 +0000" stop="20261007150000 +0000" channel="88601115">
-    <title lang="zh">2026 環法第1日精華</title>
-  </programme>
-  <programme start="20261007150000 +0000" stop="20261007151500 +0000" channel="88601115">
-    <title lang="zh">體育班#8 首播</title>
-  </programme>
-  <programme start="20261007151500 +0000" stop="20261007180000 +0000" channel="88601115">
-    <title lang="zh">亞運 中國VS日本 桌球 女團金牌戰 9/24</title>
-  </programme>
-  <programme start="20261007180000 +0000" stop="20261007205000 +0000" channel="88601115">
-    <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽</title>
-  </programme>
-  <programme start="20261007205000 +0000" stop="20261007234500 +0000" channel="88601115">
-    <title lang="zh">亞運 田徑 馬拉松決賽 9/26</title>
-  </programme>
-  <programme start="20261007234500 +0000" stop="20261008014500 +0000" channel="88601115">
-    <title lang="zh">亞運 陳玟卉 舉重 女子69公斤級決賽 9/27</title>
-  </programme>
-  <programme start="20261008014500 +0000" stop="20261008034500 +0000" channel="88601115">
-    <title lang="zh">亞運 日本VS中國 排球 女子金牌戰 9/22</title>
-  </programme>
-  <programme start="20261008034500 +0000" stop="20261008072000 +0000" channel="88601115">
-    <title lang="zh">U15棒球世界盃 多明尼加 VS 美國 金牌戰 10/5</title>
-  </programme>
-  <programme start="20261008072000 +0000" stop="20261008073000 +0000" channel="88601115">
-    <title lang="zh">體育班#8</title>
-  </programme>
-  <programme start="20261008073000 +0000" stop="20261008083000 +0000" channel="88601115">
-    <title lang="zh">2026 WEC世界耐久錦標賽特輯#6 - 富士6小時(原音)</title>
-  </programme>
-  <programme start="20261008083000 +0000" stop="20261008095000 +0000" channel="88601115">
-    <title lang="zh">登峰造極排球 福誠高中 VS 屏榮高中 首播</title>
-  </programme>
-  <programme start="20261008095000 +0000" stop="20261008115500 +0000" channel="88601115">
-    <title lang="zh">登峰造極排球 建國中學 VS 布吉中學 首播</title>
-  </programme>
-  <programme start="20261008115500 +0000" stop="20261008131500 +0000" channel="88601115">
-    <title lang="zh">登峰造極排球 華僑高中 VS 苑裡高中 首播</title>
-  </programme>
-  <programme start="20261008131500 +0000" stop="20261008144000 +0000" channel="88601115">
-    <title lang="zh">登峰造極排球 豐原高商 VS 內湖高工 首播</title>
-  </programme>
-  <programme start="20261008144000 +0000" stop="20261008174000 +0000" channel="88601115">
-    <title lang="zh">亞運 林唯均 跆拳道 女子57/67公斤以上/男子68/80公斤以上級四強/金牌戰 10/3</title>
-  </programme>
-  <programme start="20261008174000 +0000" stop="20261008180000 +0000" channel="88601115">
-    <title lang="zh">BWF世界羽球週報#31 中國名人賽回顧</title>
-  </programme>
-  <programme start="20261008180000 +0000" stop="20261008210000 +0000" channel="88601115">
-    <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽</title>
-  </programme>
-  <programme start="20261008210000 +0000" stop="20261008233000 +0000" channel="88601115">
-    <title lang="zh">2026 WBSC U15棒球世界盃</title>
-  </programme>
-  <programme start="20261008233000 +0000" stop="20261009023000 +0000" channel="88601115">
-    <title lang="zh">亞運 菲律賓VS中華 排球 男子預賽 9/29</title>
-  </programme>
-  <programme start="20261009023000 +0000" stop="20261009083000 +0000" channel="88601115">
-    <title lang="zh">亞運 精彩賽事</title>
-  </programme>
-  <programme start="20261009083000 +0000" stop="20261009100000 +0000" channel="88601115">
-    <title lang="zh">登峰造極排球 內湖高中 VS 中山工商 首播</title>
-  </programme>
-  <programme start="20261009100000 +0000" stop="20261009113000 +0000" channel="88601115">
-    <title lang="zh">登峰造極排球 格致中學 VS 鶯歌工商 首播</title>
-  </programme>
-  <programme start="20261009113000 +0000" stop="20261009121500 +0000" channel="88601115">
-    <title lang="zh">2026 WEC世界耐久錦標賽特輯#6 - 富士6小時(原音)</title>
-  </programme>
-  <programme start="20261009121500 +0000" stop="20261009133000 +0000" channel="88601115">
-    <title lang="zh">F1 新加坡站 衝刺排位賽 (英文解說原音) LIVE</title>
-  </programme>
-  <programme start="20261009133000 +0000" stop="20261009160000 +0000" channel="88601115">
+  <programme start="20261014010000 +0000" stop="20261014023000 +0000" channel="88601110">
     <title lang="zh">亞運 中華隊 游泳 決賽 9/25</title>
   </programme>
-  <programme start="20261009160000 +0000" stop="20261009180000 +0000" channel="88601115">
-    <title lang="zh">亞運 陳念琴 拳擊 女子54/65/男子60/80/90公斤以上級四強 9/29</title>
+  <programme start="20261014023000 +0000" stop="20261014043000 +0000" channel="88601110">
+    <title lang="zh">BWF 芬蘭公開賽 男單/女單決賽</title>
   </programme>
-  <programme start="20261009180000 +0000" stop="20261009210000 +0000" channel="88601115">
-    <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽</title>
+  <programme start="20261014043000 +0000" stop="20261014070000 +0000" channel="88601110">
+    <title lang="zh">亞運 中華隊 田徑 預賽/決賽 9/28</title>
   </programme>
-  <programme start="20261009210000 +0000" stop="20261009233000 +0000" channel="88601115">
-    <title lang="zh">2026 WBSC U15棒球世界盃</title>
+  <programme start="20261014070000 +0000" stop="20261014120000 +0000" channel="88601110">
+    <title lang="zh">BWF 丹麥公開賽 32強(上) 10/14 LIVE</title>
   </programme>
-  <programme start="20261009233000 +0000" stop="20261010020000 +0000" channel="88601115">
-    <title lang="zh">亞運 陳玟卉 舉重 女子69公斤級決賽 9/27</title>
+  <programme start="20261014120000 +0000" stop="20261014170000 +0000" channel="88601110">
+    <title lang="zh">BWF 丹麥公開賽 32強(下) 10/14 LIVE</title>
   </programme>
-  <programme start="20261010020000 +0000" stop="20261010090000 +0000" channel="88601115">
-    <title lang="zh">亞運 精彩賽事</title>
+  <programme start="20261014170000 +0000" stop="20261014173000 +0000" channel="88601110">
+    <title lang="zh">2026 BWF世界羽球雜誌#9 世錦賽五大難忘時刻</title>
   </programme>
-  <programme start="20261010090000 +0000" stop="20261010103000 +0000" channel="88601115">
-    <title lang="zh">WTT大滿貫賽 中國站 女單四強 10/10 LIVE</title>
+  <programme start="20261014173000 +0000" stop="20261014180000 +0000" channel="88601110">
+    <title lang="zh">體壇最前線 10/14 首播</title>
   </programme>
-  <programme start="20261010103000 +0000" stop="20261010121500 +0000" channel="88601115">
-    <title lang="zh">WTT大滿貫賽 中國站 男雙決賽 10/10 LIVE</title>
+  <programme start="20261014180000 +0000" stop="20261014181500 +0000" channel="88601110">
+    <title lang="zh">BWF世界羽球週報#31 中國名人賽回顧</title>
   </programme>
-  <programme start="20261010121500 +0000" stop="20261010124500 +0000" channel="88601115">
-    <title lang="zh">2026 環法第21日精華</title>
+  <programme start="20261014181500 +0000" stop="20261014183000 +0000" channel="88601110">
+    <title lang="zh">BWF世界羽球週報#32</title>
   </programme>
-  <programme start="20261010124500 +0000" stop="20261010143000 +0000" channel="88601115">
-    <title lang="zh">F1 新加坡站 排位賽 LIVE</title>
+  <programme start="20261014183000 +0000" stop="20261014203000 +0000" channel="88601110">
+    <title lang="zh">BWF 丹麥公開賽 32強回顧 今日最新</title>
   </programme>
-  <programme start="20261010143000 +0000" stop="20261010160000 +0000" channel="88601115">
-    <title lang="zh">WTT大滿貫賽 中國站 男雙決賽 10/10 今日最新</title>
+  <programme start="20261014203000 +0000" stop="20261014223000 +0000" channel="88601110">
+    <title lang="zh">BWF 丹麥公開賽 32強回顧 今日最新</title>
   </programme>
-  <programme start="20261010160000 +0000" stop="20261010180000 +0000" channel="88601115">
-    <title lang="zh">亞運 陳念琴 拳擊 女子54/65/男子60/80/90公斤以上級金牌戰 10/2</title>
+  <programme start="20261014223000 +0000" stop="20261014230000 +0000" channel="88601110">
+    <title lang="zh">體壇最前線 10/14</title>
   </programme>
-  <programme start="20261010180000 +0000" stop="20261010210000 +0000" channel="88601115">
-    <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽</title>
+  <programme start="20261014230000 +0000" stop="20261015010000 +0000" channel="88601110">
+    <title lang="zh">亞運 中華VS泰國 排球 女子預賽 9/18</title>
   </programme>
-  <programme start="20261010210000 +0000" stop="20261010233000 +0000" channel="88601115">
-    <title lang="zh">2026 WBSC U15棒球世界盃</title>
+  <programme start="20261015010000 +0000" stop="20261015020000 +0000" channel="88601110">
+    <title lang="zh">英超精華 第6輪</title>
   </programme>
-  <programme start="20261010233000 +0000" stop="20261011020000 +0000" channel="88601115">
-    <title lang="zh">亞運 郭婞淳 舉重 女子61公斤級決賽 9/25</title>
+  <programme start="20261015020000 +0000" stop="20261015040000 +0000" channel="88601110">
+    <title lang="zh">BWF 丹麥公開賽 32強回顧</title>
   </programme>
-  <programme start="20261011020000 +0000" stop="20261011113000 +0000" channel="88601115">
-    <title lang="zh">亞運 精彩賽事</title>
+  <programme start="20261015040000 +0000" stop="20261015041500 +0000" channel="88601110">
+    <title lang="zh">BWF世界羽球週報#33 首播</title>
+  </programme>
+  <programme start="20261015041500 +0000" stop="20261015043000 +0000" channel="88601110">
+    <title lang="zh">BWF世界羽球週報#32</title>
+  </programme>
+  <programme start="20261015043000 +0000" stop="20261015063000 +0000" channel="88601110">
+    <title lang="zh">BWF 丹麥公開賽 32強回顧</title>
+  </programme>
+  <programme start="20261015063000 +0000" stop="20261015070000 +0000" channel="88601110">
+    <title lang="zh">體壇最前線 10/14</title>
+  </programme>
+  <programme start="20261015070000 +0000" stop="20261015120000 +0000" channel="88601110">
+    <title lang="zh">BWF 丹麥公開賽 16強(上) 場1 10/15 LIVE</title>
+  </programme>
+  <programme start="20261015120000 +0000" stop="20261015170000 +0000" channel="88601110">
+    <title lang="zh">BWF 丹麥公開賽 16強(下) 場1 10/15 LIVE</title>
+  </programme>
+  <programme start="20261015170000 +0000" stop="20261015171500 +0000" channel="88601110">
+    <title lang="zh">BWF世界羽球週報#32</title>
+  </programme>
+  <programme start="20261015171500 +0000" stop="20261015173000 +0000" channel="88601110">
+    <title lang="zh">BWF世界羽球週報#33</title>
+  </programme>
+  <programme start="20261015173000 +0000" stop="20261015180000 +0000" channel="88601110">
+    <title lang="zh">體壇最前線 10/15 首播</title>
+  </programme>
+  <programme start="20261015180000 +0000" stop="20261015183000 +0000" channel="88601110">
+    <title lang="zh">2026 BWF世界羽球雜誌#9 世錦賽五大難忘時刻</title>
+  </programme>
+  <programme start="20261015183000 +0000" stop="20261015203000 +0000" channel="88601110">
+    <title lang="zh">亞運 日本VS中國 排球 女子金牌戰 9/22</title>
+  </programme>
+  <programme start="20261015203000 +0000" stop="20261015223000 +0000" channel="88601110">
+    <title lang="zh">BWF 丹麥公開賽 16強回顧 今日最新</title>
+  </programme>
+  <programme start="20261015223000 +0000" stop="20261016002500 +0000" channel="88601110">
+    <title lang="zh">BWF 丹麥公開賽 16強回顧 今日最新</title>
+  </programme>
+  <programme start="20261016002500 +0000" stop="20261016043000 +0000" channel="88601110">
+    <title lang="zh">2026 愛知-名古屋亞帕運 LIVE</title>
+  </programme>
+  <programme start="20261016043000 +0000" stop="20261016050000 +0000" channel="88601110">
+    <title lang="zh">體壇最前線 10/15</title>
+  </programme>
+  <programme start="20261016050000 +0000" stop="20261016070000 +0000" channel="88601110">
+    <title lang="zh">BWF 丹麥公開賽 16強回顧 今日最新</title>
+  </programme>
+  <programme start="20261016070000 +0000" stop="20261016073000 +0000" channel="88601110">
+    <title lang="zh">體壇最前線 10/15</title>
+  </programme>
+  <programme start="20261016073000 +0000" stop="20261016093000 +0000" channel="88601110">
+    <title lang="zh">BWF 丹麥公開賽 16強回顧 今日最新</title>
+  </programme>
+  <programme start="20261016093000 +0000" stop="20261016100000 +0000" channel="88601110">
+    <title lang="zh">體壇最前線 10/15</title>
+  </programme>
+  <programme start="20261016100000 +0000" stop="20261016150000 +0000" channel="88601110">
+    <title lang="zh">BWF 丹麥公開賽 八強(上) 場1 10/16 LIVE</title>
+  </programme>
+  <programme start="20261016150000 +0000" stop="20261016200000 +0000" channel="88601110">
+    <title lang="zh">BWF 丹麥公開賽 八強(下) 場1 10/16 LIVE</title>
+  </programme>
+  <programme start="20261016200000 +0000" stop="20261016203000 +0000" channel="88601110">
+    <title lang="zh">2026 BWF世界羽球雜誌#9 世錦賽五大難忘時刻</title>
+  </programme>
+  <programme start="20261016203000 +0000" stop="20261016210000 +0000" channel="88601110">
+    <title lang="zh">體壇最前線 10/16 首播</title>
+  </programme>
+  <programme start="20261016210000 +0000" stop="20261016211500 +0000" channel="88601110">
+    <title lang="zh">BWF世界羽球週報#31 中國名人賽回顧</title>
+  </programme>
+  <programme start="20261016211500 +0000" stop="20261016213000 +0000" channel="88601110">
+    <title lang="zh">BWF世界羽球週報#32</title>
+  </programme>
+  <programme start="20261016213000 +0000" stop="20261016233000 +0000" channel="88601110">
+    <title lang="zh">BWF 丹麥公開賽 八強回顧 今日最新</title>
+  </programme>
+  <programme start="20261016233000 +0000" stop="20261016235500 +0000" channel="88601110">
+    <title lang="zh">體壇最前線 10/16</title>
+  </programme>
+  <programme start="20261016235500 +0000" stop="20261017053000 +0000" channel="88601110">
+    <title lang="zh">2026 愛知-名古屋亞帕運 LIVE</title>
+  </programme>
+  <programme start="20261017053000 +0000" stop="20261017070000 +0000" channel="88601110">
+    <title lang="zh">BWF 丹麥公開賽 八強回顧 今日最新</title>
+  </programme>
+  <programme start="20261017070000 +0000" stop="20261017120000 +0000" channel="88601110">
+    <title lang="zh">BWF 丹麥公開賽 四強(上) 10/17 LIVE</title>
+  </programme>
+  <programme start="20261017120000 +0000" stop="20261017170000 +0000" channel="88601110">
+    <title lang="zh">BWF 丹麥公開賽 四強(下) 10/17 LIVE</title>
+  </programme>
+  <programme start="20261011011500 +0000" stop="20261011033000 +0000" channel="88601115">
+    <title lang="zh">U15棒球世界盃 中華 VS 澳大利亞 預賽 9/30</title>
+  </programme>
+  <programme start="20261011033000 +0000" stop="20261011054500 +0000" channel="88601115">
+    <title lang="zh">U15棒球世界盃 墨西哥 VS 中華 超級循環賽 10/2</title>
+  </programme>
+  <programme start="20261011054500 +0000" stop="20261011082000 +0000" channel="88601115">
+    <title lang="zh">U15棒球世界盃 日本 VS 中華 超級循環賽 10/3</title>
+  </programme>
+  <programme start="20261011082000 +0000" stop="20261011083000 +0000" channel="88601115">
+    <title lang="zh">體育班#8</title>
+  </programme>
+  <programme start="20261011083000 +0000" stop="20261011113000 +0000" channel="88601115">
+    <title lang="zh">U15棒球世界盃 中華 VS 多明尼加 超級循環賽 10/4</title>
   </programme>
   <programme start="20261011113000 +0000" stop="20261011140000 +0000" channel="88601115">
     <title lang="zh">F1 新加坡站 正賽 LIVE</title>
   </programme>
   <programme start="20261011140000 +0000" stop="20261011143000 +0000" channel="88601115">
-    <title lang="zh">2026 環法第21日精華</title>
+    <title lang="zh">2026 環法第5日精華</title>
   </programme>
-  <programme start="20261011143000 +0000" stop="20261011160000 +0000" channel="88601115">
-    <title lang="zh">WTT大滿貫賽 中國站 女單決賽 10/11 今日最新</title>
+  <programme start="20261011143000 +0000" stop="20261011163000 +0000" channel="88601115">
+    <title lang="zh">亞運 日本VS中國 排球 女子金牌戰 9/22</title>
   </programme>
-  <programme start="20261011160000 +0000" stop="20261011180000 +0000" channel="88601115">
-    <title lang="zh">亞運 中華隊 射箭 男子團體複合弓四強/決賽 9/30</title>
+  <programme start="20261011163000 +0000" stop="20261011184500 +0000" channel="88601115">
+    <title lang="zh">亞運 跆拳道 女子49/67/男子58/80公斤級金牌戰 10/2</title>
   </programme>
-  <programme start="20261011180000 +0000" stop="20261011220000 +0000" channel="88601115">
+  <programme start="20261011184500 +0000" stop="20261011214500 +0000" channel="88601115">
     <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽</title>
   </programme>
-  <programme start="20261011220000 +0000" stop="20261012003000 +0000" channel="88601115">
-    <title lang="zh">亞運 辜泳諺/林逸凡 滑板 男/女公園賽預賽 9/24</title>
-  </programme>
-  <programme start="20261012003000 +0000" stop="20261012033000 +0000" channel="88601115">
+  <programme start="20261011214500 +0000" stop="20261012004500 +0000" channel="88601115">
     <title lang="zh">亞運 中國VS日本 桌球 男團金牌戰 9/24</title>
   </programme>
+  <programme start="20261012004500 +0000" stop="20261012033000 +0000" channel="88601115">
+    <title lang="zh">亞運 中國VS日本 桌球 女團金牌戰 9/24</title>
+  </programme>
   <programme start="20261012033000 +0000" stop="20261012053000 +0000" channel="88601115">
-    <title lang="zh">亞運 陳百婕/陳百丹 跳水 女子3M跳板決賽 9/30</title>
+    <title lang="zh">亞運 日本VS中國 排球 女子金牌戰 9/22</title>
   </programme>
-  <programme start="20261012053000 +0000" stop="20261012083000 +0000" channel="88601115">
-    <title lang="zh">亞運 郭婞淳 舉重 女子61公斤級決賽 9/25</title>
+  <programme start="20261012053000 +0000" stop="20261012074500 +0000" channel="88601115">
+    <title lang="zh">亞運 跆拳道 女子49/67/男子58/80公斤級金牌戰 10/2</title>
   </programme>
-  <programme start="20261012083000 +0000" stop="20261012100000 +0000" channel="88601115">
+  <programme start="20261012074500 +0000" stop="20261012084500 +0000" channel="88601115">
+    <title lang="zh">2026 WEC世界耐久錦標賽特輯#6 - 富士6小時(原音)</title>
+  </programme>
+  <programme start="20261012084500 +0000" stop="20261012110000 +0000" channel="88601115">
+    <title lang="zh">2026 登峰造極排球邀請賽 首播</title>
+  </programme>
+  <programme start="20261012110000 +0000" stop="20261012122000 +0000" channel="88601115">
+    <title lang="zh">2026 登峰造極排球邀請賽 首播</title>
+  </programme>
+  <programme start="20261012122000 +0000" stop="20261012143000 +0000" channel="88601115">
+    <title lang="zh">2026 登峰造極排球邀請賽 首播</title>
+  </programme>
+  <programme start="20261012143000 +0000" stop="20261012155000 +0000" channel="88601115">
+    <title lang="zh">2026 登峰造極排球邀請賽 首播</title>
+  </programme>
+  <programme start="20261012155000 +0000" stop="20261012163000 +0000" channel="88601115">
+    <title lang="zh">歐冠足球誌#2</title>
+  </programme>
+  <programme start="20261012163000 +0000" stop="20261012170000 +0000" channel="88601115">
+    <title lang="zh">英超名人堂 #13 瓜迪奧拉傳奇</title>
+  </programme>
+  <programme start="20261012170000 +0000" stop="20261012191500 +0000" channel="88601115">
+    <title lang="zh">亞運 中華隊 韻律體操 團體全能決賽 10/3</title>
+  </programme>
+  <programme start="20261012191500 +0000" stop="20261012220000 +0000" channel="88601115">
+    <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽</title>
+  </programme>
+  <programme start="20261012220000 +0000" stop="20261013003000 +0000" channel="88601115">
+    <title lang="zh">亞運 林逸凡 滑板 女子公園賽決賽 9/25</title>
+  </programme>
+  <programme start="20261013003000 +0000" stop="20261013033000 +0000" channel="88601115">
+    <title lang="zh">亞運 中國VS日本 桌球 女團金牌戰 9/24</title>
+  </programme>
+  <programme start="20261013033000 +0000" stop="20261013053000 +0000" channel="88601115">
+    <title lang="zh">亞運 跳水 男子10M跳台決賽 9/30</title>
+  </programme>
+  <programme start="20261013053000 +0000" stop="20261013080000 +0000" channel="88601115">
+    <title lang="zh">亞運 陳玟卉 舉重 女子69公斤級決賽 9/27</title>
+  </programme>
+  <programme start="20261013080000 +0000" stop="20261013083000 +0000" channel="88601115">
+    <title lang="zh">2026 環法第21日精華</title>
+  </programme>
+  <programme start="20261013083000 +0000" stop="20261013100000 +0000" channel="88601115">
     <title lang="zh">2026 登峰造極籃球邀請賽 首播</title>
   </programme>
-  <programme start="20261012100000 +0000" stop="20261012113000 +0000" channel="88601115">
+  <programme start="20261013100000 +0000" stop="20261013113000 +0000" channel="88601115">
     <title lang="zh">2026 登峰造極籃球邀請賽 首播</title>
   </programme>
-  <programme start="20261012113000 +0000" stop="20261012130000 +0000" channel="88601115">
+  <programme start="20261013113000 +0000" stop="20261013130000 +0000" channel="88601115">
     <title lang="zh">2026 登峰造極籃球邀請賽 首播</title>
   </programme>
-  <programme start="20261012130000 +0000" stop="20261012143000 +0000" channel="88601115">
+  <programme start="20261013130000 +0000" stop="20261013143000 +0000" channel="88601115">
     <title lang="zh">2026 登峰造極籃球邀請賽 首播</title>
   </programme>
-  <programme start="20261012143000 +0000" stop="20261012160000 +0000" channel="88601115">
+  <programme start="20261013143000 +0000" stop="20261013160000 +0000" channel="88601115">
+    <title lang="zh">2026 WEC世界耐久錦標賽特輯#6 - 富士6小時(原音)</title>
+  </programme>
+  <programme start="20261013160000 +0000" stop="20261013180000 +0000" channel="88601115">
+    <title lang="zh">亞運 湯智鈞 射箭 男子個人反曲弓八強/四強/決賽 10/3</title>
+  </programme>
+  <programme start="20261013180000 +0000" stop="20261013220000 +0000" channel="88601115">
+    <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽</title>
+  </programme>
+  <programme start="20261013220000 +0000" stop="20261014003000 +0000" channel="88601115">
+    <title lang="zh">亞運 辜泳諺 滑板 男子公園賽決賽 9/25</title>
+  </programme>
+  <programme start="20261014003000 +0000" stop="20261014043000 +0000" channel="88601115">
+    <title lang="zh">亞運 中華隊 田徑 預賽/決賽 9/27</title>
+  </programme>
+  <programme start="20261014043000 +0000" stop="20261014083000 +0000" channel="88601115">
+    <title lang="zh">亞運 中華VS南韓 棒球 預賽 9/21</title>
+  </programme>
+  <programme start="20261014083000 +0000" stop="20261014100000 +0000" channel="88601115">
+    <title lang="zh">2026 登峰造極籃球邀請賽 首播</title>
+  </programme>
+  <programme start="20261014100000 +0000" stop="20261014113000 +0000" channel="88601115">
+    <title lang="zh">2026 登峰造極籃球邀請賽 首播</title>
+  </programme>
+  <programme start="20261014113000 +0000" stop="20261014130000 +0000" channel="88601115">
+    <title lang="zh">2026 登峰造極籃球邀請賽 首播</title>
+  </programme>
+  <programme start="20261014130000 +0000" stop="20261014143000 +0000" channel="88601115">
+    <title lang="zh">2026 登峰造極籃球邀請賽 首播</title>
+  </programme>
+  <programme start="20261014143000 +0000" stop="20261014160000 +0000" channel="88601115">
+    <title lang="zh">亞運 精彩賽事</title>
+  </programme>
+  <programme start="20261014160000 +0000" stop="20261014180000 +0000" channel="88601115">
+    <title lang="zh">亞運 李彩綺/許芯慈 射箭 女子個人反曲弓八強/四強/決賽 10/3</title>
+  </programme>
+  <programme start="20261014180000 +0000" stop="20261014220000 +0000" channel="88601115">
+    <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽</title>
+  </programme>
+  <programme start="20261014220000 +0000" stop="20261015000000 +0000" channel="88601115">
     <title lang="zh">亞運 中華隊 游泳 決賽 9/25</title>
   </programme>
-  <programme start="20261006040000 +0000" stop="20261006100000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  <programme start="20261015000000 +0000" stop="20261015043000 +0000" channel="88601115">
+    <title lang="zh">亞運 中華隊 田徑 預賽/決賽 9/28</title>
   </programme>
-  <programme start="20261006100000 +0000" stop="20261006160000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  <programme start="20261015043000 +0000" stop="20261015083000 +0000" channel="88601115">
+    <title lang="zh">亞運 香港VS中華 棒球 預賽 9/23</title>
   </programme>
-  <programme start="20261006160000 +0000" stop="20261006220000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  <programme start="20261015083000 +0000" stop="20261015100000 +0000" channel="88601115">
+    <title lang="zh">2026 登峰造極籃球邀請賽 首播</title>
   </programme>
-  <programme start="20261006220000 +0000" stop="20261007040000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  <programme start="20261015100000 +0000" stop="20261015113000 +0000" channel="88601115">
+    <title lang="zh">2026 登峰造極籃球邀請賽 首播</title>
   </programme>
-  <programme start="20261007040000 +0000" stop="20261007100000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  <programme start="20261015113000 +0000" stop="20261015130000 +0000" channel="88601115">
+    <title lang="zh">2026 登峰造極籃球邀請賽 首播</title>
   </programme>
-  <programme start="20261007100000 +0000" stop="20261007160000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  <programme start="20261015130000 +0000" stop="20261015143000 +0000" channel="88601115">
+    <title lang="zh">2026 登峰造極籃球邀請賽 首播</title>
   </programme>
-  <programme start="20261007160000 +0000" stop="20261007220000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  <programme start="20261015143000 +0000" stop="20261015160000 +0000" channel="88601115">
+    <title lang="zh">2026 WEC世界耐久錦標賽特輯#6 - 富士6小時(原音)</title>
   </programme>
-  <programme start="20261007220000 +0000" stop="20261008030000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  <programme start="20261015160000 +0000" stop="20261015190000 +0000" channel="88601115">
+    <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽</title>
   </programme>
-  <programme start="20261008030000 +0000" stop="20261008080000 +0000" channel="88601540">
-    <title lang="zh">WTT大滿貫賽 中國站 男雙八強/單打16強/混雙四強(上) 10/8 LIVE</title>
+  <programme start="20261015190000 +0000" stop="20261015200000 +0000" channel="88601115">
+    <title lang="zh">亞運 陳百婕/陳百丹 跳水 女子3M跳板決賽 9/30</title>
   </programme>
-  <programme start="20261008080000 +0000" stop="20261008100000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  <programme start="20261015200000 +0000" stop="20261015235500 +0000" channel="88601115">
+    <title lang="zh">亞運 中華隊 田徑 決賽 9/29</title>
   </programme>
-  <programme start="20261008100000 +0000" stop="20261008160000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  <programme start="20261015235500 +0000" stop="20261016053000 +0000" channel="88601115">
+    <title lang="zh">2026 愛知-名古屋亞帕運 LIVE</title>
   </programme>
-  <programme start="20261008160000 +0000" stop="20261008220000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  <programme start="20261016053000 +0000" stop="20261016083000 +0000" channel="88601115">
+    <title lang="zh">亞運 中華VS中國 棒球 超級循環賽 9/25</title>
   </programme>
-  <programme start="20261008220000 +0000" stop="20261009040000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  <programme start="20261016083000 +0000" stop="20261016100000 +0000" channel="88601115">
+    <title lang="zh">2026 登峰造極籃球邀請賽 首播</title>
   </programme>
-  <programme start="20261009040000 +0000" stop="20261009100000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  <programme start="20261016100000 +0000" stop="20261016113000 +0000" channel="88601115">
+    <title lang="zh">2026 登峰造極籃球邀請賽 首播</title>
   </programme>
-  <programme start="20261009100000 +0000" stop="20261009160000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  <programme start="20261016113000 +0000" stop="20261016130000 +0000" channel="88601115">
+    <title lang="zh">2026 登峰造極籃球邀請賽 首播</title>
   </programme>
-  <programme start="20261009160000 +0000" stop="20261009220000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  <programme start="20261016130000 +0000" stop="20261016143000 +0000" channel="88601115">
+    <title lang="zh">2026 登峰造極籃球邀請賽 首播</title>
   </programme>
-  <programme start="20261009220000 +0000" stop="20261010040000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  <programme start="20261016143000 +0000" stop="20261016160000 +0000" channel="88601115">
+    <title lang="zh">亞運 精彩賽事</title>
   </programme>
-  <programme start="20261010040000 +0000" stop="20261010132000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  <programme start="20261016160000 +0000" stop="20261016180000 +0000" channel="88601115">
+    <title lang="zh">亞運 中華隊 游泳 決賽 9/25</title>
   </programme>
-  <programme start="20261010132000 +0000" stop="20261010153500 +0000" channel="88601540">
-    <title lang="zh">德甲 奧格斯堡 VS 拜仁慕尼黑 第5輪(原音) LIVE</title>
+  <programme start="20261016180000 +0000" stop="20261016210000 +0000" channel="88601115">
+    <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽</title>
   </programme>
-  <programme start="20261010153500 +0000" stop="20261010160000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  <programme start="20261016210000 +0000" stop="20261017002500 +0000" channel="88601115">
+    <title lang="zh">亞運 中華VS日本 棒球 超級循環賽 9/26</title>
   </programme>
-  <programme start="20261010160000 +0000" stop="20261010183000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  <programme start="20261017002500 +0000" stop="20261017030000 +0000" channel="88601115">
+    <title lang="zh">2026 愛知-名古屋亞帕運 LIVE</title>
   </programme>
-  <programme start="20261010183000 +0000" stop="20261010205000 +0000" channel="88601540">
-    <title lang="zh">法甲 摩納哥 VS 土魯斯 第6輪(原音) LIVE</title>
+  <programme start="20261017030000 +0000" stop="20261017060000 +0000" channel="88601115">
+    <title lang="zh">日本職業桌球T.League 琉球未來太陽 VS 東京木下大師 10/17 例行賽 LIVE</title>
   </programme>
-  <programme start="20261010205000 +0000" stop="20261011040000 +0000" channel="88601540">
-    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  <programme start="20261017060000 +0000" stop="20261017080000 +0000" channel="88601115">
+    <title lang="zh">亞運 郭婞淳 舉重 女子61公斤級決賽 9/25</title>
+  </programme>
+  <programme start="20261017080000 +0000" stop="20261017110000 +0000" channel="88601115">
+    <title lang="zh">日本職業桌球T.League 女子組 10/17 例行賽 LIVE</title>
+  </programme>
+  <programme start="20261017110000 +0000" stop="20261017153000 +0000" channel="88601115">
+    <title lang="zh">BWF世青賽 決賽 10/17(原音-待日本職業桌球結束加入播出) LIVE</title>
+  </programme>
+  <programme start="20261017153000 +0000" stop="20261017180000 +0000" channel="88601115">
+    <title lang="zh">亞運 陳玟卉 舉重 女子69公斤級決賽 9/27</title>
   </programme>
   <programme start="20261011040000 +0000" stop="20261011132000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
@@ -1331,73 +1178,76 @@
   <programme start="20261012100000 +0000" stop="20261012160000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261006040000 +0000" stop="20261006100000 +0000" channel="88601541">
+  <programme start="20261012160000 +0000" stop="20261012170000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261006100000 +0000" stop="20261006160000 +0000" channel="88601541">
+  <programme start="20261012170000 +0000" stop="20261012203000 +0000" channel="88601540">
+    <title lang="zh">終極撞球系列賽 UP聯賽第一週 10/13(原音) LIVE</title>
+  </programme>
+  <programme start="20261012203000 +0000" stop="20261013040000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261006160000 +0000" stop="20261006220000 +0000" channel="88601541">
+  <programme start="20261013040000 +0000" stop="20261013100000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261006220000 +0000" stop="20261007040000 +0000" channel="88601541">
+  <programme start="20261013100000 +0000" stop="20261013160000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261007040000 +0000" stop="20261007100000 +0000" channel="88601541">
+  <programme start="20261013160000 +0000" stop="20261013220000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261007100000 +0000" stop="20261007160000 +0000" channel="88601541">
+  <programme start="20261013220000 +0000" stop="20261014040000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261007160000 +0000" stop="20261007220000 +0000" channel="88601541">
+  <programme start="20261014040000 +0000" stop="20261014100000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261007220000 +0000" stop="20261008040000 +0000" channel="88601541">
+  <programme start="20261014100000 +0000" stop="20261014160000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261008040000 +0000" stop="20261008100000 +0000" channel="88601541">
+  <programme start="20261014160000 +0000" stop="20261014220000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261008100000 +0000" stop="20261008160000 +0000" channel="88601541">
+  <programme start="20261014220000 +0000" stop="20261015040000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261008160000 +0000" stop="20261008220000 +0000" channel="88601541">
+  <programme start="20261015040000 +0000" stop="20261015100000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261008220000 +0000" stop="20261009040000 +0000" channel="88601541">
+  <programme start="20261015100000 +0000" stop="20261015160000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261009040000 +0000" stop="20261009100000 +0000" channel="88601541">
+  <programme start="20261015160000 +0000" stop="20261015163500 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261009100000 +0000" stop="20261009160000 +0000" channel="88601541">
+  <programme start="20261015163500 +0000" stop="20261015185000 +0000" channel="88601540">
+    <title lang="zh">UEFA歐霸 薩爾茲堡紅牛 VS AC米蘭 第2比賽日(原音) LIVE</title>
+  </programme>
+  <programme start="20261015185000 +0000" stop="20261016040000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261009160000 +0000" stop="20261009220000 +0000" channel="88601541">
+  <programme start="20261016040000 +0000" stop="20261016100000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261009220000 +0000" stop="20261010040000 +0000" channel="88601541">
+  <programme start="20261016100000 +0000" stop="20261016160000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261010040000 +0000" stop="20261010132000 +0000" channel="88601541">
+  <programme start="20261016160000 +0000" stop="20261016183000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261010132000 +0000" stop="20261010153500 +0000" channel="88601541">
-    <title lang="zh">德甲 美因茲05 VS 勒沃庫森 第5輪(原音) LIVE</title>
+  <programme start="20261016183000 +0000" stop="20261016205000 +0000" channel="88601540">
+    <title lang="zh">義甲 佛洛西諾尼 VS 薩索羅 第7輪(原音) LIVE</title>
   </programme>
-  <programme start="20261010153500 +0000" stop="20261010160000 +0000" channel="88601541">
+  <programme start="20261016205000 +0000" stop="20261017040000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261010160000 +0000" stop="20261010183000 +0000" channel="88601541">
+  <programme start="20261017040000 +0000" stop="20261017132000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261010183000 +0000" stop="20261010205000 +0000" channel="88601541">
-    <title lang="zh">法甲 巴黎聖日耳曼 VS 利曼 第6輪(原音) LIVE</title>
+  <programme start="20261017132000 +0000" stop="20261017153500 +0000" channel="88601540">
+    <title lang="zh">德甲 柏林聯盟 VS 多特蒙德 第6輪(原音) LIVE</title>
   </programme>
-  <programme start="20261010205000 +0000" stop="20261010220000 +0000" channel="88601541">
-    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
-  </programme>
-  <programme start="20261010220000 +0000" stop="20261011040000 +0000" channel="88601541">
+  <programme start="20261017153500 +0000" stop="20261017183000 +0000" channel="88601540">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
   <programme start="20261011040000 +0000" stop="20261011100000 +0000" channel="88601541">
@@ -1421,79 +1271,76 @@
   <programme start="20261012100000 +0000" stop="20261012160000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261006040000 +0000" stop="20261006100000 +0000" channel="88601542">
+  <programme start="20261012160000 +0000" stop="20261012220000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261006100000 +0000" stop="20261006160000 +0000" channel="88601542">
+  <programme start="20261012220000 +0000" stop="20261013040000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261006160000 +0000" stop="20261006220000 +0000" channel="88601542">
+  <programme start="20261013040000 +0000" stop="20261013100000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261006220000 +0000" stop="20261007040000 +0000" channel="88601542">
+  <programme start="20261013100000 +0000" stop="20261013160000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261007040000 +0000" stop="20261007100000 +0000" channel="88601542">
+  <programme start="20261013160000 +0000" stop="20261013220000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261007100000 +0000" stop="20261007160000 +0000" channel="88601542">
+  <programme start="20261013220000 +0000" stop="20261014040000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261007160000 +0000" stop="20261007220000 +0000" channel="88601542">
+  <programme start="20261014040000 +0000" stop="20261014100000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261007220000 +0000" stop="20261008040000 +0000" channel="88601542">
+  <programme start="20261014100000 +0000" stop="20261014160000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261008040000 +0000" stop="20261008100000 +0000" channel="88601542">
+  <programme start="20261014160000 +0000" stop="20261014220000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261008100000 +0000" stop="20261008160000 +0000" channel="88601542">
+  <programme start="20261014220000 +0000" stop="20261015040000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261008160000 +0000" stop="20261008220000 +0000" channel="88601542">
+  <programme start="20261015040000 +0000" stop="20261015100000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261008220000 +0000" stop="20261009040000 +0000" channel="88601542">
+  <programme start="20261015100000 +0000" stop="20261015160000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261009040000 +0000" stop="20261009100000 +0000" channel="88601542">
+  <programme start="20261015160000 +0000" stop="20261015163500 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261009100000 +0000" stop="20261009160000 +0000" channel="88601542">
+  <programme start="20261015163500 +0000" stop="20261015185000 +0000" channel="88601541">
+    <title lang="zh">UEFA歐霸 托連塞 VS 桑德蘭 第2比賽日(原音) LIVE</title>
+  </programme>
+  <programme start="20261015185000 +0000" stop="20261015220000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261009160000 +0000" stop="20261009183000 +0000" channel="88601542">
+  <programme start="20261015220000 +0000" stop="20261016040000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261009183000 +0000" stop="20261009205000 +0000" channel="88601542">
-    <title lang="zh">法甲 朗斯 VS 里昂 第6輪(原音) LIVE</title>
-  </programme>
-  <programme start="20261009205000 +0000" stop="20261009220000 +0000" channel="88601542">
+  <programme start="20261016040000 +0000" stop="20261016100000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261009220000 +0000" stop="20261010040000 +0000" channel="88601542">
+  <programme start="20261016100000 +0000" stop="20261016160000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261010040000 +0000" stop="20261010100000 +0000" channel="88601542">
+  <programme start="20261016160000 +0000" stop="20261016182000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261010100000 +0000" stop="20261010124500 +0000" channel="88601542">
+  <programme start="20261016182000 +0000" stop="20261016203500 +0000" channel="88601541">
+    <title lang="zh">德甲 法蘭克福 VS 科隆 第6輪(原音) LIVE</title>
+  </programme>
+  <programme start="20261016203500 +0000" stop="20261017040000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261010124500 +0000" stop="20261010150500 +0000" channel="88601542">
-    <title lang="zh">義甲 熱那亞 VS 佛倫提納 第6輪(原音) LIVE</title>
-  </programme>
-  <programme start="20261010150500 +0000" stop="20261010154500 +0000" channel="88601542">
+  <programme start="20261017040000 +0000" stop="20261017132000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261010154500 +0000" stop="20261010180500 +0000" channel="88601542">
-    <title lang="zh">義甲 國際米蘭 VS 帕爾馬 第6輪(原音) LIVE</title>
+  <programme start="20261017132000 +0000" stop="20261017153500 +0000" channel="88601541">
+    <title lang="zh">德甲 艾佛斯堡 VS 奧格斯堡 第6輪(原音) LIVE</title>
   </programme>
-  <programme start="20261010180500 +0000" stop="20261010220000 +0000" channel="88601542">
-    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
-  </programme>
-  <programme start="20261010220000 +0000" stop="20261011040000 +0000" channel="88601542">
+  <programme start="20261017153500 +0000" stop="20261017160000 +0000" channel="88601541">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
   <programme start="20261011040000 +0000" stop="20261011100000 +0000" channel="88601542">
@@ -1526,71 +1373,86 @@
   <programme start="20261012100000 +0000" stop="20261012160000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261006040000 +0000" stop="20261006100000 +0000" channel="88601543">
+  <programme start="20261012160000 +0000" stop="20261012161500 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261006100000 +0000" stop="20261006160000 +0000" channel="88601543">
+  <programme start="20261012161500 +0000" stop="20261012183500 +0000" channel="88601542">
+    <title lang="zh">義甲 亞特蘭大 VS 威尼斯 第6輪(原音) LIVE</title>
+  </programme>
+  <programme start="20261012183500 +0000" stop="20261012220000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261006160000 +0000" stop="20261006220000 +0000" channel="88601543">
+  <programme start="20261012220000 +0000" stop="20261013040000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261006220000 +0000" stop="20261007040000 +0000" channel="88601543">
+  <programme start="20261013040000 +0000" stop="20261013100000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261007040000 +0000" stop="20261007100000 +0000" channel="88601543">
+  <programme start="20261013100000 +0000" stop="20261013160000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261007100000 +0000" stop="20261007160000 +0000" channel="88601543">
+  <programme start="20261013160000 +0000" stop="20261013220000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261007160000 +0000" stop="20261007220000 +0000" channel="88601543">
+  <programme start="20261013220000 +0000" stop="20261014040000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261007220000 +0000" stop="20261008040000 +0000" channel="88601543">
+  <programme start="20261014040000 +0000" stop="20261014100000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261008040000 +0000" stop="20261008100000 +0000" channel="88601543">
+  <programme start="20261014100000 +0000" stop="20261014160000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261008100000 +0000" stop="20261008160000 +0000" channel="88601543">
+  <programme start="20261014160000 +0000" stop="20261014220000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261008160000 +0000" stop="20261008220000 +0000" channel="88601543">
+  <programme start="20261014220000 +0000" stop="20261015040000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261008220000 +0000" stop="20261009040000 +0000" channel="88601543">
+  <programme start="20261015040000 +0000" stop="20261015100000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261009040000 +0000" stop="20261009100000 +0000" channel="88601543">
+  <programme start="20261015100000 +0000" stop="20261015160000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261009100000 +0000" stop="20261009160000 +0000" channel="88601543">
+  <programme start="20261015160000 +0000" stop="20261015185000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261009160000 +0000" stop="20261009220000 +0000" channel="88601543">
+  <programme start="20261015185000 +0000" stop="20261015210500 +0000" channel="88601542">
+    <title lang="zh">UEFA歐會 布萊頓 VS 薩吉里斯 第1比賽日(原音) LIVE</title>
+  </programme>
+  <programme start="20261015210500 +0000" stop="20261015220000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261009220000 +0000" stop="20261010040000 +0000" channel="88601543">
+  <programme start="20261015220000 +0000" stop="20261016040000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261010040000 +0000" stop="20261010132000 +0000" channel="88601543">
+  <programme start="20261016040000 +0000" stop="20261016100000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261010132000 +0000" stop="20261010153500 +0000" channel="88601543">
-    <title lang="zh">德甲 柏林聯盟 VS 艾佛斯堡 第5輪(原音) LIVE</title>
-  </programme>
-  <programme start="20261010153500 +0000" stop="20261010160000 +0000" channel="88601543">
+  <programme start="20261016100000 +0000" stop="20261016160000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261010160000 +0000" stop="20261010162000 +0000" channel="88601543">
+  <programme start="20261016160000 +0000" stop="20261016220000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261010162000 +0000" stop="20261010183500 +0000" channel="88601543">
-    <title lang="zh">德甲 RB萊比錫 VS 法蘭克福 第5輪(原音) LIVE</title>
-  </programme>
-  <programme start="20261010183500 +0000" stop="20261011040000 +0000" channel="88601543">
+  <programme start="20261016220000 +0000" stop="20261017040000 +0000" channel="88601542">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  </programme>
+  <programme start="20261017040000 +0000" stop="20261017100000 +0000" channel="88601542">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  </programme>
+  <programme start="20261017100000 +0000" stop="20261017124500 +0000" channel="88601542">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  </programme>
+  <programme start="20261017124500 +0000" stop="20261017150500 +0000" channel="88601542">
+    <title lang="zh">義甲 威尼斯 VS 拿坡里 第7輪(原音) LIVE</title>
+  </programme>
+  <programme start="20261017150500 +0000" stop="20261017154500 +0000" channel="88601542">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
+  </programme>
+  <programme start="20261017154500 +0000" stop="20261017180500 +0000" channel="88601542">
+    <title lang="zh">義甲 波隆納 VS 國際米蘭 第7輪(原音) LIVE</title>
   </programme>
   <programme start="20261011040000 +0000" stop="20261011100000 +0000" channel="88601543">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
@@ -1616,92 +1478,86 @@
   <programme start="20261012100000 +0000" stop="20261012160000 +0000" channel="88601543">
     <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261006040000 +0000" stop="20261006100000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261012160000 +0000" stop="20261012183000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261006100000 +0000" stop="20261006160000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261012183000 +0000" stop="20261012205000 +0000" channel="88601543">
+    <title lang="zh">義甲 杜林 VS 烏迪內斯 第6輪(原音) LIVE</title>
   </programme>
-  <programme start="20261006160000 +0000" stop="20261006183500 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261012205000 +0000" stop="20261012220000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261006183500 +0000" stop="20261006205000 +0000" channel="88601544">
-    <title lang="zh">UEFA歐國聯 英格蘭 VS 捷克 第4輪(原音) LIVE</title>
+  <programme start="20261012220000 +0000" stop="20261013040000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261006205000 +0000" stop="20261007040000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261013040000 +0000" stop="20261013100000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261007040000 +0000" stop="20261007100000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261013100000 +0000" stop="20261013160000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261007100000 +0000" stop="20261007160000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261013160000 +0000" stop="20261013220000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261007160000 +0000" stop="20261007220000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261013220000 +0000" stop="20261014040000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261007220000 +0000" stop="20261008040000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261014040000 +0000" stop="20261014100000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261008040000 +0000" stop="20261008100000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261014100000 +0000" stop="20261014160000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261008100000 +0000" stop="20261008160000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261014160000 +0000" stop="20261014220000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261008160000 +0000" stop="20261008220000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261014220000 +0000" stop="20261015040000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261008220000 +0000" stop="20261009040000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261015040000 +0000" stop="20261015100000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261009040000 +0000" stop="20261009081500 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261015100000 +0000" stop="20261015160000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261009081500 +0000" stop="20261009100000 +0000" channel="88601544">
-    <title lang="zh">F1 新加坡站 第1節自由練習 (英文解說原音) LIVE</title>
+  <programme start="20261015160000 +0000" stop="20261015163500 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261009100000 +0000" stop="20261009121500 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261015163500 +0000" stop="20261015185000 +0000" channel="88601543">
+    <title lang="zh">UEFA歐霸 波茲南萊赫 VS 勒沃庫森 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261009121500 +0000" stop="20261009133000 +0000" channel="88601544">
-    <title lang="zh">F1 新加坡站 衝刺排位賽 (英文解說原音) LIVE</title>
+  <programme start="20261015185000 +0000" stop="20261015220000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261009133000 +0000" stop="20261009160000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261015220000 +0000" stop="20261016040000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261009160000 +0000" stop="20261009220000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261016040000 +0000" stop="20261016100000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261009220000 +0000" stop="20261010040000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261016100000 +0000" stop="20261016160000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261010040000 +0000" stop="20261010084500 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261016160000 +0000" stop="20261016220000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261010084500 +0000" stop="20261010100000 +0000" channel="88601544">
-    <title lang="zh">F1 新加坡站 衝刺賽(英文解說原音) LIVE</title>
+  <programme start="20261016220000 +0000" stop="20261017040000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261010100000 +0000" stop="20261010124500 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261017040000 +0000" stop="20261017100000 +0000" channel="88601543">
+    <title lang="zh">【非賽事直播時段】 MLB季後賽場場直播</title>
   </programme>
-  <programme start="20261010124500 +0000" stop="20261010143000 +0000" channel="88601544">
-    <title lang="zh">F1 新加坡站 排位賽 (英文解說原音) LIVE</title>
+  <programme start="20261017100000 +0000" stop="20261017150000 +0000" channel="88601543">
+    <title lang="zh">BWF世青賽 決賽 10/17(原音-直播至23:00請至愛爾達體育4台收看) LIVE</title>
   </programme>
-  <programme start="20261010143000 +0000" stop="20261010160000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
-  </programme>
-  <programme start="20261010160000 +0000" stop="20261010220000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
-  </programme>
-  <programme start="20261010220000 +0000" stop="20261011040000 +0000" channel="88601544">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261017150000 +0000" stop="20261017172000 +0000" channel="88601543">
+    <title lang="zh">法甲 史特拉斯堡 VS 巴黎聖日耳曼 第7輪(原音) LIVE</title>
   </programme>
   <programme start="20261011040000 +0000" stop="20261011100000 +0000" channel="88601544">
     <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
   <programme start="20261011100000 +0000" stop="20261011103000 +0000" channel="88601544">
-    <title lang="zh">F1 Kids 新加坡站 正賽 (英文解說原音) LIVE</title>
+    <title lang="zh">F1 新加坡站 車手遊行 (現場賽道原音) LIVE</title>
   </programme>
   <programme start="20261011103000 +0000" stop="20261011113000 +0000" channel="88601544">
     <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
@@ -1724,83 +1580,80 @@
   <programme start="20261012100000 +0000" stop="20261012160000 +0000" channel="88601544">
     <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006040000 +0000" stop="20261006100000 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261012160000 +0000" stop="20261012220000 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006100000 +0000" stop="20261006160000 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261012220000 +0000" stop="20261013040000 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006160000 +0000" stop="20261006183500 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261013040000 +0000" stop="20261013100000 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006183500 +0000" stop="20261006205000 +0000" channel="88601545">
-    <title lang="zh">UEFA歐國聯 瑞士 VS 北馬其頓 第4輪(原音) LIVE</title>
+  <programme start="20261013100000 +0000" stop="20261013160000 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006205000 +0000" stop="20261006220000 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261013160000 +0000" stop="20261013185000 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006220000 +0000" stop="20261007040000 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261013185000 +0000" stop="20261013210500 +0000" channel="88601544">
+    <title lang="zh">UEFA歐冠 維京人 VS 拜仁慕尼黑 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261007040000 +0000" stop="20261007100000 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261013210500 +0000" stop="20261014040000 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261007100000 +0000" stop="20261007160000 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261014040000 +0000" stop="20261014100000 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261007160000 +0000" stop="20261007220000 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261014100000 +0000" stop="20261014160000 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261007220000 +0000" stop="20261008040000 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261014160000 +0000" stop="20261014185000 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261008040000 +0000" stop="20261008100000 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261014185000 +0000" stop="20261014210500 +0000" channel="88601544">
+    <title lang="zh">UEFA歐冠 阿斯頓維拉 VS 費內巴切 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261008100000 +0000" stop="20261008160000 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261014210500 +0000" stop="20261015040000 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261008160000 +0000" stop="20261008220000 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261015040000 +0000" stop="20261015100000 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261008220000 +0000" stop="20261009040000 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261015100000 +0000" stop="20261015160000 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261009040000 +0000" stop="20261009100000 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261015160000 +0000" stop="20261015185000 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261009100000 +0000" stop="20261009160000 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261015185000 +0000" stop="20261015210500 +0000" channel="88601544">
+    <title lang="zh">UEFA歐霸 馬賽 VS 奧林匹亞科斯 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261009160000 +0000" stop="20261009220000 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261015210500 +0000" stop="20261016040000 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261009220000 +0000" stop="20261010040000 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261016040000 +0000" stop="20261016100000 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010040000 +0000" stop="20261010073000 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261016100000 +0000" stop="20261016160000 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010073000 +0000" stop="20261010084500 +0000" channel="88601545">
-    <title lang="zh">F1 新加坡站 衝刺排位賽 D-LIVE</title>
+  <programme start="20261016160000 +0000" stop="20261016220000 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010084500 +0000" stop="20261010100000 +0000" channel="88601545">
-    <title lang="zh">F1 新加坡站 衝刺賽  (中文解說無廣告) LIVE</title>
+  <programme start="20261016220000 +0000" stop="20261017040000 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010100000 +0000" stop="20261010124500 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261017040000 +0000" stop="20261017090000 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010124500 +0000" stop="20261010143000 +0000" channel="88601545">
-    <title lang="zh">F1 新加坡站 排位賽 (中文解說無廣告) LIVE</title>
+  <programme start="20261017090000 +0000" stop="20261017123000 +0000" channel="88601544">
+    <title lang="zh">中華職棒 中信/統一 VS 味全 台灣大賽G1 10/17(無廣告/副聲道現場原音) LIVE</title>
   </programme>
-  <programme start="20261010143000 +0000" stop="20261010160000 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261017123000 +0000" stop="20261017135000 +0000" channel="88601544">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010160000 +0000" stop="20261010220000 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
-  </programme>
-  <programme start="20261010220000 +0000" stop="20261011040000 +0000" channel="88601545">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261017135000 +0000" stop="20261017160500 +0000" channel="88601544">
+    <title lang="zh">英超 富勒姆 VS 赫爾城 第7輪(原音) LIVE</title>
   </programme>
   <programme start="20261011040000 +0000" stop="20261011100000 +0000" channel="88601545">
     <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
@@ -1826,77 +1679,86 @@
   <programme start="20261012100000 +0000" stop="20261012160000 +0000" channel="88601545">
     <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006040000 +0000" stop="20261006100000 +0000" channel="88601546">
-    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
+  <programme start="20261012160000 +0000" stop="20261012220000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006100000 +0000" stop="20261006135000 +0000" channel="88601546">
-    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
+  <programme start="20261012220000 +0000" stop="20261013040000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006135000 +0000" stop="20261006160500 +0000" channel="88601546">
-    <title lang="zh">UEFA歐國聯 哈薩克 VS 法羅群島 第4輪(原音) LIVE</title>
+  <programme start="20261013040000 +0000" stop="20261013100000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006160500 +0000" stop="20261006183500 +0000" channel="88601546">
-    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
+  <programme start="20261013100000 +0000" stop="20261013160000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006183500 +0000" stop="20261006205000 +0000" channel="88601546">
-    <title lang="zh">UEFA歐國聯 蘇格蘭 VS 斯洛維尼亞 第4輪(原音) LIVE</title>
+  <programme start="20261013160000 +0000" stop="20261013185000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006205000 +0000" stop="20261007040000 +0000" channel="88601546">
-    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
+  <programme start="20261013185000 +0000" stop="20261013210500 +0000" channel="88601545">
+    <title lang="zh">UEFA歐冠 加拉塔薩雷 VS 巴塞隆納 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261007040000 +0000" stop="20261007100000 +0000" channel="88601546">
-    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
+  <programme start="20261013210500 +0000" stop="20261013220000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261007100000 +0000" stop="20261007160000 +0000" channel="88601546">
-    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
+  <programme start="20261013220000 +0000" stop="20261014040000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261007160000 +0000" stop="20261007220000 +0000" channel="88601546">
-    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
+  <programme start="20261014040000 +0000" stop="20261014100000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261007220000 +0000" stop="20261008040000 +0000" channel="88601546">
-    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
+  <programme start="20261014100000 +0000" stop="20261014160000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261008040000 +0000" stop="20261008100000 +0000" channel="88601546">
-    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
+  <programme start="20261014160000 +0000" stop="20261014185000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261008100000 +0000" stop="20261008160000 +0000" channel="88601546">
-    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
+  <programme start="20261014185000 +0000" stop="20261014210500 +0000" channel="88601545">
+    <title lang="zh">UEFA歐冠 柏多格林特 VS 多特蒙德 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261008160000 +0000" stop="20261008220000 +0000" channel="88601546">
-    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
+  <programme start="20261014210500 +0000" stop="20261014220000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261008220000 +0000" stop="20261009040000 +0000" channel="88601546">
-    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
+  <programme start="20261014220000 +0000" stop="20261015040000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261009040000 +0000" stop="20261009100000 +0000" channel="88601546">
-    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
+  <programme start="20261015040000 +0000" stop="20261015100000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261009100000 +0000" stop="20261009160000 +0000" channel="88601546">
-    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
+  <programme start="20261015100000 +0000" stop="20261015160000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261009160000 +0000" stop="20261009220000 +0000" channel="88601546">
-    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
+  <programme start="20261015160000 +0000" stop="20261015185000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261009220000 +0000" stop="20261010040000 +0000" channel="88601546">
-    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
+  <programme start="20261015185000 +0000" stop="20261015210500 +0000" channel="88601545">
+    <title lang="zh">UEFA歐霸 塞爾塔維戈 VS 尤文圖斯 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261010040000 +0000" stop="20261010090000 +0000" channel="88601546">
-    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
+  <programme start="20261015210500 +0000" stop="20261015220000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010090000 +0000" stop="20261010123000 +0000" channel="88601546">
-    <title lang="zh">中華職棒 中信 VS 統一 季後挑戰賽G2 10/10(無廣告/副聲道現場原音) LIVE</title>
+  <programme start="20261015220000 +0000" stop="20261016040000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010123000 +0000" stop="20261010135000 +0000" channel="88601546">
-    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
+  <programme start="20261016040000 +0000" stop="20261016100000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010135000 +0000" stop="20261010160500 +0000" channel="88601546">
-    <title lang="zh">英超 阿斯頓維拉 VS 布蘭特福德 第6輪(原音) LIVE</title>
+  <programme start="20261016100000 +0000" stop="20261016160000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010160500 +0000" stop="20261010220000 +0000" channel="88601546">
-    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
+  <programme start="20261016160000 +0000" stop="20261016220000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010220000 +0000" stop="20261011040000 +0000" channel="88601546">
-    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
+  <programme start="20261016220000 +0000" stop="20261017040000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261017040000 +0000" stop="20261017132000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261017132000 +0000" stop="20261017153500 +0000" channel="88601545">
+    <title lang="zh">德甲 漢堡 VS 斯圖加特 第6輪(原音) LIVE</title>
+  </programme>
+  <programme start="20261017153500 +0000" stop="20261017160000 +0000" channel="88601545">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
   </programme>
   <programme start="20261011040000 +0000" stop="20261011113000 +0000" channel="88601546">
     <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
@@ -1919,74 +1781,83 @@
   <programme start="20261012100000 +0000" stop="20261012160000 +0000" channel="88601546">
     <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006040000 +0000" stop="20261006100000 +0000" channel="88601547">
-    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  <programme start="20261012160000 +0000" stop="20261012220000 +0000" channel="88601546">
+    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006100000 +0000" stop="20261006160000 +0000" channel="88601547">
-    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  <programme start="20261012220000 +0000" stop="20261013040000 +0000" channel="88601546">
+    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006160000 +0000" stop="20261006183500 +0000" channel="88601547">
-    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  <programme start="20261013040000 +0000" stop="20261013115000 +0000" channel="88601546">
+    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006183500 +0000" stop="20261006205000 +0000" channel="88601547">
-    <title lang="zh">UEFA歐國聯 摩爾多瓦 VS 斯洛伐克 第4輪(原音) LIVE</title>
+  <programme start="20261013115000 +0000" stop="20261013140500 +0000" channel="88601546">
+    <title lang="zh">UEFA歐青 RB萊比錫 VS 艾因霍溫 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261006205000 +0000" stop="20261007040000 +0000" channel="88601547">
-    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  <programme start="20261013140500 +0000" stop="20261013160000 +0000" channel="88601546">
+    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261007040000 +0000" stop="20261007100000 +0000" channel="88601547">
-    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  <programme start="20261013160000 +0000" stop="20261013185000 +0000" channel="88601546">
+    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261007100000 +0000" stop="20261007160000 +0000" channel="88601547">
-    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  <programme start="20261013185000 +0000" stop="20261013210500 +0000" channel="88601546">
+    <title lang="zh">UEFA歐冠 國際米蘭 VS 布魯日 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261007160000 +0000" stop="20261007220000 +0000" channel="88601547">
-    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  <programme start="20261013210500 +0000" stop="20261014040000 +0000" channel="88601546">
+    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261007220000 +0000" stop="20261008040000 +0000" channel="88601547">
-    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  <programme start="20261014040000 +0000" stop="20261014115000 +0000" channel="88601546">
+    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261008040000 +0000" stop="20261008100000 +0000" channel="88601547">
-    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  <programme start="20261014115000 +0000" stop="20261014140500 +0000" channel="88601546">
+    <title lang="zh">UEFA歐青 AS羅馬 VS 皇家馬德里 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261008100000 +0000" stop="20261008160000 +0000" channel="88601547">
-    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  <programme start="20261014140500 +0000" stop="20261014160000 +0000" channel="88601546">
+    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261008160000 +0000" stop="20261008220000 +0000" channel="88601547">
-    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  <programme start="20261014160000 +0000" stop="20261014185000 +0000" channel="88601546">
+    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261008220000 +0000" stop="20261009040000 +0000" channel="88601547">
-    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  <programme start="20261014185000 +0000" stop="20261014210500 +0000" channel="88601546">
+    <title lang="zh">UEFA歐冠 皇家貝提斯 VS 波圖 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261009040000 +0000" stop="20261009100000 +0000" channel="88601547">
-    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  <programme start="20261014210500 +0000" stop="20261015040000 +0000" channel="88601546">
+    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261009100000 +0000" stop="20261009160000 +0000" channel="88601547">
-    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  <programme start="20261015040000 +0000" stop="20261015100000 +0000" channel="88601546">
+    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261009160000 +0000" stop="20261009220000 +0000" channel="88601547">
-    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  <programme start="20261015100000 +0000" stop="20261015160000 +0000" channel="88601546">
+    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261009220000 +0000" stop="20261010040000 +0000" channel="88601547">
-    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  <programme start="20261015160000 +0000" stop="20261015185000 +0000" channel="88601546">
+    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010040000 +0000" stop="20261010100000 +0000" channel="88601547">
-    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  <programme start="20261015185000 +0000" stop="20261015210500 +0000" channel="88601546">
+    <title lang="zh">UEFA歐會 亞特蘭大 VS 帕弗斯 第1比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261010100000 +0000" stop="20261010112000 +0000" channel="88601547">
-    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  <programme start="20261015210500 +0000" stop="20261016040000 +0000" channel="88601546">
+    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010112000 +0000" stop="20261010135000 +0000" channel="88601547">
-    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  <programme start="20261016040000 +0000" stop="20261016100000 +0000" channel="88601546">
+    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010135000 +0000" stop="20261010160500 +0000" channel="88601547">
-    <title lang="zh">英超 桑德蘭 VS 布萊頓 第6輪(原音) LIVE</title>
+  <programme start="20261016100000 +0000" stop="20261016160000 +0000" channel="88601546">
+    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010160500 +0000" stop="20261010220000 +0000" channel="88601547">
-    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  <programme start="20261016160000 +0000" stop="20261016220000 +0000" channel="88601546">
+    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010220000 +0000" stop="20261011040000 +0000" channel="88601547">
-    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  <programme start="20261016220000 +0000" stop="20261017040000 +0000" channel="88601546">
+    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261017040000 +0000" stop="20261017132000 +0000" channel="88601546">
+    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261017132000 +0000" stop="20261017153500 +0000" channel="88601546">
+    <title lang="zh">德甲 文達布萊梅 VS 帕德伯恩 第6輪(原音) LIVE</title>
+  </programme>
+  <programme start="20261017153500 +0000" stop="20261017160000 +0000" channel="88601546">
+    <title lang="zh">【非賽事直播時段】 義甲：全台獨家 每輪精選直播</title>
   </programme>
   <programme start="20261011040000 +0000" stop="20261011100000 +0000" channel="88601547">
     <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
@@ -2015,68 +1886,83 @@
   <programme start="20261012100000 +0000" stop="20261012160000 +0000" channel="88601547">
     <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006040000 +0000" stop="20261006100000 +0000" channel="88601548">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261012160000 +0000" stop="20261012220000 +0000" channel="88601547">
+    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006100000 +0000" stop="20261006160000 +0000" channel="88601548">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261012220000 +0000" stop="20261013040000 +0000" channel="88601547">
+    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006160000 +0000" stop="20261006220000 +0000" channel="88601548">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261013040000 +0000" stop="20261013100000 +0000" channel="88601547">
+    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006220000 +0000" stop="20261007040000 +0000" channel="88601548">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261013100000 +0000" stop="20261013135000 +0000" channel="88601547">
+    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261007040000 +0000" stop="20261007100000 +0000" channel="88601548">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261013135000 +0000" stop="20261013160500 +0000" channel="88601547">
+    <title lang="zh">UEFA歐青 比利亞雷爾 VS 拿坡里 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261007100000 +0000" stop="20261007160000 +0000" channel="88601548">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261013160500 +0000" stop="20261013185000 +0000" channel="88601547">
+    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261007160000 +0000" stop="20261007220000 +0000" channel="88601548">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261013185000 +0000" stop="20261013210500 +0000" channel="88601547">
+    <title lang="zh">UEFA歐冠 比利亞雷爾 VS 拿坡里 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261007220000 +0000" stop="20261008040000 +0000" channel="88601548">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261013210500 +0000" stop="20261014040000 +0000" channel="88601547">
+    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261008040000 +0000" stop="20261008100000 +0000" channel="88601548">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261014040000 +0000" stop="20261014100000 +0000" channel="88601547">
+    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261008100000 +0000" stop="20261008160000 +0000" channel="88601548">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261014100000 +0000" stop="20261014135000 +0000" channel="88601547">
+    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261008160000 +0000" stop="20261008220000 +0000" channel="88601548">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261014135000 +0000" stop="20261014160500 +0000" channel="88601547">
+    <title lang="zh">UEFA歐青 曼城 VS 巴黎聖日耳曼 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261008220000 +0000" stop="20261009040000 +0000" channel="88601548">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261014160500 +0000" stop="20261014185000 +0000" channel="88601547">
+    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261009040000 +0000" stop="20261009100000 +0000" channel="88601548">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261014185000 +0000" stop="20261014210500 +0000" channel="88601547">
+    <title lang="zh">UEFA歐冠 斯拉夫人 VS 斯圖加特 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261009100000 +0000" stop="20261009160000 +0000" channel="88601548">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261014210500 +0000" stop="20261015040000 +0000" channel="88601547">
+    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261009160000 +0000" stop="20261009220000 +0000" channel="88601548">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261015040000 +0000" stop="20261015100000 +0000" channel="88601547">
+    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261009220000 +0000" stop="20261010040000 +0000" channel="88601548">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261015100000 +0000" stop="20261015160000 +0000" channel="88601547">
+    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010040000 +0000" stop="20261010100000 +0000" channel="88601548">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261015160000 +0000" stop="20261015185000 +0000" channel="88601547">
+    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010100000 +0000" stop="20261010135000 +0000" channel="88601548">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261015185000 +0000" stop="20261015210500 +0000" channel="88601547">
+    <title lang="zh">UEFA歐霸 本菲卡 VS 塞爾特人 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261010135000 +0000" stop="20261010160500 +0000" channel="88601548">
-    <title lang="zh">英超 伊普斯維奇鎮 VS 富勒姆 第6輪(原音) LIVE</title>
+  <programme start="20261015210500 +0000" stop="20261016040000 +0000" channel="88601547">
+    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010160500 +0000" stop="20261010220000 +0000" channel="88601548">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261016040000 +0000" stop="20261016100000 +0000" channel="88601547">
+    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010220000 +0000" stop="20261011040000 +0000" channel="88601548">
-    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  <programme start="20261016100000 +0000" stop="20261016160000 +0000" channel="88601547">
+    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261016160000 +0000" stop="20261016220000 +0000" channel="88601547">
+    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261016220000 +0000" stop="20261017040000 +0000" channel="88601547">
+    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261017040000 +0000" stop="20261017132000 +0000" channel="88601547">
+    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261017132000 +0000" stop="20261017153500 +0000" channel="88601547">
+    <title lang="zh">德甲 德甲直播室 Goal Arena 第6輪(原音) LIVE</title>
+  </programme>
+  <programme start="20261017153500 +0000" stop="20261017160000 +0000" channel="88601547">
+    <title lang="zh">【非賽事直播時段】 德甲：全台獨家 每輪精選直播</title>
   </programme>
   <programme start="20261011040000 +0000" stop="20261011100000 +0000" channel="88601548">
     <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
@@ -2105,68 +1991,80 @@
   <programme start="20261012100000 +0000" stop="20261012160000 +0000" channel="88601548">
     <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006040000 +0000" stop="20261006100000 +0000" channel="88601549">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261012160000 +0000" stop="20261012220000 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006100000 +0000" stop="20261006160000 +0000" channel="88601549">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261012220000 +0000" stop="20261013040000 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006160000 +0000" stop="20261006220000 +0000" channel="88601549">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261013040000 +0000" stop="20261013100000 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261006220000 +0000" stop="20261007040000 +0000" channel="88601549">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261013100000 +0000" stop="20261013160000 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261007040000 +0000" stop="20261007100000 +0000" channel="88601549">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261013160000 +0000" stop="20261013185000 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261007100000 +0000" stop="20261007160000 +0000" channel="88601549">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261013185000 +0000" stop="20261013210500 +0000" channel="88601548">
+    <title lang="zh">UEFA歐冠 RB萊比錫 VS 艾因霍溫 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261007160000 +0000" stop="20261007220000 +0000" channel="88601549">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261013210500 +0000" stop="20261013220000 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261007220000 +0000" stop="20261008040000 +0000" channel="88601549">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261013220000 +0000" stop="20261014040000 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261008040000 +0000" stop="20261008100000 +0000" channel="88601549">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261014040000 +0000" stop="20261014100000 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261008100000 +0000" stop="20261008160000 +0000" channel="88601549">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261014100000 +0000" stop="20261014160000 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261008160000 +0000" stop="20261008220000 +0000" channel="88601549">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261014160000 +0000" stop="20261014185000 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261008220000 +0000" stop="20261009040000 +0000" channel="88601549">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261014185000 +0000" stop="20261014210500 +0000" channel="88601548">
+    <title lang="zh">UEFA歐冠 頓內茲克礦工 VS AEK雅典 第2比賽日(原音) LIVE</title>
   </programme>
-  <programme start="20261009040000 +0000" stop="20261009100000 +0000" channel="88601549">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261014210500 +0000" stop="20261014220000 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261009100000 +0000" stop="20261009160000 +0000" channel="88601549">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261014220000 +0000" stop="20261015040000 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261009160000 +0000" stop="20261009220000 +0000" channel="88601549">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261015040000 +0000" stop="20261015100000 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261009220000 +0000" stop="20261010040000 +0000" channel="88601549">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261015100000 +0000" stop="20261015160000 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010040000 +0000" stop="20261010132000 +0000" channel="88601549">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261015160000 +0000" stop="20261015220000 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010132000 +0000" stop="20261010153500 +0000" channel="88601549">
-    <title lang="zh">德甲 德甲直播室 Goal Arena 第5輪(原音) LIVE</title>
+  <programme start="20261015220000 +0000" stop="20261016040000 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010153500 +0000" stop="20261010160000 +0000" channel="88601549">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261016040000 +0000" stop="20261016100000 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010160000 +0000" stop="20261010220000 +0000" channel="88601549">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261016100000 +0000" stop="20261016160000 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
   </programme>
-  <programme start="20261010220000 +0000" stop="20261011040000 +0000" channel="88601549">
-    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  <programme start="20261016160000 +0000" stop="20261016220000 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261016220000 +0000" stop="20261017040000 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261017040000 +0000" stop="20261017100000 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261017100000 +0000" stop="20261017134500 +0000" channel="88601548">
+    <title lang="zh">【非賽事直播時段】 英超：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261017134500 +0000" stop="20261017160000 +0000" channel="88601548">
+    <title lang="zh">FIFA U17女子世界盃™ 德國VS阿根廷 A組第一輪 10/17 #2 LIVE</title>
   </programme>
   <programme start="20261011040000 +0000" stop="20261011105000 +0000" channel="88601549">
     <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
@@ -2191,5 +2089,71 @@
   </programme>
   <programme start="20261012100000 +0000" stop="20261012160000 +0000" channel="88601549">
     <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261012160000 +0000" stop="20261012220000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261012220000 +0000" stop="20261013040000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261013040000 +0000" stop="20261013100000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261013100000 +0000" stop="20261013160000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261013160000 +0000" stop="20261013220000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261013220000 +0000" stop="20261014040000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261014040000 +0000" stop="20261014100000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261014100000 +0000" stop="20261014160000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261014160000 +0000" stop="20261014220000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261014220000 +0000" stop="20261015040000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261015040000 +0000" stop="20261015100000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261015100000 +0000" stop="20261015160000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261015160000 +0000" stop="20261015220000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261015220000 +0000" stop="20261016040000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261016040000 +0000" stop="20261016100000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261016100000 +0000" stop="20261016160000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261016160000 +0000" stop="20261016220000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261016220000 +0000" stop="20261017040000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261017040000 +0000" stop="20261017112000 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261017112000 +0000" stop="20261017133500 +0000" channel="88601549">
+    <title lang="zh">英超 艾佛頓 VS 切爾西 第7輪(球員特寫視角) LIVE</title>
+  </programme>
+  <programme start="20261017133500 +0000" stop="20261017134500 +0000" channel="88601549">
+    <title lang="zh">【非賽事直播時段】 歐冠：全台獨家 每輪精選直播</title>
+  </programme>
+  <programme start="20261017134500 +0000" stop="20261017160000 +0000" channel="88601549">
+    <title lang="zh">FIFA U17女子世界盃™ 北韓VS波多黎各 B組第一輪 10/17 #3 LIVE</title>
   </programme>
 </tv>
